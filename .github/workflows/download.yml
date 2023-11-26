@@ -34,6 +34,7 @@ jobs:
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/download.py
+        echo "workflows/download.py $(date)" >> workflows.txt
         
 
     - name: Push to github repo
