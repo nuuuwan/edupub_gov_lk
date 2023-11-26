@@ -2,7 +2,8 @@ import os
 import re
 from dataclasses import dataclass
 
-from utils import Log
+from pdfminer.high_level import extract_text
+from utils import File, Log
 
 from edupub_gov_lk.core.Grade import Grade
 from edupub_gov_lk.core.Lang import Lang
@@ -47,12 +48,23 @@ class RemoteTextBook:
     def download(self):
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
-            local_path = os.path.join('data', file_only)
-            url_local_path = URL_REMOTE_DATA_BASE + '/' + file_only
-            if not WWW(url_local_path).exists():
-                WWW(chapter_url).download_binary(local_path)
+            pdf_path = os.path.join('data', file_only)
+            remote_pdf_url = URL_REMOTE_DATA_BASE + '/' + file_only
+            if not WWW(remote_pdf_url).exists():
+                WWW(chapter_url).download_binary(pdf_path)
             else:
-                log.warn(f'Already exists: {url_local_path}')
+                log.warn(f'Already exists: {remote_pdf_url}')
+
+            text_path = os.path.join('data-txt', file_only + '.txt')
+            remote_text_url = (
+                URL_REMOTE_DATA_BASE + '-txt/' + file_only + '.txt'
+            )
+            if not WWW(remote_text_url).exists():
+                content = extract_text(pdf_path)
+                File(text_path).write(content)
+                log.debug(f'Wrote: {text_path}')
+            else:
+                log.warn(f'Already exists: {remote_text_url}')
 
     @staticmethod
     def list_from_lang_and_grade(

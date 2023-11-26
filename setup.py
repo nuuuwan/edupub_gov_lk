@@ -7,6 +7,7 @@ VERSION = "0.0.0"
 DESCRIPTION = "Educational Publications (Sri Lanka)"
 INSTALL_REQUIRES = [
     'bs4',
+    'pdfminer',
     'utils-nuuuwan',
 ]
 setuptools.setup(
