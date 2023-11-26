@@ -19,6 +19,16 @@ def clean_text(content):
     lines = content.split('\n')
     lines = [clean_line(line) for line in lines]
     lines = [line for line in lines if len(line) > 0]
+
+    found_index = False
+    i_index = 0
+    for line in lines:
+        if line == 'Index' or line == 'Contents':
+            found_index = True
+            break
+        i_index += 1
+    if found_index:
+        lines = lines[i_index:]
     return '\n'.join(lines)
 
 
@@ -37,7 +47,7 @@ def build_txts(force_build=False):
             cleaned_content = clean_text(content)
             n_content = len(cleaned_content) / 1_000_000
             File(txt_path).write(cleaned_content)
-            log.info(f'Wrote {txt_path} ({n_content:,} MB)')
+            log.info(f'Wrote {txt_path} ({n_content:.3f} MB)')
 
 
 def build_all_txt():

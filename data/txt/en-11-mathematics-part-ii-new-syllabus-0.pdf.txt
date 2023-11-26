@@ -1,117 +1,3 @@
-MATHEMATICS
-Grade 11
-Part - II
-Educational Publications Department
-i
-First Print
-2015
-Second Print 2016
-Third Print
-2017
-Fourth Print 2018
-Fifth Print
-2019
-Sixth Print
-2020
-All Rights Reserved
-ISBN 978-955-25-0310-8
-Published by Educational Publications Department
-Printed by State Printing Corporation
-Panaluwa, Padukka.
-ii
-The National Anthem of Sri Lanka
-Sri Lanka Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-Sundara siri barinee, surendi athi sobamana Lanka
-Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
-Apa hata sepa siri setha sadana jeewanaye matha
-Piliganu mena apa bhakthi pooja Namo Namo Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-Oba we apa vidya
-Obamaya apa sathya
-Oba we apa shakthi
-Apa hada thula bhakthi
-Oba apa aloke
-Apage anuprane
-Oba apa jeevana we
-Apa mukthiya oba we
-Nava jeevana demine, nithina apa pubudukaran matha
-Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
-Eka mavakage daru kela bevina
-Yamu yamu vee nopama
-Prema vada sema bheda durerada
-Namo, Namo Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-iii
-iv
-v
-Monitoring and Supervision
-P. N. Illapperuma
-Direction
-W.A. Nirmala Piyaseeli
-Co-ordination
-Thanuja Maithrie Witharana
-Chandima Kumari De Zoysa
-Board of Editors
-Dr. Romaine Jayewardene
-Dr. D.K. Mallawa Arachchi
-Dr. Sri Dharan
-- Commissoner General of Educational Publications
-Educational Publications Department
-- Commissioner Educational Publications (Development)
-Educational Publications Department
-- Assistant Commissioner
-Educational Publications Department
-- Deputy Commissioner (2020 reprinting)
-Educational Publications Department
-- Senior Lecturer, University of Colombo
-- Senior Lecturer, University of Kelaniya
-- Senior Lecturer, University of Colombo
-Dr. Nalin Ganegoda
-- Senior Lecturer, University of Sri Jayawardenapura
-B.D.C Biyanwila
-- Director of Education, Ministry of Education
-G.P.H. Jagath Kumara
-- Senior Lecturer National Institute of Education
-Thanuja Maithrie Witharana
-- Assistant Commissioner
-Educational Publications Department
-Board of Writers
-Dr. Rochana Meegaskumbura
-- Senior Lecturer, University of Peradeniya
-Dr. J. K. Rathnayake
-Dr. Jayantha Senadeera
-- Senior Lecturer, University of Colombo
-- Senior Lecturer, Sri Lanka Open University
-H.M.A. Jayasena
-- In Service Adviser (Retired)
-Y.V.R. Witharama
-W.M.W.C. Walisinghe
-Ajith Ranasinghe
-Anura Weerasinghe
-- In Service Adviser, Zonal Education Office, Dehiowita
-- In Service Adviser, Zonal Education Office, Kegalle
-- In Service Adviser, Zonal Education Office, Homagama
-- In Service Adviser, (Priven), Matara District
-W.M.D. Lal Wijekantha
-- Teacher, St. Thomas College, Mt. Lavinia
-N. Vakeeshamoorthi
-- Director of Education (Retired)
-R.S.E. Pushparajan
-V. Murali
-Language Editing
-M.A.K. Samurdhi
-Proof Reading
-Edward R. peiris
-- Assistant Director, Zonal Education Office, Puttalam
-- Teacher Educator Service Zonal Education Office, Vavuniya
-- Teacher, Sirimavo Bandaranaike Vidyalaya, Colombo 07
-- Engineer (Retired)
-Illustrations ,Cover Page and Technical Assistance
-B.T. Chathurani Perera
-R.D. Thilini Sewwandi
-- Computer Assistant, Educational Publications Department
-vi
 Contents
 Page
 1
@@ -1928,10 +1814,10 @@ Let us represent each of the equations graphically.
 x + y = 10; that is, y = – x + 10
 4
 6
-6
-4
 2
 8
+6
+4
 x
 y
 10x + 20y = 120; that is, y = –
@@ -5965,8 +5851,8 @@ Class intervals
 ^Number of books
 issued&
 35 - 39 40 - 44 45 - 49 50 - 54
-25 - 29
 30 - 34
+25 - 29
 Frequency
 (Number of days)
 5
@@ -6726,9 +6612,9 @@ Number of employees
 10
 18
 11
-4
 5
 8
+4
 (i) Construct the cumulative frequency table with the above information.
 (ii) Draw the cumulative frequency curve from the table.
 (iii) From the cumulative frequency curve find the following.
