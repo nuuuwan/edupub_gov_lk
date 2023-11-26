@@ -6,7 +6,7 @@ on:
     - cron: '*/20 * * * *'
 
 jobs:
-  pipeline:
+  download:
 
     runs-on: ubuntu-latest
 
