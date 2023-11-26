@@ -2,8 +2,7 @@ import os
 import re
 from dataclasses import dataclass
 
-from pdfminer.high_level import extract_text
-from utils import File, Log
+from utils import Log
 
 from edupub_gov_lk.core.Grade import Grade
 from edupub_gov_lk.core.Lang import Lang
