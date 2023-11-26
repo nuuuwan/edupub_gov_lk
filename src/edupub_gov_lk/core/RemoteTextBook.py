@@ -44,10 +44,16 @@ class RemoteTextBook:
 
     def download(self):
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
-            local_path = os.path.join(
-                'data', f'{self.short_name}-{i_chapter}.pdf'
+            file_only = f'{self.short_name}-{i_chapter}.pdf'
+            local_path = os.path.join('data', file_only)
+            url_local_path = (
+                'https://raw.githubusercontent.com/nuuuwan/edupub_gov_lk/main/data/'
+                + file_only
             )
-            WWW(chapter_url).download_binary(local_path)
+            if not WWW(url_local_path).exists():
+                WWW(chapter_url).download_binary(local_path)
+            else:
+                log.info(f'Already exists: {url_local_path}')
 
     @staticmethod
     def list_from_lang_and_grade(

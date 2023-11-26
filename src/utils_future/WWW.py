@@ -34,3 +34,7 @@ class WWW:
         with open(local_path, 'wb') as fout:
             fout.write(content)
         log.info(f"Downloaded {self.url} to {local_path} ({n_content=}MB).")
+
+    def exists(self):
+        response = requests.head(self.url)
+        return response.status_code == 200
