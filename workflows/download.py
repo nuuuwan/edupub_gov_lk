@@ -9,7 +9,6 @@ N_DOWNLOAD = 5
 log = Log('download')
 
 
-
 def main():
     rtb_list = RemoteTextBook.list()
     n_rtb_list = len(rtb_list)

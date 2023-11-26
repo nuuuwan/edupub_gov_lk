@@ -9,7 +9,9 @@ from edupub_gov_lk.core.Lang import Lang
 from utils_future import WWW
 
 URL_BASE = "http://www.edupub.gov.lk"
-
+URL_REMOTE_DATA_BASE = (
+    'https://raw.githubusercontent.com/nuuuwan/edupub_gov_lk/main/data'
+)
 log = Log('RemoteTextBook')
 
 
@@ -46,10 +48,7 @@ class RemoteTextBook:
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
             local_path = os.path.join('data', file_only)
-            url_local_path = (
-                'https://raw.githubusercontent.com/nuuuwan/edupub_gov_lk/main/data/'
-                + file_only
-            )
+            url_local_path = URL_REMOTE_DATA_BASE + '/' + file_only
             if not WWW(url_local_path).exists():
                 WWW(chapter_url).download_binary(local_path)
             else:
