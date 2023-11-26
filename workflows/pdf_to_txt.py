@@ -8,7 +8,7 @@ log = Log('pdf_to_txt')
 
 def main():
     content_list = []
-    for file_only in os.listdir('data', 'pdf'):
+    for file_only in os.listdir(os.path.join('data', 'pdf')):
         if not file_only.endswith('.pdf'):
             continue
 
