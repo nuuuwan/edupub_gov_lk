@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from utils import Log
 
 TIMEOUT = 30
-TIMEOUT_DOWNLOAD_BINARY = 6 * 60
+TIMEOUT_DOWNLOAD_BINARY = 5 * 60
 log = Log('WWW')
 
 
