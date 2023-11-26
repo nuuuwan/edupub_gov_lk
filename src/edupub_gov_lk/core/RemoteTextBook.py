@@ -48,8 +48,11 @@ class RemoteTextBook:
             pdf_path = os.path.join('data', file_only)
 
             if not os.path.exists(pdf_path):
-                WWW(chapter_url).download_binary(pdf_path)
-                did_update = True
+                try:
+                    WWW(chapter_url).download_binary(pdf_path)
+                    did_update = True
+                except:
+                    log.error(f'Failed to download: {pdf_path}')
             else:
                 log.warn(f'Already exists: {pdf_path}')
 
