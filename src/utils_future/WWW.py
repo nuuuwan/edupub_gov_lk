@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from utils import Log
 
 TIMEOUT = 30
+TIMEOUT_DOWNLOAD_BINARY = 6 * 60
 log = Log('WWW')
 
 
@@ -29,7 +30,7 @@ class WWW:
 
     def download_binary(self, local_path):
         log.debug(f"Downloading {self.url} to {local_path}...")
-        response = requests.get(self.url)
+        response = requests.get(self.url, timeout=TIMEOUT_DOWNLOAD_BINARY)
         content = response.content
         n_content = len(content) / 1_000_000
         with open(local_path, 'wb') as fout:
