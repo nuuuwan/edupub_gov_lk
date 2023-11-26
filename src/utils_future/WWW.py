@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from utils import Log
 
+TIMEOUT = 30
 log = Log('WWW')
 
 
@@ -10,7 +11,7 @@ class WWW:
         self.url = url
 
     def get(self, params=None):
-        response = requests.get(self.url, params=params)
+        response = requests.get(self.url, params=params, timeout=TIMEOUT)
         html = response.text
         n_html = len(html) / 1_000_000
         soup = BeautifulSoup(html, "html.parser")
@@ -19,7 +20,7 @@ class WWW:
         return soup
 
     def post(self, data=None):
-        response = requests.post(self.url, data=data)
+        response = requests.post(self.url, data=data, timeout=TIMEOUT)
         html = response.text
         n_html = len(html) / 1_000_000
         soup = BeautifulSoup(html, "html.parser")

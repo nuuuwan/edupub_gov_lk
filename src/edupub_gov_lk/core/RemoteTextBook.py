@@ -85,7 +85,13 @@ class RemoteTextBook:
         lang: Lang, grade: Grade
     ) -> list['RemoteTextBook']:
         url = URL_BASE + '/SelectSyllabuss.php?'
-        soup = WWW(url).get(dict(BookLanguage=lang.id, BookGrade=grade.id))
+        try:
+            soup = WWW(url).get(
+                dict(BookLanguage=lang.id, BookGrade=grade.id)
+            )
+        except BaseException:
+            log.error(f'Failed to fetch {url}')
+            return []
 
         a_list = soup.find_all('a', attrs={'class': 'SelectSyllabuss'})
         rtb_list = []
@@ -94,9 +100,13 @@ class RemoteTextBook:
             book_id = a['bookid']
 
             url_chapters = URL_BASE + "/SelectChapter.php"
-            soup_chapters = WWW(url_chapters).post(
-                dict(bookId=book_id),
-            )
+            try:
+                soup_chapters = WWW(url_chapters).post(
+                    dict(bookId=book_id),
+                )
+            except BaseException:
+                log.error(f'Failed to fetch {url_chapters}')
+                continue
             a_chapters_list = soup_chapters.find_all(
                 'a', attrs={'class': 'SelectChapter'}
             )
