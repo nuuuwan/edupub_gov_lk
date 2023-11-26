@@ -30,22 +30,22 @@ jobs:
         ref: 'main'
         token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Run build_rtb_list
+    - name: Stage 1) build_rtb_list
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_rtb_list.py
 
-    - name: Run download_pdfs
+    - name: Stage 2) download_pdfs
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/download_pdfs.py
 
-    - name: Run pdf_to_txt
+    - name: Stage 3) pdf_to_txt
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/pdf_to_txt.py          
 
-    - name: Run update_readme
+    - name: Stage 4) update_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/update_readme.py          
