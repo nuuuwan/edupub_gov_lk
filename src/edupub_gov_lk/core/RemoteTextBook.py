@@ -110,9 +110,7 @@ class RemoteTextBook:
                 rtb_list.extend(
                     RemoteTextBook.list_from_lang_and_grade(lang, grade)
                 )
-        sorted_rtb_list = sorted(
-            rtb_list, key=lambda rtb: rtb.book_id
-        )
+        sorted_rtb_list = sorted(rtb_list, key=lambda rtb: rtb.book_id)
         return sorted_rtb_list
 
 
