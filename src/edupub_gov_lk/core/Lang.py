@@ -17,3 +17,11 @@ class Lang:
             # Lang(2, "Sinhala"),
             # Lang(3, "Tamil"),
         ]
+
+
+    @staticmethod
+    def from_id(id: int) -> 'Lang':
+        for x in Lang.list():
+            if x.id == id:
+                return x
+        raise ValueError(f'Invalid id: {id}')
