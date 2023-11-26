@@ -3,11 +3,12 @@ import os
 from pdfminer.high_level import extract_text
 from utils import File, Log
 
+LINE = '-' * 80
+
 log = Log('pdf_to_txt')
 
 
-def main():
-    content_list = []
+def build_txts():
     for file_only in os.listdir(os.path.join('data', 'pdf')):
         if not file_only.endswith('.pdf'):
             continue
@@ -17,21 +18,33 @@ def main():
 
         if os.path.exists(txt_path):
             log.warn(f'{txt_path} Exists')
-            content = File(txt_path).read()
         else:
             content = extract_text(pdf_path)
             n_content = len(content) / 1_000_000
             File(txt_path).write(content)
             log.info(f'Wrote {txt_path} ({n_content:.1f} MB)')
 
-        LINE = '-' * 80
+
+def build_all_txt():
+    content_list = []
+    for file_only in os.listdir(os.path.join('data', 'txt')):
+        if not file_only.endswith('.pdf.txt'):
+            continue
+
+        txt_path = os.path.join('data', 'txt', file_only)
+        content = File(txt_path).read()
         content_list.extend([LINE, txt_path, LINE, content])
 
     all_content = '\n'.join(content_list)
     n_all_content = len(all_content) / 1_000_000
     all_text_path = os.path.join('data', 'txt', 'all.txt')
-    File(all_text_path).write(content)
+    File(all_text_path).write(all_content)
     log.info(f'Wrote {all_text_path} ({n_all_content:.1f} MB)')
+
+
+def main():
+    build_txts()
+    build_all_txt()
 
 
 if __name__ == '__main__':
