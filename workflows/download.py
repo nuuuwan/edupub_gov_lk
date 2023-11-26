@@ -7,7 +7,7 @@ from edupub_gov_lk import RemoteTextBook
 N_DOWNLOAD = 5
 
 log = Log('download')
-random.seed = 1
+
 
 
 def main():
