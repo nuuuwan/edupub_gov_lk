@@ -1,194 +1,3 @@
-MATHEMATICS
-Grade 9
-Part - II
-Educational Publications Department
-i
-First Print
-2017
-Second Print 2018
-Third Print 2019
-All Rights Reserved
-ISBN 978-955-25-0158-6
-Published by Educational Publications Department
-Printed by Champika Printers, No.343, Colombo Road, Kurunegala.
-ii
-The National Anthem of Sri Lanka
-Sri Lanka Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-Sundara siri barinee, surendi athi sobamana Lanka
-Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
-Apa hata sepa siri setha sadana jeewanaye matha
-Piliganu mena apa bhakthi pooja Namo Namo Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-Oba we apa vidya
-Obamaya apa sathya
-Oba we apa shakthi
-Apa hada thula bhakthi
-Oba apa aloke
-Apage anuprane
-Oba apa jeevana we
-Apa mukthiya oba we
-Nava jeevana demine, nithina apa pubudukaran matha
-Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
-Eka mavakage daru kela bevina
-Yamu yamu vee nopama
-Prema vada sema bheda durerada
-Namo, Namo Matha
-Apa Sri Lanka Namo Namo Namo Namo Matha
-iii
-iv
-Being innovative, changing with right knowledge
-Be a light to the country as well as to the world.
-Message from the Hon. Minister of Education
-The past two decades have been significant in the world history due to changes that
-took place in technology. The present students face a lot of new challenges along
-with the rapid development of Information Technology, communication and other
-related fields. The manner of career opportunities are liable to change specifically in
-the near future. In such an environment, with a new technological and intellectual
-society, thousands of innovative career opportunities would be created. To win
-those challenges, it is the responsibility of the Sri Lankan Government and myself,
-as the Minister of Education, to empower you all.
-This book is a product of free education. Your aim must be to use this book properly
-and acquire the necessary knowledge out of it. The government in turn is able to
-provide free textbooks to you, as a result of the commitment and labour of your
-parents and elders.
-Since we have understood that the education is crucial in deciding the future of
-a country, the government has taken steps to change curriculum to suit the rapid
-changes of the technological world. Hence, you have to dedicate yourselves to
-become productive citizens. I believe that the knowledge this book provides will
-suffice your aim.
-It is your duty to give a proper value to the money spent by the government on
-your education. Also you should understand that education determines your future.
-Make sure that you reach the optimum social stratum through education.
-I congratulate you to enjoy the benefits of free education and bloom as an honoured
-citizen who takes the name of Sri Lanka to the world.
-Akila Viraj Kariyawasam
-Minister of Education
-v
-Foreword
-The educational objectives of the contemporary world are becoming more complex along
-with the economic, social, cultural and technological development. The learning and
-teaching process too is changing in relation to human experiences, technological differences,
-research and new indices. Therefore, it is required to produce the textbook by including
-subject related information according to the objectives in the syllabus in order to maintain
-the teaching process by organizing learning experiences that suit to the learner needs. The
-textbook is not merely a learning tool for the learner. It is a blessing that contributes to
-obtain a higher education along with a development of conduct and attitudes, to develop
-values and to obtain learning experiences.
-The government in its realization of the concept of free education has offered you all the
-textbooks from grades 1-11. I would like to remind you that you should make the maximum
-use of these textbooks and protect them well. I sincerely hope that this textbook would
-assist you to obtain the expertise to become a virtuous citizen with a complete personality
-who would be a valuable asset to the country.
-I would like to bestow my sincere thanks on the members of the editorial and writer boards
-as well as on the staff of the Educational Publications Department who have strived to offer
-this textbook to you.
-W. M. Jayantha Wickramanayaka,
-Commissioner General of Educational Publications,
-Educational Publications Department,
-Isurupaya,
-Battaramulla.
-2019.04.10
-vi
-Monitoring and Supervision
-W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
-Educational Publications Department
-Direction
-W. A. Nirmala Piyaseeli
-Co-ordination
-Thanuja Maithrie Witharana
-T. D. C. Kalhari Gunasekara
-(Reprint 2019)
-Board of Editors
-Dr. Romaine Jayewardene
-Dr. D.K. Mallawa Arachchi
-Dr. Naleen Ganegoda
-Shrima Dasanayake
-G. P. H. Jagath Kumara
-S. Rajendram
-Thanuja Maithrie Witharana
-Board of Writers
-Dr. J. Rathnayake
-K. U. S. Somarathna
-H. M. A. Jayasena
-Y. V. R. Vitarama
-W. M. W. C. Walisinghe
-Ajith Ranasinghe
-Anura Weerasinghe
-W. M. D. Lal Wijekantha
-B. M. Bisomanike
-Mewan B. Dabarera
-M. Ruberu Gunasekara
-N. Vageesamoorthy
-R. S. E. Pushparajan
-M. S. M. Rafeethu
-U. Vivekananthan
-Language Editing
-G. S. P. Gallage
-Proof Reading
-M. A. K. Samurdhi
-- Commissioner of Education Publications (Development)
-Educational Publications Department
-- Assistant Commissioner, Educational Publications Department
-- Assistant Commissioner, Educational Publications Department
-- Senior Lecturer, University of Colombo
-- Senior Lecturer, University of Kelaniya
-- Senior Lecturer, University of Sri Jayawardanapura
-- Assistant Director of Education, Ministry Of Education
-- Senior Lecturer, National Institute of Education
-- Senior Lecturer, National Institute of Education
-- Assistant Commissioner, Educational Publications Department
-- Senior Lecturer, University of Colombo
-- Lecturer, University of Moratuwa
-- In Service Adviser (Retired)
-- In Service Adviser, Zonal Education Office, Dehiowita
-- In Service Adviser, Zonal Education Office, Kegalle
-- In Service Adviser, Zonal Education Office, Homagama
-- In Service Adviser, (Priven), Matara District
-- Teacher, St. Thomas College, Mt. Lavinia
-- Teacher, Maliyadewa Girls' College, Kurunegala
-- Teacher, C. W. W Kannangara Vidyalaya, Colombo 08
-- Principal (Retired)
-- Director of Education (Retired)
-- Assistant Director of Education (Retired)
-- In Service Adviser (Retired)
-- Teacher (Retired)
-- Teacher, C. W. W. Kannangara Vidyalaya, Colombo 08
-- Teacher, Sirimavo Bandaranaike Vidyalaya, Colombo 07
-Illustrations, and Technical Assistance
-R. D. Thilini Sewwandi
-B. T. Chathurani Perera
-Cover Page
-R. M. Rajitha Sampath
-B. T. Chathurani Perera
-- Educational Publications Department
-- Educational Publications Department
-- Educational Publications Department
-- Educational Publications Department
-vii
-Message of the Board of Compilers
-This textbook has been compiled in accordance with the new syllabus to be
-implemented from 2015.
-Textbooks are compiled for students. Therefore, we have made an attempt to
-compile this textbook in a simple and detailed manner making it possible for you to
-read and understand it on your own.
-We have included descriptions, activities and examples to introduce the subject
-concepts in an attractive manner and to establish them. Moreover, activities are
-organized from simple to complex to develop an interest to do them.
-We have used the terms related to mathematical concepts in accordance with the
-glossary of technical terms of mathematics compiled by the Department of Official
-Languages.
-Some subject matter learnt during the earlier grades is necessary to learn the subject
-content in the grade 9 syllabus. Thus, review exercises are included at the begin-
-ning of each chapter to revise previous knowledge. You will be prepared by them
-for the subject content of grade 9.
-You will gain maximum benefit from this textbook by reading the chapters and do-
-ing the review exercises of each chapter even before your teacher teaches them in
-the classroom.
-We hope that studying mathematics will be an interesting, joyful and productive
-experience.
-Board of Compilers
-viii
 Contents
 10. Direct proportion
 11. The Calculator
@@ -806,8 +615,8 @@ in the order that they have been entered and 27 is obtained as the answer. That 
 6
 =
 ÷
-5
 3
+5
 wrong answer is obtained by 75 + 6 ÷ 3 = 81 ÷ 3 = 27.
 (This is wrong according to the “BODMAS Rule”.)
 When we enter the above data in a scientific calculator in the same order,
@@ -3499,12 +3308,12 @@ y
 2
 y
 3
+– 6
 y
 2
 –
 = 9
 = 9 6 (multiplying both sides by 6, the L.C.M. of the
-– 6
 6
 denominators 2 and 3 )
 3y – 2y = 54

@@ -23,7 +23,7 @@ def clean_text(content):
     found_index = False
     i_index = 0
     for line in lines:
-        if line == 'Index' or line == 'Contents':
+        if line in ['Index', 'Contents', 'CONTENTS']:
             found_index = True
             break
         i_index += 1
@@ -68,7 +68,7 @@ def build_all_txt():
 
 
 def main():
-    build_txts(force_build=True)
+    build_txts(force_build=False)
     build_all_txt()
 
 
