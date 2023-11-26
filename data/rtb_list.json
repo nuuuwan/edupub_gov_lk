@@ -262,6 +262,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1578",
+    "title_raw": " Mathematics Part 1  -    New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/maths g-10 p-I s/maths g-10 p-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1580",
     "title_raw": " Mathematics Part I -  New Syllabus",
