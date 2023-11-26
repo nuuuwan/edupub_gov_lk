@@ -26,10 +26,3 @@ class Grade:
             Grade(11, "Grade 11"),
             # Grade(17, "Grade 12/13"),
         ]
-
-    @staticmethod
-    def from_id(id: int) -> 'Grade':
-        for grade in Grade.list():
-            if grade.id == id:
-                return grade
-        raise ValueError(f"Invalid grade id: {id}")

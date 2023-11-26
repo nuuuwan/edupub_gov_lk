@@ -13,7 +13,6 @@ def main():
             continue
         pdf_path = os.path.join('data', file_only)
         txt_path = os.path.join('data-txt', file_only + '.txt')
-
         if os.path.exists(txt_path):
             log.warn(f'{txt_path} Exists')
             content = File(txt_path).read()
