@@ -46,12 +46,14 @@ class RemoteTextBook:
         return f'RemoteTextBook({self.short_name}))'
 
     def download(self):
+        did_update = False
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
             pdf_path = os.path.join('data', file_only)
             remote_pdf_url = URL_REMOTE_DATA_BASE + '/' + file_only
             if not WWW(remote_pdf_url).exists():
                 WWW(chapter_url).download_binary(pdf_path)
+                did_update = True
             else:
                 log.warn(f'Already exists: {remote_pdf_url}')
 
@@ -63,9 +65,10 @@ class RemoteTextBook:
                 content = extract_text(pdf_path)
                 File(text_path).write(content)
                 log.debug(f'Wrote: {text_path}')
+                did_update = True
             else:
                 log.warn(f'Already exists: {remote_text_url}')
-
+        return did_update
     @staticmethod
     def list_from_lang_and_grade(
         lang: Lang, grade: Grade
