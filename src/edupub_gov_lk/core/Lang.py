@@ -18,7 +18,6 @@ class Lang:
             # Lang(3, "Tamil"),
         ]
 
-
     @staticmethod
     def from_id(id: int) -> 'Lang':
         for x in Lang.list():

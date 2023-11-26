@@ -30,13 +30,26 @@ jobs:
         ref: 'main'
         token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Run python workflow
+    - name: Run build_rtb_list
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline.py
-        echo "workflows/pipeline.py $(date)" >> workflows.txt
-        
+        python workflows/build_rtb_list.py
 
+    - name: Run download_pdfs
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/download_pdfs.py
+
+    - name: Run pdf_to_txt
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/pdf_to_txt.py          
+
+    - name: Run update_readme
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/update_readme.py          
+        
     - name: Push to github repo
       run: |
         git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"

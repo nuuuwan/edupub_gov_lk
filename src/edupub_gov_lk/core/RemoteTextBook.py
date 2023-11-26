@@ -2,7 +2,7 @@ import os
 import re
 from dataclasses import dataclass
 
-from utils import Log
+from utils import JSONFile, Log
 
 from edupub_gov_lk.core.Grade import Grade
 from edupub_gov_lk.core.Lang import Lang
@@ -10,6 +10,8 @@ from utils_future import WWW
 
 URL_BASE = "http://www.edupub.gov.lk"
 log = Log('RemoteTextBook')
+
+RTB_LIST_PATH = os.path.join('data', 'rtb_list.json')
 
 
 @dataclass
@@ -19,6 +21,25 @@ class RemoteTextBook:
     book_id: int
     title_raw: str
     chapter_url_list: list[str]
+
+    def to_dict(self):
+        return dict(
+            lang_id=self.lang.id,
+            grade_id=self.grade.id,
+            book_id=self.book_id,
+            title_raw=self.title_raw,
+            chapter_url_list=self.chapter_url_list,
+        )
+
+    @staticmethod
+    def from_dict(d):
+        return RemoteTextBook(
+            Lang.from_id(d['lang_id']),
+            Grade.from_id(d['grade_id']),
+            d['book_id'],
+            d['title_raw'],
+            d['chapter_url_list'],
+        )
 
     @property
     def title_short(self):
@@ -41,8 +62,8 @@ class RemoteTextBook:
     def __str__(self):
         return f'RemoteTextBook({self.short_name}))'
 
-    def download(self):
-        did_update = False
+    def download(self) -> int:
+        n_downloads = 0
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
             pdf_path = os.path.join('data', file_only)
@@ -50,13 +71,13 @@ class RemoteTextBook:
             if not os.path.exists(pdf_path):
                 try:
                     WWW(chapter_url).download_binary(pdf_path)
-                    did_update = True
+                    n_downloads += 1
                 except BaseException:
                     log.error(f'Failed to download: {pdf_path}')
             else:
                 log.warn(f'Already exists: {pdf_path}')
 
-        return did_update
+        return n_downloads
 
     @staticmethod
     def list_from_lang_and_grade(
@@ -101,6 +122,18 @@ class RemoteTextBook:
         sorted_rtb_list = sorted(rtb_list, key=lambda rtb: rtb.book_id)
         return sorted_rtb_list
 
+    @staticmethod
+    def store_list():
+        rtb_list = RemoteTextBook.list()
+        d_list = [rtb.to_dict() for rtb in rtb_list]
+        JSONFile(RTB_LIST_PATH).write(d_list)
+        log.info(f'Stored {len(rtb_list)} RemoteTextBooks to {RTB_LIST_PATH}')
 
-if __name__ == '__main__':
-    RemoteTextBook.list()
+    @staticmethod
+    def list_from_file():
+        d_list = JSONFile(RTB_LIST_PATH).read()
+        rtb_list = [RemoteTextBook.from_dict(d) for d in d_list]
+        log.info(
+            f'Loaded {len(rtb_list)} RemoteTextBooks from {RTB_LIST_PATH}'
+        )
+        return rtb_list
