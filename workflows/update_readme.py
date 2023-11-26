@@ -17,7 +17,6 @@ def main():
         '# Educational Publications Department - Sri Lanka',
         'Various text books published at '
         + '[http://www.edupub.gov.lk](http://www.edupub.gov.lk/).',
-        '',
         f'*{n_textbooks} textbook chapters as of {date_str}*',
     ]
     File('README.md').write('\n\n'.join(readme_lines))
