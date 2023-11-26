@@ -7,7 +7,7 @@ log = Log('update_readme')
 
 def main():
     n_textbooks = 0
-    for file_only in os.listdir('data'):
+    for file_only in os.listdir(os.path.join('data', 'pdf')):
         if not file_only.endswith('.pdf'):
             continue
         n_textbooks += 1
