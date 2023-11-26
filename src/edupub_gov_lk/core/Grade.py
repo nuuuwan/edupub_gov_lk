@@ -13,11 +13,11 @@ class Grade:
     @staticmethod
     def list() -> list['Grade']:
         return [
-            Grade(1, "Grade 1"),
-            Grade(2, "Grade 2"),
-            Grade(3, "Grade 3"),
-            Grade(4, "Grade 4"),
-            Grade(5, "Grade 5"),
+            # Grade(1, "Grade 1"),
+            # Grade(2, "Grade 2"),
+            # Grade(3, "Grade 3"),
+            # Grade(4, "Grade 4"),
+            # Grade(5, "Grade 5"),
             Grade(6, "Grade 6"),
             Grade(7, "Grade 7"),
             Grade(8, "Grade 8"),

@@ -14,8 +14,8 @@ class Lang:
     def list() -> list['Lang']:
         return [
             Lang(1, "English"),
-            Lang(2, "Sinhala"),
-            Lang(3, "Tamil"),
+            # Lang(2, "Sinhala"),
+            # Lang(3, "Tamil"),
         ]
 
     @staticmethod
