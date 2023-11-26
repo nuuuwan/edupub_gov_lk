@@ -1,10 +1,4 @@
 Index
-1
-2
-3
-4
-5
-6
 Programming
 System Development Life Cycle
 The Internet and the Electronic Mail
@@ -12,14 +6,6 @@ Use of Multimedia
 Web Designing Using Multimedia
 Information and Communication
 Technology and Society
-1
-53
-64
-81
-125
-168
-ix
-1
 Programming
 After studying this chapter, you will understand the following:
 ² How to analyze a problem and develop an algorithm
@@ -41,7 +27,6 @@ Input :
 Process :
 A sheet of paper suitable to write the letter on and a pen
 An envelope and a stamp
-Glue
 1. Writing the letter
 2. Folding the letter and putting it into
 the envelope
@@ -56,7 +41,6 @@ Steps No. 4 and 5 in this process can be interchanged.
 However, the other steps should be followed in the order
 indicated.
 For free distribution
-1
 Problem 2 : Making a cup of tea
 Input :
 Tea leaves, sugar, hot water
@@ -102,8 +86,6 @@ Length and width of the rectangle
 Process :
 Area = Length x Width
 Output :
-Area
-2
 For free distribution
 Problem 6 :
 Finding the larger number between two numbers
@@ -132,23 +114,19 @@ What are alternative solutions?
 If there is more than one solution to a given problem, such solutions are
 called alternative solutions. Such solutions depend on the nature of the problem.
 For free distribution
-3
 Example
 Imagine you come to school by school bus. If the bus breaks down on your way to
 school, you certainly will think of other alternative ways to reach school. Thus, you
 will think of alternative solutions to reach school.
 1. Coming to school by another school bus which goes to your school
-2.
 If you have money, reaching the school by CTB or private bus
 3. Walking to school along the road
 4. Walking to school using a short-cut
-5.
 If you have a way to inform your parents, get their support to reach the
 school
 6. Reaching the school by car or motor bike with the support of a trustworthy
 person
 You may select a good solution out of these if it is mandatory to go to school that
-day.
 Thus, if there are many solutions (set) to a particular problem, it is suitable to
 consider these and select an appropriate solution.
 All the solutions pertaining to a problem are called solution space. In computer
@@ -172,7 +150,6 @@ Out of these solutions, a person who has knowledge only of addition, can select 
 and addition can select the 3rd solution out of the 2nd and 3rd solutions as the most
 appropriate. The reason for this is, it has the minimum number of additions and
 multiplications.
-4
 For free distribution
 Example 2
 Indicating that a student has failed if the score for the ICT Subject is less than 35,
@@ -202,7 +179,6 @@ If the result is less than 0, n2 is the larger number.
 Thus, it is important to select the appropriate solution out of the available alternative
 solutions.
 For free distribution
-5
 1.2 Problem Solving using Algorithms
 An algorithm is a method to show the steps in solving a problem. An
 algorithm is a step-by-step procedure for solving a problem. The need for this is to
@@ -236,7 +212,6 @@ There are 183 students in a primary school. The principal has
 decided to hold an inter-house sports meet dividing them into three
 houses – Olu, Nelum and Manel. Develop an algorithm to the divide
 the students into the three houses.
-6
 For free distribution
 1.2.1 Control Structures
 Three types of control structures are used in an algorithms.
@@ -257,7 +232,6 @@ Selection is a situation where step(s) are executed depending on whether a
 condition of an algorithm is satisfied or not. There are two choices; if the condition
 is satisfied, one is selected and if it is not satisfied, the other selection is selected.
 For free distribution
-7
 Examples of selection
 1. Admitting a child to Grade 1:
 If a child is below 5 years as at 31st of
@@ -287,7 +261,6 @@ The vote …………… (can/cannot) be casted
 iii. Repetition
 If one or several steps of an algorithm are repeated until a condition is
 satisfied, it is called repetition.
-8
 For free distribution
 Examples
 1. Let us consider the process of a class teacher
@@ -319,7 +292,6 @@ of n = 60.
 Flow charts and pseudo codes are used as tools to present an algorithm to
 make the algorithm understand better.
 For free distribution
-9
 1.3.1 Flowcharts
 Flowcharts are used to present how the algorithm is built step by step in a
 dramatic manner. The symbols given in table are used to indicate different functions.
@@ -340,8 +312,6 @@ Start
 Input the radius of the circle
 Calculate the area of the circle
 Output the area of the circle
-End
-10
 For free distribution
 Selection
 The selection indicates the flow of direction depending on a condition being
@@ -353,10 +323,7 @@ Find the remainder when the
 number is divided by 2
 Is the remainder 0?
 An odd num ber
-No
-Yes
 An even number
-End
 Repetition
 A step or several steps are repeated till a condition is satisfied or are
 continued till it is satisfied.
@@ -367,23 +334,17 @@ Get the number N
 Total = Total + N
 Are there any more
 numbers?
-No
 Output the Total
-Yes
-End
 For free distribution
-11
 Activity
 Draw flow charts to solve the problems given below.
 1. Find the perimeter and area of a rectangle.
-2.
 It is decided to add Rs.5000 to the basic salary of the employees of
 a company. Calculate the new salary.
 3. When posting a letter, postal fare is charged according to its weight.
 The standard fare should be paid for letters which are equal to or
 less than the standard weight. An additional fare should be charged
 if the weight is more than the standard weight.
-4.
 Indicate the first 12 multiples of 7.
 5. Draw flow charts for the examples in selection 1:2:1.
 1.3.2 Pseudo codes
@@ -407,9 +368,7 @@ BEGIN
 INPUT Radius
 CALCULATE Area = 22/7 « Radius « Radius
 DISPLAY Area
-END.
 For free distribution
-12
 E.g. 2 - Finding whether a number is odd or even
 BEGIN
 READ number as N
@@ -417,9 +376,7 @@ CALCULATE Remainder after number is divided by 2
 IF Remainder = 0 THEN
 DISPLAY “Even number”
 DISPLAY “Odd number”
-ELSE
 ENDIF
-END.
 E.g. 3 - Finding the total of some numbers
 BEGIN
 Total = 0
@@ -428,7 +385,6 @@ READ Number as N
 CALCULATE Total = Total + N
 UNTIL numbers are over
 DISPLAY Total
-END.
 E.g. 4 - Finding the total and the average of 10 numbers
 BEGIN
 Total = 0
@@ -441,23 +397,18 @@ n = n + 1
 ENDWHILE
 CALCULATE Average = Total/(n - 1)
 DISPLAY Total, Average
-END.
 For free distribution
-13
 Following are some of the facts about the above pseudo code.
 ² Total, Average and Number are variables.
 ° When values are assigned to number variable, the value of Total, Average
 and n variables change.
-²
 n indicates the number of repetitions. (Number of times the loop is executed)
 ² The statements Total = 0 and Average = 0, makes starting values of these
 variables assigned as 0.
 ° Hence, the initial value of Total and Average are 0s.
 ² The statement n = 1, makes the starting value of n is assigned to 1.
-²
 ² WHILE n <= 10 indicates that the loop n should be repeated until value of n is
 n <= 10 is the condition that should be satisfied.
-10.
 ° Repetition occurs when the value of n is 10 or less than 10. This means,
 till the condition n <=10 is true, repetition occurs. When the value of n
 becomes 11, the repetition stops. Then the condition becomes false.
@@ -466,13 +417,10 @@ becomes 11, the repetition stops. Then the condition becomes false.
 present value of Total is added to
 number and the resultant value is
 assigned on the new value of Total.
-²
 n = n + 1 calculates the number of
 repetitions. 1 is added to the present
 value of n and the result is assigned
 to n.
-n
-n
 Total
 number
 1+1=2
@@ -485,7 +433,6 @@ number
 end repetition. Hence, only READ
 number, Total = Total + Number and n = n + 1 are repeated till the condition n
 <= 10 is fulfilled.
-n
 Total
 number
 ² When the repetition stops, the value of n is 11 and the condition is false.
@@ -493,7 +440,6 @@ number
 value is assigned to Average variable.
 ² DISPLAY (Total, Average) produces the output of the total of 10 numbers and
 its average.
-14
 For free distribution
 Observation
 ² When a value is assigned to a variable, the previous value is
@@ -510,8 +456,6 @@ Start
 Put tea bag in cup
 Boil water
 Water boiled?
-No
-Yes
 Pour water in Cup
 BEGIN
 Put tea bag in cup
@@ -523,56 +467,38 @@ Stir tea
 WHILE (sugar needed)
 Want sugar?
 Add sugar
-Yes
-No
-End
 Add sugar
 Stir tea
 ENDWHILE
-END
 For free distribution
-15
 E.g. 1 - Finding the larger number from two different numbers
 Start
 Input the two numbers
 N1, N2
 Is N1 larger than
-N2?
 Larger number is
-N2
-No
-Yes
 BEGIN
 READ N1, N2
 IF N1 > N2 THEN
 Large = N1
-ELSE
 ENDIF
 Large = N2
 Larger number is N1
 DISPLAY Large
-End.
 Output the larger
 number
-End
 E.g. 2 - Finding the smallest number from 10 input numbers
 Start
 Input the number N
 Min = N
 Count =1
 Count < 10 ?
-Yes
 Input N
 N < Min ?
-Yes
 Min = N
 Count = Count + 1
-No
-16
 For free distribution
-No
 Output Min
-End
 BEGIN
 INPUT Number as N
 Min = N
@@ -585,7 +511,6 @@ ENDIF
 Count = Count + 1
 ENDWHILE
 PRINT Min
-END.
 1.4 Pascal programming
 1.4.1 Identifiers
 An identifier is a term used to represent a variable, constant or a program.
@@ -611,7 +536,6 @@ E.g. - Student_name
 ² There should not be any space between words.
 E.g. - Student Name - Not valid
 For free distribution
-17
 ² The special characters such as the following should not be included in an
 identifier.
 ~ ! @ # $ % ^ & * ( ) - + = { } [ ] : ; ‘ “ <> ? , . / | \
@@ -626,60 +550,29 @@ The reserved words in Pascal, are defined in Pascal language. Hence,
 reserved words are not used as identifiers.
 Reserved words are different from language to language. The following are
 reserved words used in Pascal.
-and
-asm
 array
 begin
-case
 const
 constructor
 destructor
-div
-do
 downto
-else
-end
 exports
-file
-for
 function
-goto
-if
 implementation
-in
 inherited
 inline
 interface
 label
 library
-mod
-nil
-not
 object
-of
-or
 packed
 procedure
 program
 record
 repeat
-set
-shl
-shr
 string
-then
-to
-type
-unit
 until
-uses
-var
 while
-with
-xor
-ate
-to
-18
 For free distribution
 1.4.3 Standard data types in Pascal
 When a program is executed, the input and output should be stored in
@@ -704,14 +597,12 @@ Variable
 A variable is an identifier which changes the values given to it when the
 program is being executed.
 For free distribution
-19
 In Pascal, “var” is used to declare variables.
 Retrive
 Store
 n1, n2 : integer;
 E.g. - var count : integer;
 var a,b : real;
-var
 Avg : real ;
 Pass : boolean;
 Character : char;
@@ -732,17 +623,10 @@ values. However, the value of a constant remains unchanged.
 1.4.5 Operators
 Operators are required to perform calculations, comparisons, and to evaluate
 logical expressions. Hence, operators are essential in programming.
-20
 For free distribution
 Basic types of operators
 1. Algebra operators
 Operator Usage Example expression Result
-+
--
-*
-/
-DIV
-MOD
 Addition
 Subtraction
 Multiplication
@@ -752,30 +636,13 @@ Remainder after division 20 MOD 6
 6 + 3
 7 - 5
 2 * 5
-10/4
-2.50
-9
-2
-10
-3
-2
-3
-6 20
-18
-2
-DIV
-MOD
 2. Comparison operator
 Comparison operators are used to compare values or expressions. The final
 result of an expression which consists of a comparison always takes a Boolean
 value. Hence expression will be True or False.
 Function Usage Example expression Result
-True
-True
 False
-True
 False
-True
 7 > 3
 Greater than
 Greater than or equal 8 >= 8
@@ -787,17 +654,10 @@ Not equal
 4 <= 6
 3 = 1
 2 < > 5
->
->=
-<
-<=
-=
-< >
 3. Logical operators
 Logical operators are used to combine two or more expressions. For further
 study on this refer. basic logic gates that you learnt in Grade 10.
 For free distribution
-21
 i) AND operator
 AND operator takes the form “(First Expression) AND (Second
 Expression)”. Depending on the first expression or second expression being True
@@ -806,22 +666,15 @@ of AND.
 First Expression Second Expression (First Expression) AND (Second
 False
 False
-True
-True
 Example
 False
-True
 False
-True
 Expression)
 False
 False
 False
-True
 (Rain fall > 56) AND (Temperature < 30)
 (Height > 60) AND (Age < 15)
-1.
-2.
 3. Let us consider, (3 >= 2) AND(3 < > 3)
 3 >= 2 is True. 3 < > 3 is False. Hence, the result of the expression is False.
 I m p o r t a n t
@@ -838,22 +691,12 @@ First expression
 Second expression (First expression) OR (Second
 False
 False
-True
-True
 False
-True
 False
-True
-22
 For free distribution
 expression)
 False
-True
-True
-True
 Example
-1.
-2.
 (Temperature > 30) OR (Rainfall < 55)
 Let us consider, (3 >= 2) OR (3 < > 3)
 3 >= 2 is True. 3 < > 3 is false. Hence, the result of the expression is true.
@@ -867,9 +710,7 @@ A True expression is always evaluated as false with a NOT operator while a
 false expression is always evaluated as true.
 Expression
 False
-True
 NOT (Expression)
-True
 False
 Example
 1. NOT (Temperature > 30)
@@ -881,53 +722,28 @@ When Pascal expressions are evaluated, the order of precedence is given
 below.
 Priority order
 Operator
-high
-1
-2
-3
-4
-NOT
-*
-+
-=
-/
--
-< >
 DIV MOD AND
-OR
-<
-<=
->
->=
-less
 For free distribution
-23
 Evaluating expressions
 E.g. 1
 5 + 14 MOD 4
 5 + 2
-7
 E.g. 4
 NOT (8 MOD 2 > 5)
 NOT (0 > 5)
 NOT(False)
-true
 E.g. 2
 3 + 7 DIV 2
 3 + 3
-6
 E.g. -3
 16 / 4 * 2
 4 * 2
-8
 E.g. -5
 4 >= 4 AND NOT(7 > 9)
 True AND NOT(False)
 True AND True
-true
 Let us identify the basic components of a normal Pascal program.
 program addNum (input,output); Name of the program (addNum)
-var
 avg: real;
 num1,num2,total : integer; }
 avg: real;
@@ -951,21 +767,15 @@ the process
 avg := total/2;
 writeln(‘Total is ‘ , total);
 writeln(‘Average is ‘ , avg);
-End.
-End.
 Ending of the main program
 Ending of the main program
 Note : To write comments (*..............*) can also be used.
-²
-²
-²
 “program”, “input” and “output” are reserved words.
 “addNum” is an identifier. This is the name of the program. It is not essential to
 indicate input, output within brackets with the program name.
 read( ) and readln( ) functions words are used for input.
 ¾ Data is input to num1 variable through Read(num1);
 ¾ Data is input from readln() from a new row.
-24
 For free distribution
 ² write( ) and writeln( ) functions are used for output.
 ¾ From the function Write(‘Welcome Pascal Programming’) outputs
@@ -979,27 +789,19 @@ an statement.
 Total
 num 1
 num 2
-5.7
-=
-3.4
-+
-2.3
 ² What happens with
 the expression
 total :} num1 + num2 is that it adds the
 variables num1 and num2 and assign result
 to the variable 'total'
 “:}’’ is the assignment operator.
-²
 i: integer
 i := 4;
 1.4.6 Selection
 IF statement
 If condition structure is as follows.
-No
 Is the condition
 True?
-Yes
 Statement(s)
 Flow chart
 IF Condition THEN
@@ -1007,7 +809,6 @@ Statement(s)
 ENDIF
 Pseudo Code
 For free distribution
-25
 There are two types of IF statements.
 i) IF... THEN.... ENDIF
 Here, the statement will be executed if only the condition is satisfied.
@@ -1015,19 +816,14 @@ E.g. 1 - If the input number is only positive, print the number.
 Start
 Get the number (N)
 Is N > 0?
-Yes
 Print N
-End
 Flow chart
 Begin
 Input N
 IF N > 0
-THEN
 Print N
 ENDIF
-End.
 Pseudo Code
-No
 Program positiveNo(input, output);
 Var N : integer;
 Begin
@@ -1035,24 +831,19 @@ Writeln(‘Enter Number’);
 Read(N);
 If N > 0 then
 Writeln(‘Positive Number’);
-End.
 Pascal Code
 ii) IF... THEN.... ELSE .......... ENDIF
 If the condition is satisfied Statement 1 is executed if not Statement 2 is
 executed. The If condition structure is as follows.
 Is the condition
 True?
-Yes
 Statement 1
 Flow chart
-26
 For free distribution
-No
 IF Condition THEN
 Statement 2
 Statement1
 Statement2
-ELSE
 ENDIF
 Pseudo Code
 E.g. 2 - Finding the larger number from two unequal numbers.
@@ -1062,11 +853,9 @@ Begin
 Writeln(‘Enter Two Numbers’);
 Read(N1,N2);
 If N1 > N2 then
-Else
 Large :} N1
 Large :} N2;
 Writeln(‘Large Number is ’ , Large);
-End.
 Pascal program
 Nested IF
 When there are multiple conditions one after the other, Nested IF is used.
@@ -1075,42 +864,28 @@ E.g. 3 - Finding the Grade when the marks scored by a student for a subject is g
 as input.
 Start
 Get marks (M)
-No
 Is M >= 75?
 Is M >= 65?
-No
 Is M >= 50?
-No
 Is M >= 35?
-No
-Yes
 Result = ''A''
-Yes
 Result = ''B''
-Yes
 Result = ''C''
-Yes
 Result = ''S''
 Output result
-End
 Flow chart
 Result = ''F''
 For free distribution
-27
 Begin
 Input Marks as M
 IF M >= 75 Then
 Grade = ‘‘A’’
-ELSE
 IF M >= 65 then
 Grade = ‘‘B’’
-ELSE
 IF M >= 50 then
 Grade = ‘‘C’’
-ELSE
 IF M >= 35 then
 Grade = ‘‘S’’
-ELSE
 Grade = ‘‘F’’
 ENDIF
 ENDIF
@@ -1125,20 +900,14 @@ Writeln(‘Enter Marks’);
 Read(M);
 If M >= 75 then
 Grade :} ‘A’
-Else
 If M >= 65 then
 Grade :} ‘B’
-Else
 If M >= 50 then
 Grade :} ‘C’
-Else
 If M >= 35 then
 Grade :} ‘S’
-Else
 Grade :} ‘F’;
 Writeln(‘‘Grade = ’’, Grade);
-End.
-End.
 Pseudo Code
 Pascal Code
 Using CASE statement when a variable has multiple conditions
@@ -1147,7 +916,6 @@ it is easier to use CASE statement.
 Start
 Get marks (M)
 Marks
-0-34
 35-49
 Result = ''W''
 Result = ''W''
@@ -1160,9 +928,7 @@ other
 Result = ''A''
 Output grade
 Indicate marks as invalid
-28
 For free distribution
-end
 Flow chart
 program FindGrade(input,output);
 var Marks : integer;
@@ -1176,12 +942,9 @@ Case Marks of
 50..64 : Grade :} ‘C’;
 65..74 : Grade :} ‘B’;
 75..100 : Grade :} ‘A’;
-Else
 Writeln(‘Invalid Marks’);
-End;
 if (Marks >= 0) AND (Marks <= 100) then
 Writeln(‘Grade is ’ , Grade);
-End.
 Pascal program
 1.4.7 Repetition
 Let us examine how repetition structures are used when the number of
@@ -1199,28 +962,16 @@ FOR X :} 0 TO 4 DO
 FOR X :} 5 TO 10 DO
 Starting
 value
-1
-0
-5
 Ending
 value
-5
-4
-10
 Number of repetitions
-5
-5
-6
 For free distribution
-29
 E.g. - Printing the values from 1 to 10
 Program print10Nos(input,output);
-Var
 Begin
 count : integer;
 For count :} 1 to 10 do
 Writeln(count);
-End.
 Here the count variable value is changed from 1 to 10 while printing the
 output values, and two loop is executed 10 times.
 ii) FOR – DO Loop (Method 2)
@@ -1230,32 +981,21 @@ FOR Variable :} Value_1 DOWNTO Value_2 DO
 Repetition structure
 Starting value Ending value
 FOR X :} 10 DOWNTO 5
-DO
 FOR X :} 4 DOWNTO 0 DO
-10
-4
-5
-0
 Number of
 repetitions
-6
-5
 E.g. - Printing of values from 10 to 1
 Program print Reverse (input,output);
-Var
 Begin
 count : integer;
 For count :} 10 downto 1 do
 Writeln(count);
-End.
 Count variable value is changed from 10 to 1 while printing the output and
 and the loop in executed 10 times.
-30
 For free distribution
 Finding the total and average of ten numbers
 program total_avg (input,output);
 I,num,total : integer;
-var
 avg: real;
 Begin
 total :} 0;
@@ -1267,12 +1007,9 @@ total :} total+num;
 avg :} total/I;
 writeln(‘Total is ‘ , total);
 writeln(‘Average is ‘,avg);
-end;
-end.
 I m p o r t a n t
 A block of statments in
 repetition.
-}
 A block of statements indent properly is written between 'begin' and
 'end'; inside the FOR loop.
 When the number of repetitions are not known in advance, ''While do'' or
@@ -1283,7 +1020,6 @@ i) WHILE DO Loop
 condition is true.
 ² Statements inside the loop never executed if the condition is false.
 ² The condition becomes false at the end of the repetition.
-²
 If the condition does not become false while the repetition is executed, it will
 be an infinite loop.
 E.g. 1 - while number > 0 do
@@ -1292,7 +1028,6 @@ E.g. 2 - number :} 1;
 while number <= 10 do
 number :} number + 1;
 For free distribution
-31
 ◦ Condition is true since the starting value of the variable 'number' is 1.
 ◦ Hence, the repetition is executed.
 ◦ Each time loop is executed, 1 is added to the value of ''number''.
@@ -1303,7 +1038,6 @@ ii) REPEAT UNTIL Structure
 ² Condition is checked, after the statements are executed once.
 ² Loop is started if the condition is false only.
 ² Loop stops when the condition becomes true.
-²
 If the condition does not become true while the loop is executed, loop will be
 an infinite loop.
 E.g. 1 -
@@ -1315,7 +1049,6 @@ Until count > 5;
 ◦ The starting value of count variable is 0.
 ◦ The word Pascal is displayed on the screen.
 ◦ 1 is added to the count variable.
-◦
 ◦ Loop is executed till the value of the 'count' variable becomes 5.
 ◦ Loop stops when the value of count is 6.
 ◦ When the Loop stops, the word Pascal is displayed six times on the screen.
@@ -1326,13 +1059,10 @@ repeat
 sum :} sum + 5;
 writeln(sum);
 until sum < 50;
-32
 For free distribution
 5 is added to the value of sum.
 ² The starting value of sum variable is 0.
-²
 ² The value of sum is 5 and it is displayed on the screen.
-²
 ² The condition sum < 50 is satisfied (True).
 ² Hence, Loop stops.
 It is checked whether the value of sum variable is less than 50.
@@ -1345,9 +1075,7 @@ until sum >= 50;
 It is checked whether the value of sum variable is greater than or equal to 50.
 5 is added to the value of sum.
 ² The starting value of sum variable is 0.
-²
 ² The value of sum is displayed on the screen.
-²
 ² Loop is executed till sum >= 50 condition is satisfied (True).
 ² When the loop stops, the value of sum is 50.
 ² Loop is executed 10 times.
@@ -1363,9 +1091,7 @@ satisfied or not.
 E.g. - Depending on the user’s selection, an ascending or descending number
 sequence can be produced as output.
 For free distribution
-33
 program orderNos(input,output);
-var
 num:integer;
 cho:char;
 begin
@@ -1376,14 +1102,11 @@ begin
 writeln('Asending Order');
 for num :} 1 to 6 do
 writeln(num);
-end;
 if cho = 'D' then
 begin
 writeln('Desending Order');
 for num :} 6 downto 1 do
 writeln(num);
-end;
-end.
 1.4.8.2 Selection in repetition
 Let us consider how selection takes place while the repetition control structure
 being executed.
@@ -1401,18 +1124,12 @@ if rem = 0 then
 begin
 writeln('Even number ');
 e_count :} e_count+1;
-34
 For free distribution
-end
-else
 begin
 writeln('Odd number ');
 o_count :} o_count + 1;
-end;
-end;
 writeln(e_count,'Even Number/s');
 writeln((o_count ,'Odd Number/s');
-end.
 1.9.1 Arrays
 It is essential in programming to use variables to store data items in
 memory. Further, such variables have suitable data types. Various variables which
@@ -1420,7 +1137,6 @@ are different in names are needed to store data items which belong to the same d
 type.
 E.g. - For instance, five variables are needed to save five round numbers in the
 memory. Before using such variables, they should be declared as given below.
-Var
 p, q, r, s, t : integer;
 n1, n2, n3, n4, n5 : real;
 1.4.9.1 Use of arrays
@@ -1433,7 +1149,6 @@ train
 Each cart holds a
 single piece of data
 For free distribution
-35
 1.4.9.2 Defining a one-dimensional array
 This is a data structure used to save data of the same type sequentially. An
 array uses a group of adjoining memory spaces. A one dimensional array can be as
@@ -1448,23 +1163,12 @@ numbers.
 square brackets.
 Array Name
 Index
-M[0]
-M[1]
-M[2]
-M[3]
-M[4]
 First element
 lowest index
 Last element
 highest index
-X[0]
-X[1]
-X[2]
-X[3]
-X[4]
 element 1
 element 5
-36
 For free distribution
 E.g. - the size of the array Var M : Array[0..4] of integer; is 5.
 From M[0] to M[4], it consists of 5 elements.
@@ -1482,7 +1186,6 @@ begin
 writeln(‘Enter marks’);
 read(marks);
 maths[i] :} marks;
-end;
 1.4.9.4 Assigning values to an array
 Let us consider integer array with 5 five elements which can input whole numbers.
 var num : array[0..4] of integer;
@@ -1491,16 +1194,7 @@ num[0] :} 45;
 num[2] :} 36,num[4] :} 60;
 num[1] :} num[4] + 15;
 num[3] :} num[0] + num[2]
-45
-45
-75
-36
-36
-60
-60
-81
 For free distribution
-37
 1.4.9.5 Declaring values of an array
 The elements declare the values of an array.
 writeln ^num[3]&;
@@ -1530,21 +1224,17 @@ begin
 writeln('Enter Marks');
 read(marks[i]);(* Read Marks to array *)
 tot :} tot + marks[i];(* Add marks *)
-end;
 avg :} tot/35;
 max :} marks[0];
 for i :} 1 to 34 do
 if marks[i] > max then max :} marks[i];
 writeln('Maximum marks = ', max);
 writeln('Average marks = ',avg);
-end.
 1.4.10 Use of sub - programs
 As a program becomes complex, when the number of sub processes increase,
 it will be difficult to read and understand and also to maintain. Therefore, using sub
 programs as much as possible while writing useful.
-38
 For free distribution
-Main
 problem
 sub -
 problem 1
@@ -1570,19 +1260,15 @@ an output is called a Procedure.
 1.10.2 Introducing sub - programs
 PROGRAM
 CONST
-VAR
 BEGIN
-END
 Function and
 procedure
 declaration
-Main
 program
 Before starting the main program, functions and procedures should be
 declared. Sub - programs can be called for in the main program. (Calling a function
 or a Procedure).
 For free distribution
-39
 The following is the syntax to define a procedure.
 Procedure Name_of_Procedure( name_of_variable : data type);
 E.g. - Procedure to find the area of a circle
@@ -1594,18 +1280,13 @@ The following syntax define a function.
 Procedure declaration
 Function declaration
 Main Program
-{
-{
-{
 Procedure sub1(var x:real);
 begin
 statement
 ………………
-end;
 Function sub2(var x:real):
 real ;
 begin
-end;
 statement
 ………….
 begin
@@ -1616,13 +1297,11 @@ sub1(value);
 V = sub2(value);
 ………………
 statement
-end.
 Return Output
 Calling the procedure
 Calling the function
 E.g. - Let us consider the program to calculate the area and circumference of a
 circle.
-40
 For free distribution
 1. A program built with procedures
 program procedure_circle(input,output);
@@ -1632,24 +1311,20 @@ procedure getData(var radius: real);
 begin
 writeln('Enter Radius');
 read(radius);
-end;
 procedure processArea(var radius:real);
 var area:real;
 begin
 area :} pie * radius * radius;
 writeln('Area = ',area);
-end;
 procedure processCircumferance(var radius:real);
 var circum:real;
 begin
 circum :} 2 * pie * radius;
 writeln('Circumferance = ',circum);
-end;
 begin
 getData(radius);
 processCircumferance(radius);
 processArea(radius);
-end.
 2. A program with functions
 program function_circle(input,output);
 const pi = 22/7;
@@ -1659,21 +1334,17 @@ var area:real;
 begin
 area :} pi * radius * radius;
 For free distribution
-41
 processArea :} area;
-end;
 function processCircumference(var radius:real):real;
 var circum:real;
 begin
 circum :} 2 * pi * radius;
 processCircumference :} circum;
-end;
 begin
 writeln('Enter Radius');
 read(radius);
 writeln('Circumference = ',processCircumference(radius));
 writeln('Area = ', processArea(radius));
-end.
 1.5 Evolution of programming languages
 1.5.1 Need of a programming language
 A program is a sequence of instructions
@@ -1682,12 +1353,10 @@ is using the computer. A computer language
 instructions.
 is needed
 to provide
-the
 Hello Mr.
 Computer?
 Computer?
 '1010101010101010'
-42
 For free distribution
 1.5.2 Low level programming languages
 Machine language
@@ -1720,12 +1389,10 @@ instructions
 Languages which are designed with simple English words enabling the
 programmer to understand it easily are called high-level computer languages.
 For free distribution
-43
 Examples for high level computer languages
 FORTRAN, BASIC, COBOL, PASCAL, C
 A program written in a high-level
 FORTRAN
-C
 Pascal
 language has the following features:
 ² Easy to understand.
@@ -1751,11 +1418,9 @@ Paradigms
 Imperative
 Declarative
 Procedural
-• C
 Object
 Oriented
 • Java
-44
 For free distribution
 Parallel
 Processing
@@ -1772,25 +1437,17 @@ Imperative/
 Algorithmic
 Algol
 Cobol
-PL/1
-Ada
-C
 Modula - 3
 Declarative
 Logic Programming
 Prolog
 Functional Programming
-Lisp
 Haskell
-ML
 Miranda
-APL
 Object-
 Oriented
 Smalltalk
 Simula
-C++
-Java
 There are a number of programming languages. There are differences
 among different programming language types.
 Difference between procedural and declarative paradigms
@@ -1804,14 +1461,11 @@ Declarative Procedure
 Procedure 2
 Declarative Procedure
 Procedure 3
-Code
-Data
 Data is
 exchanged
 between
 procedures
 For free distribution
-45
 The Pascal programming has procedural paradigm features.
 A declarative paradigm develops a structure and elements of computer
 program by indicating calculations and/or logic without a control flow. This helps to
@@ -1828,17 +1482,11 @@ Procedural Paradigm
 Declarative Paradigm
 Saying how you achieve it
 Saying what you want
-C
-B
-A
 1. K eep block A
 2. Keep block B on top
 of block A
 3. Keep block C on top
 of block B
-C
-B
-A
 A pillar which
 consists of 3
 blocks
@@ -1852,7 +1500,6 @@ Informs the user to enter data
 Retrieves data entered by the user
 Data is processed
 User is given the output
-46
 For free distribution
 The Pascal programming has the structure of structured programming as
 well.
@@ -1879,18 +1526,13 @@ System
 Catalog
 Librarian
 Record loans
-Add
 resources
 Report fines
-Book
 Library
 For free distribution
-47
 Class
-Dog
 Object
 Create Instance
-Tomy
 Property
 (Data)
 Color
@@ -1931,7 +1573,6 @@ Computation involves
 objects interacting with
 each other
 Object-Oriented Languages
-48
 For free distribution
 Activity
 Consider Car as a class and identify its properties and methods and a
@@ -1956,17 +1597,13 @@ instructions using a language translator called assembler.
 Two types of language translators can be used to translate a program written in a
 high-level language to machine language instructions. They are:
 Interpreter
-1.
 2. Compiler
 For free distribution
-49
 Interpreter
 This is the language translator which translates each statement written in a
 high-level computer language to machine language commands one by one and the
 translated program is executed using the necessary commands instantly.
 When translating object codes in computer languages which use interpreters,
-1.
-2.
 If there are no syntax errors in the program, the statement will be executed
 If there are syntax errors in the program, it will not execute to the end. (it is
 possible to operate it till the error is reached)
@@ -1987,8 +1624,6 @@ Machine language
 instructions
 When translating source code to machine code in computer languages which
 use compilers:
-1.
-2.
 If there are no syntax errors in the program, code is translated to machine code.
 If there are syntax errors in the program, it is not be translated to machine code.
 These errors are highlighted.
@@ -1996,11 +1631,9 @@ I m p o r t a n t
 After the program is translated to machine code once, it can be
 execute any number of times. A translation is needed again only if
 the source code is changed.
-50
 For free distribution
 Summary
 Input, output and the process can be identified by analyzing a problem.
-²
 ² Flowcharts and pseudo codes can be used to develop an algorithm.
 ² Sequence, selection and repetition are three control structures used in an
 algorithm.
@@ -2008,17 +1641,14 @@ algorithm.
 beginning to the end.
 ² Selection is a situation where the step executed should be decided based on
 a condition being fulfilled or not.
-²
 If a step or some steps in an algorithm are repeated until a condition is
 satisfied or to maintain the condition being satisfied, it is called repetition.
 ² A name used to identify a variable, constant or a program is called an
 identifier.
-²
 If the values assigned for identifiers are changed when the program is being
 executed, these are called variables.
 ² Pascal is a high level programming language.
 For free distribution
-51
 ² Evaluation of an expression occurs depending on the priority level of
 functions.
 ² Machine language and Assembly language are considered low–level
@@ -2029,16 +1659,12 @@ programming languages.
 processor.
 ² A program written in any computer language except in Machine language
 should be translated to Machine language instructions before it runs.
-²
 Interpreter and Compiler are two translation programs.
-52
 For free distribution
-2
 System Development Life Cycle
 After studying this chapter, you will understand the following:
 Interactions among components in a system
 ² What is a system?
-²
 ² Manual information systems vs computer based information systems
 ² The ability to determine why a system is necessary
 ² Steps in the development process of an information system
@@ -2054,7 +1680,6 @@ construction machine. It is possible to use this machine for construction work i
 order to achieve the goals. Figure 2.2 shows a machine working as a system.
 PB For free distribution
 For free distribution
-53
 Figure 2.1 The road construction machine Figure 2.2
 Basic Elements of a System
 A system consists of three basic components.
@@ -2073,11 +1698,6 @@ Input
 Process
 Output
 Example 2
--
--
--
--
--
 School
 To produce a responsible, worthwhile, just citizens to
 society
@@ -2089,7 +1709,6 @@ Output tomorrow's weather by a weather forecasting system taking
 atmospheric pressure, temperature, wind direction, humidity as input.
 Information Systems
 A system which converts data into Information is known as information system.
-Data
 Process
 Information
 Figure 2.4
@@ -2098,10 +1717,8 @@ Computer Based Information Systems.
 Manual System
 In this type of a system all processes are done manually.
 Example - Let us consider a manual student information system
-54
 For free distribution
 For free distribution
-55
 A child admitted to a school receives a registered number. A file is prepared
 which contains personal information about the child. This file also contains
 information about special abilities displayed while in school and achievements
@@ -2132,10 +1749,8 @@ available, the location of the book.
 ² Ability to use a bar code to maintain issues and receipts
 ² Ability to automatically calculate fines for late returns
 ² Ability to search for books efficiently
-54
 For free distribution
 For free distribution
-55
 ² Ability to maintain records of those who have borrowed books
 ² Possibility to list those who have failed to return books on due dates
 ² Establishes an online system for remote reservation and searching for books
@@ -2174,14 +1789,11 @@ based system.
 2.2 System Development Processes
 To develop an information system, there are different methodologies. The
 System Development Life Cycle is one aspect of the process.
-56
 For free distribution
 For free distribution
-57
 2.2.1 System Development Life Cycle
 This has the following steps.
 Identification of requirements
-1.
 2. Designing the solution
 3. Coding of the solution
 4. Testing and debugging
@@ -2201,7 +1813,6 @@ needs of the user.
 There are several methods of gathering information. Some of them are as follows;
 1. Observation
 Interviews
-2.
 3. Questionnaires
 4. Document sample collection
 5. Prototyping
@@ -2215,8 +1826,6 @@ Since the interview provides an opportunity to discuss matters related to
 personal attitudes openly, it is useful to identify personal requirements.
 E.g. - Meeting the librarian for a discussion.
 For free distribution
-57
-56
 For free distribution
 3. Questionnaires
 A questionnaire is used in user requirement gathering. Answers collected
@@ -2239,8 +1848,6 @@ follows:
 storage
 Identification of main hardware systems and its components
 Identification of dependency of each sub-system
-3.
-4.
 5. Deciding on the required hardware and software to run the system
 6. Designing infrastructure for software, databases, user interfaces
 7. Planning of tests
@@ -2251,10 +1858,8 @@ language. Making the code simple and efficient
 enables one to develop and understand easily. A
 well-written code makes it easy to read and
 understand and reduces maintenance cost.
-58
 For free distribution
 For free distribution
-59
 4. Testing and debugging
 The main objective of this phase is to resolve
 errors. Errors in cording, planning and requirements
@@ -2278,10 +1883,8 @@ stage.
 3) System Testing
 The complete system is tested for its outputs for the given
 inputs.
-58
 For free distribution
 For free distribution
-59
 4) Acceptance Testing
 Acceptance or user acceptance testing is carried out at the
 late stages of testing. This testing is carried out at with the users
@@ -2315,10 +1918,8 @@ Pilot deployment is about using the newly
 developed system in a selected area.
 E.g. - A system for the whole country can first be
 installed in a selected district.
-60
 For free distribution
 For free distribution
-61
 E.g. - A system for revenue collection from vehicles can first be installed in one
 province of the country and if, successful, can be deployed in all provinces
 of the country.
@@ -2337,7 +1938,6 @@ maintained in this manner.
 With system maintenance, the following may
 be required.
 ² Developing systems to suit new user requirements
-²
 Issues that surfaced with the use of the system which were not identified during
 system development.
 ² Adopting new, technology into the new system to improve efficiency
@@ -2351,10 +1951,8 @@ facilitates the system development in different ways. Some example models are:
 Waterfall Model
 The Waterfall Model consists of several stages of linear development. To
 develop a system using the Waterfall Model, the following need consideration.
-60
 For free distribution
 For free distribution
-61
 ² First identify requirements
 ² Complete one stage before going to the next phase
 ² The result of the developed system is found at the final stage. This model has a
@@ -2371,12 +1969,10 @@ Analysis and Design
 Implementation
 Deployment
 Evolution
-62
 For free distribution
 Figure 2.7 - Iterative Incremental Model
 Testing
 For free distribution
-63
 In this model, a system is developed through repeated cycles (Iterative)
 and in smaller portions at a time (incremental). The process starts with a simple
 implementation of a sub-set of the software requirements and iteratively enhances
@@ -2392,8 +1988,6 @@ Summary
 towards a common objective.
 ² Any system consists of three basic components namely input, process and
 output.
-²
-²
 Information systems transform data into information.
 Information systems can be divided into Manual Information Systems and
 Computer based Information Systems.
@@ -2412,29 +2006,21 @@ by using the system development life cycle.
 6. Maintenance of System
 ² The waterfall life cycle model and iterative incremental models are examples
 for system development life cycles.
-62
 For free distribution
 For free distribution
-63
 3 The Internet and the electronic mail
 After studying this chapter, you will be able to understand the following:
 After studying this chapter, you will be able to understand the following:
 After studying this chapter, you will be able to understand the following:
 After studying this chapter, you will be able to understand the following:
-²
-²
 Internet operation
 Internet operation
-²
-²
 Internet services
 Internet services
 ² Searching information
 ² Searching information
 ² Uniform Resource Locator-URL
 ² Uniform Resource Locator-URL
-²
-²
 IP addresses
 IP addresses
 ² Domain name
@@ -2462,10 +2048,8 @@ in charge of the ethics and principles related to the use of the Internet and th
 protocols which maintain Internet operations. When you access the Internet from
 your computer, it also becomes a computer which belongs to the Internet. Then it is
 possible for you to obtain any information related to any subject you need.
-64
 For free distribution
 For free distribution
-65
 3.1.2 Let us examine what URL is
 Information which helps us to improve our knowledge is a very important
 resource. Among the avenues of obtaining information, the Internet is the most
@@ -2480,14 +2064,10 @@ For example, let us consider the URL given below.
 http://www.edupub.gov.lk/e-books/english/ict.pdf
 We can separate the parts here as given below.
 World Wide Web
-↓
 path where the
 resource is located
 http://www.edupub.gov.lk/e-books/english/ict.pdf
-↓
-↓
 domain name
-↓
 resource
 hypertext transfer
 protocol
@@ -2503,10 +2083,8 @@ http://www.edupub.gov.lk
 - National Institute of Education
 - Department of Examinations
 - Educational Publications Department
-64
 For free distribution
 For free distribution
-65
 3.1.3 what is an IP address?
 Internet Protocol (IP) addresses are used to individually identify all the
 computers in the Internet. The IP address is indicated in four values from 0 to 255
@@ -2530,29 +2108,16 @@ which exist in the Internet.
 Following are the names used to represent the fields which the domains
 belong to.
 Domain
-com
-org
-gov
-edu
-net
 Meaning
 Commercial
 Non profitable organizations
 Public
 Education
-Web
-66
 For free distribution
 For free distribution
-67
 The following country domains are used to represent the country related to
 the domain.
 Domain
-in
-au
-jp
-uk
-us
 Meaning
 India
 Australia
@@ -2562,7 +2127,6 @@ United States
 The domain at the right - most corner of a domain name is called the Top
 Level Domain.
 Example
-URL
 http://www.google.com
 http://www.edupub.gov.lk
 http://www.nie.lk/pages/syllabus.asp
@@ -2573,10 +2137,6 @@ google.com
 edupub.gov.lk
 nie.lk
 unicode.org
-com
-lk
-lk
-org
 3.1.5 How the Internet works
 Humans, being different from computers, have difficulty in retaining lots
 of similar numbers in mind. Working with names is much easier for them and
@@ -2589,33 +2149,22 @@ com, the request is first sent to the DNS server to translate into the correct I
 address of 209.191.122.70. The actual connection to the website is done with this
 IP address. This process happens behind the screen quickly that the user does not
 notice.
-66
 For free distribution
 For free distribution
-67
-1
 User opens browser,
 enters URL...
-3
 Browser now
 has IP
-2
 Resolver
-OS
-DNS
 server
-4
 Browser
 sends
 ''http get''
 command to
 web server
-Web
 server
-6
 Web browser
 renders HTML web
-page
 5 Web server returns
 HTML data stream
 Figure 3.3 - Process how Internet operations are executed
@@ -2628,21 +2177,15 @@ FTP - File Transfer Protocol
 SMTP - Simple Mail Transfer Protocol
 ICMP - Internet Control Message Protocol
 Protocol
-HTTP
 TCP/IP
-FTP
-SMTP
-ICMP
 Usage
 HTML document exchange
 Controlling the exchange of IP addresses
 File exchange
 Electronic mail exchange
 Informing and controlling messages when there are errors
-68
 For free distribution
 For free distribution
-69
 The Internet is a Wide Area Network (WAN) which is based on a Client
 Server Model. Hence, all the computers in Internet belong either to the type of
 servers or clients.
@@ -2668,10 +2211,8 @@ The following are some of the services of the Internet;
 5. Streaming of media
 6. Search Engines
 7. Electronic Mail - e mail
-68
 For free distribution
 For free distribution
-69
 3.1.6.1 World Wide Web (WWW)
 World Wide Web is a service provided by
 the Internet and it is a large collection of electronic
@@ -2697,15 +2238,10 @@ Figure 3.5 - Web Browsers
 For instance, let us consider the official web site of the Department of Examinations,
 Sri Lanka.
 Address
-bar
 Hyperlinks
-Home
-page
 Figure 3.6 - Home page of the website of Department of Examinations, Sri Lanka
-70
 For free distribution
 For free distribution
-71
 3.1.6.2 File Transfer Protocol (FTP)
 File of smaller size can be sent with an e mail
 as an attachment. But files with larger capacities cannot
@@ -2716,7 +2252,6 @@ protocol is operated on TCP/IP and used to upload files of a client computer to 
 Internet and to download files from server computers in the Internet.
 Figure 3.7 - File transfer system
 3.1.6.3 Remote Access
-70
 For free distribution
 Figure 3.8 - Remote access
 Controlling and operating a computer in the Internet remotely is performed
@@ -2725,7 +2260,6 @@ through Remote Access after accessing the Internet.
 1. Installing software of server computers to client computers.
 2. Fixing problems on client computers.
 For free distribution
-71
 Using remote access functionality sometimes hackers steal important data
 and information stored on computers without owner's knowledge (This is called
 hacking).
@@ -2757,10 +2291,8 @@ the Web server
 4 The client software on the user's
 computer decodes and plays the file
 Figure 3.9 - Streaming of media
-72
 For free distribution
 For free distribution
-73
 Internet provides much assistance to share all sorts of information which
 consists of multimedia such as text, images audio and video. Downloading images,
 songs and videos etc from the Internet can be considered as an example.
@@ -2787,10 +2319,8 @@ Domain name is used to uniquely identify a web site. This makes the users
 remember it somewhat easily. However, an IP address is used to uniquely identify
 a computer on the Internet. What the Domain Name Server does is converting the
 domain name to an IP address.
-72
 For free distribution
 For free distribution
-73
 3.2 Using Internet for communication
 3.2.1 Electronic Mail
 Electronic mail enables exchanging messages as electronic mails or files
@@ -2800,10 +2330,8 @@ Internet. This is the cheapest and fastest communication method in the world.
 Personal
 computer
 Sending
-Mail
 Internet
 Receiving
-Mail
 Mail Server
 Mail Server
 Figure 3.11 - Exchange of e mails in the Internet
@@ -2813,17 +2341,13 @@ An electronic mail address takes the form as follows.
 Let us consider the email address of the Department of Examinations, Sri
 Lanka for instance.
 exams@doenets.lk
-↓
-↓
 User name
 Domain name
 Here, exams is the user name and doenets.lk is the domain name. @ symbol
 separates the user name and the domain name.
 It is essential for the sender as well the receiver to have email accounts.
-74
 For free distribution
 For free distribution
-75
 An electronic mail account should be created
 before using an electronic mail. The web sites which
 provide electronic mail services on the Internet provide
@@ -2838,9 +2362,6 @@ Sending an e mail can be performed in the following manner.
 sasikala7@gmail.com
 bpdasun@yahoo.com
 monali@sltnet.lk
-To
-Cc
-Bcc
 Subject OL results released
 Dear All,
 Please see attachment for my results.
@@ -2855,10 +2376,8 @@ receive the copies of the email in Cc
 ² Type the email addresses of those who
 should receive the mail without the
 awareness of those receivers typed
-74
 For free distribution
 For free distribution
-75
 under To and Cc in Bcc (Blind carbon copy). Those who receive Bcc copies
 can view all the receivers of the mail. However, the receivers typed under To
 and Cc cannot view the receivers of Bcc copies (monali@sltnet.lk)
@@ -2873,7 +2392,6 @@ attachment button with the paper clip icon. (Results.jpg)
 ² Send the email by clicking "Send".
 e mails are categorized inside an e mail account for easy use.
 Inbox - To store mails received
-²
 ² Drafts - To store mails that are composed to be sent but could not be
 completed
 ² Sent - To store mails sent
@@ -2882,12 +2400,9 @@ completed
 Unwanted e mails stored in a separate folder without disturbing the Inbox
 are known as Spam.
 Inbox
-Spam
 Figure 3.13 - Spam mail
-76
 For free distribution
 For free distribution
-77
 3.2.2 Sending instant messages - IM
 Member Phone
 Voice
@@ -2896,12 +2411,9 @@ Message
 Public
 Computer
 Member Computer
-Fax
 Figure 3.14 - Sending instant messages
 Member Fax
-Two
 persons
-can
 exchange short messages very
 fast (chat) over the Internet
 using the chat facility.
@@ -2912,14 +2424,11 @@ is conducting a
 conversation between two or more persons in
 different (remote) locations using audio and
 video transmission over computer networks.
-76
 For free distribution
 For free distribution
-77
 The requirements are as follows for a video conference
 ² Computers
 ² Web cam
-²
 ² Communication software (with audiovisual facilities)
 Internet connection
 3.2.4 Social Networks
@@ -2942,13 +2451,10 @@ of remote servers hosted on the Internet to store, manage
 and process data, rather than a local server or a personal
 computer. The main services of cloud computing are
 Infrastructure as a Service (IaaS)
-²
 ² Platform as a Service (PaaS)
 ² Software as a Service (SaaS)
-78
 For free distribution
 For free distribution
-79
 Infrastructure as a Service (IaaS)
 This provides a virtual environment of servers to provide space to store data
 and software applications with the help of server computers and also to provide
@@ -2971,19 +2477,15 @@ can be used not by installing them in the device but using a web browser.
 Advantages and Disadvantages
 Advantages
 ² Lower software cost
-²
 Improve performance
 ² Fewer maintenance issues
-²
 Instant software updates
 Disadvantages
 ² Requires a constant Internet connections
 ² Does not work well in low speed
 Internet connections
-78
 For free distribution
 For free distribution
-79
 Activity
 1' Match A and B columns
 A column
@@ -3010,7 +2512,6 @@ Summary
 ² Uniform Resource Locator (URL) helps identify resources available in the
 web sites uniquely.
 IP addresses help identify every computer in the Internet uniquely.
-²
 ² To identify a web site, the domain name is used.
 ² Domain name server transforms the domain name into an IP address.
 ² All connections on the Internet are performed using protocols.
@@ -3018,18 +2519,12 @@ IP addresses help identify every computer in the Internet uniquely.
 Internet.
 ² To view the web pages, web browsers are used.
 ² Search engines are used to find information in the web.
-²
-²
-²
 an e mail address is unique.
 e mail is the fastest and the cheapest method of communication.
 Instant messages, video conferencing and social media are also used in
 communication.
-80
 For free distribution
 For free distribution
-PB
-4
 Use of Multimedia
 After studying this chapter, you will understand the following:
 ² The basics of digital graphics
@@ -3059,10 +2554,8 @@ Drawings or images, created with the use of computer graphic software, are
 called digital graphics.
 PB For free distribution
 For free distribution
-81
 Let us identify the fundementals of digital graphics (fig. 4.1).
 Resolution
-Size
 Pixel
 Colour
 Basic
@@ -3086,22 +2579,15 @@ The size of a graphic can be increased or decreased to fit into a computer
 screen or a printing paper. In changing the size of the original graphic, the size of
 the pixel is changed. When the graphic has a smaller number of pixels its quality
 decreases when it is enlarged (fig 4.3).
-82
 For free distribution
 For free distribution
-83
 Fig 4.3 - Decrease in quality in an enlarged graphic
 Colours used in a graphic are represented by the number of bits per pixel
 (bpp) used. Graphics which use more bits per pixel are higher quality.
 ² Colours in a pixel and the number of bits
 The number of bits per pixel determines the colours used in an image.
 A single bit represents two colours Two bits represent four colours
-0 }1
 two colours
-00
-01
-10
-11 }
 four colours
 However, by observing a graphic, it is not possible to determine the numbers
 of colours per pixel used. The number of bits used for the pixel only help find out
@@ -3118,10 +2604,8 @@ The number bits per pixel
 = √colour
 = √16
 The number of bits per pixel = 4
-82
 For free distribution
 For free distribution
-83
 1 bit
 4 bit
 8 bit
@@ -3139,49 +2623,24 @@ Bits per Pixel
 16 bpp
 24 bpp
 function
-(2)1
-(2)2
-(2)3
-(2)4
-(2)5
-(2)6
-(2)7
-(2)8
 (2)10
 (2)16
 (2)24
 32 bpp
 (2)32
 Number of colours
-2
-4
-8
-16
-32
-64
-128
-256
-1024
 65536
 16777216
 (16.7 million colours)
 4294967296 colour (4294
 million colours)
 ² Resolution
-1
-7
-5
 Pixels are used to measure the physical
 dimension of a digital graphic. The physical
 dimension is displayed as the image resolution.
 This illustration in Figure 4.4 is 250 pixels
 wide and 175 pixels high. The image resolution,
 therefore, is 250 x 75 pixels or 43,750 pixels.
-P
-i
-x
-e
-l
 250 Pixels
 (43,750 Pixels)
 Fig 4.4 - Image Resolution
@@ -3190,10 +2649,8 @@ number of pixels is higher in quality. To determine
 the quality of a graphic the number of pixels per
 inch (ppi) used (horizontal or vertical) or the number of dots per inch (dpi) used
 (horizontal or vertical) are considered. (Figure 4.5)
-84
 For free distribution
 For free distribution
-85
 Fig. 4.5 - Number of dots per inch (dpi)
 ² Colour
 A digital graphic contains tens of thousands of pixels. Each pixel represents
@@ -3219,10 +2676,8 @@ computer screens using coloured lights. The Primary Colours used here are
 Red, Green and Blue.
 ² CMYK Model – This model is used for printing on paper using coloured inks.
 The Primary Colours used here are Cyan, Magenta, Yellow and Black.
-84
 For free distribution
 For free distribution
-85
 A mix of RGB gives out secondary
 colours
 Mix of CMYK inks gives out RGB
@@ -3238,10 +2693,8 @@ octal numbers as RGB (245, 102, 36) or RGB (F5, 66, 24). (Figure 4.9)
 Basic
 colours
 Fig 4.9 - tertiary colour mixture
-86
 For free distribution
 For free distribution
-87
 Graphic size and compression
 The size of a graphic is determined by the number of pixels, the number
 of lines and the colour combinations used for the creation. A graphic with a large
@@ -3275,7 +2728,6 @@ graphic
 The opened
 graphic
 Does not open in its original
-form
 Opens in its original form
 Fig 4.10 - Use of Compression methods
 It is possible to compress graphics to a minimum size using Lossy file
@@ -3288,8 +2740,6 @@ original quality. In opening such a file, it is displayed in its original qualit
 compression is identified as Lossless format. GIF, PNG, RAW are examples for
 Lossless file formats.
 For free distribution
-87
-86
 For free distribution
 Graphic Types
 Digital graphics fall into two main categories. They are raster graphics and
@@ -3298,10 +2748,8 @@ graphical software used.
 There is a difference between Raster graphic and Vector graphic. Let us
 identify them.
 Criteria
-of
 Creation
 graphic
-the
 Raster graphic
 Array of pixels in different
 colours
@@ -3317,8 +2765,6 @@ Quality of the graphic Quality is lost when the size
 changes
 Quality is not lost when the size
 changes
-high
-For
 creations
 quality
 Not suitable
@@ -3328,7 +2774,6 @@ Computer speed
 creation
 Uses less memory space
 Does not change
-in
 Needs more memory space
 Reduces
 Examples of software Adobe Image Ready, Adobe
@@ -3350,16 +2795,13 @@ enlarged
 Created using Raster graphic and
 enlarged
 Figure 4.11 - Difference between raster graphics and vector graphics
-88
 For free distribution
 For free distribution
-89
 Graphic Design
 There are many software types for the creation of static graphics. A few of
 them were mentioned earlier. Most of such software need to be purchased while
 some may not be compatible for all Operating Systems. Therefore, let us see a
 software that comes free and can be downloaded from the Internet.
-GIMP
 GIMP is an image manipulation program created for GNU free and
 open source operating system. This free software is widely used to reconstruct
 photographs, create graphics, edit and formatting of graphics. This software with
@@ -3369,18 +2811,10 @@ GIMP software is UNIX based. It can also be installed on Microsoft
 Windows and Mac Operating system to install GIMP on a computer, go to http://
 www.gimp.org/downloads/.
 GIMP - Graphical User Interface
-1
-3
-4
-2
-5
-88
 For free distribution
 For free distribution
-89
 1. The Main Toolbox
 2. Tool Options
-3.
 Image Window
 1. The Main Toolbox
 4. Layers, Channels, Paths
@@ -3389,23 +2823,17 @@ It is possible to open or close the tools in this box for the editing graphics.
 For the purpose, follow:
 Edit → Preferences →Toolbox →
 The tools can be enabled or disabled.
-Icon
 Name of the
-tool
 Shortcut
 Description
 Selection tools
 Rectangle
-R
 Selects the required area as a square
 or rectangular region.
 Ellipse
 Free (Lasso)
 Fuzzy (Magic
 Wand)
-E
-F
-U
 Selects the required area as a
 circular or elliptical region.
 Draws free-form selections
@@ -3415,29 +2843,21 @@ Shift + O Selects all instances of a colour in
 a graphic.
 Scissors
 Foreground
-I
--
 Creates paths to select shapes
 Selects
 foreground objects.
 region
-a
 containing
 Bucket Fill
 Brush Tools
 Shift + B Fills an area with a colour or a
 pattern.
-90
 For free distribution
 For free distribution
-91
 Blend
 (Gradient)
 Pencil
 Paintbrush
-L
-N
-P
 the selected area with a
 fills
 gradient blend
@@ -3449,16 +2869,11 @@ and/or feathered.
 Eraser
 Shift + E Erases pixels from a layer.
 Airbrush
-Ink
 Clone
-Heal
 Perspective
 Clone
 Convolve
 (Blur/Sharpen)
-A
-K
-C
 Paint tool with variable pressure to
 spray colours on a graphic
 Adds colour to a graphic, like the
@@ -3468,7 +2883,6 @@ Slow movement makes its vice
 versa
 Copy pixels from one part of a
 graphic to another.
-H
 image
 Resolves
 irregularities
@@ -3481,32 +2895,23 @@ transformation.
 Shift + U Blurs or sharpens an image
 image source
 perspective
--
-90
 For free distribution
 For free distribution
-91
 Smudge
-S
 Dampens graphic
 Dodge/Burn
 Shift + D Lightens or darkens an image's
 shadows, mid tones, or highlights.
 Transform Tools
-Move
-M
 To shift or move a selection
 Align
-Q
 To align or arrange layers or objects
-Crop
 Shift + C Crops or clips the image
 Rotate
 Shift + R Rotates the active layer, selection
 or path.
 Scale
 Shift + T Scales the active layer, selection or
-path
 Shear
 Shift + S Shifts part of the image in some
 direction.
@@ -3514,28 +2919,19 @@ Perspective
 Shift + P Changes the perspective of the
 active layer, selection or path
 Other Tools
-B
-O
-Z
 Allows selecting and modifying
 paths
 Selects the colour of any image
 opened on your screen.
 Alters the zoom level of the image
-Path
 Colour Picker
 Magnify
 (Zoom)
 Measure
 Shift + M Shows distances and angles
-Text
-M
 Places text into the image.
-A
-92
 For free distribution
 For free distribution
-93
 2. Tool Options: The Tool Options are available to customize the options for a
 tool.
 3. Image Window: Helps display the graphic created. It is possible to keep
@@ -3579,8 +2975,6 @@ Type (By Extension)'
 (Compression takes place to suit different
 file types)
 For free distribution
-93
-92
 For free distribution
 Opening an existing
 window
@@ -3593,9 +2987,6 @@ select saving location from 'Places'
 Using GIMP software
 1. Creating a graphic using several pictures
 ² The following methods can be used to obtain images for graphic creation.
-²
-²
-²
 scanned pictures saved in the computer
 Images captured on a digital camera saved in the computer
 Images captured on a digital camera in a smart phone and saved in the computer.
@@ -3607,10 +2998,8 @@ Step 1 -
 Open GIMP software
 Step 2 -
 From the Menu, select 'Windows' → 'Single - Window Mode'
-94
 For free distribution
 For free distribution
-95
 Note: GIMP software contains two window types for use. One is Single-Window
 Mode and the other, Multi Windows Mode. The window has to be changed before
 the graphic is created.
@@ -3637,10 +3026,8 @@ height
 To select
 dimension of
 a template
-94
 For free distribution
 For free distribution
-95
 Once adjusted, it opens a GIMP Interface as follows.
 images
 opened
@@ -3660,14 +3047,11 @@ ellipse on selected picture.
 Step 8 -
 'Select → Feathers'
 Make 'Feather' to 10
-'OK'
 pixels Click
 Select 'Edit → Copy
 Visible'
-96
 For free distribution
 For free distribution
-97
 Step 9 -
 Click on new graphic window
 Select, 'Edit' → 'Paste as' → 'New Layer'
@@ -3690,10 +3074,8 @@ Follow steps 5, 6, 7, 8, 9, 10 and 11 to bring the other two pictures
 too to the graphic window. Position them and scale.
 The positioning of layers is shown in this
 manner.
-96
 For free distribution
 For free distribution
-97
 Layers
 The use of Layers is important for both simple and complex
 graphic creations. It is easy to manipulate objects on a graphic by using
@@ -3720,16 +3102,8 @@ the Layer window. By increasing or
 decreasing the opacity of a selected layer,
 the visibility of the layers below can be
 altered.
-1
-3
-5
-2
-4
-6
-98
 For free distribution
 For free distribution
-99
 Opacity 100%
 Opacity 75%
 Opacity 50%
@@ -3747,17 +3121,14 @@ Select:
 Border'.
 Set Border X – 10, Border Y
 – 10, Border colour blue →
-'OK'
 Border X – 15, Border
 Y – 15, Border colour
 yellow → 'OK'
 Borders need to be created twice as shown above.
 Step 15 -
 Save graphic. Thereafter, Export it.
-98
 For free distribution
 For free distribution
-99
 2. Creating graphics with texts
 Step 1 -
 Open GIMP software
@@ -3792,7 +3163,6 @@ Click on window and type NATURE. Using
 'Move' tool, drag text to the center.
 100 For free distribution
 For free distribution
-101
 Step 6 -
 To include a border around the text, select the layer which contains
 the text and add another layer below this. Name the new Layer, as
@@ -3823,7 +3193,6 @@ Set the values as shown in
 figure. Click 'OK'.
 100 For free distribution
 For free distribution
-101
 Step 11 -
 Once, it is placed it needs to merge all layers together.
 Right click on Layer window and click:
@@ -3853,7 +3222,6 @@ The main aim of animation is to give more depth to a static graphic and
 make it look real or authentic.
 102 For free distribution
 For free distribution
-103
 Creative animations are used in commercial publications, as a media to
 promote products, to develop computer games and creating cartoon films.
 What is animation?
@@ -3886,7 +3254,6 @@ a blank frame to include a content. However, when a creation is done in this, it
 is no longer a blank key frame.
 102 For free distribution
 For free distribution
-103
 Animation
 Vectorian Giatto
 Vectorian Giatto is produced for animations. It is a free software and can be
@@ -3899,25 +3266,16 @@ complex scripts and enable creation of simple animation including music.
 Vectorian Giatto software can be downloaded and installed in your computer
 from: http://vectorian.com/giatto
 The Graphical User Interface of Vectorian Giatto
-1
-3
-2
-5
-4
-6
-7
 1. Drawing Toolbar
 2. Build-in-player
 3. Layers
 4. Timeline
-8
 5. Work Stage
 6. Geometrical Properties and Shapes
 7. Colours
 8. Properties Window
 104 For free distribution
 For free distribution
-105
 1. Drawing Toolbar: A basic need of animation is to create an object or a text on
 a work stage for motion or editing. The tools that can be used for this purpose.
 are as follows:
@@ -3933,7 +3291,6 @@ to change type, colour and
 density as required.
 density
 colour
-type
 This is used to add a picture to the work stage. Image file formats
 that can be added to work stage are;
 Bitmap (bmp), JPEG (jpg), TIFF (tif), PNG (png), GIF (gif)
@@ -3947,15 +3304,12 @@ time, select font type, size and alignment.
 Select colours from 'Brush'
 Click mouse on work stage and type.
 Insert bitmap
-(M)
 TText tool
-(T)
 Note; If ‘Properties’ window does not appear,
 Click 'Window → Object properties'
 Changes can be done after the completion of typing.
 104 For free distribution
 For free distribution
-105
 This is used to draw oval shapes on the work stage:
 1. Select tool.
 2. Select border type, colour and density from 'shape' bar.
@@ -3977,14 +3331,11 @@ This can be used to draw wider shapes on the work stage.
 1. Select tool.
 Follow the steps described for drawing lines, using the pencil.
 Oval tool
-(O)
 Rectangle tool
-(R)
 Pencil tool (P)
 Brush tool (B)
 106 For free distribution
 For free distribution
-107
 Selection tool is used to select or move around shapes,
 texts and pictures.
 1. Select tool.
@@ -4020,11 +3371,9 @@ on the work stage.
 3. Click on 'Object'.
 Lasso tool (L)
 Free transform tool
-(Q)
 Ink bottle tool (S)
 106 For free distribution
 For free distribution
-107
 Paint Bucket tool (K)
 Eyedropper tool (I)
 This is used to change colour on shapes drawn.
@@ -4042,7 +3391,6 @@ Eraser tool (E)
 2. Built-in-player - Built-in-player is used to play, stop, rewind or move to end
 with an animation created.
 Start
-Stop
 Rewind
 End frame
 3. Layers - Layers are important in
@@ -4055,7 +3403,6 @@ transparent papers. Getting one object
 on to another can obstruct the lower
 108 For free distribution
 For free distribution
-109
 layer. Usually, when Giotto is opened, the first layer can be seen. It is named
 Layer 1. Right click on the layer frame can bring up another layer, remove one,
 make the layer visible or not, lock/unlock the layer and place it in the correct
@@ -4076,7 +3423,6 @@ obtained.
 changes accordingly can be used to select font size, font type, alignment etc.
 108 For free distribution
 For free distribution
-109
 Basics of animation
 Open a new window
 to create an animation
@@ -4084,7 +3430,6 @@ Saving an animation
 File → New Movie
 ² Click 'File → Save'
 ² Type a name in 'Save Image' dialogue
-box
 ² Select a location to save from 'Places'
 ² Click 'save'
 A file created by Giotto software is saved in the .vgd file format. The file can be
@@ -4100,7 +3445,6 @@ To save as .swf file formats; Select 'File'
 ² Select the location for saving, give file
 a name and click 'Save'.
 ² Thereafter
-the
 'Export Settings'
 dialogue box opens. Select 'Compress
 movie' and click 'OK'.
@@ -4110,12 +3454,10 @@ To open the file as an animation,
 ² Open the saved location.
 ² Right click on the file.
 ² Select the web browser you use.
-²
 It can be seen that the animation plays
 in the browser
 110 For free distribution
 For free distribution
-111
 Creating a simple animation using Vectorian Giatto
 Step 1 -
 Open Giotto software.
@@ -4145,7 +3487,6 @@ Motion Tween'. The Timeline is
 seen as follows.
 110 For free distribution
 For free distribution
-111
 Step 7 -
 Use Built-in Player to play the animation.
 If it is necessary to increase or decrease the speed in an animation or to
@@ -4188,12 +3529,10 @@ Using text tool, type ‘Beautiful
 Sri Lanka’ on work stage.
 112 For free distribution
 For free distribution
-113
 Step 8 -
 Select text and using Properties
 window, edit caption.
 (Font type – Curlz MT, font size –
-35)
 Centre the text as shown.
 Step 9 -
 Right click on the text and select.
@@ -4221,7 +3560,6 @@ voice or sound can be added. Files that are created using recorded sounds or voi
 are known as audio content. These files can be edited as necessary using computer
 software. Some such software are as follows:
 For free distribution
-113
 112 For free distribution
 ² Audacity
 ² Power Sound Editor
@@ -4241,7 +3579,6 @@ Audacity has functions for;
 Inserting sound effects on recorded digital graphics write on CDs/DVDs content.
 ² Recording live audio proceedings
 ² Recording music being played in the computer
-²
 ² Editing file formats such as WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis
 ² Copying sound, trimming, mixing, or joining together for editing purposes
 ² Changing speed and pitch in recordings
@@ -4249,22 +3586,7 @@ Audacity can be downloaded from the following URL;
 http($$audacity.sourceforge'net$
 114 For free distribution
 For free distribution
-115
 Audacity Interface
-9
-1
-2
-3
-4
-7
-5
-8
-6
-10
-11
-12
-13
-14
 1. Menu Bar
 2. Transport Toolbar
 3. Tools Toolbar
@@ -4281,7 +3603,6 @@ Audacity Interface
 14. Status Bar
 114 For free distribution
 For free distribution
-115
 Basics of using software for sound effects
 Open a new window
 for creating audio
@@ -4322,10 +3643,7 @@ Step 5 -
 Click Play and listen to the recording done.
 116 For free distribution
 For free distribution
-117
-Play
 Record
-Stop
 Editing recorded sound track to remove unnecessary sections
 Step 1 -
 Open created file saved using -.aup (Audacity Project) file format.
@@ -4333,7 +3651,6 @@ Step 2 -
 Using Selection tool on Transport Toolbar select the necessary
 sections in the audio content.
 Selection
-Tool
 Step 3 -
 Click 'Trim Audio' on Edit Toolbar. This helps remove unnecessary
 sections.
@@ -4346,7 +3663,6 @@ recorded video, or still pictures and audio content can be used. Software can be
 used to create and edit video content.
 116 For free distribution
 For free distribution
-117
 Some software that are used to create video clips and edit as follows;
 ² Photo Bucket
 ² YouTube Remixer
@@ -4364,15 +3680,11 @@ co-operation. This software can be used to create and edit video clips.
 Download and install Windows Movie Maker software from the URL given below.
 http://www.windows-movie-maker.org/
 Windows Movie Maker – Interface
-1
-2
-3
 1. Preview/Player pane
 2. Timeline stage
 3. Editing function panel
 118 For free distribution
 For free distribution
-119
 1. Preview/Player pane
 This is used to view a video and image frames expected to be used in a
 video clip and to watch a created video clip before saving it.
@@ -4393,7 +3705,6 @@ creation.
 The screen to appear will look like as follows:
 118 For free distribution
 For free distribution
-119
 Apply Transition
 Transition is used to show the relationship between two image frames and
 the manner in which the frames appear.
@@ -4422,7 +3733,6 @@ iii) Type a suitable topic.
 iv) Open Format menu. Add Effects to suit topic.
 120 For free distribution
 For free distribution
-121
 9. Captions can be added to each image frame. For this purpose:
 i) Select image frame.
 ii) Select 'Home → Caption' and type a suitable caption
@@ -4444,7 +3754,6 @@ stage is shown as follows:
 120 For free distribution
 13. Play the video content. Edit as necessary.
 For free distribution
-121
 Saving an animation
 'File' → 'Save Project'
 Select a location for saving. Give file a suitable name. Click 'Save' to save
@@ -4472,7 +3781,6 @@ For social media
 as an audio content
 122 For free distribution
 For free distribution
-123
 Activity
 1. Create a few still graphics using photographs of special places of
 Internet in Sri Lanka using the lesson learnt in this chapter.
@@ -4484,7 +3792,6 @@ Sri Lanka.
 5. Compare and contrast lossy and lossyless graphic compression.
 6. Compare and contrast raster graphic and vector graphics.
 Summary
-²
 Images or graphics created using graphic software are known as digital
 graphics.
 ² Basic elements of a digital graphic are pixel, resolution, size and colour.
@@ -4506,8 +3813,6 @@ physical dimension is known as image resolution.
 ² For example ‘RGB Triplet’ = RGB (245, 102, 36) = RGB (F5, 66, 24)
 122 For free distribution
 For free distribution
-123
-²
 There are two forms for graphic compression;
 ¾ Lossy
 ¾ Lossless
@@ -4516,7 +3821,6 @@ There are two forms for graphic compression;
 ¾ Vector Graphic.
 124 For free distribution
 For free distribution
-PB
 5 Web Designing Using Multimedia
 After studying this chapter, you will understand the following:
 ² Content of a website
@@ -4543,7 +3847,6 @@ such as songs, films and teledramas, games, broadcasts and telecasts
 Example - www.islandcricket.lk, www.netflix.com, www.youtube.com
 PB For free distribution
 For free distribution
-125
 iv) Advertising
 These websites provides information on goods and services provided by
 various organizations.
@@ -4577,7 +3880,6 @@ following are useful in understanding them:
 5. Preferences
 126 For free distribution
 For free distribution
-127
 When designing a new website, various methods can be used to understand
 the target user group.
 For instance,
@@ -4591,7 +3893,6 @@ The website in Figure 5.2 provides the facilities to change the font size
 according to the user preference and to access social networks.
 126 For free distribution
 For free distribution
-127
 To access Sinhala
 medium
 To access Tamil
@@ -4600,7 +3901,6 @@ To access English
 medium
 Figure 5.1 - Home Page of www.srilanka.lk
 Change font
-size
 Search
 Change the
 language
@@ -4624,16 +3924,13 @@ as all the services to be provided to the user.
 Various types of information and services can be found in the web content
 of websites. Following are some of them:
 ² Texts : information given in short
-²
 Images : photos taken from a camera, clip arts, drawings, scanned
 ² Sound : songs, voice clips
 ² Video : video clips
-²
 ² Copyrights and information about updates
 Animations
 128 For free distribution
 For free distribution
-129
 ² Hyperlinks to other documents, pictures, audio-visual files, and social
 networks
 ² Advertisements
@@ -4664,7 +3961,6 @@ created is indicated in square structures and the hyperlinks need to be created 
 interlinks among those pages are indicated in lines.
 128 For free distribution
 For free distribution
-129
 Home Page
 Current
 Management
@@ -4672,7 +3968,6 @@ Information
 Structure
 History
 Sports
-Old
 Pupils
 School
 Development
@@ -4681,7 +3976,6 @@ societies
 Contact
 Volley ball
 Cricket
-Elle
 Literature
 Buddhist
 English
@@ -4690,7 +3984,6 @@ Figure 5.3 - Site map of website of a school
 To manage the space in the home page;
 ² Use of main menu and sub menu (Figure 5.4)
 ² Use of hyperlink (Figure 5.5)
-²
 Main Menu
 Sub Menu
 Figure 5.4 - Main menu and Sub Menu
@@ -4703,10 +3996,8 @@ This prevents the user getting exhausted by reading long text paragraphs.
 5. Providing the facility for the user to navigate the website easily
 130 For free distribution
 For free distribution
-131
 130 For free distribution
 For free distribution
-131
 6. Updating
 Web site should be easy to update by the person maintaining the site. The
 accuracy of information is assured when the copyrights and the updated time
@@ -4728,7 +4019,6 @@ browse websites. Different sizes of
 screens are used as shown in Figure
 5.6. Since the screen resolutions
 these devices are different,
-of
 some web pages are displayed in
 different ways on different screens.
 The website should be constructed
@@ -4743,7 +4033,6 @@ www.schoolnet.lk
 www.bbc.co.uk/education
 132 For free distribution
 For free distribution
-133
 5.1.6 Selecting media resources
 When selecting any type of media resource for a website such as various
 texts, pictures, sounds, videos and animations, several factors should be considered.
@@ -4760,7 +4049,6 @@ followed depending on to the media type. Following are some examples;
 ◦ Reducing the amount of pixels by removing unnecessary sections using
 Crop/Trim in graphics software
 graphic compression
-◦
 ² Video files
 ◦ Reducing frame size
 ◦ Reducing resolution
@@ -4768,9 +4056,6 @@ graphic compression
 ◦ Removing unnecessary frames and sound
 ² Audio files
 ◦ Reducing the bit rate
-◦
-◦
-◦
 reducing the sample rate
 reducing number of channels
 removing or reducing unnecessary sound
@@ -4782,7 +4067,6 @@ However, as per the fair use of principles, it is possible to use media resource
 without permission for activities such as news reporting, academic purposes and
 critic.
 For free distribution
-133
 132 For free distribution
 Activity
 Develop a plan to school website related to sub topics 5.1.1 to 5.1.6
@@ -4811,7 +4095,6 @@ Figure 5.7 - Open Notepad
 Figure 5.8 - HTML statements written in Notepad
 134 For free distribution
 For free distribution
-135
 Step 3 -
 As shown in Figure 5.9, type the file name of that notepad page as
 myfirst.html and select the file type as All Files. Then save it in a
@@ -4832,14 +4115,12 @@ Following are some software with the web addresses to download.
 1. CoffeeCup (www.coffeecup.com/html-editor)
 2. Seamonkey Composer (www.seamonkey-project.org)
 3. Eclipse (https://marketplace.eclipse.org/content/html-editor-
-wtp)
 Install any one of the above software in your computer.
 Step 7 -
 Open the web designing tool in your computer. Given in Figure
 5.11 is how the HTML editor named CoffeeCup is opened after
 giving the command File → New HTML document.
 For free distribution
-135
 134 For free distribution
 Figure 5.11 - Display of HTML editor in Coffeecup
 You can see that a substantial number of phrases you wrote in step 02 on
@@ -4848,14 +4129,12 @@ Now you can insert the items in the proper places in your web page. Figure
 5.12 shows how the phrases “This is the title” and “My first web page” you inserted
 in the first web page.
 Save this in your folder as coffeecup.html using the command File → Save
-As.
 Preview tool
 “This is the Title”
 “My first web page”
 Figure 5.12 - Insert elements in CoffeeCupHTML editor
 136 For free distribution
 For free distribution
-137
 Step 8 -
 Now check the web page using preview tool. Design more web
 pages by inserting more new phrases.
@@ -4885,17 +4164,12 @@ Closing html tag
 <body>
 </body>
 </html>
-head
-body
-}
-}
 136 For free distribution
 Figure 5.13 - Basic structure of a HTML document
 An HTML document consists of two main parts; head and body. The figure
 5.13 shows clearly that the opening <html> tag shows the opening of the document
 and the closing </html> tag shows the ending of the document.
 For free distribution
-137
 Web page content should be included in the body part. Consider how you
 indicated “My first web page” in your first web page.
 There are special occasions where you make notes in the Head part. For
@@ -4911,7 +4185,6 @@ E.g. - <p> to mark the beginning of a paragraph
 iii) Generally, HTML closing tags are given in pairs. “/” (back slash) with the name
 of the tag should be indicated in the ending tag.
 E.g. - <p> to mark the beginning of a paragraph and </p> to mark the end of
-it
 iv) Generally HTML tags are not case sensitive. That means, the use of capital or
 simple letters of the English language does not affect the meaning.
 E.g. - <TITLE>, <Title> or <title> does not make any difference.
@@ -4926,7 +4199,6 @@ Element
 Attributes
 138 For free distribution
 For free distribution
-139
 The features related to a certain HTML are indicated in the opening tag only
 and the values related to it are always indicated within inverted commas.
 5.1.10 Designing a web page
@@ -4948,7 +4220,6 @@ compare it with the output given in Figure 5.15 as well as the title text given 
 Figure 5.14.
 138 For free distribution
 For free distribution
-139
 <html>
 <head>
 <title> Sri Lanka </title>
@@ -4959,12 +4230,6 @@ SRI LANKA
 </font></center></h2>
 </body>
 </html>
-O
-u
-t
-p
-u
-t
 SRI LANKA
 Header tag Center tag
 Font tag
@@ -4992,7 +4257,6 @@ Font color attribute shows the colour of the letters. There are two ways to
 assign values for this.
 140 For free distribution
 For free distribution
-141
 i) Providing the names of the sixteen standard colours as they are, in Figure 5.16
 Figure 5.16 - Standard Sixteen Colours
 Example: <font size =zz5" face =zzverdana" color = zzfuchsia" >SRI LANKA</font>
@@ -5010,7 +4274,6 @@ font>
 Output
 SRI LANKA
 For free distribution
-141
 Center tag
 This is a tag used to align the title of your web page to the centre along the
 horizontal axis. This can be used not only for a text, but also for other elements such
@@ -5020,15 +4283,9 @@ Given below in Table 5.1 shows some of them.
 Table 5.1 - Text Formatting Tags
 HTML symbol How the letters are
 Example
-<b>
-<i>
-<u>
 designed
-Bold
 Italic
 Underline
-<em>
-<s>
 <sup>
 <sub>
 <marquee>
@@ -5062,7 +4319,6 @@ unicode in 'Save As' dialog box when saving the document (Figure
 5.19). Compare your web page with the output shown in Figure 5.20.
 142 For free distribution
 For free distribution
-143
 <html>
 <head><title> Text Formatting </title></head>
 <body>
@@ -5079,7 +4335,6 @@ Figure 5.18 - HTML document
 Figure 5.19 - Save as dialog box related to activity above
 142 For free distribution
 For free distribution
-143
 Figure 5.20 - Output
 Activity
 1. Find out other text formatting tags by referring to websites and
@@ -5101,7 +4356,6 @@ explained in Table No 5.2.
 Table No 5.2 - Some attributes related to <img> element
 Attribute
 source or
-src
 alternative
 or alt
 width
@@ -5129,7 +4383,6 @@ height = “100” or
 height = “50%”
 144 For free distribution
 For free distribution
-145
 border
 align
 If a border is needed around the picture, its
@@ -5156,12 +4409,6 @@ the output in Figure 5.14.
 A map of Sri lanka </font></center>
 </body>
 </html>
-O
-u
-t
-p
-u
-t
 Figure 5.21 - Code to enter the image and the output
 Inserting and formatting a paragraph
 To insert a paragraph below the image, insert the code given below in Figure
@@ -5169,7 +4416,6 @@ To insert a paragraph below the image, insert the code given below in Figure
 5.23 and Figure 5.14.
 144 For free distribution
 For free distribution
-145
 <html>
 <head><title> Sri Lanka </title></head>
 <body><h2><center><font face="arial" color="blue"> SRI LANKA </font></center></h2>
@@ -5193,13 +4439,10 @@ different types of alignments can be used on “left”, “right”, “center�
 attribute in <p> tag.
 146 For free distribution
 For free distribution
-147
 Example
 Table 5.3 - Paragraph alignment
-Tag
 < p align = ''left'' >
 Alignment
-Left
 < p align = ''center'' >
 Center
 < p align = ''right'' >
@@ -5222,7 +4465,6 @@ Enter the code given below in Figure 5.24 to your web page to insert some
 rows below the paragraph you entered in the third step.
 146 For free distribution
 For free distribution
-147
 Line break tags
 Figure 5.24 - Code to insert a few rows
 Figure 5.25 - A part of the output related to the code given in Figure 5.24
@@ -5240,7 +4482,6 @@ attribute is used to show the shape of the special symbol with its element. Here
 the three values which can be assigned to it.
 148 For free distribution
 For free distribution
-149
 1. Disc
 2. Square
 3. Circle
@@ -5263,11 +4504,6 @@ ordered list (Figure 5.27). Two tags - <ol> and <li>, are used together to indic
 these in web pages.
 Table No 5.4 - Values which can be assigned to <ol> type attribute and their meanings
 Value
-1
-A
-a
-i
-I
 Meaning
 Hindu Arabic numbers
 English capital letters
@@ -5289,21 +4525,15 @@ IV. Burgher
 Figure 5.27 - Ordered Lists
 148 For free distribution
 For free distribution
-149
 iii) Description/definition list
 Description lists are used to provide a description with the list (Figure 5.31)
 Table 5.5 - Description list
-Tag
-<dl>
-<dt>
-<dd>
 Description
 Beginning of a description list
 Introduction of list
 Description of the list
 Example: Write the HTML code as given below to display a description list as
 shown in Figure 5.28 in a web page and check the output.
-<dl>
 <dt> Main subjects for the science stream </dt>
 <dd> Biology </dd>
 <dd> Physics</dd>
@@ -5313,7 +4543,6 @@ shown in Figure 5.28 in a web page and check the output.
 <dd> Economics </dd>
 <dd> Business Studies </dd>
 <dd> Accountancy </dd>
-<dl>
 Output
 Figure 5.28 - Description list
 Activity
@@ -5321,7 +4550,6 @@ Design web pages which contain lists as above using items you
 like.
 150 For free distribution
 For free distribution
-151
 4. It is possible to design web pages in a way that one type of a list contains
 another type of list. Given below is such a code and its output which is
 displayed in Figure 5.29. Build various forms of similar lists.
@@ -5335,12 +4563,6 @@ displayed in Figure 5.29. Build various forms of similar lists.
 <li> Muslim </li>
 <li> Burgher </li>
 </ul>
-O
-u
-t
-p
-u
-t
 Figure 5.29 - Coding of different lists and its output
 Hyperlink
 Let us create a hyperlink for “President” as shown in Figure 5.14. Enter the
@@ -5365,7 +4587,6 @@ Attached file
 Figure 5.30 - Creating a hyperlink for a text
 150 For free distribution
 For free distribution
-151
 Figure 5.31 - Output of the code related to the hyperlink
 While displaying the web page, more the Mouse to the text “President”
 which contains the hyperlink.
@@ -5391,7 +4612,6 @@ website in internet.
 or books on HTML codes.
 152 For free distribution
 For free distribution
-153
 Inserting a Table
 Information such as various texts and pictures can be presented in a more
 organized way in rows and columns by including a table to a web page.
@@ -5399,18 +4619,15 @@ After the HTML code written using the <br/>tag to include the four ethnic
 groups as Sinhala, Tamil, Muslim, Burgher in your web page, add the code as given
 in Figure 36 to include the table.
 Table
-tag
 Border attribute
 Tag for rows of the table
 Figure 5.32 - Code to insert the table
 Creating cells
 which include
-data
 Then display your web page and compare it with the output given in Figure
 5.33 which indicates the relevant section only, as well as with Figure 5.14
 152 For free distribution
 For free distribution
-153
 Figure 5.33 - Output related to the code of Figure 5.32
 Table Tag
 This tag marks the beginning of a table and the attributes to decorate the
@@ -5449,7 +4666,6 @@ Output
 154 For free distribution
 Figure 5.34
 For free distribution
-155
 Caption Tag
 This tag is used to include a title or a description of the table above it. Even
 if there are no attributes, this caption can be decorated using the tags related to text
@@ -5476,7 +4692,6 @@ Example :
 is the number of rows merged.
 Figure 5.35
 For free distribution
-155
 Example :
 <th> tag
 <th> Tag
@@ -5494,7 +4709,6 @@ Create a website as your team has planned using a suitable HTML
 editor.
 156 For free distribution
 For free distribution
-157
 5.2 Web Designing Software
 A sound knowledge of HTML language is essential in designing websites
 using simple word processors or HTML editors. Further HTML coding takes more
@@ -5505,8 +4719,6 @@ designing, editing, preview and upload. As per the concept WYSIWYG (What You
 See Is What You Get), you can create web pages in the same way you design them
 on the graphical user interface.
 There are various types of web designing software. For instance,
-1.
-2.
 Web authoring tools
 Content Management Systems (CMS)
 5.2.1 web authoring tools
@@ -5526,10 +4738,8 @@ systems of human body". Figure 5.38 shows the structure, preview and the content
 of its Home Page.
 156 For free distribution
 For free distribution
-157
 For more information.......
 For the grade 11 ICT book
-2015
 Hyperlinks to other web pages
 Hyperlink to another website
 Figure 5.38 - Home Page
@@ -5550,7 +4760,6 @@ to preview
 158 For free distribution
 Figure 5.39 - Interface of Kompozer software
 For free distribution
-159
 Step 02 -
 Type the title “Systems in Human Body” on the topmost in web
 designing area. Format the title by changing font, type, size, colour
@@ -5582,7 +4791,6 @@ cells, insert, delete and merge cells. Format the table as in figure
 Systems of the Human Body
 158 For free distribution
 For free distribution
-159
 Figure 5.41 - Arrangement of cells in the table
 Step 06 -
 Format the table including texts, images, hyperlinks as in Figure
@@ -5620,7 +4828,6 @@ Example:
 2. Showing results of a candidate related to the index number.
 160 For free distribution
 For free distribution
-161
 Users are directly connected to the web server while using such websites.
 Information is exchanged from the user to web server or vice versa. Hence, the
 security of the website is threatened compared to a static website.
@@ -5647,9 +4854,7 @@ visual information is entered to the website using templates and wizards provide
 by the software. All the websites that are designed this way will be monotonous.
 This weakness can be largely avoided by changing relevant codes if you possess
 a sound knowledge of computer languages such as HTML, PHP, javascript, CSS,
-SQL.
 For free distribution
-161
 160 For free distribution
 Some open code CMS software with their web addresses are as follows.
 1. Joomla (www.joomla.org/download.html)
@@ -5683,7 +4888,6 @@ Activity
 Build the website your team planned using Joomla software.
 162 For free distribution
 For free distribution
-163
 5.2.4 Roles related to web designing
 Designing a website for a certain institute and maintaining it while keeping
 it updated is a team work involving in many people. Each person has a role to play
@@ -5704,7 +4908,6 @@ should fulfill for this.
 3. A domain name
 4. File transfer protocol
 Internet connection
-5.
 5.3.1 Web Host
 The designed website should be hosted in a place where any person
 can access at any time from any place through Internet. Such service providing
@@ -5718,7 +4921,6 @@ There are institutes which provide web host services free of charge as well.
 You can get this facility through various websites. Here, their advertisements are
 also displayed in your website.
 For free distribution
-163
 162 For free distribution
 Activity
 Name two institutes which provide free web host services along with
@@ -5740,7 +4942,6 @@ is responsible for hosting. However, if you need to host your website in another
 web host later, this can create issues on registration. Hence, it is more appropriate
 if the publisher himself registers the website.
 Things to consider when selecting a domain name to a website.
-1.
 It is appropriate to give a certain identification about the institute the website
 belongs to or the objective of preparing the website through the domain name.
 This makes the users easier to find the website through search engines.
@@ -5752,19 +4953,12 @@ Example: The top level domain name “.org” of the web address www.
 wikipedia.org indicates that it belongs to non commercial type websites.
 .(Root)
 com edu
-gov
-mil
 net ...
 uk fr pe sp jp cd gr
-...
-...
 Organizational hierarchy Geographic hierarchy
 Figure 5.43 - Domain names of websites
 164 For free distribution
 For free distribution
-165
-3.
-4.
 If the domain name is short, it is easy for the user to remember it as well as to
 type it accurately.
 It is not appropriate to include numbers, lines, in domain name. The reason
@@ -5800,7 +4994,6 @@ Some Internet service providers in Sri Lanka are as follows..
 3. Mobitel
 4. Dialog Axiata
 For free distribution
-165
 164 For free distribution
 5.3.5 Maintenance of Website
 Regular maintenance is an essential factor for the success of a website. This
@@ -5813,7 +5006,6 @@ information, current changes can be updated instantly.
 2. Harmful software like viruses, unauthorized access can create the website
 malfunction. Hence, regular attention should be paid, while getting back up
 time to time and proper security methods should be followed.
-3.
 If there are new versions of the software used to design the website, website
 should be updated accordingly. It is important for the security of the website.
 Activity
@@ -5827,16 +5019,13 @@ manage
 Stages in web design
 and development
 3) Domain
-name
 6) Test
 5) Upload
 4) Hosting
 Figure 5.44 - Steps of web design and development
 166 For free distribution
 For free distribution
-167
 Summary
-²
 In web designing, it is essential to design it with a structure and a pre design,
 and organize it well with the proper content which suits the needs of the
 users of the web site.
@@ -5854,8 +5043,6 @@ selected to publish a designed web site.
 ² There should be a maintenance process for the success of a web site.
 166 For free distribution
 For free distribution
-167
-6
 Information and Communication
 Technology and Society
 After studying this chapter, you will understand the following:
@@ -5888,7 +5075,6 @@ technology
 Figure 6.2 - Holographic image
 processing technology
 For free distribution
-169
 iii) Cartoon films
 Cartoon films are popular among both
 adults and the young. The 3D features
@@ -5901,7 +5087,6 @@ with modern music and related editing.
 Recording of songs, creating rhythm and
 mixing are freely done using modern
 software to entertain audiences (Fig 6.4).
-in
 Songs
 recorded
 this manner
@@ -5926,7 +5111,6 @@ popular today.
 168 For free distribution
 Figure 6.6 - Digital games
 For free distribution
-169
 vi) Simulation games
 Simulation games are based on an
 everyday activity in a natural setting created
@@ -5964,7 +5148,6 @@ related
 issues
 Social issues
 For free distribution
-171
 These issues and likely solutions are detailed in the following sub-section.
 6.2.1 Legal issues
 i) Data thefts -
@@ -6002,7 +5185,6 @@ another to do or refrain from doing something which causes loss. The fraud will
 result in obtaining a benefit by, for example:
 170 For free distribution
 For free distribution
-171
 • Altering in an unauthorized way (e.g. employees entering false data)
 • Altering, destroying, suppressing or stealing output to conceal unauthorized
 transactions
@@ -6025,7 +5207,6 @@ owner. This, can be done by,
 Figure 6.10 - Plagiarism
 1. citing - mentioning the rightful owner and his/her information.
 2. quoting - the use of inverted commas (“…”) to identify a selected or borrowed
-3.
 section.
 referencing - the listing of resources from which the information was collected.
 This is usually done at the end of an essay or article.
@@ -6040,7 +5221,6 @@ If so, how can computers be made secure to free ourselves from physical
 and logical issues that are likely to arise?
 172 For free distribution
 For free distribution
-173
 ¾ Physical Security
 i) Uninterrupted Power Supply (UPS)
 In case of an electricity breakdown, there has to be some alternate
@@ -6050,7 +5230,6 @@ with the battery contained in a UPS. This prevents interruption to the supply of
 power to the computer.(Fig. 6.11).
 Computer
 Main Supply
-UPS
 Figure 6.11 - Uninterrupted Power Supply (UPS)
 ii) Hardware Firewalls
 Hardware firewalls bought as a separate unit have now been built into
@@ -6060,20 +5239,10 @@ unauthorized access to or from a network by filtering data that pass through it.
 All messages entering or leaving a network pass through the firewall, which
 examines each message and blocks those that do not security criteria (fig. 6.12)
 Outgoing
-Data
-F
-i
-r
-e
 Incoming
-Data
-w
-a
-ll
 Internet
 172 For free distribution
 For free distribution
-173
 Figure 6.12 - Hardware Firewalls
 iii) Controlled access through locked doors
 Closed and locked doors are essential to ensure
@@ -6090,7 +5259,6 @@ Figure 6.13 - Controlled
 access through doors
 Figure 6.14 - CCTV
 v) Surge protector
-The
 protector
 surge
 protects computers and other
@@ -6119,7 +5287,6 @@ free from dirt, dust, moisture and the like
 Figure 6.15 - Surge protector
 Figure 6.16 - Environmental factors
 For free distribution
-175
 ¾ Logical Security
 i) Passwords
 Passwords are used to secure data
@@ -6150,7 +5317,6 @@ Figure 6.17 - Passwords
 Figure 6.18 - Software Firewalls
 Figure 6.19 - Backups
 For free distribution
-175
 174 For free distribution
 6.2.4 Malicious software / Malware
 i) The use of a computer involves various threats.
@@ -6163,7 +5329,6 @@ function, unnecessary attempts or re-start again and
 again)
 Inability to install other software
 ² Destruction or mal-function of software
-²
 ² Weaken computer hardware
 ² Sabotage of computer networks
 ² Data theft and destruction
@@ -6190,13 +5355,10 @@ alone using e-mail attachments, false websites and
 instant messages.
 176 For free distribution
 For free distribution
-177
 Spyware
-Bots
 Hijacker/ Browser
 Hijacker
 Phishing
-Spam
 Trojan Horse
 The Trojan Horse is a harmful software based on the
 Greek Trojan Horse constructed using wood. It presents
@@ -6238,16 +5400,13 @@ mail and make the user uncomfortable. Also, Spam may
 collect e-mail addresses that can be used unlawfully for
 frauds.
 For free distribution
-177
 176 For free distribution
 Safeguarding computer and a computer network from harmful software
-²
 Install a virus guard into the computer. Update the virus guard as is
 necessary. Keep Guard/Shield/Auto Scan/Update always active.
 ² Be careful with the use of a USB memory. Check USBs for possible viruses
 using anti virus software.
 ² Always install authorized software
-²
 Instead of an administrator account, maintain a user account
 If the computer is connected to the Internet,
 ² Access secure websites. Check URL for verification.
@@ -6274,7 +5433,6 @@ Some secure, popular virus guards to be installed on a computer are as follows.
 Prevention is better than cure
 178 For free distribution
 For free distribution
-179
 Activity
 Make a list of virus guards from the Internet other than what is
 mentioned above. Tabulate the names of the manufacturer and the
@@ -6288,16 +5446,13 @@ access has arisen. This is also called ‘Cyber Security’.
 Cyber security is not limited to e-mail, Internet solutions, or social
 networks. They are useful for personal networks and operating systems (OS). Some
 organizations responsible for cyber security are as follows.
-²
 Institution for Information Security of Sri Lanka
 Information and Communication Technology Agency (ICTA) is responsible
 for the establishment of this institution in Sri Lanka. It provides facilities to various
 organizations as listed below:
 ◦ Citizens
 ◦ Business establishments
-◦
 State institutions.
-²
 ICTA, Sri Lanka Standards Bureau and the Sri Lanka Emergency
 Computer Services have together organized to certify Information Security
 Management Systems (ISMS) to ensure security of information. Individuals
@@ -6311,7 +5466,6 @@ https://www.techcert.lk/si/
 https://www.cert.gov.lk
 178 For free distribution
 For free distribution
-179
 6.2.5 Health issues related to use of Information Communication
 Technology
 ² Ergonomics and health issues
@@ -6345,7 +5499,6 @@ Figure 6.22 - Repetitive Stress
 Injury
 180 For free distribution
 For free distribution
-181
 iii) CTS – Carpel Tunnel Syndrome (Fig.6.23)
 Carpel tunnel syndrome is the feeling of
 a numbness and pain in the fingers. The pain
@@ -6354,7 +5507,6 @@ Incorrect use of the key board and the mouse
 or placing them in the incorrect positions are
 reasons for the syndrome.
 iv) CVS - Computer Vision Syndrome
-•
 Sticking to the computer continuously
 for 6 to 7 hours can cause irritation of the
 eyes and is identified as the Computer Vision
@@ -6370,10 +5522,8 @@ vi) Stress
 Increase of activities in the working
 environment due
 technological
-to
 advancement cause stress, sleeplessness,
 tiredness, lack of appetite etc. (Fig. 6.26)
-the
 Figure 6.23 - Carpel
 Tunnel Syndrome
 Figure 6.24 - Computer Vision
@@ -6381,19 +5531,12 @@ Syndrome
 Figure 6.25 - Headache
 Figure 6.26 - Stress
 For free distribution
-181
 180 For free distribution
 How can these health problems be avoided?
 Correct posture in the use of a computer, is essential. This is an essential
 feature of ergonomics.
 Correct posture in the use of a computer can help prevent many problems
 associated with health. They are,
-2
-}
-5
-3
-1
-4
 Figure 6.27 - Correct posture
 1. Keeping the computer on a suitable table at eye level or a little lower.
 2. The distance between the computer screen and the eye to be 18 – 28 inches
@@ -6413,7 +5556,6 @@ computers at home and maintain a relaxed mind.
 Followers of these procedures are unlikely to face health issues.
 182 For free distribution
 For free distribution
-183
 6.2.6 e waste - Harmful elements and effects on environment
 Electronic products such as computers, television, mobile phones, printers
 worked using electricity or powered by batteries have become non working after
@@ -6439,7 +5581,6 @@ procedure of disposal, it causes immense harm to humans and the environment as
 well. Pollution of the environment effects man himself.
 Brain
 Lungs
-Skin
 Liver
 Figure 6.29
 If CFL (compact fluorescent light) bulbs are disposed in an improper way,
@@ -6447,7 +5588,6 @@ it can harm the environment since they contain minute particles of mercury, a to
 metal that is hazardous.
 182 For free distribution
 For free distribution
-183
 Health hazards and effects of Mercury
 ² Damage to brain cells
 ² Disruption of the nervous system
@@ -6483,7 +5623,6 @@ Communication Technology.
 184 For free distribution
 Figure 6.30 - Digital divide
 For free distribution
-185
 Some of the reasons for the digital divide are as follows;
 ² Education
 ² Ability to use technology
@@ -6505,7 +5644,6 @@ Information Communication technology with those who are totally ignorant of
 Information Communication Technology or their uses.
 ² Affluence/Poverty - Even though, there is a need and the necessity to learn and
 use ICT, afford ability becomes a matter for denied.
-²
 Industrial development/under industrial development - Industrialization of
 a country is a reason for the use of Information Communication Technology.
 Non-industrialization leads to a digital divide between countries.
@@ -6522,7 +5660,6 @@ learn how to use them effectively. Otherwise, the technology may become
 meaningless and lose value.
 184 For free distribution
 For free distribution
-185
 How to form a digital bridge
 Figure 6.32 - Digital Bridge
 ² Digital Literacy – Acquiring ICT Knowledge helps get over a digital divide.
@@ -6550,7 +5687,6 @@ opportunities for employment, observe market trends, exchange information
 through social networks and related concerns.
 186 For free distribution
 For free distribution
-187
 ² Participation of intermediaries - To make the digital bridge a success, it is
 extremely necessary to get the support of various business concerns, people’s
 associations and both public and private sector sponsorship and assistance.
@@ -6577,12 +5713,9 @@ the electronic books and magazines.
 opportunities in laboratory services
 186 For free distribution
 For free distribution
-187
 Technology related employment opportunities
-We
 learnt
 technology would,
-that
 in various ways deny us opportunities for
 employment. (Fig. 15.34) Yet, technology
 has, today, come to be an invaluable asset
@@ -6618,7 +5751,6 @@ educated about the development of software as well as ICT can certainly help you
 win prosperity with highly paid employment opportunities.
 188 For free distribution
 For free distribution
-189
 6.2.8 Misuse of ICT to harm Society
 i) Social Media
 globally,
@@ -6647,7 +5779,6 @@ service from social media.
 It has become increasingly possible for social media to connect people from
 different parts of the globe share opinions, participate in lively discussions,
 exchange images, video clips, and songs.
-²
 ii) Cyber crime
 However, irresponsible use of social media has engendered misconduct in
 society. This irresponsible use is identified as cyber crime. A few such acts are as
@@ -6664,7 +5795,6 @@ finally destroy lives
 ² Using unfair means to gain access to others’ personal accounts and stealing
 personal information.
 For free distribution
-189
 188 For free distribution
 iii) How can we protect ourselves from using social media?
 ² Be careful in selecting social media over the Internet
@@ -6672,7 +5802,6 @@ iii) How can we protect ourselves from using social media?
 ² Be careful in presenting personal information to social media over the Internet
 ² Avoid accessing suspicious e-mails
 ² Do not click on suspicious links that come through e-mail
-²
 ² Do not allow social media to access the e-mail address book
 ² Do not use personal e-mail to access social media
 ² Avoid installing applications in your computer that come through social media.
@@ -6691,17 +5820,14 @@ maintaining backups.
 ² Harmful software can come in as computer viruses, computer worms, spyware,
 bots, hijackers, phishing and spam.
 It is safe to use antivirus software for protection against harmful software.
-²
 ² Physical strain can be minimized with correct posture.
 ² Electronic waste needs to be disposed of correctly to avoid unnecessary harm
 to the environment.
 ² Digital divide is a social issue arising from ICT.
 ² Digital bridge can help avoid digital divide.
-²
 ² Those quite knowledgeable about ICT have an advantage over others in well
 ICT contributes towards elimination of inherent talent.
 paid employment.
 ² Safe use of social media can help minimize cyber crime
 190 For free distribution
 For free distribution
-PB

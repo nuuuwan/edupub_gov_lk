@@ -5,7 +5,7 @@ from pdfminer.high_level import extract_text
 from utils import File, Log
 
 LINE = '-' * 80
-
+MIN_LINE_LENGTH = 5
 log = Log('pdf_to_txt')
 
 
@@ -18,7 +18,7 @@ def clean_line(line):
 def clean_text(content):
     lines = content.split('\n')
     lines = [clean_line(line) for line in lines]
-    lines = [line for line in lines if len(line) > 0]
+    lines = [line for line in lines if len(line) >= MIN_LINE_LENGTH]
 
     found_index = False
     i_index = 0
@@ -68,7 +68,7 @@ def build_all_txt():
 
 
 def main():
-    build_txts(force_build=False)
+    build_txts(force_build=True)
     build_all_txt()
 
 

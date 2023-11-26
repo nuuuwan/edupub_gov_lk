@@ -9,29 +9,9 @@ Contents
 8. Reading Is Fun
 9. Enigma
 10. Choices In Life
-xi
-xi
 Pages
-01
-14
-25
-35
-48
-59
-73
-90
-102
-114
 Competency Levels to Be Covered in Grade Eleven
 Competency
-1
-2
-3
-4
-5
-6
-7
-8
 No. of Competency Levels
 1.1, 1.2, 1.3, 1.4, 1.5
 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7
@@ -42,9 +22,6 @@ No. of Competency Levels
 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 7.8
 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.13, 8.14,
 8.15, 8.16, 8.17, 8.18
-Unit
-1
-Our
 Responsibilities
 The Book at a Glance
 Lesson/Activity
@@ -58,60 +35,37 @@ Activity 3
 8.2, 8.6, 8.8
 1.3, 5.2, 5.6, 5.7, 6.2 Activity 4
 Activity 5
-7.7
 Activity 6
-4.4
 Activity 7
-6.3
 Activity 8
 6.6, 6.7, 8.9
 Activity 9
 3.2, 5.3, 7.4
 Activity 10
-5.3
 Activity 11
-7.4
 Activity 12
-7.3
 Activity 13
-8.13
-xii
-2
 Facing
 Challenges
-3
 Great Lanka
 Activity 1
 5.1, 8.9, 8.13, 8.14
-5.1
 Activity 2
 4.3, 5.2, 6.2, 6.6, 6.9 Activity 3
 Activity 4
 7.1, 7.2, 8.3, 8.13,
-8.14
 1.2, 5.6
 5.7, 7.5, 8.13
 3.1, 7.7
 7.5, 7.8
-6.3
 5.1, 6.1, 6.3
-6.11
-7.6
-7.6
-5.4
 1.1, 1.4
-3.3
-5.1
 1.2, 5.2
 5.2, 5.3
-6.6
-8.4
-6.1
 4.7, 7.1, 7.8
 4.7, 5.6, 5.8, 8.13
 1.2, 5.6, 7.1, 7.8
 7.5, 7.8, 8.11
-7.8
 Activity 5
 Activity 6
 Activity 7
@@ -135,42 +89,25 @@ Activity 10
 Activity 11
 Activity 12
 Activity 13
-xiii
-4
 For a Better
 Tomorrow
-5
 Best Use of
-Time
 1.1, 1.2, 1.5, 4.7,
 5.2, 5.6, 6.9
 4.3, 6.6
 4.7, 6.9
-7.5
 8.2, 8.12, 8.13, 8.5
-6.11
-5.1
 4.7, 5.3, 5.6
-3.1
 4.3, 5.2, 5.3
-2.1
-7.8
-8.18
 5.1, 7.2, 8.3, 8.4, 8.9
-8.13
 1.2, 1.3, 8.2
-8.4
 3.7, 3.8
-8.7
 5.3, 5.4
 2.3, 2.7, 4.7, 8.2
-7.7
 5.2, 5.3
 7.1, 7.8
 5.2, 5.3, 5.6
 4.7, 6.9
-5.7
-5.7
 Activity 1
 Activity 2
 Activity 3
@@ -198,49 +135,24 @@ Activity 11
 Activity 12
 Activity 13
 Activity 14
-xiv
-6
 A Moment of
-Fun
-7
 Simple Living
-8
 Reading is Fun
 1.1, 1.2
-5.2
-6.4
-6.1
-5.3
-7.3
 5.2, 7.5
 4.3, 1.1, 1.3, 5.6
 1.1,1.2, 8.3
-5.4
 6.5, 8.17
-3.3
 6.5, 8.17
-4.1
 7.4, 8.9
-3.3
 6.1, 7.8
-1.5
 4.6, 4.8
 4.3, 5.2
 1.3, 4.3, 5.3, 7.5
 2.2, 2.7
-8.7
-8.15
-6.11
-5.1
-7.4
-7.6
 5.6, 6.2
-5.7
 5.2, 6.6
-6.6
 8.1, 8.7
-7.7
-3.5
 Activity 1
 Activity 2
 Activities 3,4
@@ -276,35 +188,19 @@ Activity 6
 Activity 7
 Activity 8
 Activity 9
-xv
-9
 Enigma
-10
 Choices in Life
-6.8
 1.1, 1.2
 5.2, 5.3
 4.3, 4.7, 5.2
 3.4, 3.6
-7.8
-7.5
 4.2, 8.18
 5.1, 7.2
-4.5
 5.5, 6.8, 7.6
-6.3
 5.3, 5.6
-5.3
-5.3
 6.1, 6.5
-8.16
-8.4
-7.5
 2.4, 5.4
 4.3, 4.7, 5.2
-6.10
-8.18
-3.3
 Activity 10
 Activity 1
 Activity 2
@@ -332,7 +228,6 @@ Activity 12
 Dear Student,
 Please do not write anything in this book. Use your
 exercise book to do the activities that appear here.
-xvi
 1 OUR RESPONSIBILITIES
 Activity 1
 Act out
@@ -368,7 +263,6 @@ school.
 Vikum
 - Oh! Here comes a pregnant mother. I’ll offer my seat to her.
 For free distribution
-1
 Activity 2
 Identify the following punctuation marks in the dialogue between Vikum and
 Chamindu.
@@ -407,7 +301,6 @@ Librarian
 - ……….………………(asks whether he needs any other help)
 Chamindu
 - ……………………………..(says no and thanks the librarian)
-2
 For free distribution
 Activity 4
 Reading / Writing
@@ -432,7 +325,6 @@ both as laws exist in a country to prevent vandalism.
 Certain effects of vandalism are considered insignificant while others are considered
 extremely severe. However, it is a problem that affects everyone in some way or other.
 For free distribution
-3
 It can affect one’s family, friends, and the
 community. When facilities, such as public
 transport services, parks and public restrooms
@@ -451,7 +343,6 @@ tiles on walls which are easy to clean. In addition, rough textured surfaces whe
 scrawling with graffiti is impossible,
 reduce vandalistic behaviour
 public places. An essential approach
-in
 to reducing vandalism is to monitor
 the condition of a property regularly.
 Studies reveal that vandalism carried
@@ -461,12 +352,9 @@ a sense of belonging and pride which will help them to respect and think positiv
 about their community. Everyone should understand the duties and responsibilities
 of a citizen and decide what is right and what is wrong. Therefore, in preventing
 vandalism, self-discipline plays a bigger role than laws.
-4
 For free distribution
 i) In column A there are some actions related to vandalism. Match them with
 their meanings in column B.
-A
-B
 destroy
 alter
 deface
@@ -483,11 +371,6 @@ d. Educating people about the negative effects of vandalism is a good
 way to prevent it.
 e. Laws of a country play the most important role in preventing
 vandalism.
-( )
-( )
-( )
-( )
-( )
 iii) Write answers to the following questions.
 a. What is vandalism?
 b. Give two reasons for vandalism.
@@ -498,11 +381,8 @@ f. Copy the sentence which says that vandalism can be prevented by making
 the young people aware of it.
 g. What do the following pronouns underlined in the passage refer to?
 it (paragraph 1)-
-i.
 ii. they (paragraph 3)-
 For free distribution
-5
-iv)
 1. List out the acts of vandalism that can occur in your school.
 e.g.: Scrawling graffiti on school textbooks.
 2. Work in small groups. Suggest ways to prevent vandalism at school
@@ -523,7 +403,6 @@ vandal (noun)
 vandalism(noun)
 vandalize (verb)
 vandalistic (adjective)
-6
 For free distribution
 Revision point
 Prefixes and Suffixes
@@ -546,12 +425,10 @@ vandalize
 (verb)
 Activity 6
 Go through the passage on vandalism once again and find examples for words
-with
 1. prefixes
 2. suffixes
 3. both prefixes and suffixes
 For free distribution
-7
 Indicate the word class of the words you find and their base forms. Follow the
 example given.
 pleasant
@@ -563,19 +440,15 @@ Activity 7
 How would you advise someone to be a responsible citizen? Write as many
 instructions as possible using the following modals. Follow the example given.
 need, ought to, must, should,
-can
 e.g.: You should always help others.
 Activity 8
 Write five sentences based on the following picture, using the above modals.
-8
 For free distribution
 Activity 9
 Listening
 You are going to listen to a set of rules to be followed by road users. Put the
 relevant numbers of the rules against the different types of users. Some rules are
 applicable to many users.
-USER
-RULE
 Pedestrians
 Motor cyclists
 Car drivers & Passengers
@@ -593,7 +466,6 @@ letter and the birthday card. I was waiting for a letter from you when the
 postman delivered it. It’s a lovely card made out of natural flowers and
 leaves which we all admired.
 For free distribution
-9
 As you mentioned in your letter, I’m a year older now. I totally agree
 that we have to think seriously and plan our future. We have to take the
 responsibility of our own lives.
@@ -617,7 +489,6 @@ By whom
 Who helped
 Why it was done
 How he/she felt afterwards
-10
 For free distribution
 Activity 11
 Imagine that one of your friends is interested in donating books to a library. Write
@@ -638,10 +509,8 @@ in different forms of the past tense.
 1. On my last birthday, I donated some books to the local library.
 2. I was waiting for a letter from you when the postman delivered it.
 3. My father had visited the library a week before he organized this work for
-me.
 4. He had been waiting for a long time to get those books for the library.
 For free distribution
-11
 Revision point
 Past Tense
 The Simple Past Tense is usually used to express a single action done at a
@@ -665,31 +534,22 @@ need to revise all three tenses to complete this activity.
 3. Mr. Bandara …………. (sell) his car last week.
 4. Suwimali ………………. (sweep) the classroom by the time the teacher
 started the lesson.
-12
 For free distribution
 5. “I …………….. (lend) you the story book if you promise to return it
 before Friday.”
 6. By the time we reached Kandy, my father ………(drive) non-stop for
 nearly two hours.
 7. Nisali …………. (finish) her homework. She can play with her brother
-now.
 8. Venura ……….. (play) badminton with his sister every evening.
 9. “You can’t talk to my brother now. He ………(sleep).”
 10. “It ………… (rain) since last night. I wonder when it will stop.”
 For free distribution
-13
 2 FACING CHALLENGES
 Activity 1
 Speaking
 Look at the pictures. Work in pairs. What are the activities shown in these
 pictures?
-A
-D
-14
 For free distribution
-B
-C
-E
 2 FACING CHALLENGES
 Activity 2
 Vocabulary
@@ -697,12 +557,7 @@ Challenge !
 Activity 1
 Speaking
 pictures?
-A
 Look at the pictures. Work in pairs. What are the activities shown in these
-B
-C
-E
-D
 Copy the following phrases into your writing book.
 Match the phrases with the above pictures.
 Water rafting, Fall with gravity, Outdoor activity, Team activity, Adventurous,
@@ -731,7 +586,6 @@ Jacques Garnerin jumped from a hot air balloon with a parachute. It was the
 first incident of truly modern skydiving. In the military it is used as a back up
 safety mechanism for airmen. Many modern militaries use skydiving for troop
 For free distribution
-15
 deployment. Wildfire fighters also parachute to reach remote sites, so that they
 can be on the ground quickly. At present, it is a well-known recreational sport.
 Surfing is done with the help of a surfboard. This is an act of riding on a wave,
@@ -756,11 +610,6 @@ A) State whether the following statements are TRUE or FALSE.
 4. Surfing is done only in natural waves.
 5. Pole vaulting is done by both men and women.
 B) Answer the following questions.
-( )
-( )
-( )
-( )
-( )
 1. How can water rafting be dangerous?
 2. What are the environment friendly practices followed in water rafting?
 3. What is skydiving?
@@ -768,7 +617,6 @@ B) Answer the following questions.
 5. What are the types of surfing mentioned in the text?
 6. What are the abilities a pole vaulting sportsman should have to become
 successful?
-16
 For free distribution
 C) What do the following words refer to?
 1. this (in paragraph 1)
@@ -791,7 +639,6 @@ Writing
 Work in groups. Discuss the activities shown in the pictures given below and
 write a description.
 For free distribution
-17
 Activity 5
 Act out
 : This time we have to organize the morning assembly.
@@ -824,7 +671,6 @@ Morning thought
 Song by Nithya
 ii) Kamalesh is going to deliver a speech on “Challenges make us strong.”
 Write the announcement for this event and present it to the class.
-18
 For free distribution
 Activity 8
 Writing
@@ -833,7 +679,6 @@ develop the mind map into a speech and write it in your writing book.
 What is a
 'Challenge'?
 Personal experience
-How
 challenges
 can make
 us strong?
@@ -851,7 +696,6 @@ e.g.: You should take up this challenge.
 You must obey the law.
 Must is stronger in emphasis than Should.
 For free distribution
-19
 Activity 9
 Complete the blanks using should / shouldn’t / must / mustn’t.
 1. You …………… brush your teeth before you go to bed at night.
@@ -861,13 +705,6 @@ Complete the blanks using should / shouldn’t / must / mustn’t.
 5. You ….......… always speak the truth.
 Activity 10
 Describe each sign given below using ‘should’/ ‘should not’.
-a
-b
-c
-d
-e
-f
-20
 For free distribution
 Revision point
 Reported Speech
@@ -894,13 +731,10 @@ Fine will be the day
 If you see;
 a rainbow, some dark clouds, mist in the morning
 For free distribution
-21
 Activity 13
 Writing
 Re-order the following pictures. Write a sentence for each picture to build a
 story on your own.
-1
-22
 For free distribution
 Activity 14
 Reading
@@ -932,14 +766,12 @@ You look back on your battles won,
 Content, you came this way!
 by Dr. Heartsill Wilson
 For free distribution
-23
 1. According to the poem who are ‘‘blessed men,, and ‘‘little men,,?
 2. What type of people does this world need?
 3. Write two qualities that people who lead the world should have.
 4. How many stanzas are there in this poem?
 5. What are the rhyming words found in the poem?
 6. What is the message given in the poem?
-24
 For free distribution
 3 GREAT LANKA
 Activity 1
@@ -972,12 +804,10 @@ Vihangi
 Suranga
 : Shh.. Let's watch it first.
 For free distribution
-25
 Activity 2
 Listening
 The friends sat down to watch the programme. Listen to the narration and
 complete the blanks.
-A)
 1.The match is being played in ____________________.
 a) Pallekele b) Sooriyawewa c) Dambulla
 d) Galle
@@ -997,19 +827,16 @@ a) inhabitants b) greenery c) vegetables d) cultivators
 a) Galle / Polonnaruwa
 c) Colombo / Galle d) Trincomalee / Colombo
 b) Polonnaruwa / Trincomalee
-B)
 7. ___________ won the toss.
 8. Sri Lanka scored _________ runs.
 9. England have lost _________ wicket/s.
 10. __________ trail by 489 runs.
-26
 For free distribution
 Activity 3
 Writing / Speaking
 Look at the following map of Sri Lanka. Find the picture clues and mention
 what each place/city is famous for.
 For free distribution
-27
 Activity 4
 Speaking
 Read aloud the conversation the friends had after watching the documentary
@@ -1048,7 +875,6 @@ Suranga : Now we can do a detailed presentation.
 1.What was the purpose of their discussion?
 2.What are the topics they discussed?
 3.How many friends were engaged in the conversation?
-28
 For free distribution
 Activity 5
 Writing
@@ -1069,7 +895,6 @@ We use the simple past tense when writing or talking about things that
 happened in the past.
 e.g: Some of Kishan's friends met at his house last Sunday.
 For free distribution
-29
 Activity 8
 Writing
 Find the past form of the following verbs and make sentences.
@@ -1080,12 +905,6 @@ e.g.: Go – went
 4. inquire
 5. reply
 6. say
-–
-–
-–
-–
-–
-–
 Activity 9
 Writing
 i) Follow the facts given on one of the kings of Sri Lanka and write a short
@@ -1101,16 +920,13 @@ King Buddhadasa
 – saw a sick snake one day
 – operated and cured the snake
 ii) Write a short composition about any famous king you know.
-30
 For free distribution
 Reading
 Madeena has found some photographs related to Sri Lanka. Read the descriptions.
-the
 This is a map of
 ancient Sri Lanka.
 The name Ceilan is
 written on
-top
 corner.
 left-hand
 A bay and several
@@ -1119,7 +935,6 @@ on the map. There is
 a ship shown on the
 map. The country is
 surrounded by
-the
 sea. The map shows a
 lot of mountains, trees
 and animals such as
@@ -1140,17 +955,12 @@ been a popular tourist destination
 because of its natural beauty and
 historical value.
 For free distribution
-31
 Activity 10
 a) State whether the following statements are TRUE or FALSE.
 1. Madeena has a map of ancient Ceylon in her collection of photographs. ( )
-( )
 2. The map is marked in a different language.
-( )
 3. King Ravana built the Sigiriya rock fortress.
 4. Sigiriya is considered as one of the wonders of the world.
-( )
-( )
 5. Sigiriya is a famous tourist destination.
 b) Refer to a dictionary and find synonyms for the following words.
 1. ancient –
@@ -1162,7 +972,6 @@ Activity 11
 Speaking / Writing
 i) Select any one of the pictures given below and describe it.
 ii) Write the description in your writing book.
-32
 For free distribution
 Activity 12
 Write a description on one of the famous tourist destinations in Sri Lanka. You
@@ -1189,7 +998,6 @@ of a tank.
 Well, friends I have some more key points to discuss. I need your help to finish
 the rest.
 For free distribution
-33
 Activity 13
 Writing
 Work in pairs. Continue the presentation using the rest of the facts given below.
@@ -1206,7 +1014,6 @@ sufficient country
 - Constructed or restored 165 dams, 3910 canals, 163 major tanks and
 2376 minor tanks
 - Sri Lanka came to be known as the Granary of the East
-34
 For free distribution
 4 FOR A BETTER TOMORROW
 Activity 1
@@ -1233,15 +1040,12 @@ Interviewer
 : I’m sure our viewers would like to know about these
 problems. Could you tell us something about them?
 For free distribution
-35
 Sunil Weerasinghe
-:
 Well, it seems that a lot of
 people have
 the habit of
 throwing
 polythene
-bags
 carelessly and haphazardly
 into the environment. This
 often
@@ -1276,18 +1080,15 @@ Weerasinghe.
 Sunil Weerasinghe : Thank you for inviting me.
 Interviewer
 : We hope to meet our viewers next week at the same
-36
 For free distribution
 time. Have a good day!
 Activity 2
 1. Match A and B.
-A
 1. Most types of polythene do not decay.
 2. Polythene bags are thrown into the environment.
 3. Rain water is collected in polythene bags.
 4. Animals eat polythene.
 5. Polythene bags are collected in water sources.
-B
 a. It causes land pollution.
 b. They die because of undigested polythene.
 c. Water is polluted.
@@ -1308,7 +1109,6 @@ e.g.: favourite programme
 5. end the TV programme
 4. Find the adverbs used in the conversation.
 For free distribution
-37
 Revision point
 Adverbs describe the action.
 Adverbs
@@ -1329,7 +1129,6 @@ sentences correctly.
 Activity 4
 Writing
 Write a paragraph about “The three R’s” using the given tree diagram.
-38
 For free distribution
 Reduce
 Reuse
@@ -1359,7 +1158,6 @@ as the audience. They could be allowed to ask questions.
 Topics : The Dengue Epidemic, Effects of Deforestation, Noise and Air
 Pollution
 For free distribution
-39
 Activity 6
 Writing
 Convert these sentences to reported speech.
@@ -1371,13 +1169,10 @@ Convert these sentences to reported speech.
 Activity 7
 Reading / Writing
 Read the following posters and write the message conveyed by each one.
-1
 " Water scarcity is now
 the single biggest threat to
 global food security."
-40
 For free distribution
-2
 Convert these sentences to reported speech.
 1. The invitee said, “It’s a pleasure to be here.”
 2. The interviewer asked, “Should we stop using polythene?”
@@ -1392,19 +1187,15 @@ Read the following posters and write the message conveyed by each one.
 " Water scarcity is now
 the single biggest threat to
 global food security."
-2
 Use low energy low wattage bulbs.
 Turn off lights when they are not needed.
 Make use of natural light in classrooms and offices by opening
 windows and blinds.
-3
 Share newspapers and magazines.
 Recycle wastepapers.
 Reuse folders, envelops etc.
-4
 Do not use fertilizers and pesticides excessively.
 They destroy beneficial soil organisms.
-5
 Poster Number
 The message it conveys
 Save water
@@ -1420,7 +1211,6 @@ environmental issue.
 4. Water is precious. We should not waste a ………… drop.
 5. The monsoon rains were ……………… heavy this year.
 For free distribution
-41
 Activity 9
 Listening
 Your teacher will read out an announcement. Listen to it and select the correct
@@ -1443,7 +1233,6 @@ ii. 10 a.m. to 2 p.m.
 6. The reason for the interruption is:
 i. Shortage of water due to drought
 ii. Cleaning of the storage tanks
-42
 For free distribution
 Your teacher will read out an announcement. Listen to it and select the correct
 Activity 9
@@ -1472,9 +1261,6 @@ Group Work
 Select one of the areas given below. Fill in the missing information on your own
 and prepare an announcement about a scheduled power interruption. Present it
 to the class. The other groups can note down the information.
-Area
-Date
-Time
 Duration
 Affected Areas
 Reason
@@ -1502,7 +1288,6 @@ Peradeniya
 Colombo
 9.00 – 12. 00
 For free distribution
-43
 Activity 11
 Reading / Writing
 Animals on the Verge of Extinction
@@ -1536,7 +1321,6 @@ to global warming may induce migration to wrong
 places where food supply could be low. It is believed
 that 10000 to 25000 blue whales swim in the oceans
 of the world.
-44
 For free distribution
 Activity 11
 Reading / Writing
@@ -1603,7 +1387,6 @@ lives
 temperature due to the effect of greenhouse gases,
 such as carbon dioxide
 For free distribution
-45
 Revision point
 Capitalization
 ■ The first letter of a sentence
@@ -1631,7 +1414,6 @@ Rewrite the following essay with correct capitalization.
 flying kites is a favourite pastime of mine. not only is it enjoyable and exciting,
 it is also an environmentally friendly recreational activity. it takes us out of
 doors into the fresh air as well.
-46
 For free distribution
 every year in july and in august my friends udaya, rishan and i go to panadura
 beach to fly kites. we make kites of various shapes and sizes. udaya’s uncle, mr.
@@ -1659,19 +1441,12 @@ Speaking
 Discuss the statement given below. Engage in a debate.
 ‘‘It is possible to achieve development without harming the environment,,.
 For free distribution
-47
 5 BEST USE OF TIME
 Activity 1
 Speaking
 Read the following sayings.
-1
-2
-3
-4
-5
 a) Do you agree with these sayings?
 b) Discuss with your partner and find the message conveyed by them.
-48
 For free distribution
 5 BEST USE OF TIME
 Activity 2
@@ -1689,17 +1464,12 @@ Rajan
 Samith : Can’t you remember the cricket scholarship?
 Rajan
 : Oh, no! I completely forgot that. But not to worry, we’ll be late only
-1
-2
-3
 by a few minutes.
 Samith : But, it’ll matter. Remember that the early bird catches the worm.
 Rajan
 : Alright, carry on. You can be the early bird. We’ll come slowly.
 Hassan : Yes, we’ll see you there.
 Samith : Bye, see you.
-4
-5
 Activity 3
 Speaking / Writing
 a) Do you agree with these sayings?
@@ -1712,7 +1482,6 @@ master in-charge of cricket introduced a special guest who was a representative
 from the Minstry of Education. He briefed them about the cricket scholarship.
 Samith listened to him attentively and jotted down the important points.
 For free distribution
-49
 1. Number of scholarships offered:
 2. Number of areas to be completed in the application:
 3. Where to paste the photograph:
@@ -1750,12 +1519,10 @@ Rajan
 - He must be in the pavilion.
 - It’s for a cricket scholarship to Australia.
 - He’s speaking to the representative from the Ministry of Education.
-50
 For free distribution
 Read aloud
 When Hassan and Rajan met the master in-charge, he showed them the following
 poem which was pasted on the wall of the staff room.
-TIME
 To realize the value of one year:
 Ask a student who has failed a final exam.
 To realize the value of one month:
@@ -1777,7 +1544,6 @@ You will treasure it even more when
 you can share it with someone special.
 ~Author Unknown~
 For free distribution
-51
 Activity 6
 Writing
 Complete the table following the example given.
@@ -1791,7 +1557,6 @@ Writing
 Hassan and Rajan apologized to their master-in-charge for being late.Write the
 conversation they had with the master in-charge. Include their excuse and the
 master -in-charge’s advice.
-52
 For free distribution
 Activity 8
 Writing
@@ -1814,7 +1579,6 @@ Write an email to the Secretary of the Gajaba Sports Club asking for more
 details (working hours, days and other facilities given). You may use the given
 format.
 For free distribution
-53
 gajaba.club@schoolmail.com
 cricket coach
 Dear Sir,
@@ -1832,7 +1596,6 @@ active during the day. Since most of the people are contactable during the
 day, it is easy to communicate with teachers, friends and others to clarify any
 questions that you may have. Furthermore, the natural light you get during the
 day is better than the artificial light that you use at night.
-54
 For free distribution
 On the other hand, studying during the night can also be beneficial. During the
 night, the environment is very quiet. This creates a setting to study peacefully.
@@ -1858,12 +1621,10 @@ Advantages of studying during the
 daytime
 Advantages of studying during the
 night
-B)
 a) What are the steps you have to follow when studying?
 b) What time of the day do you study? Why?
 c) Give a suitable title to the article.
 For free distribution
-55
 Activity 10
 Writing
 Study the following pie chart. It shows the percentage of time spent on different
@@ -1874,7 +1635,6 @@ Highest percentage....
 Equal amount (of)....
 More time.....
 Less time.....
-56
 For free distribution
 Revision point
 Suffixes
@@ -1889,8 +1649,6 @@ Activity 11
 Complete the table following the example. You may use a dictionary.
 appreciate, calculate, admire, desire, move, tolerate, economy, care, beauty,
 wonder, fashion, honour, accept, capital, lazy
-Noun
-Verb
 Adjective
 Adverb
 e.g.: acceptance
@@ -1899,7 +1657,6 @@ accept
 acceptable
 unacceptably
 For free distribution
-57
 Activity 12
 Use the correct form of the word in brackets to complete the following story.
 One day Mithun …… (want) to see a dentist to get a tooth extracted. He ……
@@ -1930,7 +1687,6 @@ Succeed in something before time is up
 5. The big time
 Better to do something late than not do it
 at all
-58
 For free distribution
 6 A MOMENT OF FUN
 Activity 1
@@ -1973,7 +1729,6 @@ know.
 : I sure will. Thanks.
 Rizna
 For free distribution
-59
 Activity 2
 Writing
 Answer these questions.
@@ -1995,10 +1750,7 @@ determiner is used to modify a noun. They tell us whether the noun phrase
 refers to someone/something specific or general.
 e.g. Noun phrase – that bundle
 a play
-↑
-↑
 Determiner (specific) determiner (general)
-60
 For free distribution
 Examples of determiners are:
 ■ the, a, an
@@ -2018,7 +1770,6 @@ Copy these sentences into your book and underline the determiners.
 • Which house is yours?
 • This work is very easy. Any child can do it.
 For free distribution
-61
 Activity 4
 Writing
 Complete the sentences using the given determiners.
@@ -2029,18 +1780,13 @@ can find what you need.
 • Only ………………. seats are available for the show.
 • She brought …………… little brother to the concert.
 these
-any
-many
-her
 which
 a few
-a
 Revision point
 The Present Tense
 The Simple Present Tense
 - For habitual actions
 e.g: They conduct the drama competition every year.
-62
 For free distribution
 The Present Continuous Tense
 - For an action happening at the moment of speaking
@@ -2070,7 +1816,6 @@ with me?
 5. The southwest monsoon usually……………….. (bring) a lot of rain.
 6. My brother ……………. (study) hard for an examination these days.
 For free distribution
-63
 Activity 6
 Writing
 Jerome saw this notice on the school noticeboard. Read it and complete the
@@ -2090,7 +1835,6 @@ This notice is about: ………………………………………...........�
 Date: …………………………………………….........……...........…………...
 Time: ……………………………………………….......……...............………
 Place: …………………………………………………..................…………...
-64
 For free distribution
 Activity 7
 Writing
@@ -2116,7 +1860,6 @@ continuous movement on a screen. Both dramas and films provide an audio-
 visual realistic experience to spectators who often tend to identify themselves
 with the characters.
 For free distribution
-65
 Music is another popular form of entertainment. Music is considered “the
 universal language of mankind”. That is because a piece of music has the ability
 to appeal to listeners who are not even familiar with its language or the culture.
@@ -2139,7 +1882,6 @@ balance between work and pleasure will help us to lead a productive life.
 • Spending too much time on entertainment could ………………………....….
 2) Find definitions for the following words from the text.
 entertainment, drama, film/movie, dancing
-66
 For free distribution
 Activity 10
 Writing
@@ -2157,11 +1899,9 @@ Expression
 Education
 Musician
 For free distribution
-67
 Activity 11
 Reading
 Read the poem and answer the questions.
-Poem
 Leisure
 What is this life if, full of care,
 We have no time to stand and stare?
@@ -2183,12 +1923,10 @@ a. relax and look around us.
 b. do nothing.
 c. stand in one place.
 d. stare at something.
-68
 For free distribution
 Activity 11
 Reading
 Read the poem and answer the questions.
-Poem
 Leisure
 What is this life if, full of care,
 We have no time to stand and stare?
@@ -2233,14 +1971,12 @@ e.g.: stand under the branches of green trees
 7. Read the given explanations and answer the questions based on the
 poem.
 For free distribution
-69
 Stanza: A group of lines in poetry that forms a smaller unit by themselves.
 Some examples for stanzas:
 • Couplet : a stanza with two rhyming lines.
 • Quatrain : a stanza with four lines that may or may not rhyme.
 : an expression
 Simile
-that
 compares two different things
 showing similarities.
 Repetition : repeating a word,
@@ -2270,7 +2006,6 @@ Mrs. Ganeshan : That’s great. Could you tell me the prices please?
 Ticket Clerk
 : Certainly. Balcony tickets are 300 rupees. The others are
 priced at 150 and 250 rupees.
-70
 For free distribution
 Stanza: A group of lines in poetry that forms a smaller unit by themselves.
 Some examples for stanzas:
@@ -2278,7 +2013,6 @@ Some examples for stanzas:
 • Quatrain : a stanza with four lines that may or may not rhyme.
 Simile
 : an expression
-that
 compares two different things
 Repetition : repeating a word,
 phrase, line or stanza to draw
@@ -2338,7 +2072,6 @@ Colombo.
 • To make an appointment to see a doctor/dentist.
 • To reserve tickets to see a musical programme.
 For free distribution
-71
 Revision point
 Masculine and Feminine Nouns
 Grammatical gender is a system of noun classification. Masculine nouns are
@@ -2353,22 +2086,14 @@ stewardess
 Masculine Form
 Feminine Form
 Gender Neutral
-72
 For free distribution
 7 SIMPLE LIVING
 Activity 1
 Speaking /Writing
 Look at the following pictures. Write an instruction for each picture. Follow the
 example given.
-a
-b
-c
-d
-e
 e.g: (a) Don't eat junk food
-.
 For free distribution
-73
 Activity 2
 Listening
 1. Shashi is a ………… year-old boy.
@@ -2401,11 +2126,9 @@ a) water cut
 b) power cut
 c) bus strike
 d) train strike
-74
 For free distribution
 Activity 3
 Writing
-,
 Write a paragraph on what you and your family did last weekend.
 Activity 4
 Act out
@@ -2435,7 +2158,6 @@ Anuradha : No, Rashmika, I don’t like it. I am so upset.
 Rashmika : Hey, be cool. Come, I’ll show you an interesting article.
 Anuradha : Alright.
 For free distribution
-75
 Activity 5
 Vocabulary
 Form collective nouns using the words in the two boxes.
@@ -2472,7 +2194,6 @@ A chest of .....................
 ......................................
 .......................................
 ......................................
-76
 For free distribution
 Activity 7
 Writing
@@ -2503,7 +2224,6 @@ he needed to eat, dressed simply and led a simple stress free life. He was a
 man who believed in being non-possessive and didn’t even own a house. When
 Gandhi died, he had less than ten personal possessions including a watch, a pair
 For free distribution
-77
 of spectacles, a pair of sandals and his eating bowl. Although some considered
 him to have died a pauper, he influenced the lives of many. Even today his way
 of life continues to inspire many others around the world. However, at present
@@ -2535,7 +2255,6 @@ c) Gains
 a) Easy
 b) Complex
 c) Maximise
-78
 For free distribution
 4) Give a suitable title to the text.
 5) What are the good practices of a simple life style? Discuss and list them out.
@@ -2568,7 +2287,6 @@ and his conquests, his great army, his sharp sword
 would not help him to save his life.
 He called his generals and said, "I will depart from this world soon, I have three
 For free distribution
-79
 wishes, please carry them out without fail."
 With tears flowing down their cheeks, the generals agreed to abide by their
 king's last wishes.
@@ -2598,8 +2316,6 @@ sheer waste of time to chase wealth. About my third wish of having my hands
 dangling out of the coffin, I wish people to know that I came empty handed into
 this world and empty handed I go out of this world".
 Leaving these three important lessons, this great conqueror let death conquer
-him.
-80
 For free distribution
 1. Complete the following chart.
 ALEXANDER THE GREAT
@@ -2618,27 +2334,16 @@ d. A person who takes possession of land by force
 e. Funds of the government
 f. A wise person who has specialized philosophy
 3. Pronounce the following words.
-a)
-b)
-c)
 Philosopher
 Practitioner
 Physics
-d)
-e)
-f)
 Physician
 Coffin
 Treasury
-g)
-h)
-i)
 Conqueror
 Sympathy
-Cure
 4. Answer the following.
 For free distribution
-81
 i.Do you consider King Alexander the Great as a great king? Why?
 ii.What is the lesson you learn from this great king?
 iii.Find more information about Alexander the Great and some other
@@ -2680,7 +2385,6 @@ weekend too?
 : Give me five minutes. I’ll make tea for you.
 : No thanks. We've just had some tea. Let’s prepare something
 for the visitors.
-82
 For free distribution
 Activity 11
 Speaking
@@ -2705,7 +2409,6 @@ friends arrived, he had already dusted the furniture and had swept the house.
 Kavindu’s friends had come to invite him to a party but they all decided to stay
 with Kavindu until his parents came home.
 For free distribution
-83
 Revision point
 Past Perfect Tense
 • Kavindu’s parents left home
@@ -2727,7 +2430,6 @@ Construct sentences using the words in brackets.
 ( he / done everything/ she / got up)
 5. When Kavindu’s parents returned home,
 ( Kavindu and friends / already / prepared / dinner)
-84
 For free distribution
 Revision point
 Reported Speech
@@ -2751,7 +2453,6 @@ note for me.
 2. ......................................................................................
 Report what Kavindu’s friends asked.
 For free distribution
-85
 Why did you call us?
 Why did you stay at
 home?
@@ -2762,7 +2463,6 @@ Riyaz
 Why did you do
 everything alone?
 1. Manjitha asked Kavindu why he had called them.
-2.
 .......................................................................................................................
 3 ........................................................................................................................
 4 ........................................................................................................................
@@ -2789,30 +2489,8 @@ picture against the verb.
 ■ simmer
 ■ drain
 ■ pound
-86
 For free distribution
-1
-2
-3
-7
-6
-10
-11
-14
-15
-18
-19
-5
-9
-13
-17
-4
-8
-12
-16
-20
 For free distribution
-87
 Mother calls home.
 Mother
 : Hello, son!
@@ -2854,7 +2532,6 @@ Boil water
 Instruction in passive form
 First, the vegetables are diced
 Boiled potatoes are smashed
-88
 For free distribution
 Activity 18
 Writing
@@ -2873,7 +2550,6 @@ following.
 • People / animals / special creatures you met.
 • What did you feel?
 For free distribution
-89
 8 READING IS FUN
 Reading
 Robinson Crusoe has captured the imagination of countless readers with the
@@ -2889,7 +2565,6 @@ life he turned his pen to fiction and wrote
 Robinson Crusoe, one of the most widely
 read and influential novels of all time.
 Defoe died in 1731.
-90
 For free distribution
 8 READING IS FUN
 Reading
@@ -2908,7 +2583,6 @@ I soon found the place I was in was not fit for my settlement, because it was up
 a low, moorish ground, near the sea, and I believed it would not be wholesome,
 and more particularly because there was no fresh water near it; so I resolved to
 find a more healthy and more convenient spot of ground.
-I
 consulted
 several
 things in my situation,
@@ -2939,7 +2613,6 @@ nothing could come down upon me from the top. On the one side of the rock
 there was a hollow place, worn a little way in, like the entrance or door of a cave
 but there was not really any cave or way into the rock at all.
 For free distribution
-91
 Activity 1
 1) Indicate whether the following sentences are TRUE or FALSE.
 1. Robinson Crusoe was concerned about his security in the remote island.
@@ -2965,7 +2638,6 @@ He decided on the conditions he needed in the new place.
 He wanted to secure himself from savages and wild animals.
 He decided on the right kind of dwelling.
 He searched for a proper place and found one.
-92
 For free distribution
 4) Crusoe thought of four things before selecting a place to settle. Write them
 down in the correct order.
@@ -2987,7 +2659,6 @@ BASKERVILLES in the Sherlock Holmes
 series.
 Read it and do the activities that follow.
 For free distribution
-93
 A terrible scream—a prolonged yell of horror and anguish—burst out of the
 silence of the moor. That frightful cry turned the blood to ice in my veins.
 “Oh, my God!” I gasped. “What is it? What does it mean?”
@@ -3016,7 +2687,6 @@ He had started running swiftly over the moor, and I had followed at his heels.
 But now from somewhere among the broken ground immediately in front of us
 there came one last despairing yell, and then a dull, heavy thud. We halted and
 listened. Not another sound broke the heavy silence of the windless night.
-94
 For free distribution
 I saw Holmes put his hand to his forehead like a man distracted. He stamped his
 feet upon the ground.
@@ -3046,7 +2716,6 @@ a. shivering with cold
 b. very much shocked
 c. very much angry
 For free distribution
-95
 4. Beaten us
 a. hit us
 b. defeated us
@@ -3069,7 +2738,6 @@ Underline the adjective. Find its opposite from the box.
 1. The clothes are clean.
 2. The homework is hard.
 3. The party is noisy.
-96
 For free distribution
 4. The man is poor.
 5. The lights are on.
@@ -3080,16 +2748,10 @@ For free distribution
 10. The weather is cold.
 Activity 5
 Reading
-rich
-off
 silent
 dirty
 short
-hot
 inexpensive
-slow
-dry
-easy
 Read the paragraph about Anne Frank and answer the questions.
 Anne Frank was a Jewish girl who had to go into hiding during World War II
 from the Nazis. Together with seven others she hid in a secret annex. After
@@ -3112,7 +2774,6 @@ Gies and warehouse boss Johannes Voskuijl, Bep's
 father. These helpers arranged food, clothes and
 books for them.
 For free distribution
-97
 Shortly before going into hiding Anne received a diary for her birthday. She
 started writing straightaway and during her time in hiding she wrote about
 events in the secret annex, about herself and about humanity. Her diary was a
@@ -3146,7 +2807,6 @@ Complete with suitable adjectives.
 1. The _____________elephant loved peanuts.
 2. The _____________sun melted the snow.
 3. Those____________ flowers are rare.
-98
 For free distribution
 4. My ______________van is parked in front.
 5. The ______________iguana scampered across the fence.
@@ -3162,8 +2822,6 @@ the library. Interview five students about their interests in reading and fill i
 following grid. First introduce yourself.
 e.g.- I’m ……………. and I’m the ……………….. of the ………………
 I want to……………………………………………………………..
-NAME
-AGE
 Dumesha
 15 years
 HOMETOWN
@@ -3173,13 +2831,11 @@ Reading, Collecting
 stamps
 WHETHER HE/ SHE
 LIKES READING
-yes
 FAVOURITE BOOK
 Jane Eyre
 FAVOURITE AUTHOR
 Charlotte Bronte
 For free distribution
-99
 Activity 8
 Writing
 Now, write a letter to the Manager of a bookshop in your area inquiring whether
@@ -3205,20 +2861,15 @@ B. It is my idea that we should read books. I don’t know how others think.
 C. I think we should read books, not write them.
 D. I think it is us who should read books, not our parents.
 E. I think we should read books, not newspapers or magazines.
-100
 For free distribution
 Revision point
 Conjunctions
 Conjunctions are words used to connect clauses or sentences.
 Because
-And
-But
-Or
 While
 After
 Unless
 Until
-When
 Activity 10
 Fill in the blanks with a suitable conjunction.
 (but, while, and, or, because)
@@ -3231,7 +2882,6 @@ any fresh water.
 were thick.
 5. ……………….they were in the hut, a scream was heard.
 For free distribution
-101
 9 ENIGMA
 Activity 1
 Act out
@@ -3260,7 +2910,6 @@ Operator : I’m Saw Ree.
 Caller
 : Yes! You should be sorry. Now give me your name!
 Operator : That’s what I said. I’m Saw Ree.
-102
 For free distribution
 Activity 2
 1) Complete the chart given below.
@@ -3275,7 +2924,6 @@ following clues and write a telephone conversation.
 - Caller’s name is Who
 - Operator’s name is Asking
 For free distribution
-103
 Activity 3
 Reading/ Writing
 Read the following text and answer the questions that follow.
@@ -3299,7 +2947,6 @@ away. Later he had seen a roughly circular area of debris and apparently flatten
 reeds and grass. He assumed that it had been made by the alien spacecraft.
 However, this was refused by the investigators who stated that this could have
 been caused by a natural phenomenon.
-104
 For free distribution
 Activity 3
 Reading/ Writing
@@ -3346,8 +2993,6 @@ c) Practical joker
 d) Muddy
 4) Find the highlighted words given in the text. Put the correct form to complete
 the following table.
-Noun
-Verb
 Adjective
 Adverb
 e.g: Mystery
@@ -3356,7 +3001,6 @@ Mysterious
 Mysteriously
 5) Give subtitles to each paragraph.
 For free distribution
-105
 Activity 4
 Listening
 Listen to the report and complete the data sheet given.
@@ -3379,7 +3023,6 @@ Triangle.
 ■ Located in the Atlantic Ocean, the Bermuda Triangle falls between
 Bermuda, Puerto Rico and Florida.
 ■ A number of mysterious planes and boat incidents have occurred.
-106
 For free distribution
 ■ Most investigations indicate bad weather and human error are the more
 likely culprits.
@@ -3412,21 +3055,18 @@ Form two groups. Select one of the following topics and engage in a debate.
 ■ Bermuda Triangle is mysterious place/Bermuda Triangle is not a mysterious
 place.
 For free distribution
-107
 Revision point
 Match the adult animal with the young selecting from the list given below.
 puppy, sheep, duckling, cat, dog, pig, goose, piglet,
 cow, kid, calf, gosling, horse, kitten, duck, foal, goat,
 chicken, lamb, chick.
 Adult animal
-Dog
 Young
 Puppy
 Activity 8
 Writing
 Given below is the picture Dev had with him. What is special about it?
 Discuss and describe the picture.
-108
 For free distribution
 Spelling Rules
 The following endings can be added to nouns, verbs, and adjectives:
@@ -3477,7 +3117,6 @@ go/goes
 2. Words ending in -y ( baby, carry, easy, ect)
 If a word ends in a consonant +y (-by/ -ry/-sy etc.)
 For free distribution
-109
 y changes to ie before -s:
 baby/babies
 family/families
@@ -3511,7 +3150,6 @@ If a verb ends in -ie, ie changes to y before -ing:
 lie/lying
 die/dying
 tie/tying
-110
 For free distribution
 Activity 9
 Writing
@@ -3530,7 +3168,6 @@ friends.
 9. There are a lot of _________________________(goose) in my uncle's farm.
 10.My father is working in the garden wearing a pair of ____________(glove).
 For free distribution
-111
 Activity 10
 Group Work
 Given below is a part of a famous fairy tale called ‘Jack and The Beanstalk’.
@@ -3544,18 +3181,15 @@ home…
 Revision point
 We can use will/would/may etc. to say something is possible, impossible,
 probable, certain etc.
-Will
 What time will he be here?
 He will be here soon.
 Would
 He would be here now (if he wasn't ill).
-May
 He may be here now. I’m not sure.
 Might
 He might be here now. I’m not sure.
 Could
 He could be here now. I’m not sure.
-112
 For free distribution
 Activity 11
 Fill in the blanks with using suitable words.
@@ -3571,7 +3205,6 @@ Fill in the blanks with using suitable words.
 9. It ....................... be the most difficult decision.
 10. Look at that object in the sky................. it be a UFO?
 For free distribution
-113
 10 CHOICES IN LIFE
 Activity 1
 Reading
@@ -3596,10 +3229,8 @@ GALLE
 to follow the Biological Science stream for A/Ls. I need to get at least a credit
 pass for Science at O/Ls. I will study Agriculture instead of Physics for my
 A/L exam.
-114
 For free distribution
 For free distribution
-115
 10 CHOICES IN LIFE
 Activity 1
 Reading
@@ -3642,7 +3273,6 @@ Qualification Level 3.
 Writing
 Fill in the following table. Discuss with your teacher when you fill the
 requirements needed at Ordinary Level Examination.
-NAME
 REQUIREMENTS
 AT O/LS
 Rizvan
@@ -3658,7 +3288,6 @@ Science
 • Obtaining an A or
 B pass for Physics
 AMBITION/
-GOAL
 • To be an expert
 in Information
 Technology
@@ -3666,10 +3295,8 @@ Amali
 Venura
 Vikum
 Yogeswaran
-114
 For free distribution
 For free distribution
-115
 Activity 2
 Reading
 SETTING YOUR PERSONAL GOALS
@@ -3690,10 +3317,8 @@ down what you really enjoy doing. Then evaluate each activity, narrow down
 your list and identify what you really want to do. Make sure that the goals that
 you have set are the ones that you genuinely want to achieve, not ones that your
 parents, family, or others might want you to achieve.
-116
 For free distribution
 For free distribution
-117
 Activity 2
 Reading
 SETTING YOUR PERSONAL GOALS
@@ -3721,15 +3346,12 @@ within the time frame. Every time you
 achieve a smaller objective you will be
 self-confident and motivated to achieve
 your lifetime goals.
-“
 Activity 3
 Writing
 Read the passage on “Setting Personal Goals”.Copy the following flow chart
 into your notebook and fill in the boxes.
-116
 For free distribution
 For free distribution
-117
 Activity 4
 Reading
 Enjoy the following cartoon. Note how Calvin expresses his needs using future
@@ -3744,10 +3366,8 @@ e.g.:- The school will reopen on September 2nd.
 ■ The Future Continuous tense is usually used to express an action which will
 be in progress at a particular time in the future.
 e.g.:- We will be answering our English paper at this time tomorrow.
-118
 For free distribution
 For free distribution
-119
 Activity 4
 Reading
 tense.
@@ -3786,10 +3406,8 @@ need to revise all three tenses to complete this activity.
 4. You can turn off the radio. I …………… (not, listen) to it.
 5. While I …………….(do) my homework someone knocked at the door.
 6. Rizwan ………….. (water) the flowers at this moment.
-118
 For free distribution
 For free distribution
-119
 7. I usually ………….(drink) a cup of tea early in the morning.
 8. After this trip, I……………..(visit) Nuwara Eliya four times.
 9. The Moon ……….. (revolve) round the Earth.
@@ -3810,9 +3428,7 @@ Write an essay about your goals/ ambitions. Describe;
 - How you plan to achieve them ..........
 - How you can serve your motherland by achieving your goals ..........
 For free distribution
-120
 For free distribution
-121
 Activity 8
 Reading / Writing
 Read and enjoy the following poem. Then do the activities that follow.
@@ -3836,10 +3452,8 @@ by: C. W. Longenecker
 1) List all the contractions in the above poem and write the words that have
 been contracted.
 e.g.:- You’re - You are
-120
 For free distribution
 For free distribution
-121
 2) Answer the following questions.
 a.What will happen to you, if you think you are beaten?
 b.With what does success begin?
@@ -3856,10 +3470,8 @@ Reading
 Brain Drain
 The departure of educated or professional people to more developed
 countries
-122
 For free distribution
 For free distribution
-123
 2) Answer the following questions.
 a.What will happen to you, if you think you are beaten?
 b.With what does success begin?
@@ -3905,23 +3517,16 @@ time to establish these sorts of facilities and opportunities, but it is possibl
 is becoming increasingly necessary. If we encourage highly-skilled workers to
 serve their own country, they will not seek better opportunities elsewhere.
 Adapted from an article by Jessia Karpilo, Geography Intern
-122
 For free distribution
 For free distribution
-123
 Writing
 1) Match the following words taken from the passage with their synonyms.
 1. opportunities
 advantage
 2. obvious insecurity
-3.
 career considerable
 4. benefit chances
 salaries fight
-5.
-6.
-7.
-8.
 substantial wages
 combat job
 advancement clear
@@ -3940,13 +3545,9 @@ country to work in that country.
 b. Increasing job advancement opportunities and research opportunities in
 one’s own country.
 c. Imposing laws to stop highly skilled workers from leaving their country.
-124
 For free distribution
 For free distribution
-125
 3). Use the following words taken from the passage to form new words.
-NOUN
-VERB
 emigration
 emigrate
 advancement
@@ -3955,7 +3556,6 @@ development
 education
 government
 establish
-NOUN
 ADJECTIVE
 knowledge
 availability
@@ -3963,10 +3563,8 @@ profession
 knowledgeable
 economic
 educated
-124
 For free distribution
 For free distribution
-125
 Revision point
 Conditionals (If clause)
 “If” Type One (Possible situations)
@@ -3985,10 +3583,8 @@ important which clause comes first.
 e.g.:- If you had run faster, you would have won the race.
 The structure is usually if + past perfect and would + have + past participle.
 It’s not important which clause comes first.
-126
 For free distribution
 For free distribution
-127
 Activity 10
 A) Fill in the blanks in the following conditional clauses.
 1. If there are enough job opportunities, skilled workers …………………
@@ -4013,10 +3609,8 @@ Let’s have a debate in the class.
 Form two groups and have a debate on the following topic.
 “We should make use of our skilled knowledge by accepting international
 career opportunities”
-126
 For free distribution
 For free distribution
-127
 Activity 12
 Listening
 Listen to the dialogue between the Library Assistant and Ganesh and underline
@@ -4041,7 +3635,5 @@ c. Three books
 a. Monday
 b. Saturday
 c. Sunday
-128
 For free distribution
 For free distribution
-PB

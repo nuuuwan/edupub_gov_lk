@@ -23,32 +23,6 @@ Contents
 3.5 Patterns seen in the periodic table
 3.6 Metals, non metals and metalloids
 3.7 Chemical formulae
-xi
-Page
-01
-02
-07
-10
-11
-14
-15
-19
-23
-23
-27
-29
-32
-36
-37
-43
-52
-53
-55
-57
-61
-62
-65
-74
 4. Newton’s laws of motion
 4.1 Nature of force and its effects
 4.2 Momentum
@@ -58,17 +32,7 @@ Page
 5.2 Static, limiting and dynamic states of frictional forces
 5.3 Factors affecting the limiting frictional force
 5.4 Practical applications of friction
-84
-84
-93
-95
-98
-98
-99
-101
-105
 6. Structure and functions of the plant and animal cell
-110
 6.1 Basic unit of life
 6.2 Concept of the cell
 6.3 Structure of cells
@@ -83,21 +47,6 @@ Page
 8.1 Cellular organization
 8.2 Nutrition
 8.3 Respiration
-xii
-110
-110
-111
-115
-118
-123
-123
-126
-129
-130
-139
-140
-143
-145
 8.4 Irritability and Co-ordination
 8.5 Excretion
 8.6 Movement
@@ -119,34 +68,11 @@ xii
 11.2 The couple of forces
 12.Equilibrium of forces
 12.1 Introduction to equilibrium of forces
-147
-147
-148
-149
-149
-156
-156
-157
-163
-165
-168
-169
-174
-181
-182
-183
-189
-189
-197
-201
-201
 12.2 Equilibrium of a body under two forces
-202
 12.3 Equilibrium of a body under three coplanar parallel forces 205
 12.4 Equilibrium of a body under three forces that are not parallel 207
 Access for knowledge
 with joy and leisure
-xiii
 Chemical Basis of Life 01
 Biology
 The bodies of all organisms are composed of variety of chemical compounds. These
@@ -158,11 +84,6 @@ The most common 4 elements in the living body are Carbon, Hydrogen, Oxygen and
 Nitrogen. Other than above Sulphur, Phosphorous, Sodium, Potassium, Calcium,
 Magnesium, Iron and Chlorine are essential for the survival of organisms.
 Figure 1.1 shows the percentages of main elements in the human body.
-3]
-4]
-10]
-18]
-65]
 Oxygen
 Tlaiscka
 Carbon
@@ -186,9 +107,7 @@ as bio molecules. They are:
 ² Proteins
 ² Lipids
 ² Nucleic acids
-PB
 For free distribution
-1
 For free distribution
 These are considered as the main types of bio molecules. Instead of these four
 types, Vitamins are also one of the organic compounds found in living matter.
@@ -196,33 +115,9 @@ Water, minerals and gases are some of the inorganic molecules that are essential
 for the maintenance of life.
 For extra knowledge
 Element
-O
-C
-H
-N
-Ca
-P
-K
-S
-Na
-Mg
-Cl
-Fe
-I
 Percentage
 based on
 mass%
-65
-18
-10
-3
-1.5
-1.0
-0.35
-0.25
-0.15
-0.05
-0.2
 0.007
 0.0002
 Locations present in human body
@@ -250,11 +145,8 @@ The main elemental composition of carbohydrates is Carbon (C), Hydrogen
 Hydrogen and oxygen combine in 2:1 ratio in carbohydrates.
 Common molecular formula
 Cx (H2O) y
-2
 For free distribution
-3
 For free distribution
-²²²
 Monosaccharides
 Monosaccharides
 Monosaccharides
@@ -273,11 +165,8 @@ present
 Other facts
 Other facts
 Other facts
-2
 For free distribution
-3
 For free distribution
-²
 Disaccharides
 Two Monosaccharides join to form a Disaccharide. During this process a water
 molecule is released. In the same way relevant Monosaccharides can be obtained
@@ -297,14 +186,11 @@ Present
 Germinating
 seeds
 Other Facts
-two
-of
 a Maltose
 • Union
 forms
 Glucose ¬ Glucose
 glucose molecules
-.
 molecule
 Maltose ¬Water
 • An intermediate product of starch hydrolysis
@@ -313,7 +199,6 @@ Lactose
 White and
 brown Sugar
 Sugar cane and
-Beet
 Some fruits
 • Union of a Glucose molecule with a Fructose
 molecule forms a Sucrose molecule
@@ -333,11 +218,8 @@ Galactose ¬ Glucose
 according to the composition is 4% - 6%
 • The percentage of Lactose in human milk
 according to the composition is 6% - 7%
-4
 For free distribution
-5
 For free distribution
-²
 Polysaccharides
 Polymerisation of a large number of monosaccharides form a polysaccharide
 molecule. Hydrolysis of Polysaccharide results relevant monosaccharides.
@@ -363,7 +245,6 @@ Fruit
 Animal liver
 and muscles
 Other Facts
-•
 It is not digested in the human digestive
 system, but it helps to avoid constipation.
 • The type of carbohydrate that stores in
@@ -373,15 +254,8 @@ animal body is Glycogen
 For extra knowledge
 Figure 1.2 - Structure of a
 glucose molecule
-4
 For free distribution
-5
 For free distribution
-²
-y
-y
-y
-y
 Significance of Carbohydrates
 As an energy Source
 The main source to obtain energy for the activities of or ganisms is t he
@@ -402,7 +276,6 @@ y A solution of Glucose is obtained into a test tube.
 y Few drops of Benedict solution to the above solution is added.
 y The above solution is immersed in a water bath and heated.
 y Can observe colour changes as below.
-Blue
 Green
 Test for (Sucrose)
 Green yellow
@@ -416,14 +289,11 @@ y Few drops of diluted Sulphuric acid (H2SO4) is added to a freshly
 prepared sugar solution and heated.
 y Next few drops of Benedict solution is added to it.
 y Can observe colour changes as below.
-Blue
 Green
 Green yellow
 Orange
 Brick red precipitate
-6
 For free distribution
-7
 For free distribution
 1.2 Proteins
 Protein is an essential constituent in all living cells. Carbon(C) Hydrogen (H),
@@ -435,60 +305,41 @@ cereals are some of the foods rich with proteins.
 For extra knowledge
 y Amino acids
 Below is the structure of a typical amino acid molecule.
-R
 weuhsfkda ldKav
 Amino
 group
-NH2
-C
-COOH
 Carboxyl
 ldfndlais,a ldKavh
 group
-H
 R-represents a group containing both Carbon (C) and Hydrogen (H). Due to the
 change in R group, 20 different amino acids are present. All proteins present in
 organisms from bacteria to human are made up of these 20 different amino acids
 combined in different sequences.
 The simplest Amino acid is Glycine. Here Hydrogen (H) is present as the
 R group.
-H
-C
-H
-NH2
-COOH
 Some amino acids cannot be synthesized within the body. So they have to be
 taken from outside with food. Therefore they are known as essential amino
 acids.
-6
 For free distribution
-7
 For free distribution
 For extra knowledge
 • Significance of Proteins
-y
-y
 As an energy source
 When energy supply from Lipids and Carbohydrates is not sufficient protein
 is used in energy generation.
 To make structural components
 Proteins are important components in making cell membrane. Hairs and
 feathers also contain keratin protein.
-y
 As enzymes
 All the bio-chemical reactions take place in organisms are catalyzed by
 enzymes. The enzymes are proteins.
-y
 As hormones
 Some hormones are proteins which involve in homeostasis and coordination
 of organisms.
-y
 As antibodies
 The antibodies that are produced in the body to protect the body against
 microorganisms that enter into the body are proteins.
-8
 For free distribution
-9
 For free distribution
 Test to identify proteins
 Biurete test
@@ -510,8 +361,6 @@ Materials required
 Flour, Amylase, Test tube, white porcelain tile, Iodine solution, Water,
 A stop watch
 Method
-y
-y
 Put 2ml of Starch solution into a test tube.
 Add 2ml of Amylase (Filter a solution of ground germinating green gram
 (Mung) seedlings) into it and mix well.
@@ -519,17 +368,12 @@ Get a drop from the solution after 2 minutes and place it on a white
 porcelain tile.
 Add a drop of Iodine onto the drop of mixture.
 Continue same procedure for about 20 minutes in 2 minute intervals.
-y
-y
-y
-8
 For free distribution
 The blue colour of the drop obtained from the mixture gradually reduces with
 time and finally obtains the colour of Iodine (yellow /brown colour)
 Starch gives black blue colour with Iodine but it does not give colour change
 with Iodine after 20 minutes as there is no Starch there.That is because Starch is
 converted to Maltose by Amylase enzyme.
-9
 For free distribution
 1'3 Lipids
 Fats and oils belong to this group. Lipids which are solid at room temperature are
@@ -544,13 +388,7 @@ Fatty acids and glycerol react to form Lipids.
 Fatty acids ¬ Glycerol
 Lipids ¬ Water
 • Significance of Lipids
-y
 As an energy source
-y
-y
-y
-y
-y
 Lipids act as an energy source as carbohydrates and proteins. More energy
 is produced during burning of lipids.
 To form different structural components
@@ -570,9 +408,7 @@ external shocks. Thereby provides protection.
 To synthesize some hormones
 Some Hormones of vertebrates (Oestrogen, Testosterone, Cortisone) are
 lipid compounds.
-10
 For free distribution
-11
 For free distribution
 Test to identify lipids
 Sudan III test
@@ -596,9 +432,7 @@ Nucleic acid is the most important molecule out of the main bio molecules in
 living matter in genetical aspect. It is a linear polymer made up of large number of
 nucleotides. It contains Carbon (C), Hydrogen (H), Oxygen (O), Nitrogen (N)
 and Phosphorous (P).
-10
 For free distribution
-11
 For free distribution
 For knowledge
 Each nucleotide is made up of 3 components. They are ;
@@ -609,11 +443,8 @@ group
 y Phosphate group
 Pentose Sugar group
 Nitrogenous
-base
 Figure 1.3 - A nucleotide
 There are two types of Nucleic acids
-y
-y
 DNA - Deoxy ribo Nucleci Acid
 RNA - Ribo Nucleic Acid
 • DNA
@@ -636,9 +467,7 @@ y Important in controlling all cellular activities in a cell. The information to
 control cellular activities is present in DNA.
 y RNA is important in storing genetic information of some viruses.
 y The variations occur in DNA due to mutations are important in evolution.
-12
 For free distribution
-13
 For free distribution
 The above bio molecules contain mainly Carbon (C), Hydrogen (H),Oxygen (O)
 and Nitrogen (N). We will conduct below mentioned activities to confirm the
@@ -648,11 +477,7 @@ Identification of water as a constituent in food
 Materials required
 Meat, Egg shell, Plant leaves, Crucibles
 Method
-y
 separately.
-y
-y
-y
 Grind /crush meat, egg shell, and leaves in their dried form
 Put them separately into the crucibles and heat them.
 During heating, hold a glass sheet above the crucible.
@@ -667,15 +492,10 @@ Identification of presence of Carbon(C) in bio-molecules
 Materials required
 Several crucibles, Spinach stems, Piece of fish, Chick pea
 Method
-y
-y
-y
 Make pulps by crushing all above materials separately.
 Put them separately into crucibles and heat well.
 The final residue obtained should be rubbed against a white paper.
-12
 For free distribution
-13
 For free distribution
 Lines drawn due to coal is observed.
 Can confirm the food that is used for the experiment contains Carbon (C).
@@ -704,15 +524,12 @@ Assignment - 1.1
 As a group, collect information about specific features of water and functions
 to maintain life. Use internet, news papers and other journals. Present those
 information in a creative way to the class.
-14
 For free distribution
-15
 For free distribution
 Table 1.4 - Specific properties of water and its contribution
 for the maintenance of life
 Specific Property
 The contribution for the maintenance of
-life
 • A good solvent
 y Provides a medium
 for bio-chemical
@@ -721,8 +538,6 @@ y The main constituent in the extra-cellular
 fluids of organisms.
 y Facilitates removal of excretory material
 and faecal matter of animals.
-y
-in
 respiration of
 aquatic
 Important
@@ -752,15 +567,12 @@ ice. When ice is formed they come to top
 layers of water keeping water as it is in the
 bottom. This provides living environment
 for aquatic organisms.
-y
 1'6 Minerals
 Minerals are important as a nutrient constituent to maintain the life processes
 of organisms. They are absorbed as trace or macro elements into the body. The
 elements needed in higher amounts are known as macro elements and the elements
 needed in small amounts are known as trace elements.
-14
 For free distribution
-15
 For free distribution
 7% of the body weight is by minerals. ¾ th of the above amount is by Calcium and
 Phosphorous. Other than that Potassium, Iron, Magnesium, Copper and Iodine are
@@ -796,7 +608,6 @@ Magnesium
 • To control nerve activity in
 • Nerve irritability
 skeletal muscles
-•
 Help in metabolic activities
 Calcium
 • Growth of bones and teeth
@@ -807,24 +618,18 @@ Calcium
 • Absorption of Vitamin B
 and teeth
 Growth disorders
-•
 • Osteoporosis
-16
 For free distribution
-17
 For free distribution
 • Weakening of bones
 and become fragile
 Phosphorous
 • Growth of bones and teeth
 • As a constituent of nucleic
-acid
 • For carbohydrate and fat
 metabolism
-•
 Instant release of energy in
 muscles and nerves
-Iron
 • Synthesis of haemoglobin
 • Anaemia
 • Storage of oxygen in muscles
@@ -851,37 +656,28 @@ Phosphorous
 Functions
 • As a constituent of
 amino acid, proteins,
-and
 nucleic
 chlorophyll
-acid
 Deficiency Symptoms
 • Retardation in growth
 • Chlorosis in mature leaves
 • As a constituent of
-and
 (Adenosine Tri
-acid
 nucleic
-ATP
 Phosphate)
 • Retarded growth of roots
 • Red and purple patches on
 leaves
-16
 For free distribution
-17
 For free distribution
 • Protein synthesis
 • Chlorosis in leaves
 Potassium
-•
 Opening and closing of
 stomata
 • Yellow or brown patches in
 leaves
 • Synthesis of chlorophyll
-Iron
 • Synthesis of respiratory
 • Chlorosis in tender leaves
 enzymes
@@ -896,7 +692,6 @@ chlorophyll
 • Dying of tissues at the tips of
 the leaves
 • Dead
-and
 cells
 tissues
 throughout the plant. Extra
@@ -906,7 +701,6 @@ thickness in leaves
 acids and proteins
 between veins.
 Calcium
-Zinc
 Sulphur
 Nitrogen deficiency symptoms
 (Chlorosis in mature leaves)
@@ -919,9 +713,7 @@ Potassium deficiency symptoms
 Calcium deficiency symptoms
 (Dying of tissues at tips of the leaves)
 Figure 1.5- Deficiency symptoms in plants
-18
 For free distribution
-19
 For free distribution
 Assignment 1.2
 Observe a field or a farm and collect different parts of plants with different
@@ -937,7 +729,6 @@ Type of
 Vitamin
 Vitamin A
 Table 1.7 - Uses of vitamins and their deficiency symptoms
-Use
 Deficiency Symptoms
 • Formation of visual
 pigments important in
@@ -953,16 +744,11 @@ respiratory tract
 Vitamin B • Maintenance of nerves
 • Beriberi
 • To maintain a healthy
-•
 Anaemia
-skin
 • Formation
 marrow
 • Dryness in skin
-of
-bone
 • Change in complexion
-•
 Reduction in antibody production
 • Maturation of Red Blood
 Cells
@@ -971,15 +757,11 @@ Vitamin C • To keep skin healthy
 • Weakening of gum
 • To form enamel.
 • To synthesize collagen
-•
-•
 Internal bleeding
 Delays recovery from diseases
 fibers.
 • Scurvy
-18
 For free distribution
-19
 For free distribution
 Vitamin D • Controls absorption
 • Rickets (Deforming of bones)
@@ -989,10 +771,8 @@ Vitamin E
 • Growth of tissues and
 • Premature births
 cells
-•
 Increase rate of breaking down of
 red blood cells
-•
 Weaknesses in cell division
 • Weaknesses in reproduction
 Vitamin K • To produce components
@@ -1012,9 +792,7 @@ Vitamin C deficiency symptoms
 Vitamin D deficiency symptoms
 (Deforming of bones)
 Figure 1.6- Deficiency symptoms in Vitamins
-20
 For free distribution
-21
 For free distribution
 Summary
 y The main substances that form the living body are carbohydrates, proteins,
@@ -1052,9 +830,7 @@ Exercises
 (6) An advantage of containing fibres in food is,
 1. Low risk in cancers in large intestine 2. Prevent constipation
 3. Helps, control blood sugar level 4. All the above
-20
 For free distribution
-21
 For free distribution
 02. Below mentioned deficiency symptoms were identified at a health clinic
 conducted for grade 6 students in a particular school. Identify the relevant vitamin
@@ -1077,15 +853,8 @@ Technical terms
 ö|õv¯®
 W;afm%arl
 - FUQ
-22
 For free distribution
-PB
 For free distribution
--
--
--
--
--
 Motion in a straight line 02
 Physics
 2.1 Distance and displacement
@@ -1098,12 +867,9 @@ path P
 distance 320 m
 path Q
 distance 200 m
-East
 distance 160 m
 path R
 distance 240 m
-B
-A
 Figure 2.1 – Several paths between points A to B
 If path P is used, the distance between point A to point B would be 320 m. If path Q
 is used, this distance would be 200 m. If path R is taken, the travel distance would
@@ -1114,8 +880,6 @@ is that he has moved a distance of 160 m from A to B on a straight line towards 
 east . A change of position like this, that occurs from one point to another point in
 a particular direction is called displacement. The magnitude of the displacement is
 the shortest distance between the two points.
-PB
-23
 A physical quantity which can be described only by its magnitude is called a
 scalar quantity.
 eg: speed, mass, time, distance
@@ -1134,7 +898,6 @@ Therefore it is a vector quantity.
 Let us understand this concept further with following examples.
 (i) Black colour arrow in the figure 2.2 shows the path taken by a child to travel
 from home to school.
-home
 Total distance that the child has
 travelled between home and
 school is
@@ -1145,12 +908,9 @@ from home to school is 500 m.
 This means that the magnitude of
 the displacement is 500 m while
 its direction is along AD.
-2
 school
 Figure 2.2 - Path taken by a child to travel
 from home to school
-24
-25
 (ii) Now consider Figure 2.3. A
 child starts from point A and
 reaches the point B along the
@@ -1168,11 +928,7 @@ magnitude of his displacement is 120 m and the direction is along AB.
 200 m
 running
 track
-B
-X
 North
-A
-West
 Figure 2.4 – A 200 m running track
 Figure 2.5 – Finding the direction of
 the athlete
@@ -1182,15 +938,8 @@ the straight line AB. The magnitude of his displacement is 160 m. Its direction
 according to Figure 2.5 is 70o from the north to west. This displacement can be
 expressed in the following manner.
 160 m in the direction 700 from north to west.
-24
-25
 (iv) Now consider a situation where a child is walking 60 m from A to B along the
 straight line path as shown in Figure 2.6.
-A
-B
-C
-60 m
-40 m
 Figure 2.6 – Path of a child walking from A
 The displacement of the child is 60 m along AB. Thereafter, if the child walks
 another 40 m along the same direction and reaches point C, what would be his total
@@ -1207,30 +956,17 @@ is in the opposite direction to that of AB. According to the figure 2.7 it is cl
 the total displacement is given by the line AC. Therefore, although the distance
 traversed in this case too is 100 m, his displacement would be 60 m + (-40 m).
 That is 20 m.
-A
-C
-60 m
-40 m
-B
 Figure 2.7 – Walking back 40 m after reaching point B
 If he walked the same distance in the opposite direction after reaching the point B,
 his displacement would be 60 m + (-60 m). That is, a zero (0) displacement. From
 this we know that the child is back at the starting point.
-26
-27
 Exercise 2.1
 A child starts from a point A and walks 40 m to the East until he reaches
 another point B and from B he walks 30 m to the North to reach the point C
 as shown in Figure 2.8.
 • What is the total distance traversed by the child?
 • What is his displacement?
-50 m
-40 m
-A
 starting point
-C
-30 m
-B
 Figure 2.8 - A path walked by a child from A to C
 2.2 Speed
 We frequently hear about accidents caused by vehicles moving at high speeds.
@@ -1243,10 +979,7 @@ What we mean by speed is the rate at which a
 given distance is traversed.
 speed =
 distance
-time
 In other words, speed is the distance traversed in a unit time.
-26
-27
 Vehicles moving in roadways cannot maintain the same speed throughout the travel
 time. The speedometer of a motor vehicle usually indicates only the speed of the
 vehicle at a particular instant. When there is heavy traffic, vehicles have to slow
@@ -1259,20 +992,6 @@ The distance traversed by a certain object at different instances in time is sho
 the table below.
 Time t (s)
 Distance traversed d (m)
-0
-0
-1
-3
-2
-6
-3
-9
-4
-12
-5
-15
-6
-18
 According to these data,
 Distance traversed by the object during the first second = (3 - 0) = 3 m
 Distance traversed during the next second = (6 - 3) = 3 m
@@ -1282,39 +1001,19 @@ That is, the object has traversed 3 m during each 1 s time interval. Therefore, 
 case we can say that the object has moved at a uniform or constant speed.
 speed =
 distance
-time
 Since the time is given in seconds and the distance in meters,
 the speed has the unit ms-1 ( ). Accordingly, the above object
 has a speed of 3 m s-1.
-m
-s
 Now let us consider the motion of another object described by the following data
 table.
 Time t (s)
 Distance traversed d (m)
-0
-0
-1
-3
-2
-5
-3
-9
-4
-12
-5
-16
-6
-18
 The distance traversed by this object is 3 m in first second, 2 m in second second
 and 4 m in third second etc.
-28
-29
 total
 distance
 travelled
 total
-time
 duration
 Therefore the distance traversed by this object during each interval of one second is
 not the same. That is, this object has not travelled with a uniform speed.
@@ -1327,7 +1026,6 @@ total distance travelled
 total time duration
 The total distance travelled by this object during 6 s is 18 m. Therefore, the average
 distance travelled during a second = 18
-6
 3= m.
 That is, the mean speed or average speed of the object
 As another example, let us consider a vehicle that travelled a distance of 100 km
@@ -1344,9 +1042,6 @@ a direction.
 The velocity of an object can be obtained by dividing its displacement by time.
 Velocity =
 displacement
-time
-28
-29
 We learnt earlier that sometimes, bodies could move with uniform speeds while at
 other times they could move with non-uniform speeds. In a similar manner, the
 velocity of a body too can be uniform during certain time intervals while it can be
@@ -1355,16 +1050,6 @@ The table below shows the displacement of a body along a specific direction, at 
 end of each 1 s time interval, as measured from the starting point.
 Time t (s)
 Displacement s (m)
-0
-0
-1
-3
-2
-5
-3
-9
-4
-12
 Since the increase in the displacement of the body during each second is 3 m, the
 motion has taken place at a constant or uniform velocity.
 When a body is moving at a constant velocity, neither the magnitude nor the
@@ -1381,32 +1066,14 @@ The following table shows the displacement of another object moving on a straigh
 line, as measured during each 1 s time interval.
 Time t (s)
 Displacement s (m)
-0
-0
-1
-4
-2
-7
-3
-9
-4
-12
 The displacement of this object is 4 m in the first second, 3 m in the second second,
 and 2m in the third second etc. As the displacement is not the same in every second,
 the velocity of the object is not uniform. In such occasions we can calculate the
 mean velocity.
-30
-31
 Mean velocity of the above object =
 displacement
 displacement
-time
-time
-12 m
-4 s
 3 m s-1
-=
-=
 Example 1
 The variation of the displacement, measured with respect to the starting point, of
 a child riding a bicycle on a straight path during each 1 s time interval is shown in
@@ -1414,26 +1081,6 @@ the table below.
 Time t (s)
 Displacement
 s (m)
-0
-0
-1
-2
-2
-4
-3
-4
-6
-8
-5
-8
-6
-7
-8
-9 10
-8
-8
-8
-4 0
 (i) What kind of motion has the child undergone during the first 4 s?
 (ii) What is the rate of change of the displacement during the first 4 s?
 (iii) Give one word to describe the rate of change of the displacement.
@@ -1446,29 +1093,16 @@ Answers
 (ii) Rate of change of the displacement
 during the first 4 s =
 change of displacement
-time
 Final displacement - initial displacement
-time
 (8-0) m
-4 s
 2 m s-1
-=
-=
-=
-=
-=
-31
-30
 (iii) Rate of change of the displacement is the velocity.
 (iv) The child has not moved during the time period from 4 s to 8 s.
 (v) The displacement during the time interval from 8 s to 10 s has taken place in
 the opposite direction. He has come back to the starting point after 10 s.
 (vi) Velocity of the child during the last 2 s =
 change of displacement
-time
 (0 - 8) m
-=
-2 s
 = - 4 m s-1
 That is, the velocity is 4 m s-1 in the opposite direction.
 2.4 Acceleration
@@ -1480,20 +1114,6 @@ The following table shows the manner in which the velocity of a body that travel
 along a straight line varied with time.
 Time t (s)
 Velocity v (m s-1)
-0
-0
-1
-2
-2
-4
-3
-6
-4
-8
-5
-10
-6
-12
 According to the above data, the velocity of the body has changed from 0 m s-1 to
 12 m s-1 during a 6 s period
 Change in the
@@ -1506,30 +1126,18 @@ When we divide the above velocity change (12 m s-1) by the time duration for thi
 change (6 s), we get the rate of change of the velocity.
 The rate of change of the velocity is known as the acceleration. That is, the change
 in velocity per unit time is the acceleration.
-32
-33
 We already know that the unit of the velocity is m s-1. Since the acceleration is the
 velocity change in a second, the acceleration has the unit ms-2( ).
-ms-1
-s
 Therefore we can calculate the acceleration of the above object in the following
 manner.
 Acceleration =
 Acceleration =
 final velocity - initial velocity
-time
 final velocity - intial velocity
-time
 ( 12 - 0 ) m s-1
-=
-6 s
 ( 12 - 0 ) m s-1
-6 s
 2 m s-2
-=
 2 m s-2
-=
-=
 When a body has an acceleration of 2 m s-2, it means that its velocity changes by
 2 m s-1 during each second. If the acceleration has a positive value, it implies that
 the velocity is increasing. A negative acceleration means a decrease in the velocity.
@@ -1537,24 +1145,11 @@ Suppose that a body moving in a straight line had an initial velocity of 12 m s-
 which later varied with time as shown in the following table.
 Time t (s)
 Velocity v (m s-1)
-0
-12
-1
-9
-2
-6
-3
-3
-4
-0
 Here, the velocity has decreased. The acceleration of this body can be calculated
 in the following manner.
 Acceleration =
 change of velocity
-time
 ( 0 - 12 ) m s-1
-=
-4 s
 = -3 m s-2
 Here, we have obtained a negative value for the acceleration. It means that the
 velocity has decreased by 3 m s-1 each second.
@@ -1562,15 +1157,12 @@ If the velocity is decreasing, the acceleration takes a negative value. A negati
 acceleration is known as a deceleration.
 If a body has an acceleration of -3 m s-2, it means that the body has a deceleration
 of 3 m s-2.
-32
-33
 If the velocity of a body either increases or decreases by the same amount every
 second, then that body is said to have a uniform acceleration or deceleration.
 In order to find the displacement of a body moving at a uniform acceleration, we
 should find the mean velocity of the body and multiply it by the corresponding time.
 Displacement = mean velocity × time
 Mean velocity = initial velocity + final velocity
-time
 Example 1
 A body that starts from rest, is subjected to a uniform acceleration for 6 s after
 which, it acquires a velocity of 12 m s-1. What is the displacement of the body
@@ -1579,9 +1171,7 @@ Since the acceleration is uniform, we can find the mean velocity by dividing the
 sum of the initial and final velocities by two.
 Displacement of the body
 = mean velocity × time
-=
 ( 0 + 12 )
-2
 = 36 m
 m s-1 × 6 s
 Example 2
@@ -1591,40 +1181,28 @@ to rest after decelerating for 2 s.
 (i) Calculate the acceleration during the first 4 s.
 (ii) Find the deceleration during the last 2 s.
 (iii) What is the displacement of the body during the 10 s?
-34
-35
 Answers
-(i)
-(ii)
 Acceleration during the first 4 s =
 (12-0) m s-1
-4 s
 = 3 m s-2
 Acceleration during the last 2 s = (0-12)m s-1
-2 s
 = - 6 m s-2
 Deceleration = 6 m s-2
 (iii) Displacement during the first 4 s = mean velocity × time
-=
 ( 0+12 ) m s-1
-2
 = 24 m
 × 4 s
 Displacement during the next 4 s = uniform velocity × time
 = 12 × 4
 = 48 m
 Displacement during last 2 s = mean velocity × time
-=
 ( 12 + 0 ) m s-1
-2
 × 2 s
 = 12 m
 Total displacement during the 10 s = 24 m +48 m +12 m
 = 84 m
 That is, the final position of the object after 10 s is 84 m away on a straight line from
 the starting point.
-34
-35
 Exercise 2.2
 1. If the velocity of an object increased uniformly from 0 to 12 m s-1 during
 6 s, find the acceleration of the object.
@@ -1642,44 +1220,16 @@ x-axis and the displacement on the y-axis.
 The following table shows the variation of the displacement of a body with time.
 Time t (s)
 Displacement s (m)
-0
-0
-1
-3
-2
-6
-3
-9
-4
-12
-5
-15
 The displacement - time graph for the above data set is shown in Figure 2.9.
 displacement
 s (m)
-15
-12
-9
-6
-3
-0
-B
 (5,15)
 (4,12)
 (3,9)
 (2,6)
-A
 (1,3)
-C
-1
-3
 Figure 2.9 - A displacement - time graph
-4
-5
-2
 time t (s)
-36
-37
 Since the velocity is uniform in this case, we get a straight line for the graph. For a
 body with the non - uniform velocity, we get a curve for the graph. The velocity can
 be obtained by determining the gradient of the graph.
@@ -1692,33 +1242,19 @@ points is a time interval. The corresponding difference between the y-coordinate
 is the displacement of the body during that time interval. What we get when the
 displacement is divided by time is a velocity.
 Gradient =
-=
-y
-Y
--
-x
--X
 coordinate
-s
 coordinate
-s
 between
 difference
 between
 difference
 displacement
-nt
-time
 = velocity
 Therefore, the velocity can be calculated by choosing two fairly distant points A
 and B on the above graph and by calculating the gradient as shown below.
 Gradient =
-=
-BC
-AC
 (15-3)m 12m
 (5-1) s 4 s
-=
 = 3 m s-1
 Therefore, the velocity of the motion represented by the above graph is 3 m s-1.
 2.6 Velocity-time graphs
@@ -1727,40 +1263,11 @@ used. In velocity-time graphs, the time is plotted on the x-axis while the veloc
 plotted on the y-axis.
 The table below gives the variation of velocity with time for the motion of an
 object.
-36
-37
 Time t (s)
 Velocity v (m s-1)
-0
-0
-1
-3
-2
-6
-3
-9
-4
-12
-5
-15
-6
-18
 A velocity - time graph plotted using the above data is shown in Figure 2.10.
 Velocity
 v (m s-1)
-18
-15
-12
-9
-6
-3
-0
-1
-2
-3
-4
-5
-6
 time t (s)
 Figure 2.10 - A velocity - time graph
 This graph is a straight line, because the increase in the velocity during each 1 s
@@ -1777,53 +1284,28 @@ difference between velocities
 difference
 between
 velocitie
-s
-time
-time
 = acceleration
-38
-39
 For the above graph,
 Acceleration =
 (18 - 0) m s-1
-6 s
 = 3 m s-2
 Figure 2.11 shows the velocity - time graph for the motion of a body moving at a
 constant velocity of 6 m s-1. Since the velocity remains the same in a motion taking
 place with a constant velocity, this graph is a straight line parallel to the x-axis.
 Since the velocity of the motion described by the above graph is 6 m s-1, you can
 calculate the displacement as shown below, using the formula you learnt in section
-2.3.
 Velocity =
 displcement
 displcemen
-t
-time
-time
 Displacement = velocity × time
 = 6 m s-1 × 8 s
 = 48 m
 Velocity
 v (m s-1)
-10
-8
-6
-4
-2
 6 ms -1
-8s
-0
-2
-4
-6
-8
-10
-12
 time t (s)
 Figure 2.11 - Velocity - time graph of a body moving at a
 constant velocity
-38
-39
 As shown in Figure 2.11 , the area under the straight line is 6 × 8 = 48 m. This area
 is calculated by multiplying the length along the x-axis (time) by the length along
 the y-axis (velocity).
@@ -1835,12 +1317,6 @@ acceleration for 4 s. A velocity - time graph plotted for this motion is shown i
 Figure 2.12.
 velocity
 v (m s-1)
-12
-0
-1
-2
-3
-4
 time t (s)
 Figure 2.12 - A velocity - time graph of a body moving at a
 uniform acceleration
@@ -1850,16 +1326,11 @@ Displacement = mean velocity × time
 Therefore, for the motion shown in Figure 2.12,
 Displacement =
 12 m s-1
-2
 × 4 s
 = 24 m
-40
-41
 The shaded area of the region below the graph of Figure 2.12,= 1
-2
 Again see how this area was calculated.
 12 × 4
-2
 12/2 is the mean velocity.
 Displacement = mean velocity × time
 × 12 × 4 = 24
@@ -1873,17 +1344,11 @@ comes to rest after 4 s. Plot the velocity - time graph for this motion and find
 displacement during the 4 s.
 velocity
 v (m s-1)
-8
-0
-4
 time t (s)
-40
 The velocity - time graph is shown in the figure. The displacement is equal to the
 area of the shaded region.
 Displacement of the body = 8 × 4
-2
 = 16 m
-41
 • Now consider the following problem.
 An object starting from rest, acquires a velocity of 15 m s-1 after moving for 6 s
 under a uniform acceleration. Then the object moves with that velocity for 6 s and
@@ -1901,50 +1366,31 @@ travelled by the object during the complete motion, using the velocity
 (b) Find the total displacement travelled using the above expression.
 Answer
 v (m s-1)
-A
-B
-O
-C
 t (s)
-(i)
 The velocity - time graph is shown in the above figure .
 (ii) Acceleration during the first 6 s = Gradient of the OA part of the graph
 (iii) Displacement during the first 6 s = Area of the graph below OA
-=
-=
 15 m s-1
-6 s
 2.5 m s-2
 = 15 × 6
-2
-45 m
-=
-42
-43
 (iv) Displacement at uniform speed
 = Area of the graph below AB
 = 15 m s-1 × 6 s
 = 90 m
 (v) Acceleration during the last 3 s = (0 - 15) m s-1
-3 s
 = -5 m s-2
 That is, deceleration = 5 m s-2
 (vi) Displacement during the last 3 s = Area of the graph below BC
 = 15 m s-1
-2
 = 22.5 m
 × 3 s
 (vii)
 (a)Toal displacement travelled = Area of the trapezoid OABC
 (b) Total displacement travelled = (OC + AB)
 × 15 m s-1
-× 15
 m s-1
-2
 = (15 + 6)s
-2
 = 21s
-2
 = 157.5 m
 × 15 m s-1
 • During the periods of heavy traffic, vehicles have to reduce the speed
@@ -1960,8 +1406,6 @@ is known as the gravitational acceleration. Its symbol is g.
 The average value for the gravitational acceleration at sea level is about 9.8 m s-2.
 This means that the velocity of a free falling body increases by 9.8 m s-1 every
 second.
-42
-43
 When a body is moving vertically upwards, the velocity decreases by 9.8 m s-1
 every second. Therefore, the gravitational acceleration of a body moving vertically
 upwards is, -9.8 m s-2.
@@ -1976,17 +1420,13 @@ is the velocity at the end of 4 s = 39.2 m s-1
 Height that the body fell during 4 s = mean velocity × time
 The velocity - time graph for the above motion is shown in Figure 2.13.
 = (0 + 39.2) m s-1
-2
 = 78.4 m
 × 4 s
 v (m s-1)
 Figure 2.13 - Velocity - time graph of a body falling vertically down
 t (s)
-44
-45
 Distance fallen during the 4 s = Shaded area below the graph
 = 39.2 m s-1 × 4 s
-2
 = 78.4 m
 Let us next plot a velocity - time graph for a body reaching the maximum height
 after being initially projected vertically upwards with a velocity of 20 m s-1 ( Take
@@ -1995,12 +1435,6 @@ The change in the velocity with time is shown in the table below, and the
 corresponding velocity - time graph is shown in Figure 2.14.
 t (s)
 v (m s-1)
-0
-20
-1
-10
-2
-0
 v (m s-1)
 t (s)
 Figure 2.14 - Velocity - time graph of a body reaching its maximum height after
@@ -2012,8 +1446,6 @@ An object was projected vertically upward at a velocity of 30 m s-1.
 (i) Prepare a velocity - time data table indicating the variation of the velocity
 with time from the moment the object was projected until it reaches the
 maximum height.
-44
-45
 (ii) Sketch a velocity - time graph to describe the motion.
 (iii) Find the maximum height reached by the object.
 Take g = 10 m s-2 for convenience of the calculations
@@ -2021,71 +1453,37 @@ Answer
 (i) Velocity-time data table is shown below.
 Time t (s)
 Velocity v (m s-1)
-0
-30
-1
-20
-2
-10
-3
-0
 (ii) Velocity-time graph is shown in the figure below.
 v (m s-1)
 (iii) Maximum distance reached by the object
 t (s)
 = Area under the graph
 = 30 m s-1
-2
 = 45 m
 × 3 s
-46
-47
 Miscellaneous exercises
 1. (i) Explain the difference between distance and displacement.
 (ii) The path taken by a child in order to walk from a point A to a point C is
 shown in the figure below.
-A
-15 m
-90 0
-B
-20 m
-C
 (a) What is the total distance traversed by the child?
 (b) What is the displacement of the child?
-(c)
 If the child walked from A to C via B in 5 s, without stopping, find the
 (i) mean speed
 (ii) mean velocity of the child.
 over the 5 s period.
-2.
 (i) Briefly explain the difference between scalars and vectors.
 (ii) Classify the following physical quantities as scalars or vectors.
 Distance, displacement, speed, velocity
 (iii) The displacement-time graph of an object moving along a straight line
 is shown in the figure below .
-46
-47
 displacement
 s (m)
-10
-0
-1
-2
-3
-4
-5
-6
-7
-8
-time
 t (s)
 (a) How far has the object moved after starting from rest?
 (b) How long has it taken to travel the above distance?
 (c) Find the maximum velocity of the object during that period.
 (d) What can you say about the motion during the interval from 4 s to 6 s?
 (e) Comment on the motion during the interval from 6 s to 8 s.
-3.
-(i)
 If the velocity of a body varied uniformly from 10 m s-1 to 25 m s-1
 during a time interval of 5 s what was the acceleration of the body?
 (ii) Sketch the velocity - time graph for the above motion and find the
@@ -2093,26 +1491,15 @@ distance travelled during the 5 s.
 (iii) The variation of the velocity of a certain object that travelled along a
 straight line is shown in the graph below .
 v (m s-1)
-6
-0
-3
-6
-9
-12
-15
 t (s)
 (a) Find the acceleration of the object during the first 6 s.
 (b) Find the distance traversed by the object during the first 6 s.
 (c) What is the distance traversed at a uniform velocity?
 (d) Find the deceleration during the last 3 s.
-48
-49
-4.
 An object starting from rest and moving on a straight line at a constant
 acceleration acquires a velocity of 12 m s-1 in 8 s. Thereafter it moves for
 another 4 s at a uniform velocity of 12 m s-1. Ultimately it decelerates for 4 s
 and comes to rest.
-(i)
 Sketch the velocity - time graph for the above motion.
 (ii) What is the acceleration of the object during the first 8 s?
 (iii) What is the distance traversed by the object during the first 8 s?
@@ -2129,7 +1516,6 @@ ultimately decelerates for 4 s before coming to rest.
 (iv) What is the distance traversed at a uniform velocity of 16 m s-1 ?
 (v) Find the deceleration during the last 4 s.
 (vi) What is the distance moved during the last 4 s?
-6.
 (i) A fruit in a tree that detaches from the stalk takes 4 s to fall to the ground
 (a) What is its velocity when it reaches the ground?
 (b) What is the height that it fell from?
@@ -2138,8 +1524,6 @@ ultimately decelerates for 4 s before coming to rest.
 (b) What is the maximum height reached by the object?
 (c) Sketch the velocity-time graph for the motion of the object from the
 time it was projected until it reaches the maximum height.
-48
-49
 Summary
 ² The distance traversed by a body to move from a certain point to another
 point depends on the path taken. But its displacement depends only on the
@@ -2152,24 +1536,16 @@ point.
 ² The rate of change of distance or the distance traversed in a unit time is
 known as the speed of an object. Speed is a scalar quantity.
 distance
-²
 speed =
-time
 ² The rate of change of displacement is known as the velocity. It is a vector
 quantity.
 displacement
-²
 velocity =
-time
 ² The rate of change of the velocity is known as the acceleration. A negative
 acceleration is known as a deceleration. Both acceleration and deceleration
 are vector quantities.
 change of velocity
-²
 acceleration =
-time
-50
-51
 Technical terms
 Distance
 ÿr yµ®
@@ -2188,13 +1564,10 @@ Acceleration
 ;ajrKh Bº•kPÀ
 Retardation / (Deceleration) ukaokh A©º•kPÀ
 Acceleration due to gravity .=re;ajc ;ajrKh ¦Â±º¨¤Úõ»õÚ Bº•kPÀ
-50
-51
 Chemistry
 Structure of Matter
 Structure of Matter
 Chemistry
-03
 The things in our environment can be classified into two main categories as matter
 and energy. Those that occupy space and have a mass are called matter. The
 classification of matter according to their physical nature and chemical composition
@@ -2204,18 +1577,15 @@ physical nature
 Matter
 Solid
 Liquid
-Gas
 According to chemical
 composition
 Pure substances
 Mixtures
 Elements
 Compounds
-2
 Water (H O),
 Carbon dioxide
 (CO )
-2
 Homogeneous
 mixtures
 Heterogeneous
@@ -2228,7 +1598,6 @@ Iron (Fe),
 Oxygen (O2)
 Copper (Cu),
 Nitrogen (N )
-2
 Atoms are the building units of matter. The atom is composed of subatomic particles.
 Among them, protons, electrons and neutrons are the main subatomic particles.
 The electron is a negatively charged particle. Proton has a positive charge while
@@ -2240,8 +1609,6 @@ a very small area called nucleus at the centre of the atom.
 If the atom is a football ground, nucleus is a small volume, even smaller than a
 chickpea at its centre. From this example, it is clear that the nucleus of an atom is
 For free distribution
-52
-53
 For free distribution
 Structure of Matter
 Chemistry
@@ -2287,20 +1654,10 @@ Level
 Table 3-1
 Maximum number of
 electrons
-2
-8
-18
-32
 For free distribution
-52
-53
 For free distribution
 Chemistry
 Structure of Matter
-N
-M
-L
-K
 Fig - 3.2
 y Atomic number
 Assignment 3.1
@@ -2332,8 +1689,6 @@ contained in an atom, electrons are very light. The mass of protons and neutrons
 is nearly equal.Approximately, the mass of an electron is 1/1840 the mass of a
 proton. So in comparison to the mass of protons and neutrons in an atom, the mass
 For free distribution
-54
-55
 For free distribution
 Structure of Matter
 Chemistry
@@ -2344,19 +1699,12 @@ in the nucleus of an atom is called the mass number.
 Symbol A signifies the mass number of an element.
 y Atomic number of sodium is 11.
 y Hence, a sodium atom contains 11 protons.
-y
 If it contains 12 neutrons,the mass number of the sodium atom = 11+12=23.
 There is a standard way of writing the atomic number and mass number of an
 element. On the left hand side of the symbol of the relevant element, the atomic
 number is written at the bottom and the mass number at the top.
 Example ( The mass number of sodium (Na) is 23.
 Its atomic number is 11.
-A
-X
-Z
-23
-Na
-11
 A - mass number
 Z - atomic number
 atomic number - 11
@@ -2375,8 +1723,6 @@ electrons in the second energy level and 1 electron in the third energy level. H
 the electronic configuration of sodium can be written as follows.
 Na - 2, 8, 1
 For free distribution
-54
-55
 For free distribution
 Chemistry
 Structure of Matter
@@ -2394,7 +1740,6 @@ Carbon
 Nitrogen
 Oxygen
 Fluorine
-Neon
 Sodium
 Magnesium
 Aluminium
@@ -2405,107 +1750,11 @@ Chlorine
 Argon
 Potassium
 Calcium
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-Si
-P
-S
-Cl
-Ar
-K
-Ca
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
 Electronic configuration
-L
-M
-N
-K
-1
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-1
-2
-3
-4
-5
-6
-7
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-1
-2
-3
-4
-5
-6
-7
-8
-8
-8
-1
-2
 When an energy level of an atom of an element is the last energy level bearing
 electrons, the maximum number of electrons it can accommodate is 8. Thus, the
 number of electrons in the energy levels of potassium and calcium are not 9 and 10.
 For free distribution
-56
-57
 For free distribution
 Structure of Matter
 Chemistry
@@ -2523,220 +1772,57 @@ electronic configuration. The periodic law states that the properties of element
 are periodic functions of their atomic number. This means that when the elements
 are arranged in the ascending order of their atomic numbers, elements with similar
 properties recur at regular intervals of elements.
-1
-H
-I
-3
-Li
-II
-4
-Be
-11
-12
 Na Mg
-19
-K
-20
-Ca
-21
-Sc
-22
-Ti
-23
-V
-24
-Cr
-III
-5
-B
-13
-Al
-IV V
 VI VII
-6
-C
-14
-Si
-7
-N
-15
-P
-8
-O
-16
-S
-9
-F
-17
-Cl
 VIII / O
-2
-He
-10
-Ne
-18
-Ar
 25 26 27
-28
 29 30 31 32 33 34 35 36
-Mn
-Fe
-Co
 Ni Cu
-Zn
 Ga Ge
-As
-Se
-Br
-Kr
 37 38 39
-40
 41 42 43 44 45 46 47 48
 49 50 51 52 53 54
-Rb
-Sr
-Y
-Zr
-Nb
-Mo
 Tc Ru
-Rh
 Pd Ag
-Cd
-Sn
-Sb
-Te
-I
-Xe
 55 56 57
-72
 73 74 75 76 77 78 79 80
 81 82 83 84 85 86
-Cs
-Ba
-La
-Hf
-Ta
-W
 Re Os
-Ir
-Pt
 Au Hg
-Pb
-Bi
 Po At
-Rn
-In
-Tl
 Metal
 Non - metal
 Metalloid
 Nobel gas
 87 88 89
-Ra
-Fr
-104
-Rf
-Ac
 105 106 107 108 109 110
-Db
-Sg
 Bh Hs Mt Uun
 58 59 60 61 62 63 64 65 66 67 68 69 70 71
-Ce
 Pm Sm Eu Gd
 Er Tm Yb
-Nd
-Dy
-Ho
-Tb
-Lu
-Pr
 90 91 92
-Th
-Pa
 83 84 85 86
-93
-U
-Np
 94 95 96 97 98 99 100 101
 Pu Am Cm Bk
-Cf
-Es
 Fm Md No
 102 103
-Lr
 For free distribution
-56
 In this grade only the elements with
 atomic numbers from 1 - 20 are
 studied. Fig 3.4 shows that part.
 In the PeriodicTable, horizontal rows
 are called Periods while vertical
 columns are known as Groups.
-1
-2
-3
-4
-s
-p
-u
-o
-r
-G
-57
 Periods
-I
-H
-Li
-1
-3
-II
-4
-Be
-III
-5
-B
-IV
-6
-C
-11
-12
 Na Mg
-13
-Al
-14
-Si
-V
-N
-7
-15
-P
 VIII / O
-2
-He
-10
-Ne
 VI VII
-9
-8
-O
-F
-16
-S
-17
-18
 Cl Ar
-19
-K
-20
-Ca
 Fig. 3.4 - A part of modern Perodic Table
 For free distribution
 Fig. 3.3 - The modern Perodic Table
 Chemistry
 Structure of Matter
-•
 Dividing Elements into Periods
 The Period to which an element belongs is decided by the number of energy levels
 (shells) carrying electrons in an atom of that element.
@@ -2748,39 +1834,9 @@ Period 3
 - Only the first, second, and third energy levels carry electrons
 Period 4
 - Only the first, second, third and fourth energy levels carry electrons
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-Si
-P
-S
-Cl
-Ar
-K
-Ca
 Period 1
 Period 2
 Period 3
-1
-2
-2, 1
-2, 2
-2, 3
-2, 4
-2, 5
-2, 6
-2, 7
-2, 8
 2, 8, 1
 2, 8, 2
 2, 8, 3
@@ -2798,8 +1854,6 @@ outermost energy level. These are known as valence electrons. As per the above
 table, it is seen that the properties of lithium which has only one valence electron is
 similar to that of sodium.
 For free distribution
-58
-59
 For free distribution
 Structure of Matter
 Chemistry
@@ -2834,78 +1888,15 @@ E lectronic
 configuration
 Group to which
 the element belongs
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-1
-2
-2, 1
-2, 2
-2, 3
-2, 4
-2, 5
-2, 6
-2, 7
-2, 8
 2, 8, 1
 2,8,2
 2, 8, 3
-I
 VIII / 0
-I
-II
-III
-IV
-V
-VI
-VII
 VIII / 0
-I
-II
-III
 For free distribution
-58
-59
 For free distribution
 Chemistry
 Structure of Matter
-Si
-P
-S
-Cl
-Ar
-K
-Ca
-14
-15
-16
-17
-18
-19
-20
 2, 8, 4
 2, 8, 5
 2, 8, 6
@@ -2913,13 +1904,7 @@ Ca
 2, 8, 8
 2, 8, 8, 1
 2, 8, 8, 2
-IV
-V
-VI
-VII
 VIII / 0
-I
-II
 How to Find the Position of an Element in the Periodic Table
 Example :- Atomic number of magnesium (Mg) is 12.
 Electronic configuration - 2, 8, 2
@@ -2935,24 +1920,13 @@ Electronic configuration - 2, 8, 8,1
 The number of energy levels carrying electrons in
 a potassium atom is 4.Therefore it is an element in
 Period 4.
-2
-8
-2
-Mg
 Fig. 3.5
-1
-8
-8
-2
 A potassium atom has one electron in its outer energy
 level.
-K
 Therefore it belongs to Group I.
 Fig 3.5
 Thus potassium is found in Group I and Period 4 of the Periodic Table.
 For free distribution
-60
-61
 For free distribution
 Structure of Matter
 Chemistry
@@ -2967,56 +1941,6 @@ Configuration
 Element
 Group of
 the element
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-Si
-P
-S
-Cl
-Ar
-K
-Ca
-1
-2
-2, 1
-2, 2
-2, 3
-2, 4
-2, 5
-2, 6
-2, 7
-2, 8
 2, 8, 1
 2, 8, 2
 2, 8, 3
@@ -3027,46 +1951,9 @@ Ca
 2, 8, 8
 2, 8, 8, 1
 2, 8, 8, 2
-1
-1
-2
-2
-2
-2
-2
-2
-2
-2
-3
-3
-3
-3
-3
-3
-3
-3
-4
-4
-I
 VII / 0
-I
-II
-III
-IV
-V
-VI
-VII
 VIII / 0
-I
-II
-III
-IV
-V
-VI
-VII
 VIII / 0
-I
-II
 3.4 Isotopes
 Among the atoms of the same element too, there may be atoms with different number
 of neutrons. But their atomic number, that is the number of protons, is equal. That
@@ -3076,8 +1963,6 @@ of that element.
 Examples for isotopes
 Hydrogen has three isotopes. They are called protium, deuterium and tritium.
 For free distribution
-60
-61
 For free distribution
 Chemistry
 Structure of Matter
@@ -3100,56 +1985,21 @@ Atomic number
 Mass number
 Standard
 representation
-1
-1
-1
-1
-H1
-1H
-1
-2
-H2
-1 H
-2
-1
-1
-3
-H3
-1 H
-3
-1
 Chlorine has two isotopes. They are ,
-35
-C135
 17 Cl
-17
-37
-C137
 17 Cl
-17
-.
 Chlorine gas does not contain 35
 gas, 75 parts are 35
 of the respective isotopes.
 3.5 Patterns Seen in the Periodic Table
-C135
 17 Cl and 25 parts are 37
-17
-17
 17 Cl and 37
-C137
-C135
 17 Cl in equal amounts. In hundred parts of
-C137
 17 Cl. This is called the percentage abundance
-17
-17
 In the Periodic Table it can be seen that the physical and chemical properties of
 the elements change according to a systematic pattern across a Period from left to
 right and from top to bottom of a Group. To study those patterns, let's consider the
 following properties of the elements.
-y
-y
 First ionisation energy
 Electronegativity
 y First ionisation energy
@@ -3158,56 +2008,13 @@ The negatively charged electrons are attracted by the positively charged nucleus
 so to remove an electron from an atom energy must be supplied to overcome that
 attraction. When an electron is removed from an atom, it becomes a positive ion.
 For free distribution
-62
-63
 For free distribution
 Structure of Matter
 Chemistry
-I
-H
-1310
-II
-Be
-Li
-519
-897
 Na Mg
-495
-738
-Ca
-K
-418
-590
 VIII / O
-He
 VI VII
-2372
-Ne
-O
-F
-2080
-1682
-1314
 Cl Ar
-S
-1521
-1255
-1000
-III
-B
-799
-Al
-577
-IV
-C
-1085
-Si
-786
-V
-N
-1406
-P
-1018
 Fig. 3.7 - First ionisation energy values of the
 elements with atomic numbers
 1-20 (kJ mol -1)
@@ -3232,75 +2039,10 @@ in every Period, Group VIII elements have the maximum ionisation energy .From
 left to right in a Period, the first ionisation energy varies in a regular manner. This is
 confirmed when the variation of ionisation energies in the second and third periods are
 examined using the graph (Fig 3.8).
-1
--
-l
-o
-m
-J
-k
-$
-y
-g
-r
-e
-n
-e
-n
-o
-i
-t
-a
-s
-i
-n
-o
-i
-t
-s
-r
-i
-F
-2800
-2600
-2400
-2200
-2000
-1800
-1600
-1400
-1200
-1000
-800
-600
-400
-200
-He
-Ne
-F
-O
-N
-H
-Be
-C
-B
-Li
-Cl
-S
-P
-Si
-Mg
-Al
-Na
-Ar
-Ca
-K
 2 4 6 8
 10 12 14 16 18 20
 Atomic number
 For free distribution
-62
-63
 For free distribution
 Fig. 3.8 - The graph of ionisation energy variation against atomic number for first 20 elements
 Chemistry
@@ -3334,248 +2076,54 @@ electronegativity values well. It can be seen that the electronegativity increas
 left to right across a Period. It is also seen that, down a Group, electronegativity
 decreases.
 For free distribution
-64
-65
 For free distribution
 Structure of Matter
 Chemistry
-I
-H
-2.1
-Li
-1.0
-II
-Be
-1.5
 Na Mg
-0.9
-1.2
-K
-0.8
-Ca
-1.0
 VIII / O
-He
--
-Ne
--
 VI VII
-O
-F
-4.0
-3.5
-S
-2.5
 Cl Ar
--
-3.0
-4
-3
-2
-1
-y
-t
-i
-v
-i
-t
-i
-g
-e
-n
-o
-r
-t
-c
-e
-l
-E
-F
-O
-N
-C
-H
-B
-Be
-Li
-III
-B
-2.0
-Al
-1.5
-IV
-C
-2.5
-Si
-1.8
-V
-N
-3.0
-P
-2.1
-Cl
-P S
-Si
-Al
-Mg
-Na
-Ca
-K
 Fig 3.9 - Pauling electronegativity values of the
 elements with atomic numbers 1-20
-0
-5
 Fig 3.10 -
-10
-15
 Atomic number
 Variation of electronegitivity
-20
 against atomic number
 3.6 Metals, Non - metals and Metalloids
-1
-H
-I
-3
-Li
-II
-4
-Be
-11
-12
 Na Mg
-19
-K
-20
-Ca
-21
-Sc
-22
-Ti
-23
-V
-24
-Cr
-III
-5
-B
-13
-Al
-IV V
 VI VII
-6
-C
-14
-Si
-7
-N
-15
-P
-8
-O
-16
-S
-9
-F
-17
-Cl
 VIII / O
-2
-He
-10
-Ne
-18
-Ar
 25 26 27
-28
 29 30 31 32 33 34 35 36
-Mn
-Fe
-Co
 Ni Cu
-Zn
 Ga Ge
-As
-Se
-Br
-Kr
 37 38 39
-40
 41 42 43 44 45 46 47 48
 49 50 51 52 53 54
-Rb
-Sr
-Y
-Zr
-Nb
-Mo
 Tc Ru
-Rh
 Pd Ag
-Cd
-Sn
-Sb
-Te
-I
-Xe
 55 56 57
-72
 73 74 75 76 77 78 79 80
 81 82 83 84 85 86
-Cs
-Ba
-La
-Hf
-Ta
-W
 Re Os
-Ir
-Pt
 Au Hg
-Pb
-Bi
 Po At
-Rn
-In
-Tl
 Metal
 Non - metal
 Metalloid
 Nobel gas
 87 88 89
-104
 105 106 107 108 109 110
-Fr
-Ra
-Ac
-Rf
-Db
-Sg
 Bh Hs Mt Uun
 58 59 60 61 62 63 64 65 66 67 68 69 70 71
-Pr
-Nd
 Pm Sm Eu Gd
-Tb
-Dy
-Ho
 Er Tm Yb
-Lu
-Ce
 90 91 92
-Th
-Pa
 83 84 85 86
-93
-U
-Np
 94 95 96 97 98 99 100 101
 Pu Am Cm Bk
-Cf
-Es
 Fm Md No
 102 103
-Lr
 Fig. 3.11 - The modern Perodic Table
 The elements written in blue in the boxes on the left hand side of this pattern
 are metals. The elements indicated in brown on the right hand side are non -
@@ -3583,8 +2131,6 @@ metals(including nobel gasses).The elements indicated in light green around the
 steps have properties in between the metals and non - metals. Therefore they are
 called metalloids.
 For free distribution
-64
-65
 For free distribution
 Chemistry
 y Metals
@@ -3597,15 +2143,11 @@ Physical Properties of Metals
 Sonorous (give a ringing sound when struck).
 Given below are some properties of metals.
 y Have a metallic lustre (have a shiny surface).
-y
 y Exist in solid state at room temperature (mercury, though a metal is a liquid )
 y Malleable (can be hammered into sheets) and ductile (can be drawn into wires)
 y Good conductors of heat and electricity
 y Generally have a high density
 Chemical Properties of Metals
-y
-y
-y
 Metals form positive ions or cations by losing electrons.
 They combine with oxygen to form basic oxides.
 The oxides when dissolved in water form basic solutions.
@@ -3620,8 +2162,6 @@ occurs in sea water.
 Fig 3.12 - Sodium
 Fig 3.12 - Sodium
 For free distribution
-66
-67
 For free distribution
 Structure of Matter
 Activity 1
@@ -3654,8 +2194,6 @@ y Extraction of metals such as titanium and zirconium from their compounds
 y Production of indigo dye used to dye trouser materials (Denim)
 y Using the production of street lamps with a yellow glow
 For free distribution
-66
-67
 For free distribution
 Chemistry
 Magnesium
@@ -3685,8 +2223,6 @@ industry and in making parts of automobiles).
 y Production of medicines (e.g. milk of magnesia).
 y Used as a metal that prevents corrosion of iron.
 For free distribution
-68
-69
 For free distribution
 Structure of Matter
 y Non - metals
@@ -3713,13 +2249,10 @@ in animal and plant proteins. Nitrogen also exists as a constituent element in s
 air, in organic substances such as humus and in nitrates, nitrites and ammonium
 compounds.
 Physical properties of nitrogen
-y
-y
 It is colourless and odourless.
 It is lighter than air and is slightly soluble in water.
 Chemical properties of nitrogen
 y Nitrogen is a non - supporter of combustion.
-y
 It is a gas of very low reactivity. Nevertheless, at high temperatures, nitrogen
 gas reacts with non metals such as oxygen, hydrogen, carbon and silicon as
 well as with metallic elements such as magnesium and aluminium.
@@ -3727,10 +2260,8 @@ y When sent through a strong electric arc, nitrogen combines with oxygen
 in the atmosphere to form unstable nitric oxide gas. The nitric oxide gas
 so formed reacts further with oxygen in air to form an acidic gas, nitrogen
 dioxide. During lightning, this process occurs naturally.
-69
 For free distribution
 For free distribution
-68
 Chemistry
 Structure of Matter
 y Under special conditions nitrogen gas reacts with hydrogen gas to form
@@ -3742,13 +2273,9 @@ nitrides.
 Uses of nitrogen gas
 y Nitrogen gas is used to produce ammonia in industrial scale, chemical
 fertilizers and other nitrogen compounds.
-y
 Since it is an inert gas, it is used to fill electric bulbs and thermometers.
 y When making electronic devices, a nitrogen gas environment is used.
 y When storing some substances, nitrogen is used as a blanketing gas.
-y
-y
-y
 When packaging milk powder, nitrogen is used.
 Liquid nitrogen is used as a coolant.
 It is also used to fill vehicle tires.
@@ -3765,22 +2292,16 @@ clearly shows the properties of non – metals.
 Fig 3.14 - Sulphur
 Physical properties of sulphur
 It is a poor conductor of electricity.
-y
 y Sulphur is insoluble in water. It is slightly soluble in organic solvents and
 highly soluble in carbon disulphide.
 For free distribution
-70
-71
 For free distribution
 Structure of Matter
 Chemistry
 Chemical Properties of sulphur
-y
 Sulphur burns with a blue flame in air and forms sulphur dioxide gas.
 y When heated with sulphur, many metals form the metal sulphide.
 Uses of sulphur
-y
-y
 Sulphur is used to produce sulphuric acid, vulcanize rubber,and make
 calcium and magnesium sulphites which are used to bleach wood pulp.Its
 is also used to produce paints containing sulphides, solvents like carbon
@@ -3814,8 +2335,6 @@ Carbon is an element of low reactivity. It combines with oxygen at very high
 temperatures but does not react with substances like acids, bases and chlorine.
 Amorphous forms like charcoal react chemically.
 For free distribution
-70
-71
 For free distribution
 Chemistry
 Structure of Matter
@@ -3828,11 +2347,8 @@ given in the table 3.5 given below
 Form of carbon
 Amorphous carbon
 Table 3.7
-Uses
 Production of black colour ink
-y
 y Vulacanizing rubber
-Coal
 y A fuel
 Graphite
 Diamond
@@ -3845,7 +2361,6 @@ y Cutting glass and gems
 y Used as pivots at points in machines that are subject to
 wear away
 y Absorbing gases
-y
 Purification of water
 Carbo n fi br es
 and Carbon tubes
@@ -3860,8 +2375,6 @@ are crystalline silicon compounds. Clay is an amorphous
 silicon compound. The melting point of silicon is 1410 0C.
 Fig 3.16 - Silicon
 For free distribution
-72
-73
 For free distribution
 Structure of Matter
 Uses Of Silicon
@@ -3877,35 +2390,20 @@ reacts with substances like oxygen, nitrogen , nitric acid , concentrated sulphu
 acid, carbon and sulphur to form the corresponding compounds.
 Uses of Boron
 Uses of Boron
-y
-y
 y Used in welding metals.
 Used in welding metals.
 y Used in making skin cream.
 Used in making skin cream.
 y Used in making glass that can be heated into a
 Used in making glass that can be heated into a high
-y
 temperature.
 high temperature.
 Fig 3.17 - Boron
 y Acidic, basic and amphoteric nature of oxides
 An oxide is a chemical compound that combined element with oxygon.
 Elements in Period 3
-Na
-Mg
-Al
-Si
-P
-S
-Cl
 Oxide
-Na2O
-MgO
 Al2O3
-SiO2
-P2O5
-SO3
 Cl2O7
 Acidic/ basic nature
 Strongly
@@ -3913,14 +2411,12 @@ basic
 Weakly
 basic
 Amphoteric
-Very
 weekly
 acidic
 Weakly
 acidic
 Strongly
 acidic
-Very
 stongly
 acidic
 Acidity of the oxides increases
@@ -3929,8 +2425,6 @@ When the oxides of elements in Period 3 are considered, there is a clear pattern
 in the variation of their acidic and basic properties.The oxide of sodium which is
 on the left of the Period 3 is strongly basic and magnesium oxide is weakly basic.
 For free distribution
-72
-73
 For free distribution
 Chemistry
 Structure of Matter
@@ -3960,17 +2454,12 @@ by an atom of that element or the number of pairs of electrons shared between th
 atoms during chemical combination.
 We know that chemical symbols are used to identify elements easily.
 Carbon
-C
 Potassium K
 Calcium
 Sulphur
-Ca
-S
 Similarly, chemical symbols are also used to signify chemical compounds with
 ease. For instance, H2O is used to represent water, a compound consisting of two
-74
 For free distribution
-75
 For free distribution
 Structure of Matter
 Chemistry
@@ -3980,19 +2469,14 @@ formula, it indicates the number of atoms of that element present in a molecule 
 the compound. If there is no such number, only one atom of that element is present
 in a molecule of that compound.
 For example, chemical formula of glucose is C
-6
 molecule comprises 6 carbon atoms, 12 hydrogen atom and 6 oxygen atoms.
 6. This means that a glucose
-H
-O
-12
 There are instances where the chemical formula does not represent a molecule.
 Table salt, known as sodium chloride is such a compound. Solid sodium chloride
 does not contain discrete molecules.
 It is an ionic lattice composed of alternately arranged Na+ and Cl
 Na+ and Cl- ions are present in the ratio of 1:1, so its formula is written as NaCl.
 ions. In the lattice
--
 y Writing Formulae Using Valency
 Compounds are formed by the attachment of atoms or ions of elements by chemical
 bonds. Therefore, to write the formula of a compound, their combining powers or
@@ -4009,8 +2493,6 @@ y The valency of carbon is 4. So, four hydrogen atoms can combine with one
 carbon atom.
 y This is written as CH4.
 For free distribution
-74
-75
 For free distribution
 Chemistry
 Structure of Matter
@@ -4020,26 +2502,6 @@ number
 Element
 Symbol
 Valency
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
 Hydrogen
 Helium
 Lithium
@@ -4049,7 +2511,6 @@ Carbon
 Nitrogen
 Oxygen
 Fluorine
-Neon
 Sodium
 Magnesium
 Aluminium
@@ -4060,57 +2521,14 @@ Chlorine
 Argon
 Potassium
 Calcium
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-Si
-P
-S
-Cl
-Ar
-K
-Ca
-1
-0
-1
-2
-3
-4
-3
-2
-1
-0
-1
-2
-3
-4
-5,3
-6,2
-7,1
-0
-1
-2
 So, what is done in writing the chemical formula of a compound is connecting the
 atoms so that their combining powers become equal. This is done by exchanging
 the valencies of the two elements and writing them at the bottom end on the right
 hand side of the respective symbols.
 For free distribution
-76
-77
 For free distribution
 Structure of Matter
 Chemistry
-01'
 Sodium chloride
 Symbol
 Valency
@@ -4119,7 +2537,6 @@ Chemical formula
 Symbol
 Valency
 Chemical formula
-03'
 Sodium oxide
 Symbol
 Valency
@@ -4132,43 +2549,17 @@ Chemical formula
 Symbol
 Valency
 Chemical formula
-Cl
-1
-Cl
-1
-O
-2
-O
-2
-N
-3
-Na
-1
 Na1Cl1
-NaCl
-Ca
-2
 Ca1Cl2
 CaCl2
-Na
-1
 Na2O1
-Na2O
-Ca
-2
 Ca2O2
-CaO
-Mg
-2
 Mg3N2
 Mg3N2
-y
 Polyatomic Ions (Radicals)
 A polyatomic ions is an orderly arranged group of atoms of elements with a
 charge.
 For free distribution
-76
-77
 For free distribution
 Chemistry
 Structure of Matter
@@ -4190,102 +2581,40 @@ Carbonate
 Phosphate
 Chemical
 formula
-+
-NH4
-H3O+
-NO3
--
-HCO3
--
-OH-
-MnO4
--
-HSO4
--
-2-
-2-
-2-
-CrO4
 Cr2O7
-SO4
-CO3
-PO4
-2-
-3-
 Valency
-1
-1
-1
-1
-1
-1
-1
-2
-2
-2
-2
-3
 Let's consider the formulae of the following as examples for compounds with
 polyatomic ions.
 Sodium nitrate
 Potassium carbonate
 Valency
-NaNO
 Chemical formula NaNO3
-3
 Na+ NO3
-1 1
--
 Valency
-2-
-CO3
-K+
-1 2
 K2CO3
 Chemical formula K2CO3
 Magnesium nitrate
-Mg2+
-NO3
-1
-2
 Mg1(NO3)2
 Valency
--
 Ammonium phosphate
 Valency
-3-
-+
-NH4
-1
-(NH4
-PO4
-3
 )3 PO4
 Chemical formula Mg(NO3)2
 Chemical formula
 (NH4 )3PO4
 (NH ) PO
-4 3
-4
 When there are more than one radical in the chemical formula of a compound, they
 are written within parentheses.
 For free distribution
-78
-79
 For free distribution
 Structure of Matter
 Chemistry
 For free distribution
-78
-79
 For free distribution
 Chemistry
 Exercise
 01. Complete the following sentences.
 Structure of Matter
-i.
-ii.
-iii.
 The mass number of an element is 14 and its atomic number is 6. This
 atom contains …………… electrons.
 An atom of an element consists of 19 protons, 19 electrons and 18
@@ -4293,86 +2622,50 @@ neutrons. The mass number of this atom is ……………….
 The sum of the number of protons and the number of neutrons in the
 nucleus of an atom is known as its……………….
 02' The atomic number of aluminium is 13 and its mass number is 27.
-i.
 Write the atomic number and mass number of aluminium in the
 standard form.
 ii. What is the number of neutrons in an aluminium atom?
 03' Complete the following table.
 Element
 electrons in an
-atom
 Number of
 protons in an
-atom
 neutrons in an
-atom
-31
-15 P
-7
-3 Li
-24
 12 Mg
-40
-20Ca
-35
 17 Cl
 04' Write the chemical formulae of the following compounds.
 i. Lithium fluoride
 ii. Beryllium chloride
 iii. Aluminium oxide
 For free distribution
-80
-81
 For free distribution
 Structure of Matter
 Chemistry
 05' Write the chemical formulae of the following compounds.
 Ammonium chloride
-i.
 Calcium hydroxide
-ii.
 Calcium phosphate
-iii.
 Magnesium sulphate
-iv.
 Aluminium nitrate
-v.
 Potassium permanganate
-vi.
-vii.
 Calcium chromate
 viii. Ammonium dichromate
-ix.
-x.
 06. What valencies should the following elements have?
 Sodium hydrogencarbonate (Sodium bicarbonate)
 Potassium carbonate
-i.
-ii.
 Lithium
 Carbon
-iii.
-iv.
 Calcium
 Sulphur
-v.
 Chlorine
 07' A part of the Periodic Table is shown below. The symbols given in it are
 not true symbols of the respective elements. Answer the questions below
 that are based on them.
-A
-D
-EY
-Z
-R
-i.
 Identify the element / elements that behave (s) as a noble gas.
 ii. Mass number of Y is 35. Find the number of protons and neutrons in an
 atom of Y.
 iii. Write the electronic configuration of R.
 For free distribution
-80
-81
 For free distribution
 Chemistry
 Structure of Matter
@@ -4382,10 +2675,8 @@ probable formula of this compound.
 vi. Name two metallic elements.
 08' D, E, G, J, L, M, Q, R, and T are nine consecutive elements in the Periodic
 Table. R is a noble gas belonging to Period 3.
-i.
 Of these elements, identify the two elements belonging to the same
 Group.
-ii.
 To which Group of the Periodic Table do those element belong?
 iii. Of the above, name the element of highest electronegativity?
 iv. Write the formula of the compound formed by the reaction between E
@@ -4394,8 +2685,6 @@ v. Of the above, identity the element with four valence electrons and write
 its electronic configuration.
 vi. Of the above, name the element with highest first ionisation energy.
 For free distribution
-82
-83
 For free distribution
 Chap 10 Glossary
 Technical terms
@@ -4407,7 +2696,6 @@ Anion
 legdhkh
 wekdhkh
 PØÓ¯ß
-AÚ¯ß
 Ionic bonds
 whksl nkaOk
 A¯ß ¤øn¨¦
@@ -4442,7 +2730,6 @@ wdj¾;
 ldKav
 ixhqc;dj
 BÁºzuÚ®
-Tmh®
 Á¾ÁÍÄ
 First ionization energy
 m%:u whkSlrK Yla;sh •u»õ® A¯ÚõUPa \Uv
@@ -4464,25 +2751,9 @@ WNh.=kS
 E÷»õP®
 AÀ¾÷»õP®
 E÷»õP¨÷£õ¼
-Aª»®
-Põµ®
 D›¯À¦
 For free distribution
-82
-83
 For free distribution
--
--
--
--
--
--
--
--
--
--
--
--
 Physics
 Newton’s laws of motion 04
 4.1 Nature of force and its effects
@@ -4515,9 +2786,7 @@ such an instance is zero, the object would not move. If we apply a sufficiently 
 force, the resistive force would not be able to balance it, and then there would be an
 unbalanced force acting on the object, which could set the object in motion.
 Figure 4.2 - Pushing a bus
-84
 For free distribution
-85
 For free distribution
 If the above mentioned table was on a very smooth surface, such as ice, even a very
 small force would be sufficient to start the motion. That is because, when there is
@@ -4551,9 +2820,7 @@ From day to day experience we know that bodies at rest do not start moving witho
 external forces acting on them. However, we often observe that moving bodies
 come to rest without an external force exerted on them by us. Let us consider the
 following example in order to understand this.
-84
 For free distribution
-85
 For free distribution
 Consider the case of striking on
 the carom disc on a carom board
@@ -4592,9 +2859,7 @@ falling forward upon applying brakes. As the seat belt exerts a force on the upp
 part of his body as well, the whole body remains at the velocity of the vehicle even
 when brakes are applied. if no belts are worn the upper part of the body has some
 velocity and tends to go forward.
-86
 For free distribution
-87
 For free distribution
 Figure 4.5 – Seat belt privents the driver being thrown forward when breaks are applied.
 Newton’s second law
@@ -4609,27 +2874,14 @@ mass is increased by a certain ratio, then the acceleration decreases by the sam
 ratio, and if the mass is decreased by a certain ratio, then the acceleration increases
 by the same ratio.
 This statement is symbolically written as, a ∝
-1
-m
-.
 Therefore Newton’s second law can be written as
-∝
-a
 a ∝ F and
-1
-m
-F
-m
 F / m
 Therefore we have, F / m
 F / m
-a
-a
 or, a ∝
 = constant
-86
 For free distribution
-87
 For free distribution
 The unit of force is defined in such a way that the above constant is equal to one.
 That is, if the unit of force is defined in such a way that the force required to
@@ -4639,11 +2891,7 @@ Newton (1 N), Then the value of the left hand side of the above equation becomes
 F / m
 F / m
 F / m
-a
-a
-= 1
 then the constant will also become 1. Therefore, Newton's second law can be written
-as
 F = ma
 A force is acting on an object, gives rise to an acceleration.
 Let us consider the following experiment in order to verify Newton’s second law.
@@ -4664,9 +2912,7 @@ is even larger than that in the second time. Since there are three rubber bands,
 the force exerted on the trolley is three times as large as in the first time.
 ● Accordingly, it can be observed that the acceleration of the trolley increases as
 the force exerted on it is increased.
-88
 For free distribution
-89
 For free distribution
 ● Now place a mass on the trolley and repeat the experiment with one rubber band
 and observe the motion of the trolley. You will observe that the acceleration has
@@ -4675,11 +2921,6 @@ decreased.
 notice that the acceleration decreases further.
 From this it will be clear that the acceleration decreases with increasing mass if the
 force is constant.
-a =
-F
-F
-m
-m
 It is clear from the above equation that for a constant force, the acceleration increases
 if the mass is decreased and the acceleration decreases if the mass is increased.
 Example 1
@@ -4693,34 +2934,21 @@ A force of 12 N is applied on a body of mass 6 kg, moving at a uniform velocity,
 the direction of its motion. Find the acceleration of the body.
 F = ma
 12 = 6 « a
-a =
-12
-6
 a = 2 m s-2
-88
 For free distribution
-89
 For free distribution
 Example 3
 If an acceleration of 2 m s-2 results when a force of 8 N is applied on a certain
 object, find the mass of the object.
 F = ma
 8 = m × 2
-8
-m =
-2
 m = 4 kg
 Exercise 4.1
 Fill in the blanks in the table given below.
-(1)
 Force ( N )
 ....................
-40 N
-30 N
-2 N
 Mass ( kg )
 Acceleration ( m s-2 )
-3 kg
 10 kg
 ....................
 500 kg
@@ -4738,9 +2966,7 @@ Here, an action means a force exerted by an object on another object. Then the
 reaction is a force exerted on the first object, by the second object.
 Expulsion of air from an inflated balloon is a practical situation where this law
 can be applied. Hold a balloon filled with air, with its opening turned downwards.
-90
 For free distribution
-91
 For free distribution
 Loosen the hold on the opening and release the balloon as shown in Figure 4.7.
 You will notice that the balloon would initially move upwards rapidly and later fall
@@ -4761,9 +2987,7 @@ ends. Allow the air in the balloon to leave by removing the thread that closes t
 opening of the balloon.
 You will be able to observe the balloon moving on the metal wire in the direction
 opposite to that of the air leaving the balloon.
-90
 For free distribution
-91
 For free distribution
 Another instance illustrating the action and reaction is shown in Figure 4.9. Place
 two planks of wood on a few glass balls. Let two children sit on the two planks.
@@ -4781,9 +3005,7 @@ direction. Then water exerts the reaction force on the swimmer's body in the for
 direction. Because of this, the swimmer moves forward. The action in this case is
 the backward force applied by the hands. The reaction is the forward thrust exerted
 by water.
-92
 For free distribution
-93
 For free distribution
 Figure 4.11 - Hands applying a force on water and an equal and opposite force
 exerted on the hands by water.
@@ -4802,7 +3024,6 @@ depends on two factors; mass and velocity.
 In physics, the momentum (p) of a body is defined as the product of the mass (m)
 of the object and its velocity (v).
 Momentum = mass × velocity
-p
 = m × v
 The unit of mass is kg. The unit of velocity is m s-1. Therefore,
 the unit of momentum is kg m s-1.
@@ -4810,9 +3031,7 @@ Since the velocity is a vector, the momentum is also a vector.
 When a motor vehicle is moving fast, it possesses a large momentum. When it
 reduces its velocity, the momentum decreases. When it speeds up, the momentum
 increases.
-92
 For free distribution
-93
 For free distribution
 Example 1
 What is the momentum of a body of mass 2000 kg moving at a velocity of 20 m s-1?
@@ -4825,9 +3044,6 @@ momentum.
 In this problem, when we substitute the value of mass to the equation, we must
 convert the mass to kg.
 Momentum = m × v
-=
-10
-1000
 kg × 400 m s-1
 = 4 kg m s-1
 Exercise 4.2
@@ -4843,9 +3059,7 @@ mass of 500 g.
 its velocity is 10 m s-1.
 (a) What was its momentum at the moment when it was projected?
 (b) What would be the momentum when it reaches the highest point?
-94
 For free distribution
-95
 For free distribution
 4.3 Mass and weight
 The mass of an object is the amount of matter in it. The international unit of mass
@@ -4877,9 +3091,7 @@ brakes are suddenly applied?
 (iii) A passenger is seated in a bus at rest. If the bus starts to move without his
 knowledge, why is he pushed backwards?
 (iv) What is the benefit of wearing seat belts when travelling in vehicles?
-94
 For free distribution
-95
 For free distribution
 (2) (i) State Newton’s second law.
 (ii) The mass of a body is 12 kg. What is the resulting acceleration if a force of
@@ -4887,9 +3099,6 @@ For free distribution
 (3) Fill in the blanks of the table given below.
 Force (F)
 ...............
-60 N
-4 N
-40 N
 Mass (m)
 10 kg
 12 kg
@@ -4917,9 +3126,7 @@ would be the weight of the above object on the moon?
 Due to a force applied in the direction opposite to the direction of motion.
 the velocity is of the object decreased to 4 m s-1 during 4 s. what is the force
 exerted on the object ?
-96
 For free distribution
-97
 For free distribution
 Summary
 ² According to Newton’s first law, until an unbalanced force acts on it, a
@@ -4940,7 +3147,6 @@ Uniform acceleration
 taldldr ;ajrKh ^µõÚ Bº•kPÀ
 Uniform velocity
 taldldr m%fõ.h ^µõÚ ÷ÁP®
-Mass
 ialkaOh voÄ
 Acceleration
 ;ajrKh Bº•kPÀ
@@ -4950,13 +3156,10 @@ l%shdj uõUP®
 m%;sl%shdj ©ÖuõUP®
 Momentum
 .uH;dj E¢u®
-96
 For free distribution
-97
 For free distribution
 Friction
 Physics
-05
 5.1 Nature of friction
 If we place an object such as a pencil on a table and tap on it so that it starts to move
 on the table, we know from experience that its speed would gradually decrease until
@@ -4974,9 +3177,7 @@ If we try to move the table with a very small force, it might not move. This is
 because the floor exerts a force on the table which opposes the force that we apply.
 The two forces have equal magnitudes but opposite directions. Therefore they
 cancel out.
-98
 For free distribution
-99
 For free distribution
 Now suppose that we slightly increase the force that we apply on the table. If the
 table still does not start to move, it means that the frictional force exerted by the
@@ -5004,9 +3205,7 @@ includes the small additional force that is necessary to give it a velocity.
 3. The frictional forces that act on bodies when they are in relative motion.
 In order to investigate differences among the three types of frictional forces
 mentioned above, let us do the following activity.
-98
 For free distribution
-99
 For free distribution
 Activity 1
 Items required : A block of wood weighing 60 N, a Newton balance
@@ -5032,9 +3231,7 @@ Whenever the force applied on the body is smaller than this maximum frictional
 force, the surface of the table exerts a frictional force on the body that is equal and
 opposite to the applied force. This frictional force exerted on the body before the
 motion starts is called static friction.
-100
 For free distribution
-101
 For free distribution
 When the applied force is gradually increased, the static friction acting on the body
 also increases with it. However, the static frictional force can increase only up to
@@ -5062,9 +3259,7 @@ Newton balance
 rough sand
 paper
 Figure 5.3 – Investigation of the influence of surface roughness on friction
-100
 For free distribution
-101
 For free distribution
 Procedure :
 ● Fix the block of wood with the sand paper having the lowest roughness with
@@ -5091,9 +3286,7 @@ Activity 3
 Items required : A block of wood with a weight of 60 N and different dimensions
 for length, width and height, a Newton balance, several pieces of
 sand paper of equal roughness.
-102
 For free distribution
-103
 For free distribution
 Procedure :
 ● Paste the sand paper on the surfaces of the block of wood which have different
@@ -5101,13 +3294,6 @@ areas.
 ● Next place the surface with the largest area in contact with the table top and
 find the force that is just enough to move the block (the limiting frictional
 force) as before.
-A
-C
-B
-B
-C
-A
-B
 Figure 5.4 – Investigation of the influence of surface area on friction
 ● Repeat the above step, placing different surfaces of the block in contact
 with the table as shown in Figure 5.4, to find the limiting frictional force
@@ -5115,9 +3301,7 @@ corresponding to each surface.
 ● You will find that the limiting frictional force is the same for all surfaces
 of the block of wood in contact with the table. This shows that the limiting
 frictional force does not depend on the surface area.
-102
 For free distribution
-103
 For free distribution
 Our next activity is the investigation of the dependence of the normal reaction
 between bodies in contact, on the limiting frictional force.
@@ -5156,9 +3340,7 @@ reaction force R) also
 increases.
 Figure 5.5 – Investigation of the influence of nomal reaction on
 frictional force
-104
 For free distribution
-105
 For free distribution
 That is, weight of the object = perpendicular reaction force.
 This activity shows that the limiting frictional force increases when the normal
@@ -5184,9 +3366,7 @@ prevent the two contact surfaces from sliding on each other. Ball bearings used
 to connect most of the rotating parts of vehicles and machines to stationary parts
 such as axles are fabricated in this manner. A few different types of bearings are
 shown in Figure 5.6.
-104
 For free distribution
-105
 For free distribution
 Advantages of frictional forces
 Figure 5.6 – Some types of bearings
@@ -5204,9 +3384,7 @@ because the friction is insufficient for the wheels to move forward. On wet road
 a water layer that exists between the road and the tire tends to reduce the friction
 between the two surfaces causing the vehicles to skid. The purpose of having
 grooves on the surface of tyres is to allow water to pass through these grooves.
-106
 For free distribution
-107
 For free distribution
 Figure 5.7 – Tires with grooves to increase friction
 ● Coir ropes are formed by twisting a large number of coir fibers together. Even
@@ -5218,9 +3396,7 @@ coir fibers are stronger than those among the nylon fibers.
 As shown in figure 5.8, breaks of a bicycle operate by pressing the break-pads
 which are made of rubber on the wheel rim. The bicycle stops because of the
 friction between the surfaces of the rubber break-pads and the wheels.
-106
 For free distribution
-107
 For free distribution
 Figure 5.8 – Break system of a bicycle
 ● In modern motor vehicles, disc-breaks are used to stop the vehicle. Such a break
@@ -5232,7 +3408,6 @@ Brake Pads
 Rotor
 wheel
 attaches
-here
 Figure 5.9 - Disk brake system of a car
 Exercise
 (1) (i) Briefly state what is meant by friction.
@@ -5246,9 +3421,7 @@ Exercise
 (iii) It is dangerous to drive vehicles with tires that have worn out grooves
 on rainy days. Explain why.
 (iv) Write down two methods used to reduce friction.
-108
 For free distribution
-109
 For free distribution
 Summary
 ● When one of two bodies in contact with one another moves or tries to move
@@ -5275,9 +3448,7 @@ Weight
 nr {øÓ
 Normal Reaction
 wNs,ïn m%;sl%shdj ö\ÆÁß ©ÖuõUP®
-108
 For free distribution
-109
 For free distribution
 Structure and functions of
 the plant and animal cell 06
@@ -5291,9 +3462,6 @@ Figure 6.1- Robert Hooke, the microscope and the cells in a section of the cork
 Schleiden, Schwann and Radolf Virchow introduced the cell theory, based on the
 facts revealed by observing different live tissues through the microscope.
 The contents of the cell theory are as follows.
-y
-y
-y
 The structural and functional unit of life is the cell.
 All organisms are made up of one or more cells.
 New cells are formed from pre-existing cells.
@@ -5302,9 +3470,7 @@ The cell is the smallest structural unit of the organization of the living body.
 The organisms composed of a single cell are called unicellular organisms and those
 of many cells are called multicellular organisms.
 Cells perform different functions in the body'
-110
 For free distribution
-111
 For free distribution
 For example - The transportation of oxygen is done by red blood cells.
 Transmission of impulses is done by neurons.
@@ -5332,9 +3498,7 @@ The appearance of stained
 cheek cells through the light
 microscope
 Figure 6.2 (b)
-110
 For free distribution
-111
 For free distribution
 Activity 02
 Study of plant cells (onion peel cells)
@@ -5351,7 +3515,6 @@ The appearance of stained onion peel
 cells through the light microscope
 Figure 6.3 (b)
 Typical cell
-•
 The small structures present within the cell to perform different functions are known
 as organelles.The types of organelles and the number of them differ according to
 the function performed by the cell.
@@ -5373,9 +3536,7 @@ Cytoplasm
 Figure 6.4 (a) -Animal cells
 Figure 6.4 (b) - Plant cells
 (appearance through a light microscope)
-112
 For free distribution
-113
 For free distribution
 All animal cells are covered by a plasma membrane or a cell membrane. It is a live
 semi permeable membrane as well as a selective permeable membrane. There is a
@@ -5406,9 +3567,7 @@ Vacuole
 Tonoplast
 Golgi complex
 Figure 6.5 - Typical plant cell created using electron microscopic information
-112
 For free distribution
-113
 For free distribution
 Smooth Endoplasmic
 Reticulum
@@ -5431,13 +3590,9 @@ The table 6.1 contains the differences between animal and plant cells.
 Table 6.1- Differences between animal cells and plant cells
 Animal Cell
 Plant Cell
-y
-y
 Cell wall absent
 Large content of it contains
 cytoplasm
-y
-y
 Cell wall present
 Cytoplasm is pushed towards
 periphery
@@ -5446,13 +3601,9 @@ y A large central vacuole or few
 (Some times few small vacuoles
 may present)
 Chloroplasts absent
-y
 vacuoles may present
-y
 Chloroplasts present
-114
 For free distribution
-115
 For free distribution
 6.4 Cell organelles and structures present in a cell
 Every organelle and structures present in a cell perform a specific function.
@@ -5492,9 +3643,7 @@ chromosomes are the storage of genetic material
 and transfer inherited characters from generation to
 generation.
 Figure 6.9
-114
 For free distribution
-115
 For free distribution
 The number of chromosomes is specific to a species.
 Eg : There are 46 chromosomes in a human being.There are 26 chromosomes
@@ -5503,7 +3652,6 @@ The main function of the nucleus is the control of life activities of the cell.
 ² Mitochondrion
 It is an oval or rod shaped, membrane bounded organelle.
 Aerobic respiratory reactions
-the
 mitochondrion to release energy. So it is known as the power
 house of the cell. The energy produced within the
 mitochondrion is used for the metabolic activities of the
@@ -5524,9 +3672,7 @@ of a large subunit and a small subunit. They can be found
 freely in the cytoplasm or attached to Endoplasmic Reticulum.
 The function of ribosome is providing place for the protein
 synthesis.
-116
 For free distribution
-117
 For free distribution
 ² Endoplasmic reticulum
 It is an inter membranous network made up of flat or tubular sacs within the
@@ -5568,9 +3714,7 @@ Method
 y Identify cells and organelles by observing the permanent slides through the light
 microscope with the help of your science teacher.
 y Observe and study the nature of organelles using electron micrographs.
-116
 For free distribution
-117
 For free distribution
 6.5 Cell Growth and Cell Division
 ● Cell growth
@@ -5609,10 +3753,7 @@ division of the nucleus
 Figure 6.16
 The appearance of
 chromosomes in a dividing
-cell
-118
 For free distribution
-119
 For free distribution
 The number of chromosomes in an ordinary somatic cell of a species is constant.
 That is specific to a species.
@@ -5628,8 +3769,6 @@ The cell division takes place in 2 methods.
 ● Mitosis
 ● Meiosis
 Mitosis
-2n
-2n
 Figure 6.17
 It is the type of division which multiplies
 the number of cells by maintaining a
@@ -5638,18 +3777,13 @@ the cells. First the nucleus divides and
 then the cytoplasm divides to produce
 two identical daughter cells equal to
 mother cell.
-2n
 Significance of Mitosis
 ² For the growth of multicellular organisms.
 ² As an asexual reproduction method.
 ² Wound healing and cell replacement.
-118
 For free distribution
-119
 For free distribution
 Meiosis
-2n
-2n
 The cell division that makes the
 number of chromosomes into half as
 the parent cell is the meiosis.
@@ -5664,13 +3798,10 @@ chromosomes
 during the formation of gametes and
 become n (haploid).
 Division 1
-n
-n
 Division 2
 Figure 6.18
 Eggs and sperms possess only one chromosome of each pair of chromosomal set.
 n) When these gametes fuse to form the zygote, the chromosomes become
-(2n
 n + n
 2n again.
 Meiosis takes place in 2 stages. The first stage is a meiotic division (reduction
@@ -5683,9 +3814,7 @@ y Maintenance of the constant number of chromosomes from generation to
 generation.
 y Help in evolution due to variations occur in chromosomes.
 Differences between Meiosis and Mitosis are mentioned in table 6.2
-120
 For free distribution
-121
 For free distribution
 Table 6.2- Differences between meiosis and mitosis
 Meiosis
@@ -5730,41 +3859,16 @@ cell.
 y The cell divides at a particular stage during the growth.
 y The cell division takes place according to two methods. They are Mitosis
 and Meiosis.
-120
 For free distribution
-121
 For free distribution
 Exericises
-1.
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-A
-B
-C
-D
-E
-F
-G
-H
-J
 1.1 Name A,B,C,D,E....... structures and organelles in the above cells.
 Differentiate between a plant cell and an animal cell.
-1.2
 1.3 Mention the functions of the following organelles.
 (1) Mitochondrion
 (3) Rough endoplasmic reteculum
 (2) Golgi complex
 (4) Vacuole
-2.
 Explain the importance of meiosis.
 Technical terms
 Typical cell
@@ -5785,9 +3889,7 @@ wkQkkh
 W!kkh
 CøÇ²¸¨¤›Ä
 Jk[PØ ¤›Ä
-122
 For free distribution
-PB
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
@@ -5796,7 +3898,6 @@ and Compounds
 7.1 Relative Atomic Mass (Ar)
 Assignment – 7.1
 Chemistry
-07
 Discuss with the teacher and the students in your class about the units suitable
 to measure the mass of the following.
 � A motor car
@@ -5829,75 +3930,34 @@ relative atomic mass. The relative atomic mass is not the true mass of an atom o
 an element. In the past, the mass of an atom of hydrogen, the lightest element was
 used as the atomic mass unit.
 For free distribution
-PB
-123
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
 • Atomic Mass Unit
 The mass of the unit relative to which the masses of other atoms are expressed is
 called the atomic mass unit.
-12
 At present 1th
 C isotope is used as the atomic mass unit.
 12 the mass of
-6
 Atomic mass unit
-=
-12
 Mass of the C isotope
-12
-6
--23
-=
 1.99× 10 g
-12
 = 1.66 × 10 g
--24
 How many times an atom of a given element weighs as much as 1/12 the mass
 of C - 12 isotope is the relative atomic mass of that element.
 Relative atomic mass (Ar) =
 Mass of an atom of the element
-1
-1
-12
-12
-×
-×
 mass of a atom
-12
-C12
-6 C
-6
 For example, the true mass of an oxygen atom (O) is 2.66 x 10-23 g.
 The true mass of a
 of oxygen can be found as follows.
-12
 C atom is 1.99 x 10-23 g. Therefore, the relative atomic mass
-12
-C12
-6 C
-6
-6
 Relative atomic mass of oxygen (O) =
-1
-1
-12
-12
 Mass of an oxygen atom
-×
-×
 mass of a
-12
-C12
-6 C
-6
-atom
 According to foregoing calculations, you may understand that the relative atomic
 mass has no units.
 For free distribution
-124
-125
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
@@ -5906,26 +3966,6 @@ Atomic number
 Element
 Symbol
 Relative atomic mass
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
 Hydrogen
 Helium
 Lithium
@@ -5935,7 +3975,6 @@ Carbon
 Nitrogen
 Oxygen
 Fluorine
-Neon
 Sodium
 Magnesium
 Aluminium
@@ -5946,139 +3985,30 @@ Chlorine
 Argon
 Potassium
 Calcium
-H
-He
-Li
-Be
-B
-C
-N
-O
-F
-Ne
-Na
-Mg
-Al
-Si
-P
-S
-Cl
-Ar
-K
-Ca
 Worked Examples
-1
-4
-7
-9
-11
-12
-14
-16
-19
-20
-23
-24
-27
-28
-31
-32
-35.5
-40
-39
-40
-01.
 The mass of a potassium (K) atom is 6.476 x 10-23 g' The mass of a
-12
 C atom is 1.99 x 10-23 g. Find the relative atomic mass of potassium.
-6
 Relative atomic mass of
 potassium
 Mass of potasium atom
-1
-1
-12
-12
-×
 Mass of a
-C12
-12
-6 C
-6
-atom
-=
-=
-= 39
 For free distribution
-124
-125
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
-02.
 The mass of an atom of element A is eight times the mass of
 isotope. Find the relative atomic mass of A.
-12
-6
-C
 Relative atomic mass of A
 Mass of an atom of A
 Relative atomic mass of A
 Mass of an atom of A
-×
-×
 mass of a
-C12
-12
-6 C
-6
-atom
-=
-1
-1
-12
-12
-=
-=
-=
-12
-6
 C atom x 8
 Mass of a
-
-
-
-
-
-12
-C12
-6
-6
 8 × Mass of C atom
-8 ×
-1
-1
-12
-12
 mass of a
-12
-C12
-6 C
-6
-×
-×
-atom
-
-
-
-
-
-=
 = 8 × 12
 8 × 12
-=
-= 96
-96
 03. Mass of a sodium atom is 3.819 x 10-23 g. The value of the atomic mass
 unit is 1.67 x 10-24 g. Find the relative atomic mass of sodium.
 Relative atomic mass of sodium
@@ -6091,43 +4021,25 @@ How many times a given molecule of an element or a compound weighs as much
 as 1/12 the mass of C - 12 isotope is the relative molecular mass of that element or
 compound.
 For free distribution
-126
-127
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
 Relative molecular mass (Mr)
-=
 Mass of a molecule of an element or a compound
-×
 Mass of a
-atom
 For instance, the true mass of a carbon dioxide (CO2) molecule is 7.31 x 10-23 g.
 Mass of a carbon atom is 1.99 x 10-23 g.
 Relative molecular mass of CO2
 = Mass of a molecule of a Carbon dioxide
 × mass of a
-×
-atom
-6 C
-12
-1
-1
-12
-12
-=
-= 44
 As the relative atomic mass, relative molecular mass too does not have a unit.
 The mass of a water molecule is (H2O) 2.99 x 10-23 g. Atomic mass unit is
 1.67 x 10-24 g. Find the relative molecular mass of water.
 Relative molecular mass of H2O
-=
 Mass of a H2O molecule
 Atomic mass unit
 2.99 x 10-23 g
-=
 1.66 x 10-24 g
-= 18
 If the molecular formula of an element or a compound is known, its relative
 molecular mass can be calculated. This is because the relative molecular mass is
 equal to the sum of relative atomic masses of the atoms in a molecule.
@@ -6137,14 +4049,11 @@ sum of the relative atomic masses of two hydrogen atoms and an oxygen atom.
 Since the relative atomic mass of hydrogen is 1 and oxygen is 16, the relative
 molecular mass of water can be calculated as follows.
 For free distribution
-126
-127
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
 H2O = 2 x 1 + 16 = 18
 Relative molecular masses of some elements and compounds are tabulated in Table
-7.1.
 Species
 1. Hydrogen
 2. Nitrogen
@@ -6154,10 +4063,6 @@ Table 7'1
 Molecular
 formula
 Relative molecular mass
-H2
-N2
-O2
-CO2
 2 x 1 = 2
 2 x 14 = 28
 2 x 16 = 32
@@ -6167,12 +4072,10 @@ C6H12O6
 (6x12) + (12x1) + (6x16) = 180
 Exercise 01
 Calculate the relative molecular mass of the following compounds.
-01'
 Ammonia (NH3)
 Relative atomic masses
 H - 1 ; N - 14
 Sulphuric acid (H2SO4 )
-02'
 Relative atomic masses
 H - 1 ; O - 16 ; S - 32
 03. Sucrose (C12H22O11)
@@ -6180,29 +4083,21 @@ Relative atomic masses
 H - 1 ; C - 12 ; O -16
 The ionic compounds such as sodium chloride (NaCl) exist as lattices but not
 molecules. Its formula is written to indicate the simplest ratio in which Na+ and
--
 ions are present in the ionic lattice. In such compounds what is calculated as the
-Cl
 relative molecular mass is the mass relevant to their empirical formula. It is known
 as the relative formula mass or formula mass.
 For free distribution
-128
-129
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
 Relative atomic mass Na - 23 ; Cl - 35.5
 Relative formula mass of sodium chloride (NaCl) =
 23 + 35.5
-=
-58.5
 Exercise 02
 Calculate the relative formula mass of the following compounds.
 01. Magnesium oxide (MgO)
 Relative atomic masses
 O - 16 ; Mg - 24
-02.
-03.
 Calcium carbonate (CaCO3)
 Relative atomic masses C - 12 ; O - 16 ; Ca - 40
 Potassium sulphate (K2SO4)
@@ -6210,69 +4105,31 @@ Relative atomic masses O - 16 ; S - 32 ; K - 39
 7.3 Avogadro constant
 When a mass of any element equal to its relative atomic mass is taken in grams, it
 is seen that it contains the same number of atoms irrespective of the element.
-C
-C
-12 g
-12 g
-H
-H
-1 g
-1 g
-Cl
-Cl
 35.5 g
 35.5 g
 6.022x10²³
 atoms
-Mg
-Mg
-24 g
-Ag
 108 g
 108 g
 Similarly, it can also be shown that when a mass of any substance equal to its rela-
 tive molecular mass is taken in grams, it contains the same number of molecules.
 For free distribution
-128
-129
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
 After the great scientist Amedeo Avogadro, this constant number is called Avoga-
 dro Constant.
-H2
-H2
-2 g
-2 g
-Cl2
-Cl2
-71 g
-71 g
-NH3
-NH3
-17 g
-17 g
 6.022 x 1023
 6.022 x 1023
 Molecules
 Molecules
 H2SO4
 H2SO4
-98 g
-98 g
 C6H12O6
 C6H12O6
 C6H12O6
 180 g
 180 g
-CO2
-CO2
-44 g
-44 g
-SO2
-SO2
-64 g
-64 g
 The presently accepted value of this constant is 6.022 x 1023 and it is symbolised
 as L .
 7.4 Mole
@@ -6290,8 +4147,6 @@ Thus, the relative atomic mass of any element taken in grams contains one mole o
 atoms or 6.022 x 1023 atoms. The relative molecular mass of any substance taken in
 grams contains one mole of molecules or 6.022 x 1023 molecules.
 For free distribution
-130
-131
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
@@ -6319,61 +4174,36 @@ glucose (C6H12O6) is 180.
 Molar mass is the mass of a mole of any substance.
 Though relative atomic mass and relative molecular mass have no units, grams per
 mole (g mol-1) or kilograms per mole (kg mol-1) is the unit of the molar mass.
-1.
 Relative atomic mass of sodium (Na)
 Molar mass of sodium
-=
-=
-23
 23g mol-1
 For free distribution
-130
-131
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
-2.
-3.
-4.
 Relative molecular mass of carbon dioxide (CO2) =
 Molar mass of carbon dioxide
-=
-44
 44 g mol-1
 Relative formula mass of sodium chloride (NaCl) =
-=
 Molar mass of sodium chloride
-58.5
 58.5 g mol-1
 Relative formula mass of calcium carbonate (CaCO3) =
 Molar mass of calcium carbonate
-100
 = 100 g mol-1
 The following relationship can also be used to find the amount of any given
 substance (number of moles).
 Amount of substance
 (number of moles)
-=
 Mass of the substance
 Molar mass of the substance
-n =
-n =
-m
-m
-M
-M
 For free distribution
-132
-133
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
 Worked Examples
-01'
 Find the number of atoms in 4 mol of carbon.
 Number of atoms in 1 mol of carbon
 Number of atoms in 4 mol of carbon
-02'
 Find,
 i. the number of molecules;
 ii. total number of atoms; and
@@ -6383,13 +4213,6 @@ Number of CO2 molecules in 1 mol of
 carbon dioxide molecules
 Number of CO2 molecules in 5 mol of
 carbon dioxide molecules
-=
-=
-=
-=
-=
-=
-=
 6.022 x 1023
 6.022 x 1023 x 4
 2.409 x 1024
@@ -6400,25 +4223,14 @@ carbon dioxide molecules
 Total number of atoms in a carbon dioxide molecule =
 Total number of atoms in 5 mol of
 carbon dioxide
-3
-=
-=
 3.011 x 1024 x 3
 9.033 x 1024
-i.
-ii'
-iii'
 Number of oxygen atoms in a carbon dioxide molecule
-= 2
 Number of oxygen atoms in 5 mol of
 carbon dioxide
-=
-=
 3.011 x 1024 x 2
 6.022 x 1024
 For free distribution
-132
-133
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
@@ -6426,18 +4238,13 @@ Quantification of Elements and Compounds
 of carbon.
 Amount of carbon in 12 g of carbon
 Amount of carbon in 10 g of carbon
-=
-=
-=
 1 mol
 1 mol
-12 g
 0.83 mol
 ×10 g
 04' Find the number of molecules in 0.1 mol of carbon dioxide.
 Number of molecules in 1 mol of carbon dioxide =
 Number of molecules in 0.1 mol
-=
 6.022 x 1023
 6.022 x 1023 x 0.1 mol
 1 mol
@@ -6456,11 +4263,7 @@ Amount of water in 20 g of water
 = 1 mol
 1 mol
 1 mol
-18 g
-18 g
 1.11 mol
-=
-=
 × 20 g
 × 20 g
 07. Calculate the amount of carbon dioxide in 22 g of carbon dioxide (Molar
@@ -6472,25 +4275,13 @@ Amount of carbon dioxide in 22g of carbon dioxide
 = 1 mol
 1 mol
 1 mol
-44 g
-44 g
-=
-=
 = 0.5 mol
 For free distribution
-134
-135
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
 This can also be solved using the formula as follows.
-n =
-=
-m
-M
-22 g
 44 g mol
--1
 = 0.5 mol
 08. Calculate the amount of carbon in 24 g of carbon. Molar mass of
 carbon is 12 g mol-1'
@@ -6499,44 +4290,29 @@ Amount of carbon in 24 g of carbon
 This can also be solved using the formula as follows.
 = 1 mol
 1 mol
-12 g
 = 2 mol
-=
 × 24 g
-n =
-m
-M
-=
-24 g
 12 g mol
--1
 = 2 mol
 For free distribution
-134
-135
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
 For free distribution
-136
-137
 For free distribution
 Quantification of Elements and Compounds
 Chemistry
 Exercises
 01. Find the relative molecular mass of the following substances.
 CH3OH
-i.
 ii. CS2
 iii. C8H18
 iv. CH3COOH
-v.
 C12H22O11
 vi. CO(NH2)2
 vii. C9H8O4
 viii. HNO3
 ix. CCl4
-x.
 (R.A.M ( H - 1, C - 12, N - 14, O - 16, S - 32, Cl - 35.5)
 (Methyl alcohol / Methanol)
 (Carbon disulphide)
@@ -6560,8 +4336,6 @@ C8H9NO2
 ^Ammonium carbonate&
 (Copper sulphate&
 ^Sodium oxalate&
-i.
-CO2
 ii. NaCl
 iii. CaCO3
 iv. NH4Cl
@@ -6574,17 +4348,9 @@ x. Na2C2O4
 R.A.M : H - 1, C - 12, N - 14, O - 16, Na - 23, Mg - 24, Al - 27, S - 32,
 Cl - 35.5,Ca - 40, Cu - 63.5)
 For free distribution
-136
-137
 For free distribution
 Chemistry
 Quantification of Elements and Compounds
-03.
-i.
-ii.
-iii.
-iv.
-v.
 What is the amount of substance in moles in 12 g of magnesium (Mg) ?
 What is the amount of substance in moles in 10 g of calcium carbonate
 (CaCO3 ) ?
@@ -6595,11 +4361,7 @@ What is the mass of 2 mol of urea (CO(NH2)2) ?
 following compounds contain ?
 i. Al2O3
 iv. CH3COOH
-ii.
-v.
-CO2
 Ba3(PO4)2
-iii.
 Cl2O7
 Technical terms
 - mrudKql ialkaO tallh
@@ -6609,22 +4371,16 @@ Relative atomic mass
 Relative molecular mass
 - idfmalaI wKql ialkaOh
 - AqzvoÄ A»S
--
--
 \õº AqzvoÄ
 \õº ‰»UTØÖz voÄ
 Avogadro constant
 - wej.dâfrda ksh;h
 - AÁPõu÷µõ ©õÔ¼
-Mole
 - ujq,h
-- ‰À
 Molar mass
 - ujq,sl ialkaOh
 - ‰»ºzvoÄ
 For free distribution
-138
-PB
 For free distribution
 Biology
 Characteristics of organisms 08
@@ -6652,16 +4408,13 @@ List out the features that can be used to identify living from non living.
 The features that you have listed are not always found in all living units. But all
 living units show one or few living characteristics. You can study in future lessons
 that living and non living cannot be separated by a clear line in some instances.
-PB
 For free distribution
-139
 For free distribution
 The common characteristics of living organisms can be listed out as below.
 Irritability and Co-ordination
 ² Cellular organization
 ² Nutrition
 ² Respiration
-²
 ² Excretion
 ² Movement
 ² Reproduction
@@ -6681,13 +4434,9 @@ In a unicellular organism, organelle level organization can be seen. The origin 
 multicellular organism is from a single cell, the zygote which is the product of the
 fertilization of an egg with a sperm. The below mentioned sketch (Fig 8.2) is just to
 show the development of embryo of human.
-140
 For free distribution
-141
 For free distribution
-egg
 sperm
-+
 cell division
 embryo
 Figure 8.2
@@ -6708,9 +4457,7 @@ xylem cell
 phloem cell
 root hair cell
 Figure 8.3 - Organization of different cells in plant body
-140
 For free distribution
-141
 For free distribution
 ifuys ffi,
 skin cells
@@ -6733,9 +4480,7 @@ Method
 under light microscope. Identify micro organisms and illustrate them.
 ² Observe the prepared slides of different cells in the laboratory and
 identify them.
-142
 For free distribution
-143
 For free distribution
 The smallest structural and functional unit at
 living condition is the cell. A group of cells
@@ -6766,9 +4511,7 @@ of life is known as nutrition. Energy is needed for the cell growth and to repai
 the worn out structures. This energy is obtained by nutrients. The Organisms that
 produce their own food or the nutrients by themselves are known as autotrophic
 organisms.
-142
 For free distribution
-143
 For free distribution
 Autotrophism can be divided into two categories according to the type of
 energy they use for food production. If light energy is used they are known as
@@ -6797,9 +4540,7 @@ heterotrophic
 Decaying by
 saprophytes
 Figure 8.7 - A Food web
-144
 For free distribution
-145
 For free distribution
 8.3 Respiration
 All Organisms need energy for their metabolism. They obtain this energy by
@@ -6816,28 +4557,17 @@ Activity 02
 Experiment to show the release of CO2 during respiration
 Materials Required - Limewater, KOH, Water, Five equal bottles with corks, L
 shape aqual size glass tubes, A frog, Suction
-P
-jd;h
 pQIlh
-c,h
 suction
-A
 fmdgEishï
-KOH
 yhsâfrdlaihsâ
-B
 lime water
 yqkq Èhr
-C
-frog
 ueähd
 Figure 8.8- Demonstration of the products of respiration
-D
 lime water
 yqkq Èhr
-E
 water
-c,h
 Method
 Arrange the apparatus as shown above and remove water in bottle E.
 When water is removed, an air flow occurs from bottle A to bottle E.
@@ -6848,9 +4578,7 @@ experiment can be used without a frog in C. Accordingly it is confirmed that CO2
 is released as a byproduct of respiration. This experiment can be conducted again
 using germinating green gram / paddy/ maize/ bean seeds in vessel C instead of a
 frog.
-144
 For free distribution
-145
 For free distribution
 Now we will carry out the experiment below to show the absorption of O2 during
 respiration.
@@ -6858,7 +4586,6 @@ Activity 03
 Experiment to show absorption of oxygen in respiration
 Materials Required - 2 Conical flasks, Glass tubes, Rubber tubes, Small test
 tube, 2 Beakers, Coloured water, Germinating seeds, KOH
-KOH
 rubber tube
 glass tube
 Coloured
@@ -6893,15 +4620,10 @@ given below and write a report on your observation.
 02. Tilapia
 05. Grass hopper
 03. Human
-146
 For free distribution
-147
 For free distribution
 8.4 Irritability and Co-ordination
-in
-to
 react according
-the
 Organisms
 changes
 the environment. When
@@ -6938,9 +4660,7 @@ The sum of chemical and physiological activities or building up and breaking
 down of materials within the cell are known as metabolic activities. Removal of
 the waste products from the body that are produced during metabolism is
 known as excretion.
-146
 For free distribution
-147
 For free distribution
 sweat
 ^water" salt)
@@ -6969,9 +4689,7 @@ or the total of anabolism and catabolism is known as Metabolism.
 Organisms fulfil their requirements (food, protection, reproduction) with the
 help of movement. During this, the whole organism or a part of the organism is
 moved. Unicellular organisms use cilia, flagella or pseudopodia for movement.
-148
 For free distribution
-149
 For free distribution
 Multicellular organisms move the whole body or a part of the body with the help of
 muscles. Most of them possess organs for locomotion.
@@ -7012,9 +4730,7 @@ cell, zygote.
 The zygote which is the result of the sexual reproduction of human develops into an
 embryo within the uterus and later transforms into an offspring. It is useful to study
 about the above process to understand the growth and development.
-148
 For free distribution
-149
 For free distribution
 Mainly the increase in number of cells by the cell division contributes towards
 the growth of a multicellular organism. The growth of a unicellular organism is
@@ -7044,8 +4760,6 @@ stand
 stand
 Figure 8.12- A model of an auxanometer
 Figure 8.12- A model of an auxanometer
-pot
-pot
 Method
 Method
 According to the Figure 8.12 a thread is connected to the shoot apex of
@@ -7054,9 +4768,7 @@ a potted plant and it is sent through a pulley and a weight is hung onto
 a potted plant and it is sent through a pulley and a weight is hung onto
 it. observe how the indicator moves.
 it. observe how the indicator moves.
-150
 For free distribution
-151
 For free distribution
 In the above activity the plant grows very slowly, but the indicator shows it in a
 greater scale.
@@ -7081,21 +4793,17 @@ is different from that of living organisms.
 Some living entities cannot be easily identified whether they are living
 or non-living.
 E.g : Virus
-150
 For free distribution
-151
 For free distribution
 Virus
 protein
 capsid
-tail
 tail fibres
 Figure 8.15- Structure of a virus as a model observed
 through electron microscope
 through
 They are very small and can be
 observed only
-the
 electron microscope and are
 about 1/1000th of the size of a
 bacteria. They show living or
@@ -7129,9 +4837,7 @@ Some animal viral diseases are influenza, common cold, Dengue and AIDS. It is
 important to prevent those diseases by knowing about them.
 Organisms live in environments in which they can maintain their life. Therefore we
 can protect them by conserving those environments.
-152
 For free distribution
-153
 For free distribution
 For your attention
 You should have the ability to differentiate living from non living after studying
@@ -7163,14 +4869,11 @@ development, cells differentiate to perform a particular function.
 living.
 • All organisms contribute to maintenance and the existence of the
 environmental balance.
-152
 For free distribution
-153
 For free distribution
 Exercises
 Select the correct answer
 (01) Select the correct term for the gap.
-Cell
 Tissue
 1' Organism 2.Organ
 System
@@ -7215,9 +4918,7 @@ in living body?
 3. A change in the external or internal environment that is strong enough
 to bring about a response
 4. Co-ordination between different organs during responding
-154
 For free distribution
-155
 For free distribution
 Cellular organization
 Technical terms
@@ -7230,14 +4931,11 @@ Movement
 Excretion
 Sensitivity
 Irritability
--
 fmdaIKh
 - Yajikh
 - m%ckkh
 - p,kh
 - nysiai%djh
--
--
 ixfõ§;dj
 Woa§mH;dj
 - ÷£õ\øn
@@ -7251,20 +4949,14 @@ Co-ordination
 - iudfhdackh
 - Cø¯£õUP®
 Growth and Develop-
-ment
--
 j¾Okh iy
 úlikh
--
 ÁÍºa]²®
 Â¸zv²®
-154
 For free distribution
-155
 For free distribution
 Resultant force
 Physics
-09
 9.1 The resultant of several forces
 Figure 9.1 shows a motor car stalled on the road due to a mechanical fault being
 pushed by one person in the forward direction. Since the force exerted was not
@@ -7281,9 +4973,7 @@ individual forces combine to form a larger force in the same direction and the t
 becomes easier.
 The result of many people exerting forces in the same direction is that all the forces
 add up to give a larger single force.
-156
 For free distribution
-157
 For free distribution
 When more than one force is applied, the single force that gives the
 same result as that of all the contributing forces is known as the
@@ -7291,7 +4981,6 @@ resultant force of the individual contributing forces.
 Forces applied on objects can have various directions. In this lesson will discuss
 about,
 (i) the resultant of two collinear forces (forces having the same 'line of action')
-and
 (ii) the resultant of two parallel forces (forces having parallel but different 'line
 of action')
 9.2 Resultant of two collinear forces
@@ -7300,9 +4989,7 @@ When pulling on fishing nets, the task can be accomplished more easily if a larg
 group of people take part in pulling the net in the same direction. Because all the
 forces act in the same direction, the fishing net can be successfully pulled. Here, all
 the forces are applied in the same direction and along the same line.
-156
 For free distribution
-157
 For free distribution
 Figure 9.4 – A group of people pulling a fishing net
 Now let us investigate a way of finding the resultant of two collinear forces acting
@@ -7315,21 +5002,12 @@ the two pulleys and connect the two Newton balances B and C to the other ends
 of the strings. Fix the other end of the trolley to a wall through the third Newton
 balance A.
 trolley
-ring
-A
-A
-C
-B
-B
 pulleys
-C
 Figure 9.5 - Two forces acting on the trolley in the same direction
 ● Apply two forces from the two Newton balances B and C. Record the readings
 of the balances.
 ● Record also, the reading of the balance A.
-158
 For free distribution
-159
 For free distribution
 ● Find a relationship between the reading on the balance A and the readings
 recorded from B and C balances.
@@ -7348,21 +5026,12 @@ The resultant force applied by both children = 8 N + 6 N
 = 14 N
 (To the same direction)
 Exercise 9.1
-(1)
 (3) Find the resultant force in each of following situations.
-(i)
 100 N
-200N
-(ii)
-20 N
-40 N
-(2)
 (2) A child is pushing an object placed on a table with a force of 5 N in a certain
 dierection while another child is pulling it in the same direction with a force of
 7 N. What is the resultant of these two forces?
-158
 For free distribution
-159
 For free distribution
 Resultant of two collinear forces acting along opposite
 directions
@@ -7386,17 +5055,13 @@ to the go cart, moving the cart would be easier as a large resultant will operat
 the cart.
 Now let us find the resultant of two collinear forces acting in opposite directions.
 In order to do it, let us engage in the following activity.
-160
 For free distribution
-161
 For free distribution
 Activity 2
 Items required : a trolley, two Newton balances, two smooth pulleys, measuring
 weights
 trolley
 smooth pulley
-A
-B
 Newton balance
 Figure 9.7 - Forces acting in opposite directions on a trolley
 ● Place the trolley on a table as shown in Figure 9.7 and fix two pieces of string
@@ -7418,9 +5083,7 @@ applied in the direction of A than in the direction of B is 2 N. That is, in thi
 the resultant is 2 N in the direction of B.
 In the third instance, the trolley does not move. Here, the resultant is zero since the
 two forces acting in the opposite directions become equal.
-160
 For free distribution
-161
 For free distribution
 When two collinear forces are exerted on an object in opposite directions,
 the resultant is given by their difference, with a direction in the direction of
@@ -7435,17 +5098,11 @@ The object will be pulled by a force of 3 N in the direction of the 5 N force.
 Exercise 9.2
 (1) The forces applied by two children in order to push a box resting on a horizontal
 plane is shown in the figure.
-15 N
-11 N
 Find the resultant of the two forces.
 (2) A force of 10 N is applied towards the West, on an object placed on a table. If
 the object is drawn towards the West with a force of magnitude 5 N, what is the
 magnitude of the force X?
-X
-10 N
-162
 For free distribution
-163
 For free distribution
 9.3 Resultant of two parallel forces
 Let us now investigate instances where two parallel forces which are not collinear
@@ -7481,9 +5138,7 @@ direction)
 = 350 N
 To experimentally check that the resultant of two parallel forces are equal to their
 sum, let us do the following activity.
-162
 For free distribution
-163
 For free distribution
 Activity 3
 Items required : a strip of wood with three holes drilled as shwon in the figure,
@@ -7493,12 +5148,6 @@ and attach the three Newton balances A,B and C. Pull the three balances
 keeping the strip of wood to be in a rest position. (Always keep the strip
 perpendicular to the Newton balances. you may need to apply equal forces on
 the A and B balances)
-A
-B
-Z
-C
-X
-Y
 Figure 9.10 - Finding the resultant of two
 parallel forces
 ● When the strip of wood is at rest, you would observe that the sum of the readings
@@ -7509,13 +5158,9 @@ In order to find the resultant of two parallel forces acting along the same
 direction, the two forces must be added.
 One of the best uses we can get from a knowledge of resultant force is to make use
 of a large number of small forces in place of a single large force effectively.
-164
 For free distribution
-165
 For free distribution
 Example 1
-8 N
-16 N
 Two strong strings attached to a trolley is pulled by a force of 8 N on one string
 and a force of 16 N on the other string keeping the two strings parallel. Find the
 resultant of these two forces.
@@ -7524,19 +5169,11 @@ Resultant of the two forces = 8 N + 16 N
 Exercise 9.3
 (1) When a trolley placed on a table is pulled by two strings attached to it keeping
 the two strings parallel to each other, the resultant force is 20 N.
-A
-B
-12N
-X
 The force exerted on the string A is 12 N. Find the force exerted by the string B.
 9.4 Resultant of two inclined forces
 Let us now investigate how to find the resultant of two inclined forces.
-P
-Q
 Figure 9.11 – Two inclined forces acting on an object
-164
 For free distribution
-165
 For free distribution
 Two forces P and Q that act with their lines of action inclined to one another is
 shown in Figure 9.11. When two such forces are applied on an object, the object
@@ -7544,18 +5181,11 @@ does not move in either of the directions of P or Q. In such an instance, the di
 of motion of the object lies in a direction between the two forces.
 Miscellaneous exercises
 (1) (i)
-10 N
-6 N
 If an object is pulled by two forces 10 N and 6 N along the same direction, what
 is the resultant of the two forces?
-(ii)
-6 N
-10 N
 If the two forces are applied along two opposite directions, what would be the
 resultant?
 (2) (i) What is the resultant of the two parallel forces shown below?
-6 N
-4 N
 (ii) (a) What is the force that can be applied in the opposite direction so as to
 make the resultant zero.
 (b) Illustrate it using a figure.
@@ -7568,9 +5198,7 @@ resultant force in Newtons?
 (5) If a trolley is being pulled by two forces, one with a magnitude of 20 N along
 the East and the other with a magnitude of 15 N along the West, in which
 direction would it move? What is the resultant?
-166
 For free distribution
-167
 For free distribution
 Summary
 ● The single force acting in place of many forces (the single force that gives the
@@ -7591,15 +5219,12 @@ Unbalanced force
 wix;=,s; n,h \©{ø»¨£hõu Âø\
 Opposite direction
 úreoaO ÈYdj Gvºz vø\
-166
 For free distribution
-167
 For free distribution
 Chemistry
 Chemical Bonds
 Chemical Bonds
 Chemistry
-10
 The English alphabet contains 26 letters. Yet, the combination of them forms a
 large number of words. There is only a limited number of elements. In spite of that,
 millions of compounds are formed by their chemical combination.
@@ -7617,7 +5242,6 @@ configuration
 Distribution of electrons
 among the energy levels
 Neon (Ne)
-2, 8
 Argon (Ar)
 2, 8, 8
 Sodium (Na)
@@ -7625,9 +5249,7 @@ Sodium (Na)
 Chorine (Cl)
 2, 8, 7
 For free distribution
-168
 For free distribution
-169
 Chemistry
 Chemical Bonds
 The outermost shell carrying electrons in an atom of an element is known
@@ -7646,8 +5268,6 @@ rearrangement of electrons in the valence shell for stabilizing the atoms of
 elements as described above are called chemical bonds.
 According to the way the participating atoms behave when they chemically bind
 together, the chemical bonds can be divided into two types.
-1.
-2.
 Ionic bonds
 Covalent bonds
 10.1 Ionic Bonds
@@ -7657,20 +5277,16 @@ the number of electrons, an atom of sodium is electrically neutral (Fig. 10.1).
 Number of electrons 11 (-11)
 Number of protons 11 (+11)
 Total charge
-0
 A sodium atom
 Fig. 10.1
 The atom after losing its electron in the outer energy level becomes a sodium ion
 (Na+) with a charge of +1 (Fig.10.2). An atom after receiving a charge is known as
 For free distribution
-168
-169
 For free distribution
 Chemistry
 Chemical Bonds
 an ion. Since this ion has a positive charge it is called a positive ion or a cation. The
 chemical properties of an ion is different from that of an atom.
-- e
 Loss of an
 electron
 The Na atom
@@ -7679,18 +5295,14 @@ Number of electrons
 Electronic configuration 2, 8, 1
 Number of protons 11(+11)
 Total charge
-0
 The Na+ ion
 Number of electrons
 Electronic configuration 2, 8,
 Number of protons
 Total charge
 11(+11)
-+1
 10(-10)
-Na
 Na+ + e
-Atom
 Positive ion + e
 Fig 10.2 Formation of a Na+ ion form a Na atom
 The electronic configuration of the chlorine atom is 2, 8, 7.Chlorine is an element
@@ -7702,25 +5314,20 @@ Electronic configuration 2, 8, 7
 Number of protons
 Total charge
 17 (+17)
-0
 Fig. 10.3 A chlorine atom
 Gaining one electron to the outermost energy level, a chlorine atom (Cl) forms the
 chloride ion (Cl-) with a single negative charge (Fig. 10. 4). As this ion is negatively
 charged it is called a negative ion or an anion.
 For free distribution
-170
 For free distribution
-171
 Chemistry
 Chemical Bonds
-+ e
 The Cl atom
 Number of electrons
 Electronic configuration 2" 8" 7
 Number of protons
 Total charge
 17 ^¬ 17&
-0
 17 ^--17&
 Cl + e
 The Cl- (chloride) ion
@@ -7728,38 +5335,27 @@ Number of electrons 18 ^-- 18&
 Electronic configuration
 Number of protons
 Total charge
--
 17 ^¬ 17&
 2" 8" 8
---1
-Cl
 Atom + e
 Negative ion
 Fig. 10.4 Formation of a Cl- ion from a Cl- atom
 Neutral atoms form positively charged ions by losing electrons. Neutral
 atoms form negatively charged ions by gaining electrons. Some
-2-
 polyatomic groups too bear positive or negative charges (e.g. NH4
 , NO3
 charge.
 - ). An ion is an atom or a group of atoms with an electrical
 , SO4
-+
 Now let us examine how the compound sodium chloride is formed. The sodium
 ions formed by the sodium atoms by losing electrons and the chloride ion formed
 by chlorine atoms by gaining electrons are oppositely charged. These ions by virtue
 of their opposite charges strongly bind together by electrostatic attractive forces to
 form the compound sodium chloride with ionic bonds. This process is illustrated in
 Fig. 10.5.
-+
--
 For free distribution
-170
-171
 For free distribution
--
 Fig.10.5 Electrostatic attraction between Na+ and Cl
-ions
 Chemistry
 Chemical Bonds
 The bonds formed due to the strong electrostatic attractions between the
@@ -7769,63 +5365,22 @@ compound with ionic bonds. Such compounds are called ionic compounds.
 Fig 10.6 shows how electrons in the outermost energy levels of the atoms reorganize
 during the formation of sodium chloride.
 Before combination
-a
 After combination
-q
-a
 Sodium atom
-Na
 Chlorine atom
-a
-Cl
-a
-a
-a
-a
 Protons
-11
-a
 Electrons
 2"8"1
-(
-)
-11
-Na+
 Protons
-a
-a
-11
-ion
 Electrons
-a
-2"8
-(
-)
-10
 Fig 10.6
-a
-a
 Protons
-17
 Electrons
-a
-17
 2"8"7
-(
-)
 Cl- ion
-a
 Protons
-a
-17
 Electrons
-a
-(
 2"8"8
-18
-)
-a
-a
 The attractions among the ions in the compound sodium chloride is not limited to a
 single pair of Na+ and Cl- ions. Owing to the attractions, a large number of positive
 and negative ions arrange themselves to form a regular three dimensional array
@@ -7835,9 +5390,7 @@ This arrangement gives rise to the crystal lattice of sodium chloride known as a
 dimensional lattice.
 10.7 Ionic lattice of sodium chloride
 For free distribution
-172
 For free distribution
-173
 Chemistry
 y Ionic Compounds
 Chemical Bonds
@@ -7852,11 +5405,7 @@ Lithium oxide
 Magnesium sulphide
 Calcium chloride
 Potassium fluoride
-NaCl
-Li2O
-MgS
 CaCl2
-KF
 In addition to the above compounds, ionic bonds are formed during the combination
 of ionic radicals and ions also. Presents some examples for such compounds.
 Table 10.3
@@ -7878,8 +5427,6 @@ Activity - 10 - 1
 Using coloured clay or plastics balls or any other suitable materials, make a
 model of the sodium chloride ionic lattice.
 For free distribution
-172
-173
 For free distribution
 Chemistry
 Chemical Bonds
@@ -7898,7 +5445,6 @@ a). Fluorine molecule
 The electronic configuration of a fluorine atom is 2, 7. By sharing a pair of electrons,
 two fluorine atoms acquire the stable electronic configuration. The result of this is
 the bonding of two fluorine atoms covalently to form a fluorine molecule (Fig.10.8).
-+
 Fluorine atom
 Fluorine atom
 Fluorine molecue
@@ -7908,22 +5454,18 @@ A hydrogen atom has one electron. Two hydrogen atoms share their electrons
 between them each acquiring the stable configuration of helium. This gives rise
 to the hydrogen molecule (H2) in which the two hydrogen atoms are joined by a
 covalent bond (Fig. 10.9).
-+
 Hydrogen atom
 Hydrogen atom
 Hydrogen molecue
 Fig. 10.9 Formation of the hydrogen molecule
 For free distribution
-174
 For free distribution
-175
 Chemistry
 Chemical Bonds
 c). Water molecule
 The electronic configuration of the oxygen atom is 2, 6. An oxygen atom shares two
 pairs of electrons with two hydrogen atoms forming two single bonds giving rise to
 the water (H2O) molecule (Fig.10.10).
-+
 Oxygen atom
 A pair of hydrogen atoms
 Water molecue
@@ -7932,7 +5474,6 @@ d). Ammonia molecule
 The electronic configuration of the nitrogen atom is 2, 5. Three hydrogen atoms
 share three pairs of electrons with a nitrogen atom. This leads to the formation of
 an ammonia (NH3) molecule which has three single bonds (Fig.10.11).
-+
 Nitrogen atom Three hydrogen atoms
 Ammonia molecue
 Fig. 10.11 Formation of the ammonia molecule
@@ -7941,12 +5482,9 @@ The electronic configuration of the carbon atom is 2, 4. Four hydrogen atoms sha
 four electrons with a carbon atom forming a methane molecule (CH4) with four
 single bonds (Fig. 10.12).
 For free distribution
-174
-175
 For free distribution
 Chemistry
 Chemical Bonds
-+
 Carbon atom
 Methane molecule
 Four hydrogen atoms
@@ -7955,7 +5493,6 @@ f). Hydrogen chloride molecule
 The electronic configuration of a chlorine atom is 2, 8, 7. The hydrogen chloride
 (HCl) molecule is formed by the sharing of a pair of electrons between a chlorine
 atom and a hydrogen atom (Fig. 10.13).
-+
 Chlorine atom
 Hydrogen atom
 Hydrogen chloride molecule
@@ -7966,9 +5503,7 @@ of a chlorine atom is 2, 7. The carbon tetrachloride (CCl4) molecule is formed d
 to the sharing of four pairs of electrons between a carbon atom and four chlorine
 atoms (Fig.10.14).
 For free distribution
-176
 For free distribution
-177
 Chemistry
 Chemical Bonds
 Fig.10.14 Formation of a carbon tetrachloride molecule
@@ -7977,7 +5512,6 @@ The oxygen atom has the electronic configuration 2, 6. When forming the oxygen
 (O2) molecule, two oxygen atoms share two pairs of electrons between them.
 Since two pairs of electrons are shared, the bond is known as a double bond (Fig.
 10.15).
-+
 Oxygen atom
 Oxygen atom
 Oxygen moluce
@@ -7987,12 +5521,9 @@ The electronic configuration of a nitrogen atom is 2, 5. Two nitrogen atoms form
 a nitrogen (N2) molecule by sharing three pairs of electrons between them. Since
 three pairs of electrons are shared such a bond is called a triple bond (Fig. 10.16).
 For free distribution
-176
-177
 For free distribution
 Chemistry
 Chemical Bonds
-+
 Nitrogen atom
 Nitrogen atom
 Nitrogen molecule
@@ -8005,12 +5536,6 @@ f, g, h, i you studied above. Show creatively the formation of
 covalent bond using beads for the electrons. Display your work in
 the class.
 • Dot and cross diagram
-H
-H
-C
-of
-H
-H
 Dot and cross diagram of methaneof
 Always electrons in the valence shells of atoms
 participate in the formation of covalent bonds.
@@ -8025,37 +5550,16 @@ with carbon are symbolized by the crosses.
 Lewis Structure
 Showing covalent bonds of a molecule representing the valence shell electrons of
 its atoms only by dots is called the Lewis dot diagram.
-H
-H
-N
-H
-H
 Dot diagram of
 ammonium
-H
-C
-H
-H
 Dot diagram of
 methane
 For free distribution
-178
 For free distribution
-179
 Chemistry
 Chemical Bonds
 When a bond electron pair is represented by a short line (-) and a non – bonding
 lone pair by dots, it is called the Lewis structure.
-H H
-H
-H
-C
-H
-H
-H
-N
-H
-H
 Lewis structure of H2 Lewis structure of CH4 Lewis structure of NH3
 The electrons represented by dots are known as lone pairs whereas electrons pairs
 represented by lines are called bond pairs. The dot and cross diagrams, Lewis dot
@@ -8067,95 +5571,13 @@ cross diagram
 Lewis dot
 diagram
 Lewis structure
-Cl2
-H2
-H2O
-NH3
-CH4
-O2
-N2
-CO2
-x x
-x
-x
 Cl Cl x
-x x
-H
-Hx
-x
-H
-x
-H
-x x
-O
-x
-x
-x
-H
-x
-H
-x x
-N
-x
-H
-H
-H
-x
-Cx
-x
-H
-x
-x x
-O O
-x xx
-x
-N Nx
-x
-x
-x
 O C O
-x
-x
-x
-x
 Cl Cl
-H
-H
-O
-H H
-H
-H
-N
-H
-H
 Cl Cl
-H
-H
-H
-H
-H
-H
-O
-N
-H
-H
-H
-O O
-N N
-H
-O O
-N N
 O C O
 O C O
-x
-H
-CH
-H
-CH
-H
 For free distribution
-178
-179
 For free distribution
 Chemistry
 Chemical Bonds
@@ -8171,10 +5593,6 @@ Nevertheless, there are exceptions too. Let's take aluminium chloride (AlCl3) as
 example. In this, the electronic configuration of the aluminium atom is 2, 8, 3. The
 electronic configuration of a chlorine atom is 2, 8, 7. Three chlorine atoms share
 three pairs of electrons with an aluminium atom to form an AlCl3 molecule.
-Cl
-Al
-Cl
-Cl
 In this molecule, the valence shell of the aluminium atom contains
 six electrons. In the case of a chlorine atom, the octet is complete.
 In contrast, there are instances where the octet of electrons in the
@@ -8184,12 +5602,6 @@ chlorine is 2, 8, 7. A phosphorus atom and five chlorine atoms
 share five pairs of electrons to form the PCl5 molecule.Then
 there are10 electrons around the central phosphorus atom. In
 each chlorine atom, the octet is completed.
-Cl
-Cl
-Cl
-P
-Cl
-Cl
 y Atomic Lattice
 In some elements the atoms are organised as a lattice. Such lattices in which the
 atoms are covalently bonded are known as atomic lattices. Carbon naturally occurs
@@ -8199,9 +5611,7 @@ form covalent bonds with one another. Generally the melting points and boiling
 points of covalent compounds are low. But in diamond and graphite, the melting
 point and boiling point are high due to their atomic lattice structure.
 For free distribution
-180
 For free distribution
-181
 Chemistry
 y Graphite
 Chemical Bonds
@@ -8227,16 +5637,8 @@ bond pair is more displaced towards the fluorine atom. So, the electron distribu
 is not symmetrical. Consequently the fluorine atom bears a small negative charge.
 This is known as polarization. However the molecule HF as a whole is a neutral
 molecule.
-+
-δ
-H
--
-δ
-F
 Fig. 10.18 - Polarization of the hydrogen fluoride molecule
 For free distribution
-180
-181
 For free distribution
 Chemistry
 Chemical Bonds
@@ -8255,15 +5657,6 @@ carries a partial positive charge. Hence water is a compound with polar covalent
 bonds.
 In three dimensional space water molecule is disposed as follows. It assumes an
 angular shape (Fig. 10.19).
--
-δ
-O
-+
-δ
-H
-+
-δ
-H
 Fig. 10.19 Shape of the water molecule
 10.4 Intermolecular Bonds
 In water molecules the hydrogen atoms which bear a very small positive partial
@@ -8271,67 +5664,11 @@ charge forms attractive forces with oxygen atoms bearing a very small negative
 charge of the neighbouring water molecules. This kind of attractions among the
 molecules are known as intermolecular forces or intermolecular bonds.
 For free distribution
-182
 For free distribution
-183
 Chemistry
 Chemical Bonds
 Intermolecular bonds
--
-δ
-O
-+
-δ
-H
-+
-δ
-H
--
-δ
-O
-+
-δ
-H
--
-δ
-O
-+
-δ
-H
--
-δ
-O
-H
-δ
-+
--
-δ
-H
-δ
-+
-O
-+
-δ
-H
-+
-δ
-H
 Intermolecular bonds
-+
-δ
-H
-+
-δ
-H
-O
--
-δ
-+
-δ
-H
-+
-δ
-H
 Fig. 10.20 - Intermolecular bonds in water
 These intermolecular forces are not as strong as the covalent bonds between the
 oxygen atoms and the hydrogen atoms in a water molecule. Yet, these intermolecular
@@ -8352,8 +5689,6 @@ Requirement: Four beakers, two carbon rods, two bulbs, two batteries (Six dry
 cells), conducting wires, a salt solution (common salt), sugar solution, copper
 sulphate solution, distilled water
 For free distribution
-182
-183
 For free distribution
 Chemistry
 Chemical Bonds
@@ -8364,7 +5699,6 @@ distilled water to D.
 y Dip two carbon rods in each solution, complete the circuit as shown in fig.
 10.21 and see whether the bulb lights. The carbon rods should be washed well
 before using in the other solution.
-Bulb
 Insulators
 Battery
 Carbon rod
@@ -8381,9 +5715,7 @@ in the fused state conducts electricity. This confirms that electricity flows th
 ionic compounds in aqueous solution and fused state. However electricity does not
 flow through ionic compound in solid state.
 For free distribution
-184
 For free distribution
-185
 Chemistry
 Chemical Bonds
 Melting Points and Boiling Points of some Compounds
@@ -8392,7 +5724,6 @@ Table 10.5
 Compound
 Melting $ 0C
 Boiling point $
-0C
 Bond type
 Sodium chloride
 Potassium chloride
@@ -8402,22 +5733,6 @@ Oxygen
 Ethyl alcohol
 Calcium oxide
 Sulphur dioxide
-801
-776
-0
--78
--218
--117
-2580
--73
-1413
-1500
-100
--33
--183
-79
-2850
--10
 Ionic
 Ionic
 Covalent
@@ -8431,32 +5746,21 @@ are relatively high. Mostly they exist as solids at room temperature. The above
 Table also affirms that the melting points and boiling points of covalent compounds
 are low. Generally they are liquids or gases at room temperature.
 Characteristics of Ionic Compounds
-y
-y
-y
-y
-y
 Ionic compounds are composed of oppositely charged (+ and -) ions.
 Most of the compounds have a solid crystalline form at room temperature.
 They have high melting points and boiling points.
 They conduct electricity in the fused (molten) state and in aqueous solution.
 Most of the ionic compounds are soluble in water.
 Characteristics of Covalent Compounds
-01.
 They mostly exist as molecules composed of several atoms.
 02. Most of the covalent compounds are in the liquid or gaseous state at room
 temperature.
-03.
-04.
-05.
 Generally the melting points and boiling points of covalent compound are
 low (However the lattice compounds have high melting points and boiling
 points).
 The aqueous solutions of covalent compounds do not conduct electricity.
 Some covalent compounds are soluble in water.
 For free distribution
-184
-185
 For free distribution
 Chemistry
 Chemical Bonds
@@ -8465,9 +5769,7 @@ Collect information about the unique characteristics of water caused
 by the intermolecular forces.
 Summary
 For free distribution
-186
 For free distribution
-187
 Chemistry
 Chemical Bonds
 Exercises
@@ -8476,16 +5778,10 @@ Exercises
 illustrate them by diagrams.
 (a) Na+
 (b) Mg2+
-(c)
-O2-
-(d)
-N3-
 03. What is meant by an ionic bond?
 04. Illustrate by diagrams how the compound calcium oxide is formed.
 05. Draw the dot and cross diagrams of the following molecules.
-(a)
 Chlorine
-(b)
 Oxygen
 (c) Water
 (d) Methane
@@ -8498,8 +5794,6 @@ point and a high boiling point.
 10. Give reason to the existance of high boiling point, 100 0C to water
 though it is a covalent compound.
 For free distribution
-186
-187
 For free distribution
 Chemistry
 Chemical Bonds
@@ -8526,18 +5820,7 @@ wka;¾ wKql n,
 Hydrogen bond
 yhsârcka nkaOk - Iuµ\ß ¤øn¨¦
 For free distribution
-188
 For free distribution
-PB
--
--
--
--
--
--
--
--
--
 Turning effect of a force 11
 Physics
 11.1 Moment
@@ -8568,9 +5851,7 @@ Newton
 balance
 Figure 11.1 – Measuring the force
 necessary to open the door
-PB
 For free distribution
-189
 For free distribution
 Table 11.1
 Perpendicular distance
@@ -8585,10 +5866,6 @@ distance (N m)
 Point attached
 to the Newton
 balance
-A
-B
-C
-D
 ● At which point was the force required to rotate the door a maximum?
 ● At which point was the force required to rotate the door a minimum?
 axis of rotation
@@ -8614,9 +5891,7 @@ an axis depends on the perpendicular distance to the force from the axis.
 The product of the force and the perpendicular distance to the line of action of the
 force from the axis of rotation is known as the moment of the force around the
 axis.
-190
 For free distribution
-191
 For free distribution
 In order to subject a body to a motion in a straight line, a force is required. In order
 to rotate an object around a given axis, what is required is not just a force but a
@@ -8626,8 +5901,6 @@ of a force is known as the turning effect of the force.
 Therefore, we can write an equation for the moment due to a force as defined below.
 Moment due to = force × perpendicular distance from the rotational axis to the
 a force
-N
-m
 line of force of action
 The unit of moment of a force is N m.
 Since the moment is a tendency for rotation, depending on whether the rotation is
@@ -8640,37 +5913,17 @@ Activity 2
 Items required : a fairly long stick of wood, two rubber washers, a screw,
 a drill, a Newton balance, a table or a plank of wood
 Screw nail
-A
-15
-O
-B
-30
 table surface
 (or plank of wood)
 calibrated strip
 of wood
-D
-C
-45
-60
 Figure 11.3 – Investigation of the dependence of the moment on the magnitude of the force
-190
 For free distribution
-191
 For free distribution
 ● Drill holes at the points O, A, B, C and D which are spaced 15 cm apart from
 the adjacent hole as shown in Figure 11.3.
 ● Next, clamp the stick to the table at the point O using the washers and the
 screw nail.
-O
-A
-15
-B
-30
-C
-45
-D
-60
 Figure 11.4 - Applying force perpendicular to the stick
 ● Now attach a loop formed with a piece of wire to each of the holes at A, B, C
 and D on the stick. Attach the Newton balance on the ring at D as shown in
@@ -8690,15 +5943,10 @@ Initial set up
 After tightening the screw by half a turn
 After tightening the screw by a full turn
 Force
-2 N
-5 N
-9 N
 You will see that the force required to initiate the turning effect increases as the
 stick is tightened. Since the distance to the line of action of the force is maintained
 constant this confirms that the moment depends on the magnitude of the force.
-192
 For free distribution
-193
 For free distribution
 Investigation of the dependence of the moment on the
 perpendicular distance to the force from the point of suspension.
@@ -8710,19 +5958,6 @@ the stick of wood used in Activity 2 near the point A and hook the balance on
 the loop. Rotate the screw by one turn to bring it back to its original position.
 Find the force required to initiate rotating the stick slightly. Suppose this
 force is F1.
-x1
-O
-x2
-A
-15
-B
-30
-C
-45
-D
-60
-F1
-F1
 Figure 11.5 - Investigation of the dependence of the moment on the perpendicular distance
 ● Now rotate the screw by about ¼ th of a turn to tighten it.
 ● Then, move the loop together with the balance slowly towards D, keeping the
@@ -8734,9 +5969,7 @@ sliding the loop towards D, keeping the force (F1) constant and measure the
 distance x3 from O to the balance when the stick begins to rotate around O.
 ● Tabulate your measurements.
 What would you expect from your results?
-192
 For free distribution
-193
 For free distribution
 Suppose you obtained the measurements shown in Table 11.3.
 Table 11.3
@@ -8745,13 +5978,11 @@ Initial set up
 After tightening the screw by quarter
 of a turn
 After tightening the screw by half a
-turn
 Force
 1. 5 N
 1. 5 N
 1. 5 N
 Distance to the balance
-(x)
 15 cm
 32 cm
 55 cm
@@ -8764,11 +5995,6 @@ Direction of the moment of force and equilibrium of object
 under the action of the moments of force.
 When a force acting on an object, depending on the direction of rotation, moments
 can be classified as clockwise or anti - clockwise.
-d2
-d1
-O
-F2
-F1
 Figure 11.6 - Clockwise and anti - clockwise moments.
 Consider two forces F1 and F2 exerted on a stick clamped at the point O as shown
 in the figure 11.6
@@ -8779,9 +6005,7 @@ the resultant moment = F1 × d1 - F2 × d2
 Here, clockwise moment is considered as positive.
 If the opposite moments are equal, (that is F1 × d1 = F2 × d2 ) the object will not
 rotate, and it will be in equilibrium.
-194
 For free distribution
-195
 For free distribution
 Example 1
 As shown in the following figure a uniform rod AB of length 1 m is suspended and
@@ -8793,35 +6017,20 @@ moment.
 0.5 m
 0.5 m
 0.4 m
-A
-C
-x
-B
-4 N
 (i) Clockwise moment = 4 N × 0.5 m = 2 N m
 (ii) Assume that the weight suspended from C is x.
 x × 0.4 = 4 × 0.5
 x = 4 × 0.5
-0.4
 4 × 5
-=
-4
 = 5 N
 Exercise 11.1
 (1) A uniform rod AB is 0.8 m long. It was balanced after being suspended from
 the centre and then a weight of 2 N held at one end. In order to bring the rod
 back into equilibrium, how far from the balance point on the other side of the
 rod should a weight of 4 N be held?
-A
 0.4 m
 0.4 m
-x
-B
-2 N
-4 N
-194
 For free distribution
-195
 For free distribution
 (2) Some examples of using the moment of a force in day to day life is given
 below.
@@ -8829,9 +6038,7 @@ Describe how the moment acts in each one of them.
 1. The use of a spanner to detach a nut.
 2. Applying a force on the pedal of a bicycle
 3. The use of a wheel barrow
-196
 For free distribution
-197
 For free distribution
 11.2 The couple of forces
 To rotate an object with a single force that object must be pivoted to a fixed point.
@@ -8856,13 +6063,6 @@ to you that when applying forces to rotate
 or turn an object around a certain axis it
 is easier to rotate by applying two equal
 forces in opposite directions.
-O
-O
-A
-X
-A
-B
-Y
 Figure 11.7 - Demonstration of couple
 of forces
 Two coplanar forces of equal magnitudes acting in opposite directions, along two
@@ -8874,12 +6074,9 @@ object rotates around a point between the two forces.
 The moment of a force couple is defined as the product between the magnitude of
 one force and the perpendicular distance between the lines of actions of the two
 forces.
-196
 For free distribution
-197
 For free distribution
 Moment of a couple of forces = force × perpendicular distance between
-(N)
 the lines of action of the two
 forces (m)
 The unit of the moment of a couple of forces is N m.
@@ -8909,9 +6106,7 @@ by applying a couple of forces with both
 hands instead of trying to turn it with only
 one hand.
 Figure 11.10 - rotating the steering wheel
-198
 For free distribution
-199
 For free distribution
 Exercise 11.2
 (1) Give two examples where force couples are acting.
@@ -8919,43 +6114,22 @@ for further knowledge
 A thin plank of timber which is pivoted at O is shown in the figure. If two
 forces are applied as shown in the figure, let us find the moment of the cou
 ple of forces.
-10 N
 0.4 m
 0.3 m
-O
-10 N
 moment of the
 couple of force
 10N x 0.7m
-=
 = 7Nm
 Miscellaneous exercises
 (1) The rod AB is 1.2 m long. It is kept in equilibrium by suspending it at the center.
-0.6m
-0.3m
-B
-A
-10 N
 Now, if a weight of 10 N is held at the end A, what force held at a point 0.3 m
 away from the center of the rod would bring it back to equilibrium?
 (2) Determine the sum of moments of the three forces about,
 (a) point A,
 (b) point B,
 (c) point C
-198
 For free distribution
-199
 For free distribution
-A
-20 N
-B
-C
-10 N
-10 N
-2 m
-2 m
-2 m
-2 m
 Summary
 ● What is meant by the moment of a force is the tendency of an object to rotate
 as a result of a force acting on it.
@@ -8974,13 +6148,10 @@ n,fhys >Q¾Kh E¢u®
 Turning effect of a force n,fha N%uK wdprKh Âø\°ß v¸®£À ÂøÍÄ
 Couple of forces
 n, hq.auh Âø\°øn
-200
 For free distribution
-PB
 For free distribution
 Equilibrium of Forces
 Physics
-12
 12.1 Introduction to equilibrium of forces
 Figure 12.1 – Two groups pulling a rope
 In a competition of pulling a rope, two groups pull the rope in two opposite directions.
@@ -9007,9 +6178,7 @@ Gravitational Force
 (weight)
 Figure 12.2 - An object
 suspended by a spring balance
-PB
 For free distribution
-201
 For free distribution
 A sphere suspended by a string is shown in Figure 12.3. The
 weight of the sphere is acting vertically downwards. The
@@ -9040,9 +6209,7 @@ Let us do activities 1 and 2 for this purpose.
 Activity 1
 Items required : a ring, two spring balances
 Figure 12.4 - Examine the equilibrium of an object under two forces
-202
 For free distribution
-203
 For free distribution
 ● Place the ring horizontally on a table and pull it with the two balances in
 opposite directions as shown in Figure 12.4. By varying the extent of the pull,
@@ -9070,9 +6237,7 @@ zero. That is, every time the block of wood is in equilibrium, the two forces ac
 on it in opposite directions have equal magnitudes.
 An object placed on a table is shown in Figure 12.6. Why doesn’t the object fall
 down?
-202
 For free distribution
-203
 For free distribution
 perpendicular reaction (R)
 weight (W)
@@ -9098,15 +6263,10 @@ In each of the instances described above, only two forces were acting on the
 object. In addition, the two forces were equal in magnitude and opposite in
 direction. Also, their lines of action were the same. That is, for an object to remain
 in equilibrium, the following conditions must be satisfied.
-1.
-2.
-3.
 The two forces must have equal magnitudes.
 The two forces must act along two opposite directions.
 Both forces must lie along the same line of action.
-204
 For free distribution
-205
 For free distribution
 12.3 Equilibrium of a body under three coplanar parallel
 forces
@@ -9142,18 +6302,13 @@ Figure 12.9 - A rod resting on two supports
 weight (w)
 Now, let us engage in the following activity in order to investigate the factors that
 affect the equilibrium of three parallel and coplanar forces.
-204
 For free distribution
-205
 For free distribution
 Activity 3
 Items required : two spring balances, a meter ruler, two rubber bands.
 spring balances
-F1
-F2
 rubber bands
 meter ruler
-W
 Figure 12.10 - Equilibrium of a meter ruler under three coplanar parallel forces
 ● Measure the weight of the meter ruler. Next, suspend it at the two ends with
 the aid of the rubber bands and balances as shown in Figure 12.10 and keep
@@ -9176,23 +6331,15 @@ parallel forces, the following conditions must be satisfied.
 (ii) One force must have a direction opposite to the other two forces.
 (iii) The resultant of any two forces must be equal in magnitude and opposite in
 direction to the third force.
-206
 For free distribution
-207
 For free distribution
 A child sitting on a swing is an example for a system in equilibrium under three
 parallel forces. The child can remain in equilibrium on the swing, since the sum of
 the two forces F1 and F2 exerted by the two ropes is equal to the weight of the child
 as shown in Figure 12.11.
-F1
-F2
-W
 Figure 12.11 - A child sitting on a swing
 12.4 Equilibrium of a body under three forces that are not
 parallel
-F1
-F2
-W
 Figure 12.12 - A framed picture hanging on the wall
 A framed picture like the one shown in Figure 12.12 remains at rest because the
 tensions of the two strings (F1 and F2) and the weight of the picture (W) are in
@@ -9201,9 +6348,7 @@ another as in the examples described earlier.
 Let us now engage in the following activity to find out the factors necessary to
 maintain equilibrium in a system of three forces that are coplanar, but not parallel
 to one another.
-206
 For free distribution
-207
 For free distribution
 Activity 4
 Items required : a thin rectangular laminar, a string
@@ -9230,9 +6375,7 @@ That is, in order for a system of three non parallel forces to be in equilibrium
 three forces must be coplanar. Also, the lines of action of the three forces must
 meet at a common point. Furthermore, the resultant of any two of the forces should
 be equal to the third force in magnitude, and opposite in direction.
-208
 For free distribution
-209
 For free distribution
 So far we have only discussed systems that are in equilibrium under the action
 of two or three forces. Equilibrium can exist under the action of more than three
@@ -9247,32 +6390,24 @@ force of 20 N. In order to bring the object to rest, what is the force that
 should be applied on it in the direction opposite to the 20 N force?
 (ii) What would happen if a force of 25 N is applied on the above object in the
 opposite direction?
-(2)
 If several people are trying to push a car whose engine is not functioning, in
 what manner should each one try to exert a force on the car?
-(3)
 If the resultant force of the two forces applied by the spring balances B and C
 as shown in the figure below is known, what should be done in order to bring
 the ring to rest?
-(4)
 A box is placed on a table. Although the gravitational attraction force is
 acting downwards on the box, why does it remain at rest without falling
 down?
-(5)
 What can you say about the nature of the motion of an object on a horizontal
 table that is pulled in opposite directions with two unequal forces?
-208
 For free distribution
-209
 For free distribution
 Summary
-²
 If the magnitudes of two collinear forces applied on an object are equal
 and they have opposite directions, then the object is in equilibrium.
 ² An object under three parallel forces is in equilibrium if one force is
 equal in magnitude to the resultant of the other two forces and it is in the
 opposite direction.
-eg;
 ² If an object stays in equilibrium under three forces that are not parallel
 to one another, when the resultant of any two of the forces is equal in
 magnitude and opposite in direction to the other force.
@@ -9293,7 +6428,5 @@ Equilibrium
 of three forces n, ;=kl iu;=,s;;dj ‰ßÖ Âø\PÎß \©{ø»
 Equilibrium of three iudka;r n, ;=kl ‰ßÖ \©õ¢uµ
 parallel forces iu;=,s;;dj Âø\PÎß \©{ø»
-210
 For free distribution
-PB
 For free distribution

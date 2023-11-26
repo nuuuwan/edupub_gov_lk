@@ -1,37 +1,19 @@
 Contents
-1
 Business Plan
-2
-3
-4
-5
-6
-7
 Marketing Plan
 Production Plan
 Administrative Plan
 Financial Plan
 Business Organizations
 Entrepreneurial Culture
-ix
-1
-9
-23
-29
-37
-61
-83
-x
 Chapter 01
 Business Plan
 This chapter discusses the followings.
 1.1 Introduction to a business plan
 1.2 Composition of a business plan
 1.3 Need for a business plan
-PB
 For free distribution.
 For free distribution.
-1
 1.1 Introduction to a business plan
 " Failing to plan is planning to fail"
 The above statement shows the importance of planning with regard to success
@@ -44,16 +26,12 @@ what business plans are.
 The following activity will help you check your understanding of business plans.
 Activity 01
 Read the given statements and indicate whether they are true (a) or false (r).
-No.
 Statement
-a/ r
 01 Every person and organization has certain targets to accomplish.
 02 Every business that is started will be successful.
 03 The only way to be successful in a business is to put in a lot of
 money.
 04 Business plans should be modified according to the changes in
-05
-06
 the environment.
 If you want to assess how a business is performing, you need a
 plan.
@@ -62,10 +40,8 @@ regarding the external environment.
 07 As the factors of the environment keep on changing, preparing
 business plans is not necessary.
 08 A plan is necessary to succeed in any goal.
-2
 For free distribution.
 For free distribution.
-3
 Before making a business plan, you should study
 the business environment well. If you prepare
 your business plan that way, it would guide you
@@ -90,17 +66,12 @@ Elements of a business plan
 Executive
 summary
 Marketing
-plan
 Production
-plan
 Administrative
-plan
 Financial plan
 Figure 1.2 - Composition of a Business Plan
-2
 For free distribution.
 For free distribution.
-3
 Let us take a brief look at each of them.
 01. Executive summary
 The executive summary is a summary of the entire business plan. It summarizes
@@ -129,10 +100,8 @@ Administrative structure, administrative processes, etc.
 A summary of the Financial plan, highlighting its most important points
 Funds needed by the business, how the funds will be acquired, expected
 profitability of the business, etc.
-4
 For free distribution.
 For free distribution.
-5
 Uniqueness of the business (described very briefly)
 How the business organization is different from its competitors in terms of
 the uniqueness of the product, uniqueness of distribution, etc.
@@ -164,8 +133,6 @@ Figure 1.4
 By now, you would have gained a basic understanding about what a business plan
 is. Next, let us examine why an entrepreneur needs a business plan.
 For free distribution.
-5
-4
 For free distribution.
 1.3 Need for a business plan
 01. To make the business idea clear
@@ -198,10 +165,8 @@ face them. All of these require planning.
 07. To identify the resources required for the business
 A business plan identifies the physical and human resources necessary for
 business activities.
-6
 For free distribution.
 For free distribution.
-7
 08. To find out the success of the business
 If you forecast your business activities before starting up the business, you
 can see what outcome you will be getting by the end of a given period of time.
@@ -216,29 +181,15 @@ Activity 02
 Given below are some details that should be in a business plan. Against each of
 them, indicate the section of the business plan where it should be included.
 Index
-No.
 Description
 Section
 01 Marketing strategies of the competitors
-02
-03
-04
-05
-06
 Types of employees needed for the business
 Summary of the entire business plan
 Financial needs
 Estimated salary for office employees
 Estimated promotional expenditure
 07 Minimum qualifications for each type of employee
-08
-09
-10
-11
-12
-13
-14
-15
 Forecasted electricity charges for the factory
 Nature of the business
 Inward and outward financial flow of the business
@@ -247,10 +198,8 @@ Location of the business
 Sales forecast
 Targeted sales area
 Annual requirement of raw materials
-6
 For free distribution.
 For free distribution.
-7
 Let’s Answer
 01. What do you understand by a “business plan”?
 02. Name the elements of a business plan.
@@ -258,10 +207,8 @@ Let’s Answer
 04. What are the difficulties that a business may face when there is no business
 plan?
 05. Explain the importance of the executive summary of a business plan.
-8
 For free distribution.
 For free distribution.
-PB
 Chapter 02
 Marketing Plan
 This chapter discusses the followings.
@@ -272,10 +219,8 @@ This chapter discusses the followings.
 2.5 Sales income and sales expenses
 2.6 Marketing fixed assets
 2.7 Preparing a marketing plan
-PB
 For free distribution.
 For free distribution.
-9
 2.1 Introduction to a marketing plan
 A marketing plan can be identified as the basis of the entire business plan. This is
 because all other parts of a business plan will be prepared based on the information
@@ -303,10 +248,8 @@ strategies for his/her business.
 The main purpose of a market analysis is to get the necessary information to
 prepare an accurate marketing plan. Therefore, a market analysis is the first step of
 preparing a marketing plan.
-10
 For free distribution.
 For free distribution.
-11
 Obtaining information for a market analysis
 Information needed for a market analysis can be gathered through different means.
 Given below are some of the methods used often for this purpose:
@@ -341,10 +284,8 @@ Sportspersons
 An entrepreneur must identify his/her target customer correctly. This can be done in
 a very specific manner by considering factors such as the customer’s age, income
 level, gender, occupation, social status, etc.
-10
 For free distribution.
 For free distribution.
-11
 3. Competitors
 The same kind of goods or services can be offered to the market by many
 different suppliers. The other suppliers who provide goods or services that
@@ -359,7 +300,6 @@ Laundry soap
 Butter
 Western medicine
 Cab services
-Tea
 Substitute
 Laundry powder (washing powder)
 Margarine
@@ -376,10 +316,8 @@ homogeneous products and substitute products for each of them.
 Goods/ Service
 Homogeneous products
 Substitute products
-12
 For free distribution.
 For free distribution.
-13
 2.3 Marketing strategies of the proposed business
 By exploring the market, the entrepreneur can
 understand the marketing strategies used by the
@@ -412,10 +350,8 @@ goods to the wholesale trader, who sells them to the retail trader, who in turn
 sells them to the customer.
 Out of all such strategies, the most suitable one/s should be considered to
 make the product available to the customer.
-12
 For free distribution.
 For free distribution.
-13
 Promotion
 Businesses use various strategies to create a demand for their goods
 or services, to increase the existing demand and to attract the customers.
@@ -444,10 +380,8 @@ An entrepreneur may not cover the entire market demand at the time of starting u
 the business. Depending on the strength of his/her business, the entrepreneur can
 forecast the unit of sales of the market share.
 Figure 2.3
-14
 For free distribution.
 For free distribution.
-15
 Example :-
 The demand for a certain product is 15 000 units per week. The
 current competitors provide only 12 000 units. Therefore, there is a
@@ -459,19 +393,7 @@ making. The forecasted market share should be included in the marketing plan.
 Activity 02
 Indicate a type of good and a type of service that an entrepreneur can offer targeting
 each of the groups of customers given below:
-Good
 Service
-No.
-01
-02
-03
-04
-05
-06
-07
-08
-09
-10
 Target market
 People over 65 years of age
 Pre-school children
@@ -490,16 +412,12 @@ By multiplying the number of units to be sold by the expected selling price, we 
 calculate the sales income.
 Expected sales
 income
-=
 Expected number of units to
 be sold (goods or service)
-x
 Expected selling
 price of a unit
-14
 For free distribution.
 For free distribution.
-15
 Marketing expenses
 All expenses incurred in marketing the goods or service are taken under sales
 expenses.
@@ -520,11 +438,9 @@ activities of the business.
 Example :-
 Land and buildings, machinery, equipment, vehicles, office tools and
 furniture, etc. which are used in sales and distribution-related activities
-16
 Figure 2.4
 For free distribution.
 For free distribution.
-17
 2.7 Preparing a marketing plan
 To further clarify the concepts discussed above, let us study a marketing plan
 prepared for the following scenario.
@@ -546,13 +462,8 @@ ABC Foods Co.
 6 000
 Healthy Foods Co. 24 000
 Market share
-20%
-30%
-10%
-40%
 Total
 60 000
-100%
 Marketing strategies used by competitors
 Product
 : offering two varieties, i.e. dairy yoghurt and fruit yoghurt
@@ -563,10 +474,8 @@ Place
 Promotion
 : displaying name boards carrying the name of the yoghurt
 at retail shops, displaying posters
-16
 For free distribution.
 For free distribution.
-17
 Akila understood that 50% of the demand for yoghurt in the area was
 fulfilled by external companies and 50% by two local manufacturers.
 Therefore he decided to capture 10% of the market share in the first year
@@ -587,10 +496,8 @@ Monthly expense for printing stickers – Rs. 2 000
 Distribution of yoghurt will take place five days a week. The market price
 of a cup of yoghurt is Rs. 30. There is no difference in price between dairy
 yoghurt and fruit yoghurt.
-18
 For free distribution.
 For free distribution.
-19
 Marketing Plan
 1. Product
 Information regarding the proposed product
@@ -630,9 +537,7 @@ demand
 (540 000 x 30)
 2. Fruit
 yoghurt
-500
 (Daily)
--do-
 15 000
 (60 000 x 25%)
 450 000
@@ -644,38 +549,21 @@ yoghurt
 21 600 000
 5. Analysis of supply from competitors
 Principal competitors
-1
-2
-3
-4
 Rajarata Industries
 Saumya Industries
 ABC Foods Co.
 Healthy Foods Co.
 Goods/ services supplied by
-them
 Dairy yoghurt/ fruit yoghurt
--do-
--do-
--do-
 Their market share
 (approximately)
-20%
-30%
-10%
-40%
-100%
 6. Target market share
 Product
 1. Dairy yoghurt
 2. Fruit yoghurt
 Expected market share
-10%
-10%
-18
 For free distribution.
 For free distribution.
-19
 7. Marketing strategies used by competitors
 Marketing mix
 Product
@@ -706,11 +594,8 @@ Goods/ service
 No. of units to be
 sold per month
 Unit price
-Rs.
 Monthly sales
-Rs.
 Annual sales
-Rs.
 Dairy yoghurt
 Fruit yoghurt
 Total
@@ -718,15 +603,12 @@ Total
 4 500
 1 500
 6 000
-30
-30
 135 000
 45 000
 180 000
 1 620 000
 540 000
 2 160 000
-Item
 Monthly sales expenses
 Annual sales expenses
 Salary for Sales staff
@@ -738,8 +620,6 @@ Stickers printing expenses
 Total
 11. Marketing fixed assets
 10 000
-400
-400
 7 200
 1 500
 2 000
@@ -751,16 +631,13 @@ Total
 18 000
 24 000
 258 000
-Item
 Value Rs.
 Annual depreciation Rs.
 Three-wheeler
 480 000
 4 800
-20
 For free distribution.
 For free distribution.
-21
 Activity 03
 Sasmitha decided to start a business of manufacturing and selling sweets. She
 visited several restaurants in the area to find out about the sweets available
@@ -785,10 +662,8 @@ Displaying sales posters near shops that sell sweets
 Sasmitha decided to start up the business covering 25% of the market. She
 will be using the same marketing strategies as her competitors. In addition,
 she decided to circulate flyers giving information about her products.
-20
 For free distribution.
 For free distribution.
-21
 At the beginning, she decided to offer rice-and kurakkan-flour-mixed cake
 and Aluva. Their market price will be as follows:
 Cake - Rs. 20
@@ -809,10 +684,8 @@ Let’s Answer
 03. Name the 4Ps and describe them briefly.
 04. What are the means of collecting information for a market analysis?
 05. Explain what do you mean by marketing fixed assets.
-22
 For free distribution.
 For free distribution.
-PB
 Chapter 03
 Production Plan
 This chapter discusses the followings.
@@ -822,10 +695,8 @@ This chapter discusses the followings.
 3.4 Production cost
 3.5 Unit cost of production
 3.6 Preparing a production plan
-PB
 For free distribution.
 For free distribution.
-23
 3.1 Introduction to a production plan
 A production plan is another important element in a business plan. A production
 plan is prepared with the aim of calculating the production cost and the cost per one
@@ -854,10 +725,8 @@ Other costs (Production overheads)
 Unit cost
 Figure 3.1
 Now let us study these in more detail.
-24
 For free distribution.
 For free distribution.
-25
 3.2 Production process
 Production process describes how the goods or service will be produced. This
 includes details on what kind of input will be used, what changes will be made
@@ -883,7 +752,6 @@ Tea leaves
 Milk powder
 A teapot
 A gas burner
-Gas
 A cup
 A jug
 A strainer
@@ -900,10 +768,8 @@ Explain the production process for each of the following:
 A wooden table
 A shirt
 A brick (made of clay)
-24
 For free distribution.
 For free distribution.
-25
 3.3 Production fixed assets
 Buildings, machinery, equipment etc that are used for long term, again and again in
 the production process are known as production fixed assets.
@@ -932,10 +798,8 @@ is called depreciation.
 In a manufacturing plant, electricity used for lighting, salary for the security guard,
 insurance coverage for the plant, depreciation of fixed assets etc are examples for
 other expenses.
-26
 For free distribution.
 For free distribution.
-27
 3.5 Unit cost of production
 When the total production cost is divided by the number of units produced, we get
 the production cost of one unit.
@@ -958,16 +822,13 @@ Maintenance Rs. 1 000
 Trained labour – 1 person (Rs. 25 000 per month)
 Untrained labour – 1 person (Rs. 10 000 per month)
 Machinery depreciation Rs. 2 000
-26
 For free distribution.
 For free distribution.
-27
 Business of Maya Randiya
 Production Plan
 Monthly
 requirement
 Unit price Rs. Total expenditure
-Item
 135 000
 Cement (bags)
 300 000
@@ -989,31 +850,13 @@ Machinery depreciation
 Total production cost
 480 000
 Unit cost 480 000 − 12 000 40
-900
 6 000
-50
--
--
--
 25 000
 10 000
--
--
-150
-50
-20
--
--
--
-01
-01
--
--
 Activity 02
 Given below is the list of daily expenses incurred by “Praneetha Sweets”, which
 produces 25kg of Kalu Dodol per day. Based on this, calculate the total production
 cost and the unit cost.
-Item
 Sugar
 Rice flour
 Coconut (large)
@@ -1025,35 +868,22 @@ Daily
 requirement
 15 kg
 20 kg
-20
 200 g
-04
-1
 Unit price
-Rs.
-100
-100
-50
--
-100
 1 500
 Total
 expenditure Rs.
 1 500
 2 000
 1 000
-600
-400
 1 500
 01. How would you identify the production plan?
 02. What are the parts of a production plan?
 03. What are ‘production fixed assets’?
 04. Explain the production process using an example.
 05. Indicate how to calculate the unit production cost.
-28
 For free distribution.
 For free distribution.
-PB
 Chapter 04
 Administrative Plan
 This chapter discusses the followings.
@@ -1063,10 +893,8 @@ This chapter discusses the followings.
 4.4 Other administrative expenses
 4.5 Administrative fixed assets
 4.6 Preparing an administrative plan
-PB
 For free distribution.
 For free distribution.
-29
 4.1 Introduction to an administrative plan
 It is difficult for the owner/s of a business to
 run all the business activities by themselves.
@@ -1103,11 +931,9 @@ Marketing
 Manager
 Finance Manager Human Resources
 manager
-30
 Figure 4.2
 For free distribution.
 For free distribution.
-31
 Figure 4.3 is an organizational chart showing the positions that come under the
 production division.
 Production
@@ -1128,7 +954,6 @@ responsibilities through a table. Given below is an example, showing the functio
 responsibilities and qualifications pertaining to the position of an Accountant:
 Responsibilities Qualifications
 Submitting
-the
 financial reports
 on the due date
 Being
@@ -1147,10 +972,8 @@ Position
 Functions
 Responsibilities
 Qualifications
-30
 For free distribution.
 For free distribution.
-31
 4.3 Employee salaries and wages
 The administrative plan should present an estimate of all the payments that will be
 made to the people holding various positions in the organization. If the owner/s of
@@ -1182,10 +1005,8 @@ building in the town. She herself will serve as the General Manager and will
 claim a salary of Rs. 25 000 per month. In addition to her functions as the
 General Manager, she will handle the activities related to purchasing and
 selling. Further, it is she who will cut the material for sewing the bags with.
-32
 For free distribution.
 For free distribution.
-33
 Geetha’s brother who has completed his G. C. E. Advanced Level examination
 will join her business as an Assistant Manager. She plans to get his help for
 supervising the other 10 employees and managing the accounts. His proposed
@@ -1211,10 +1032,8 @@ factory
 General Manager
 Assistant Manager
 Machine operators (10)
-32
 For free distribution.
 For free distribution.
-33
 03. The main positions in the organization and their responsibilities
 Position
 General
@@ -1234,7 +1053,6 @@ employees
 Maintaining the
 accounts
 Sewing the traveling
-bags
 Responsibilities
 Efficiently managing
 production, sales and
@@ -1260,7 +1078,6 @@ targets
 Work experience
 (over 6 months)
 04. Administrative expenditure
-Item
 Expenditure
 (Monthly) Rs.
 Expenditure
@@ -1274,10 +1091,7 @@ Stationery charges
 05. Fixed assets
 25 000
 15 000
-650
-125
 2 000
-250
 300 000
 180 000
 7 800
@@ -1285,17 +1099,14 @@ Stationery charges
 24 000
 3 000
 515 000
-Item
 Value (Rs)
 Annual depreciation Rs.
 1st year
 Office equipment
 65 000
 7 800
-34
 For free distribution.
 For free distribution.
-35
 Activity 02
 Given below are several positions in a garment factory:
 1. Production Manager
@@ -1310,12 +1121,6 @@ Qualifications
 Functions
 Responsibilities
 Position
-1.
-2.
-3.
-4.
-5.
-6.
 Qualifications
 1. Passed GCE Ordinary Level examination, six months’ work experience
 2. Special degree in Marketing
@@ -1331,10 +1136,8 @@ Functions
 4. Maintaining employee files
 5. Recording daily transactions
 6. Organizing promotional events
-34
 For free distribution.
 For free distribution.
-35
 Responsibilities
 1. Ensuring the continuity of production
 2. Meeting sales targets
@@ -1349,10 +1152,8 @@ Let’s Answer
 04. Name the basic administrative divisions in an organization and indicate the
 positions that come under them.
 05. List several functions of a Production Manager.
-36
 For free distribution.
 For free distribution.
-PB
 Chapter 05
 Financial Plan
 This chapter discusses the followings.
@@ -1362,10 +1163,8 @@ This chapter discusses the followings.
 5.4 Statement of expected cash inflows and outflows
 5.5 Calculating business results
 Overall Business Plan
-PB
 For free distribution.
 For free distribution.
-37
 5.1 Introduction to a Financial Plan
 You have studied the marketing, production and administrative plans that should
 be included in a business plan from the previous chapters. This chapter explains
@@ -1393,10 +1192,8 @@ There are activities to be completed and expenses to be incurred before starting
 activity. Similarly, before starting a business, certain activities should be done and
 expenses should be borne by the entrepreneur. Some such activities and expenses
 are given below.
-38
 For free distribution.
 For free distribution.
-39
 Expenses on market survey
 One of the main things done before starting a new business is studying the market
 relating to the business. We call this a market survey. Expenses on market survey
@@ -1427,10 +1224,8 @@ Examples :-
 Expenses incurred to visit the suppliers and inspect the materials
 and equipment, exchange the files and documents, sample
 inspection
-38
 For free distribution.
 For free distribution.
-39
 Registration Expenses
 When starting a business it should be registered at authorized institutions. Further,
 for some businesses, a special approval or licenses should be obtained.
@@ -1449,28 +1244,21 @@ Examples :-
 Legal expenses, cost of business plan preparation, expenses for the
 inauguration ceremony
 Figure 5.2
-40
 For free distribution.
 For free distribution.
-41
 Activity 01
 Some of the expenses of newly started “Prathiba” business are given below. If
 they are pre-startup expenses mark (√) and if not mark (×) in the given box.
-No.
 Expense
-$
 01 Paid Rs. 25 000 to ABC company for the market survey
 02 Bought furniture to the office for Rs. 60 000
 03 Paid Rs. 1 500 for the relevant authority council for licenses
 04 Paid Rs. 5 000 to clean the buildings
-05
 Cost of preparing the premises to get the electricity supply is
 Rs. 4 000
 06 Charge to lay cables for the computer network Rs. 8 000
 07 Bought 10 computers for Rs. 800 000
 08 Paid for the preparation of business plan- Rs. 20 000
-09
-10
 Expenses for entertainment on the starting day of the business
 Rs. 8 500
 Expenses for exchanging information with the suppliers
@@ -1479,10 +1267,8 @@ Rs. 1 000
 It is important for an entrepreneur to identify the required investment of the expected
 business in advance. A total investment estimate is prepared for this purpose.
 Sometimes this is known as “cost of the project”.
-40
 For free distribution.
 For free distribution.
-41
 Contents of a total investment estimate
 The total investment estimate of a business plan consists with the following elements.
 Value of the fixed assets
@@ -1514,10 +1300,8 @@ It is unfavorable for a business to have an excessive working capital or a defic
 should maintain on an optimum level. If adequate working capital is not available
 within the business, the smooth and continuous flow of business activities will be
 disrupted.
-42
 For free distribution.
 For free distribution.
-43
 Examples :-
 If enough cash is not available to buy the raw materials in due time,
 the business will not be able to do its production. As a result, all the
@@ -1537,7 +1321,6 @@ exercise.
 Information relating to the business plan prepared for the business
 “Wardhana Exercise Books” of Mr. Sarath Siriwardene is given below.
 Cost estimations
-Rs.
 150 000
 Buying a paper cutting machine
 1 500
@@ -1556,10 +1339,8 @@ Cost of preparing the business plan
 Expenses for the inauguration day ceremony
 18 000
 Market survey expenses
-42
 For free distribution.
 For free distribution.
-43
 The building which is expected to be used as the production center
 belongs to Mr. Sarath Siriwardene and its value is Rs. 2 000 000.
 It has been suggested to get a bank loan of Rs. 1 000 000 to buy
@@ -1572,12 +1353,9 @@ Estimation of Total Investment
 Proposed investment
 Provided by
 the owner
-Rs.
 Bank loan
-Rs.
 Total
 investment
-Rs.
 2 000 000
 500 000
 80 000
@@ -1591,15 +1369,7 @@ Rs.
 22 000
 15 200
 1 000 000
--
--
--
 1 000 000
--
--
--
--
--
 2 000 000
 1 500 000
 80 000
@@ -1628,23 +1398,19 @@ Preparing the business plan
 Inauguration ceremony
 B. Total pre-startup expenses
 81 700
--
 81 700
 Working capital for business activities
 350 000
 350 000
 C. Total working capital requirement
 350 000
--
 350 000
 Total investment (A+B+C)
 3 241 700
 1 000 000
 4 241 700
-44
 For free distribution.
 For free distribution.
-45
 Accordingly, Mr. Sarath Siriwardene requires Rs. 4 241 700 as the total investment.
 Out of that Rs. 1 000 000 will be obtained as a bank loan. Owner’s building which
 is worth Rs. 2 000 000 will be given to the business and Rs. 1 241 700 will be
@@ -1653,7 +1419,6 @@ Activity 02
 Some of the information of the proposed garment factory of Mr. Muhammad
 Iththikar is given below. Based on the information, prepare the total investment
 plan for “Iththikar Garments”.
-Item
 Cost (Rs.)
 To buy 10 sewing machines
 To obtain electricity to the building
@@ -1679,10 +1444,8 @@ He expects to obtain a bank loan of Rs. 600 000 to buy additional new 5
 sewing machines and the cloth cutting machine.
 Cash in hand required to conduct the daily business activities should be
 Rs. 400 000.
-44
 For free distribution.
 For free distribution.
-45
 5.4 Statement of forecasted (budgeted) cash inflows and
 cash outflows
 Statement that is prepared including the proposed cash inflows to and outflows from
@@ -1711,10 +1474,8 @@ employee salaries
 Payments for the creditors
 Paying loan installments and interest
 Paying taxes
-46
 For free distribution.
 For free distribution.
-47
 Cash balance
 The difference between the cash inflows and outflows during a specific period or
 the balance available at the end of the said specific period is known as cash balance.
@@ -1728,7 +1489,6 @@ stationary shop are given below.
 Bhasitha’s money invested in the business 1 000 000
 Expected sales revenue
 3 000 000
-Rs.
 Obtaining bank loans
 Paying building rental
 For the electricity bill
@@ -1753,15 +1513,11 @@ Receiving cash from debtors
 60 000
 48 000
 100 000
-46
 For free distribution.
 For free distribution.
-47
 Basitha’s business
 Forecasted cash flow statement for the first year
 Description
-Rs.
-Rs.
 Cash inflows
 Owner’s investment
 Bank loans
@@ -1798,10 +1554,8 @@ Cash balance at the end of the period
 4 600 000
 3 636 200
 963 800
-48
 For free distribution.
 For free distribution.
-49
 Activity 03
 Following are the information extracted from the business plan of Roshitha’s
 business for the following year. Based on the information prepare the forecasted
@@ -1840,10 +1594,8 @@ The forecasted income statement includes the following things.
 Estimated total income
 Estimated total expenses
 Expected business result
-48
 For free distribution.
 For free distribution.
-49
 Estimated total income
 The total value of the products or services expected to be sold by a business during
 a specific period of time is known as estimated sales income. Both the cash sales
@@ -1876,11 +1628,9 @@ income. This can be a profit or a loss. The decision to
 start the business can be made, if the result is a profit and
 if the investor is satisfied that the profit is adequate for
 the money invested.
-50
 For free distribution.
 Figure 5.4
 For free distribution.
-51
 If the result is a loss, it guides the entrepreneur to make a decision on starting the
 business.
 Study how a statement is prepared that calculates the end result of a business for a
@@ -1889,7 +1639,6 @@ Examples :-
 Let’s calculate the final or the end result of the below mentioned
 business - “Sirisara Confectionary” for its first year by using the
 information available in the business plan.
-Item
 Value Rs.
 Sales income
 Raw material cost
@@ -1907,8 +1656,6 @@ Financial expenses (loan interest)
 24 000
 “Sirisara Confectionary”
 Statement of expected end result calculation for the first year
-Rs.
-Rs.
 Sales income
 3 000 000
 Less - Total production cost
@@ -1930,17 +1677,13 @@ Net Profit 759 000
 24 000
 Accordingly the entrepreneur of “Sirisara Confectionary” expects to earn a net
 profit of Rs. 759 000 by the business operations in the first year.
-50
 For free distribution.
 For free distribution.
-51
 Activity 04
 Amal Fernando expects to start a business which sells ornamental plants. Some of
 the information extracted from the business plan prepared for his nursery are given
 below. Based on the information provided, calculate the expected result of Amal
 Fernando’s business.
-Item
-Rs.
 Expected sales income
 Raw material cost
 Labour cost
@@ -1955,10 +1698,8 @@ Financial expenses
 48 000
 36 000
 24 000
-52
 For free distribution.
 For free distribution.
-53
 Overall business plan
 By now you have studied the marketing plan, production plan, administrative plan
 and financial plan which are the elements of a business plan. Using the data of those
@@ -1986,20 +1727,12 @@ Product
 Purse
 Purse
 Market share
-60%
-40%
 The estimated raw material cost of a purse is as follows.
-Rs.
-25
 For artificial leather
-7
 For other components
 To sew the badges (logos) 20
-52
-52
 For free distribution.
 For free distribution.
-53
 It was decided to recruit a girl with G.C.E. A/L and of 05 years working
 experience to cut the blocks of leather for the purses and to keep her in the
 position of foreman. Her monthly salary is Rs. 20 000. She is responsible to
@@ -2012,7 +1745,6 @@ Other expected monthly expenses are as follows.
 Factory electricity
 Telephone charges
 Transportation expenses
-Rs.
 2 500
 1 200
 5 000
@@ -2026,7 +1758,6 @@ the Entrepreneurship Development Bank under 10% annual interest and
 the repayment period is 05 years. The loan installment for the first year
 is Rs. 120 000.
 Following expenses are expected to be incurred before the business start-up.
-Rs.
 1 200
 Registration fee
 For electricity
@@ -2036,10 +1767,8 @@ Working capital requirement is estimated as Rs. 75 000.
 Products will be available for sale at school sales shops and a purse is given to
 a shop for Rs. 170. It is expected to sell the purses to 50% of the students with
 in the first year.
-54
 For free distribution.
 For free distribution.
-55
 Business Plan
 1. Executive Summary
 1.1 Business name and Industry :-
@@ -2062,10 +1791,8 @@ tion pattern
 Monthly demand
 Annual demand
 Quantity Value Rs. Quantity Value Rs.
-54
 For free distribution.
 For free distribution.
-55
 2.5 Supply analysis of the competitors
 Main competitors
 Products and services
@@ -2083,10 +1810,8 @@ Product
 Price
 Place
 Promotion
-56
 For free distribution.
 For free distribution.
-57
 2.8 Proposed marketing strategies of the entrepreneur
 Marketing mix
 Strategies
@@ -2100,41 +1825,33 @@ Expected
 monthly sales
 (quantity)
 Unit price
-Rs.
 Average
 monthly sales
 value Rs.
 Annual sales
 value Rs.
 2.10 Marketing expenses
-Item
 Average monthly selling
 expenses Rs.
 Annual selling
 expenses Rs.
 2.11 Marketing Fixed assets
-Item
 Value Rs
 Annual depreciation Rs.
 1st year
-56
 For free distribution.
 For free distribution.
-57
 03. Production plan
 3.1 Calculation of total production cost
 Monthly
 requirement
-Item
 Unit price
-Rs.
 Total
 expenditure Rs.
 Total production
 expenditure
 Unit cost
 3.2 Production Fixed assets
-Item
 Value Rs.
 Annual depreciation Rs.
 1st year
@@ -2150,15 +1867,11 @@ Position
 Function
 Responsibilities
 Qualifications
-58
 For free distribution.
 For free distribution.
-59
 4.3 Administrative expenses
-Item
 Expenses (monthly) Rs. Expenses (Annual) Rs.
 4.4 Administrative Fixed assets
-Item
 Value (Rs)
 Annual depreciation Rs.
 1st year
@@ -2170,9 +1883,7 @@ Proposed investment
 Provided by
 the owner Rs.
 Bank loans
-Rs.
 Total Investment
-Rs.
 5.2 Total Investment Estimate
 Fixed Assets
 Total fixed assets (A)
@@ -2181,19 +1892,13 @@ Total pre-startup cost (B)
 Working capital
 Total working capital requirement (C)
 Total investment (A+B+C)
-58
 For free distribution.
 For free distribution.
-59
 5.3 Estimated (budgeted) cash flow statement
 Cash inflows
 Less - Cash out flows
 Cash balance at the end of the period
 5.4 Statement of expected result calculation
-Rs.
-Rs.
-Rs.
-Rs.
 Sales income
 Less – Total production cost
 Less - Total non- production cost
@@ -2204,10 +1909,8 @@ Let’s Answer
 03. State the items that are included in an investment estimate.
 04. Provide some examples for cash inflows and cash outflows of the business?
 05. Provide some examples that are included in an estimated cash flow statement?
-60
 For free distribution.
 For free distribution.
-PB
 Chapter 06
 Business Organizations
 This chapter discusses the followings.
@@ -2217,10 +1920,8 @@ This chapter discusses the followings.
 6.4 Partnerships
 6.5 Incorporated companies
 Franchises
-PB
 For free distribution.
 For free distribution.
-61
 6.1 Introduction to business organizations
 You have already gained a good understanding about the preparation of business
 plans. The next step is selecting a suitable type of business organization in order to
@@ -2236,14 +1937,7 @@ insurance
 Activity 01
 Name some of the day to day wants of your home and state the business
 organizations that help to satisfy them.
-Want
 Business organization
-No.
-01.
-02.
-03.
-04.
-05.
 After doing the above activity, you can understand that it is necessary to get the
 assistance of different parties in order to fulfill your needs and wants and you are
 clear that business organizations are behind all these activities. To start and run
@@ -2251,10 +1945,8 @@ businesses, individuals should organize as groups. Thus, units comprise of group
 of people working together for the purpose of achieving a common goal are called
 organizations. Accordingly, different business organizations have been established
 at present in order to satisfy the needs and wants of people.
-62
 For free distribution.
 For free distribution.
-63
 Entities that engage in production and distribution of goods and services with the
 aim of earning profits, achieving social wellbeing or fulfilling any other objective
 while using limited resources to satisfy human needs and wants are called business
@@ -2280,10 +1972,8 @@ called owners. Owners enjoy the profits or losses earned by a business.
 Based on ownership, business organizations are classified as follows.
 Private sector businesses
 Public sector businesses
-62
 For free distribution.
 For free distribution.
-63
 When financial resources are deployed in a business by an individual or group of
 individuals, the ownership of the business is with the private sector. Then they are
 called private sector businesses.
@@ -2317,10 +2007,8 @@ Private hospitals
 Private banks
 Super markets
 Garment firms
-64
 For free distribution.
 For free distribution.
-65
 Similarly, the objective of some businesses is not to earn profits but to provide
 benefits to the society. Such organizations are called not-for profit organizations.
 Examples :-
@@ -2341,22 +2029,14 @@ Figure 6.2: Classification of businesses based on the objective
 Activity 02
 State few organizations from which you fulfill your daily needs and fill the following
 table relating to those organizations.
-No.
 Organization
 Objective
 Ownership
 Super market
 Profit
 Private
-01
-02
-03
-04
-05
-64
 For free distribution.
 For free distribution.
-65
 After learning the above information, we hope that you have understood that
 businesses can be classified based on different criteria. An entrepreneur should be
 clever enough to select the most suitable type of business organization among these
@@ -2386,10 +2066,8 @@ the business. Investing the capital solely by the owner is a characteristic of s
 proprietorships. Capital can be found through different ways including owners’
 savings, funds given by relatives or friends, a loan obtained by selling or mortgaging
 his/ her assets or a loan taken from a financial institution.
-66
 For free distribution.
 For free distribution.
-67
 Ownership rests with a single person
 Since capital required for the business is invested by a single person, the ownership
 too is with that person.
@@ -2416,10 +2094,8 @@ Examples :-
 Filing legal cases, obtaining bank loans, purchasing of vehicles
 should be done not by the name of the business but by the name of
 the owner.
-66
 For free distribution.
 For free distribution.
-67
 Business can solely be led at owner’s discretion
 Examples :-
 Hiring and firing of employees
@@ -2447,10 +2123,8 @@ Can be started with a small amount of capital
 Can get the assistance of the members of the family
 Convenience of starting
 Can make independent decisions
-68
 For free distribution.
 For free distribution.
-69
 Ability to improve the business with the dedication and the enthusiasm of
 the entrepreneur
 All the profits belong to the owner
@@ -2483,8 +2157,6 @@ tried his best to carry on the business activities successfully.
 01. To which category does the above business belongs to?
 02. Give benefits and limitations of that type of business organization.
 For free distribution.
-69
-68
 For free distribution.
 6.4 Partnerships
 Partnerships too have received an important place in the economy as a type of
@@ -2516,10 +2188,8 @@ regarding the partnership is known as the partnership agreement.
 No continued existence
 The continuity of the partnership is obstructed due to the change of the partnership
 agreement or due to the death, insanity or bankruptcy of a partner.
-70
 For free distribution.
 For free distribution.
-71
 Unlimited liability of the partners
 Partners are unlimitedly liable for the liabilities of the partnership. Accordingly,
 partners may have to sacrifice their private properties to pay off the debt of the
@@ -2553,10 +2223,8 @@ Figure 6.5
 This written agreement is known as the partnership deed.
 It is important to have the stipulated agreement in writing in order to minimize the
 practical issues that may arise in a partnership when doing business.
-70
 For free distribution.
 For free distribution.
-71
 Some of the factors included in a partnership agreement are given below.
 The method of capital contribution by the partners
 The way of sharing profits and losses
@@ -2580,10 +2248,8 @@ Possibility of arising conflicts among partners
 Profits being shared among partners
 No continued existence
 Consequences of a mistake done by a partner can affect other partners
-72
 For free distribution.
 For free distribution.
-73
 Activity 05
 Amal Piyarathne and Kamal Jayarathne started a partnership to sell garments and
 agreed to register it under the name of “Rathna Dress”. Further they agreed to put
@@ -2610,10 +2276,8 @@ Companies Act No. 07 of 2007 and which have a separate legal identity and a
 continued existence.
 Characteristics of incorporated companies
 Some of the basic characteristics of incorporated companies are given below.
-72
 For free distribution.
 For free distribution.
-73
 Incorporated under the Companies Act
 Every company should be registered under the Companies Act No. 07 of 2007. It is
 done by the Registrar of Companies of the Department of Registrar of Companies.
@@ -2635,10 +2299,8 @@ Companies are incorporated under the Companies Act No 07 of 2007. Hence, an
 incorporated company is considered as a legal person and entering in to contracts,
 acquiring assets, obtaining loans from financial institutions etc., can be done in the
 name of the company.
-74
 For free distribution.
 For free distribution.
-75
 Types of companies which can be started according to the Companies Act No 07 of
 2007 are given below in the figure 6.6.
 Incorporated
@@ -2669,25 +2331,17 @@ Companies Act of No. 07 of 2007 has given a definition to private limited compan
 and it can be stated as follows.
 Companies of which the number of shareholders are limited to 50, shares cannot be
 offered to the public and, liability is limited are known as private limited companies.
-74
 For free distribution.
 For free distribution.
-75
 Activity 06
 List private limited companies that operate in each of the following fields in Sri
 Lanka.
 Private companies
 Field
-No.
 Tourism
-01.
 Education
-02.
-03.
 Trade
 04. Manufacturing
-05.
-06.
 Agriculture
 Construction
 Starting a private limited company
@@ -2706,10 +2360,8 @@ company’s name
 The statement which includes information relating to the general administration of
 a limited company. According to the Companies Act of No. 07 of 2007. Following
 information are included in the Articles of Association.
-76
 For free distribution.
 For free distribution.
-77
 The objectives of the company
 The rights and obligations of shareholders of the company
 The information relating to management and administration of the company
@@ -2738,10 +2390,8 @@ manage the company affairs. Yet the Companies Act does not specify the maximum
 number of directors.
 Has a legal personality
 Has a continued existence
-76
 For free distribution.
 For free distribution.
-77
 Accounting and auditing is mandatory
 Liability is limited
 Advantages of private limited companies
@@ -2764,10 +2414,8 @@ the rapidly changing business environment. This gives the opportunity to an
 entrepreneur to join the large scale businesses and carry on the business activities.
 These businesses are operated as sole proprietorships, partnerships or incorporated
 companies.
-78
 For free distribution.
 For free distribution.
-79
 A form of business organization to which the power is granted by an existing
 business which sells a product or service, to sell the said product or service in a
 specific market area under its trade name are known as franchises.
@@ -2792,10 +2440,8 @@ In order to enter in to this type of a business relationship, the franchisor and
 franchisee should enter in to a stipulated (agreed) relationship. This is known as
 franchise agreement. Common agreements regarding the commencement and the
 conduct of the franchise are given in the franchise agreement.
-78
 For free distribution.
 For free distribution.
-79
 Examples for some such common agreements are given below.
 Examples :-
 Services provided by the franchisor to franchisee
@@ -2822,10 +2468,8 @@ agreement.
 Advantages of franchises
 There are few benefits that both the franchisor and the franchisee can obtain in
 common due to franchises.
-80
 For free distribution.
 For free distribution.
-81
 Benefits to the franchisor
 Opportunity to expand the business activities to other markets
 Ability to enjoy large scale benefits by minimizing the pressure of maintaining
@@ -2848,10 +2492,8 @@ Franchisee has to incur the legal charges, bank charges, establishment cost
 etc. to get the franchise
 Franchisee cannot work independently due to the control of franchisor
 Franchisee may have to pay a high royalty and other charges to franchisor
-80
 For free distribution.
 For free distribution.
-81
 Activity 07
 Few statements specifying the characteristics of different business organizations
 are given below.
@@ -2873,10 +2515,8 @@ Let’s Answer
 03. State the facts that can be included in a partnership agreement.
 04. Classify business organizations according to the ownership.
 05. Name the parties that are involved in a franchise agreement.
-82
 For free distribution.
 For free distribution.
-PB
 Chapter 07
 Entrepreneurial Culture
 This chapter discusses the followings.
@@ -2890,7 +2530,6 @@ an entrepreneurial culture
 7.7 Business ethics and social responsibility
 7.8 Incentives available for entrepreneurs
 For free distribution.
-83
 7.1 Introduction to culture
 At the beginning of human civilization it can be seen that man has been working
 with different parties of the society as well as with the various cultures in satisfying
@@ -2915,7 +2554,6 @@ Moreover, such people are dissatisfied with the status quo and try to change the
 prevailing condition. Further those people are very sensitive to the environment and
 owing to that sensitivity they have the capability of identifying the opportunities
 and chasing them. As soon as the opportunities are identified, they exploit them.
-84
 For free distribution.
 7.3 Need for the creation of an entrepreneurial culture
 Most of the countries in the world have developed due to the influence of cultural
@@ -2943,7 +2581,6 @@ Sri Lanka is a land full of resources. Those resources are not properly utilized
 at present. There is a possibility of generating products by using those unused
 resources.
 For free distribution.
-85
 Need for new job creators
 It has become difficult to provide jobs for the people compared to the population
 growth of Sri Lanka. In order to provide jobs, new businesses should be created. As
@@ -2972,7 +2609,6 @@ policies for the identification of solutions to economic and social problems giv
 prominence to entrepreneurship while securing it will be very helpful for the
 emergence of an entrepreneurial culture. Further the political authority should have
 understood the rewards of entrepreneurship.
-86
 For free distribution.
 Incentives given by government and other organizations
 Government and public sector organizations can immensely support the upliftment
@@ -3005,7 +2641,6 @@ Ability of obtaining resources
 Availability of ample resources and ability to use them for production are factors
 which encourage entrepreneurship.
 For free distribution.
-87
 Role models
 Ability to witness role models of successful entrepreneurs in the society is a major
 factor which influences the creation of an entrepreneurial culture. Such a guidance
@@ -3021,7 +2656,6 @@ Activity 01
 Identify two successful entrepreneurs in Sri Lanka.
 Search their path of becoming a successful entrepreneur from their life stories.
 List few lessons that can be learnt from their life stories for a new entrepreneur.
-88
 For free distribution.
 7.5 Social factors which obstruct entrepreneurship
 There are many personal rewards of being an entrepreneur. Further, entrepreneurs
@@ -3048,7 +2682,6 @@ Weaknesses of policies which are for the development of entrepreneurship in Sri
 Lanka and insufficiency of incentives given to promote entrepreneurs are barriers
 for entrepreneurship.
 For free distribution.
-89
 Dependent mentality
 Most of the Sri Lankans today have high expectations towards what they inherit
 from their parents and try to live by spending what they have inherited thereafter.
@@ -3057,7 +2690,6 @@ what they need through their own effort. Such mentality acts as a negative facto
 which demotivates people from being entrepreneurs.
 7.6 Role of women in entrepreneurship
 ‘The hand that rocks the cradle, rules the world’
-to
 The above saying depicts the unique capability
 within a woman. They can lead anything towards
 success due
@@ -3077,7 +2709,6 @@ To achieve a satisfactory income level
 Since cost of living has increased at present, it has become difficult to run the
 affairs of a home only with the income of one individual. In order to avoid this, it is
 necessary for women to earn an income through a business.
-90
 For free distribution.
 Majority of the population being women
 When analyzing the composition of population of Sri Lanka, it is evident that
@@ -3106,7 +2737,6 @@ It is important to have opportunities within the business environment for women
 to enter into business. Following are some such opportunities which can be seen in
 the economy of Sri Lanka.
 For free distribution.
-91
 High demand created for services
 A high demand for different services has been created in order to fulfill human
 needs and wants owing to the facts like busy schedules of people, and increase in
@@ -3134,7 +2764,6 @@ contribution made by women
 Women engaging in activities
 which were under male
 dominance
-92
 For free distribution.
 Figure 7.5
 Some strengths of women to be an entrepreneur are given below.
@@ -3164,7 +2793,6 @@ Dislike to do businesses is going beyond the tradition.
 Programs which promote women entrepreneurship are not enough.
 Difficulties of obtaining capital.
 For free distribution.
-93
 Activity 02
 Naveesha was a student in grade 08 and is the eldest daughter of a family which had
 economic difficulties. Her brother is studying in grade 04. Her father is a labourer
@@ -3196,7 +2824,6 @@ a successful woman entrepreneur like her mother after studying well.
 Read the above case carefully and answer the following questions.
 01. Identify the entrepreneurial characteristics of Naveesha’s mother.
 02. Explain how she had overcome the barriers of women entrepreneurship.
-94
 For free distribution.
 Activity 03
 Collect the reports/ records published in newspapers and magazines that describe
@@ -3219,7 +2846,6 @@ Examples :-
 Giving priority to the consumer in every business affair
 Doing business without harming the natural environment
 For free distribution.
-95
 Three main parties influence the determination of business ethics.
 1. Proprietors
 2. Members of the organization
@@ -3244,7 +2870,6 @@ Social responsibility of a business can be fulfilled according to the following 
 02. Legal responsibility
 03. Ethical responsibility
 04. Philanthropic responsibility
-96
 For free distribution.
 01. Economic responsibility
 The responsibility to contribute to increase the rewards of the owners of the business.
@@ -3275,7 +2900,6 @@ and not directly expected by different parties of the society from the business.
 are the high level responsibilities which are fulfilled voluntarily by a business
 without expecting anything in return.
 For free distribution.
-97
 Examples :-
 Sponsoring community events including sports, educational and health events
 Stakeholders of a Business
@@ -3303,16 +2927,12 @@ Possibility of legal issues to emerge will be low
 High profitability is ensured as the demand for the products and services
 of the business increases
 Satisfaction and loyalty of employees will increase
-98
 For free distribution.
 Activity 07
 ) if the following statements are correct or (
 Mark (
 given in front of each statement.
 ) if they are wrong in the box
-No.
-Cost
-$
 01 Though a high cost has to be born for waste disposal by a
 business, complying with that will help create a good image for
 the business.
@@ -3330,7 +2950,6 @@ Due to its importance most of the government as well as the private institutions
 to promote entrepreneurship. As a result of that different incentives are given to
 entrepreneurs in order to start and run the businesses.
 For free distribution.
-99
 Reasons as to why the business starters require government incentives
 are given below.
 To encourage entrepreneurs to start new businesses
@@ -3344,15 +2963,12 @@ Different incentives given by the government can mainly be categorized as follow
 Types of incentives
 Financial incentives
 Non-financial incentives
-Loan
 facilities of
 commercial
-bank
 Other loan
 facilities
 Gift and
 financial
-aids
 Consultancy
 services
 Technical
@@ -3367,7 +2983,6 @@ Giving loan facilities under concessionary interest rates
 Giving loans without securities
 Extending the repayment period of loans
 Financial gifts
-100
 For free distribution.
 Non -Financial Incentives
 Incentives given to a business which are of non- monetary nature are called non-
@@ -3383,7 +2998,6 @@ Giving knowledge regarding packaging
 Help finding the market
 Activity 08
 Identify whether the following are financial incentives or non-financial incentives.
-No.
 Incentive
 Answer
 01 Obtaining a bank loan of Rs. 100 000 from a State bank
@@ -3402,7 +3016,6 @@ Development Board
 07 Giving a stall of an exhibition which is worth Rs. 10,000 to an
 entrepreneur free of charge
 For free distribution.
-101
 Institutions that provide incentives
 Different government as well as private institutions are engaged in providing
 incentives to entrepreneurs.
@@ -3431,7 +3044,6 @@ Inspection of finished products and raw materials and
 quality control
 Technical training
 -Ascertaining the technical errors of industries
-102
 For free distribution.
 Sri Lanka Export
 Development
@@ -3442,7 +3054,6 @@ Creating an environment conducive for exports in Sri
 Lanka
 -Preparing national standards
 Issuing quality certificates of products
--
 Certifying quality systems
 Inspecting the quality of export goods
 Import inspection
@@ -3463,4 +3074,3 @@ complying with those responsibilities.
 06. Give two examples each for financial and non-financial incentives.
 (All the pictures appeared in this book have been downloaded from the Internet)
 For free distribution.
-103

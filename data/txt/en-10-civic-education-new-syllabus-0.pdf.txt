@@ -1,5 +1,4 @@
 Index
-1'
 Democratic Governance
 1 - 28
 2' Decentralisation and
@@ -13,8 +12,6 @@ economic relations
 democratic society
 64 - 88
 89 - 104
-ix
-01
 Democratic Governance
 Democracy is accepted globally as a more desirable method of good governance.
 The main reason for this is that democratic government is based on people’s
@@ -22,9 +19,7 @@ participation and it represents public opinion. In this chapter, you will be abl
 study the system of democratic government relevant to the following topics:
 Characteristics of democratic governance
 ² Origin and the expansion of democratic governance
-²
 ² Nature of the state and the government
-²
 Nature of the national state, its origin and expansion
 ² Role of the state
 ² Nature of constitutions and their characteristics
@@ -32,7 +27,6 @@ Nature of the national state, its origin and expansion
 ² Responsibilities of citizen
 ² Responsibilities towards citizen
 ² Requirements for the success of democratic governance
-²
 Importance of democratic governance
 Introduction to democratic governance
 In the long history of civilization, man used to live together with a view of
@@ -43,7 +37,6 @@ Accordingly, various countries have practised different methods of
 governance to rule them from the past. Monarchism (federal), aristocratic system
 and democratic governance can be cited as examples. At present, most countries
 including Sri Lanka are implementing democratic governance.
-1
 For free distribution
 Democracy
 In Sinhala,“praja” means people while “tantra” is the system of governance.
@@ -70,7 +63,6 @@ active part in the government. But urban women, slaves and foreigners were not
 allowed to participate in it. This method of governance in Athens was recognized
 as direct democratic governance. Collective decision making can be cited as direct
 democratic governance.
-2
 For free distribution
 History records about a republican government in the “Vajji” kingdom of
 India in the sixth century B.C. The seven principles of “Aparihani Dhamma” of
@@ -96,7 +88,6 @@ representatives began to develop.
 Types of democratic governance
 When we inquire about democratic governance, two main types of it can be noticed.
 ² Direct democracy
-²
 Indirect democracy (Representative Democracy)
 Direct democracy
 The governance which existed in the Greek city-state (polis) of Athens is a good
@@ -105,7 +96,6 @@ Direct democracy is the system in which people gather in one place, discuss
 and take collective decisions on state administrative functions with the
 consent of the people swiftly and directly.
 - Professor Garner
-3
 For free distribution
 The problems arising out of implementing direct democracy at present,
 ² The large land masses of present states
@@ -140,9 +130,6 @@ will. The representative is elected on the majority will.
 The government is formed by the party or group which elects the majority of
 representatives.
 The laws are passed by the majority decision of the elected representatives.
-²
-²
-4
 For free distribution
 The importance of democracy as a way of living
 Democracy plays a major role in society and as a way of living. A democratic
@@ -169,7 +156,6 @@ Lanka, it is mentioned that;
 In the Republic of Sri Lanka sovereignty is in the people and
 is inalienable. Sovereignty includes the power of government,
 fundamental rights and the franchise.
-5
 For free distribution
 Fig 1.3 - Polling center
 Activity
@@ -184,7 +170,6 @@ The opportunity given to a number of competitive parties to gain political
 power in a country is called competitive party system. It can be noticed that, they are
 in constant competition to acquire power presenting various political and economic
 programmes. Accordingly, the people can select their party on their own.
-6
 For free distribution
 Different types of party systems can be identified in this manner;
 Multi-party
@@ -214,300 +199,11 @@ Good characteristics of a competitive party system
 Activity
 ² Explain the service rendered by the multi-party system in a democratic
 government.
-²
 Name the several political parties active in the following countries.
 Sri Lanka
 India
 Great Britain
-7
 For free distribution-
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 Polling division system
 It is necessary to divide the country into polling divisions as a strategy
 to involve people’s representatives for democratic governance. Based on these
@@ -518,42 +214,30 @@ According to the constitution of the Democratic Socialist Republic of
 Sri Lanka, polling divisions are divided by the Delimitation Commission. For this
 purpose, the land and population are taken as the main criteria.
 The electoral map of Sri Lanka is given below as an example.
-\
 10 - Jaffna
 11 - Vanni
 17 - Anuradhpura
-14 -
 Trincomalee
-16 -
 Puttalam
 18 - Polonnaruwa
 12 - Batticalo
 15 - Kurunegala
 5 - Matale
 4 - Kandy
-2 -
-22 -
 Gampaha
 Kegalla
 Colombo
-1 -
-6 -
 Nuwara
 Eliya
-19 -
 Badulla
 20 -Monaragala
-13 -
 Digamadulla
-3 -
 21 - Ratnapura
 Kaluthara
 7 -Galle
 9 -Hambantota
-8 -
 Matara
 Fig 1.4 - The map of electoral districts in Sri Lanka
-8
 For free distribution Benefits of electing representatives based on the polling
 divisisions
 ² Opportunity for electing representatives to represent public opinion
@@ -577,17 +261,14 @@ fair elections is also an essential factor. The voters must be able to choose a 
 party or a group and vote freely. Candidates too should be able to engage in the
 election process freely.
 Characteristics of a free and fair election
-²
 Holding elections in due course
 ² All the eligible citizens must be assured of their vote/candidacy in a free and
 fair manner
 ² Confirmation of the right to participate in a free and fair election.
 ² Holding elections in line with the election laws
 ² Holding elections in a peaceful environment.
-9
 For free distribution
 Activity
-²
 Three rights of a voter in a democratic country are given below in the
 first column. Mention three duties related to a free and fair election in
 the second column.
@@ -607,8 +288,6 @@ election, the party or parties which get a minority of representatives forms the
 opposition.
 The role of the opposition to make the democratic system of
 administration successful
-²
-²
 Assist the government in their good activities.
 Direct the government in the proper path by way of investigation and
 constructive criticism
@@ -617,77 +296,7 @@ constructive criticism
 Activity
 Explain in brief how the opposition can assist the government to render
 better service to the people.
-10
 For free distribution-
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 Freedom, equality and rights
 In simple terms, the state in which an individual is allowed to fulfill political,
 economic and social needs can be defined as ‘freedom’.
@@ -716,7 +325,6 @@ the whole society through personal development. Social development is establishe
 by performing duties combined with rights. Education is one example of the rights
 you are entitled to. It is your responsibility to dedicate knowledge and skills gained
 through education for social development.
-11
 For free distribution
 Activities
 Mention obligations a citizen should fulfil in column II for the rights in
@@ -748,113 +356,7 @@ executive and the judiciary are constructed
 ² The nature of the relationship between the government and the people
 ² Fundamental rights of the people
 ² Provision to amend the constitution
-12
 For free distribution
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 Benefits of adherence to the constitution in a democratic
 country
 ² Ensures the regularity and the consistency of the administration
@@ -862,7 +364,6 @@ country
 ² Possibility of preventing rulers being arbitrary
 ² Protection of the sovereignty of the judiciary
 ² Protection of fundamental rights
-²
 Fulfillment of necessities and aspirations of the people from government
 institutions
 ² Equal treatment under law for every one
@@ -882,7 +383,6 @@ The role of the free media in a democratic country
 ² Direct the rulers to follow the path of democracy
 ² Enhance the knowledge of the people
 ² Providing the latest information on time
-13
 For free distribution
 Activity
 Prepare a list of ethics for the media in providing day to day information
@@ -906,21 +406,18 @@ individual basis is in brief called equality before law.
 Features that illustrate the supremacy of law
 Punishing the offenders under the existing law
 ² Everybody to respect the law, obedient to the law and not superseding it
-²
 ² Arresting individuals only on the basis of an indictment
 ² Equality before law.
 ² Everybody to get the protection of law in absolute fairness
 Activity
 Mention two provisions vested for the protection of the sovereignty of the
 judiciary in the constitution of Sri Lanka.
-14
 For free distribution Nature of the state and the government
 The State
 While the state is a permanent institution, the government is an institution
 subject to changes from time to time. Present state is considered a national state,
 and there are four basic characteristics evident in such a state. They are land,
 population, government and autonomous power.
-Land
 ² Land area is demarcated by fixed frontiers.
 ² The maritime boundary.
 ² The sky above the land area.
@@ -943,7 +440,6 @@ which the great body of inhabitants render habitual obedience ”
 “ The state is an organization established by the people to live
 happily and honourably ”
 - Aristotle -
-15
 For free distribution
 Nature of the nation state
 The nation state was established in Europe as a political organization after the 15th
@@ -951,8 +447,6 @@ century.
 Main features of a nation state
 Consists of supreme power, land, population and the government
 ² Based on the concept of one state for one nation
-²
-²
 ² Possession of supreme power regarding external and internal matters
 Governed by a professional hierarchy of authorities
 Origin and the expansion of the nation state
@@ -977,7 +471,6 @@ The role of the nation state
 Modern nation states have emerged as big and small landmarks. Likewise,
 some have a large population while others have a small population. Taking the land
 areas and population into consideration, it is possible to imagine the complexity
-16
 For free distribution
 of the social, political and economic problems. Economic inequalities and racial
 differences are some such examples. The nation state is bound to solve these
@@ -986,13 +479,9 @@ Accordingly, given below are examples of the tasks that devolve upon the
 Government.
 Providing welfare services
 Protection of law and peace
-²
 ² Maintaining economic and political stability
-²
 ² Taking steps for poverty alleviation
-²
 Maintenance of public services
-²
 Implementation of development plans
 ² Solving problems of war, rebellion and ethnic disputes
 ² Protecting basic human rights and their development
@@ -1014,7 +503,6 @@ A federal state is a system of government with two tiers of governments.
 Here, both the central government and local government bodies exercise
 the powers of the legislature, executive and the judiciary. (A detailed clarification
 is given in the second chapter.)
-17
 For free distribution
 Basic aspects of a federal state
 • Devolution of power between the central government and the local government
@@ -1041,7 +529,6 @@ Judiciary
 (dispenses justice)
 Activity
 Differentiate between the state and the government.
-18
 For free distribution
 Main components of the government and their functions
 The government consists of the main institutions such as the legislature,
@@ -1072,14 +559,12 @@ In federal states, the problems that crop up between the central and regional
 governments are solved by higher seats of the judiciary.
 The procedures of appointing judges for higher courts are included in the
 constitution.
-19
 For free distribution
 Activity
 Tabulate the roles of the legislature, the executive and the judiciary.
 Forms of government
 In modern states two types of government are to be seen. They are;
 ² Parliamentary government
-²
 Presidential government
 Parliamentary government
 A parliamentary government consists of a parliament with representatives
@@ -1097,15 +582,12 @@ comes down as a tradition.
 The political executive in a parliamentary system of government is the Prime
 Minister and the cabinet.
 Features of a parliamentary system of government
-²
 It consists of two types, i.e. the nominal executive and the real executive.
 (Political executive)
 ² The executive is elected by the legislature.
 ² A direct relationship exists between the executive and the legislature.
-²
 ² The legislature has the power to remove the executive.
 The executive is collectively responsible to the legislature.
-20
 For free distribution Activity
 Establish a student parliament in your school and take steps to conduct
 proceedings. Get the assistance and guidance from your subject teacher.
@@ -1113,7 +595,6 @@ Presidential system of government
 In a presidential system of government, the president is elected by a
 presidential election. Thus, the head of the executive is the President.
 Special features of the presidential system of government
-²
 The President implements executive power.
 ² The President is the leader of the government and the state.
 ² The executive is not directly responsible to the legislature.
@@ -1134,7 +615,6 @@ economical and cultural rights. While enjoying these rights, he has to fulfil du
 to society. They are categorized as,
 ² Legal duties
 ² Moral duties
-21
 For free distribution
 Payment of taxes, obedience to the existing law, safeguarding the constitution,
 protecting law and order are examples for legal duties. Failure to fulfil legal duties
@@ -1169,13 +649,11 @@ follows;
 ² Ensuring transparency in financial control
 ² Providing social security and welfare
 ² Protecting and safeguarding the environment
-22
 For free distribution
 Activity
 ² Mention three rights you enjoy as a student and make a list of
 responsibilities you have to discharge related to the rights.
 ² Tabulate one's rights as a member of the family and one's duties.
-²
 Make a list of duties you have to accomplish for the country as a future
 citizen.
 Factors essential for the success of democratic governance
@@ -1201,7 +679,6 @@ behaviour of citizens. The obedience submission to the law and respecting those
 by both rulers and subjects should be done, without superseding the laws. The
 existence of the supremacy of the law is helpful for the government to maintain its
 affairs unobstructed and to establish public confidence.
-23
 For free distribution
 Independence of the Judiciary
 The judiciary is considered the main tower in
@@ -1240,7 +717,6 @@ society.
 Existence of qualities like freedom, rights and equality depends on the sound
 economic level. To achieve these conditions, social welfare is also undertaken by a
 democratic government.
-24
 For free distribution
 Availability of free and unbiased media
 You will be able to learn the role played by the media under ''the features of
@@ -1261,7 +737,6 @@ democratic governance. A democrat should have the following qualities.
 ² Respect for human rights
 ² Obedience to law
 ² Enjoying rights while fulfilling duties
-²
 Identifying factors that hinder democracy and present constructive criticism.
 Accordingly, the members of institutions like the family, school, higher
 educational institutes and places of employment must appreciate democratic
@@ -1271,7 +746,6 @@ Enjoyment of equal rights
 Democracy is based on basic concepts such as personal freedom, rights, and
 equality. In a democracy, all citizens are entitled to equal rights irrespective of
 differences. No one is discriminated. There are provisions to establish a suitable
-25
 For free distribution
 machinery to build such an environment in a democratic government. The existence
 of a constitution and acting in accordance with it in a democratic country is an
@@ -1305,7 +779,6 @@ people's welfare.
 It is a special feature in democracy, to pay special attention in providing
 facilities. With the development of democracy the state has become a welfare
 institute in the last decades of the 20th century.
-26
 For free distribution
 In some democratic countries, services such as education and health are
 provided free of charge. Sri Lanka is one such example.
@@ -1314,7 +787,6 @@ Most countries at present are multi- racial and multicultural societies. Every
 citizen is a partner of the administration in a democratic country. The following
 aspects have contributed to build a peaceful society
 ² Existence of the supremacy of law
-²
 Independence of the judiciary
 ² Freedom, equality and possession of equal rights
 ² Respect for majority decisions
@@ -1330,7 +802,6 @@ The government's role in the administration of the programmes on education,
 health, housing, transport, social security, poverty alleviation and caring for the
 aged are examples for this.
 Fig 1.7 - Education
-27
 For free distribution
 Activity
 Give instances as examples for citizens of Sri Lanka to acquire the following
@@ -1364,11 +835,9 @@ family)
 3. Respect laws
 4. Taking decisions through
 discussion
-28
 For free distribution
 Decentralisation and Devolution
 of Power
-02
 Introduction
 The ability a state possesses to implement the administrative affairs of that
 state is, described in simple terms as power. While the final authority of power
@@ -1394,10 +863,8 @@ of power, its different facets, decentralization and devolution of power, unitar
 and federal systems of government, and with our past experiences, we can
 understand how power is devolved in countries like the United States of America
 and Switzerland.
-PB
 For free distribution
 For free distribution
-29
 Power
 The ability a state possesses to implement the administrative affairs of that
 state is, defined as power. While the final holder of power is people, that power
@@ -1431,10 +898,8 @@ an economy by a group of authorized persons” has been defined as power with th
 view point of economic science.
 It has been described sociologically as “the ability to exceed persons of the
 society and existing social organizations” as power.
-30
 For free distribution
 For free distribution
-31
 Decentralization of Power
 Decentralization of power means the assignment of some of the powers
 vested in the Central Government, upon regional units of administration or
@@ -1470,10 +935,8 @@ Another aspect of decentralization of power is the assignment to regional
 units the powers that belong to state enterprises or state authorities. In this regard,
 necessary powers are vested in different departments, corporations and authorities
 to run state enterprises. e.g. State Petroleum Corporation, Sri Lanka Ports Authority.
-30
 For free distribution
 For free distribution
-31
 Unitary State
 What happens in the decentralization of power is the assignment of only
 administrative powers of the state to regional administrative units. In other words,
@@ -1492,8 +955,6 @@ Professor Herman J. Finer, the eminent political scientist, points out that,
 becomes a Unitary State.”
 Characteristics of a Unitary State
 ² Exercising the Executive, Legislative and Judicial power by a single central
-²
-²
 government.
 Decentralization of only the above administrative powers to regional
 administrative units with the objective of facilitating the administrative
@@ -1508,18 +969,14 @@ Central Government to local Government Bodies by an Act of Parliament is termed
 as devolution of power. This can be implemented only through the constitution.
 If power is devolved newly or the vested power is revised by any means, the
 existing constitution should be amended.
-32
 For free distribution
 For free distribution
-33
 Reasons for the devolution of power in Modern States
-²
 Need for unity to be built up amidst diversity.
 What this implies is to gather all the groups who speak different languages,
 follow different religions and belong to different ethnic groups under a
 common principle of nationhood to participate in the functions of government
 while respecting the identity of the respective groups.
-²
 The difficulty of administration from a single central position because of the
 size of the state.
 ² Ensure national security.
@@ -1541,10 +998,8 @@ to facilitate administrative functions.
 Normally, Local Governments or Federal States are called states. Sometimes
 some other specific terms are in use to designate a federation.
 eg - The Local Governments functioning in Switzerland are called Cantons.
-32
 For free distribution
 For free distribution
-33
 Characteristics of a Federal State
 ² There is a written constitution.
 ² Demarcation of powers of federal states as well as Central Government clearly
@@ -1556,9 +1011,7 @@ the United States of America.
 Characteristics of a federal state for its effective existence
 ² Affecting as per the existing constitution of the state.
 All ethnic groups to exist with common feeling.
-²
 Providing financial resources to federal states in a fair manner.
-²
 New tendencies of federal states
 Federal states as well as the Central Government are treated equally in a
 federal system. Nevertheless the general tendency for the central government to
@@ -1568,7 +1021,6 @@ situation are as follows;
 ² Although the consent of federal states is obtained to amend the constitution of
 the government, neglecting the consent of federal states in making ordinary
 laws.
-²
 In instances of interpretation of the constitution, it is done to the advantage of
 the Central Government.
 ² The Central Government has become the strongest in the implementation of
@@ -1577,22 +1029,16 @@ states depend on the financial allocations made by the Central Government.
 These are provided subject to various conditions.
 ² As the welfare provided by the government increases, its responsibility is
 assigned to the Central Government.
-²
 Co-ordination is accelerated as a result of modern developments in
 communication and transport services.
-34
 For free distribution
 For free distribution
-35
-²
 Assigning the responsibility of taking economic decisions which affect the
 whole country in face of world economic crises, to the Central Government.
 ² Situation
 the Second World War.
 e.g. Enhancement of power of the President of the United States of America.
 international field after
-the
-in
 For you to understand the difference between the two concepts of
 decentralization and devolution, study the diagram below;
 Decentralization of power
@@ -1613,10 +1059,8 @@ Government
 Bodies
 Regional Units of Administration
 e.g :- Local Government Bodies
-34
 For free distribution
 For free distribution
-35
 Devolution of Power
 Regional Units of Administration
 e.g:- Local Government Bodies
@@ -1654,10 +1098,8 @@ states.
 Activity
 ² Create simple definitions of ‘decentralization’ and ‘devolution’ based on
 the facts you have learnt.
-36
 For free distribution
 For free distribution
-37
 Unitary Government
 You have already studied what the concept of decentralisation of power
 means. We have identified the states which have decentralised power as unitary
@@ -1680,12 +1122,9 @@ feature of a Unitary Government.”
 Supremacy of the Central Government and absence of extra sovereign
 bodies in the Government is the main feature of a Unitary Government.
 -Prof. C.F. Strong -
-36
 For free distribution
 For free distribution
-37
 Accordingly, features of a Unitary Government are stated as follows;
-²
 Parliament, the legislature of the Central Government, is the highest law
 making authority.
 ² Decentralization of power to Local Government bodies to facilitate
@@ -1697,7 +1136,6 @@ Government)
 Government.
 Advantages of a Unitary System of Government
 ² The ability of taking quick decisions easily by the government
-²
 Inconsistencies between bodies which exercise power such as Central
 Government and State Governments are less due to the non-existence of such
 bodies.
@@ -1715,12 +1153,9 @@ times, the way is open for acting together on some aspects''
 Examples of countries where Federal Governments exist :-
 The United States of America, Switzerland, Australia
 - Professor K.C. Wiere -
-38
 For free distribution
 For free distribution
-39
 Salient features of a Federal Government
-²
 Building a common nationality respecting ethnic diversity in a multi ethnic
 community.
 ² Facilitates administration in countries with a large land mass
@@ -1732,14 +1167,12 @@ Unwholesome features of a Federal Government
 under decentralisation.
 ² The tendency of states attempting to separate themselves from the Central
 Government.
-²
 The collapse of administration as a result of inconsistencies in decision
 making between the Central Government and the State Government.
 ² Delay in the constitution - mating process due to the existence of a second
 legislature.
 ² Scarcity of efficient officers resulting in failures in the administration of states.
 Activity
-²
 Prepare a list of differences between the unitary government and the
 federal government.
 History of decentralization and devolution of power in
@@ -1749,10 +1182,8 @@ The concept of decentralization of power is not novel to Sri Lanka. When
 observing the systems of government that prevailed in the distant past of our country
 it is obvious that decentralization of power had taken place in different forms to
 facilitate the functioning of the government.
-38
 For free distribution
 For free distribution
-39
 Examples
 ² Appointment of officials named “Gambara”, “Gamani” by King
 Pandukabaya during the Anuradhapura era to govern villages.
@@ -1787,10 +1218,8 @@ abolishing the Village Councils and Town councils. Later, in 1981, Divisional
 Councils (Pradeshiya Mandala) and Village Councils (Gramodaya Mandala) started
 functioning and Pradeshiya Sabhas were created according to the Pradeshiya Sabha
 Act, No 15 of 1987.
-40
 For free distribution
 For free distribution
-41
 Attempts to devolve power in Sri Lanka
 Opinions on devolution of power had been presented in our country
 nearly a century ago. The proposal to establish a federal state in the upcountry
@@ -1826,11 +1255,8 @@ are given below
 7. North central
 8. Uva
 9. Sabaragamuwa
-40
 For free distribution
 For free distribution
-41
-N
 Northern
 Province
 North Central
@@ -1841,7 +1267,6 @@ Eastern
 Province
 Central
 Province
-Uva
 Province
 Western
 Province
@@ -1854,10 +1279,8 @@ Organizational structure of a Provincial Council
 A Provincial Council is organized into institutions such as Governor, the
 Chief Minister, the Board of Ministers and the members of the Provincial Council.
 The organizational structure can be illustrated by the diagram as shown below;
-42
 For free distribution
 For free distribution
-43
 The Governor
 The Chief Minister
 The Board of Ministers
@@ -1881,15 +1304,12 @@ hand, and shall hold office, in accordance with Article 4 (b), during the
 pleasure of the President.
 Powers and functions of Governor
 ² Summons the Provincial Council, prorogue and dissolves
-²
 ² Appoints the Chief Minister, Board of Ministers, and other executive
 Addresses the Council and issues messages
 officials in the province
 ² Assents the statutes passed by the Provincial Council
-42
 For free distribution
 For free distribution
-43
 ² Performing according to the President's advice in emergencies
 e.g. Failure of administrative machinery in the Provincial Council
 Financial instability
@@ -1922,10 +1342,8 @@ accordance with the law relating to Provincial Council elections''.
 Article 154D (1) of the constitution states the content of the provincial
 legislature. Accordingly, taking the land area and the population of each province,
 the number of members is determined by the law.
-44
 For free distribution
 For free distribution
-45
 The term of office of a Provincial Council lasts for five years. If it is not
 dissolved before the expiration of the said period, with the completion of five years,
 it is considered as dissolved. Members of the Provincial Council are elected only
@@ -1958,11 +1376,8 @@ e.g:-
 programmes and projects
 ² Social services and rehabilitation
 ² Agricultural extension. Rehabilitation and maintenance of minor irrigation
-work
-44
 For free distribution
 For free distribution
-45
 Provincial Councils can pass statutes on these subjects, but significantly, a
 Council cannot exercise any power in respect of any subject in the reserved list and
 it cannot pass any statute in this regard. It has no power to initiate an act.
@@ -1984,8 +1399,6 @@ implementing treaties, war and peace; and foreign jurisdiction are covered
 under this.
 Justice in so far it relates to the judiciary and the structure of courts
 ² Finance in relation to national revenue, monetary policy and external resources
-²
-²
 ² Census and Statistics
 Immigration, Emigration and Citizenship
 List III (Concurrent List)
@@ -1996,10 +1409,8 @@ them are given below:
 Formulating and appraisal of plan implementation strategies at the provincial
 level; progress control; Monitoring the progress of public and state sector
 investment programmes
-46
 For free distribution
 For free distribution
-47
 ² National housing and construction
 The promotion of integrated planning and implementation of economic,
 social and physical development of urban development areas
@@ -2025,10 +1436,8 @@ Pradeshiya Sabha
 Mayor/ Deputy Mayor
 Chairman / Deputy Chairman
 Chairman / Deputy Chairman
-46
 For free distribution
 For free distribution
-47
 Powers and functions of Mayor/Chairman
 ² Acts as the executive officer of Municipal Council, Urban Council, Pradeshiya
 Sabha/Sabhai
@@ -2056,10 +1465,8 @@ federal government
 The United States of America formed with 13 states initially, is a federal
 government with 50 states at present. The original 13 states were located around the
 Eastern coast of the United States of America.
-48
 For free distribution
 For free distribution
-49
 These 13 states were independent administrative units prior to the formation
 of the federal government. But, later they were united as the United States with
 the objective of ensuring national security and achieving economic development.
@@ -2092,21 +1499,14 @@ the execution of power.
 ² Appointment of two representatives to the senate to represent the interests of
 each state.
 ² Existence of a federal judiciary.
-²
 If the acts approved by the congress are inconsistent with the constitution, the
 Supreme Court has the power to reject them.
 ² Requirements of 2/3 of the consent of the Central Government and 3/4 of the
 states for constitutional amendment.
-48
 For free distribution
 For free distribution
-49
 Maine
-Ver.
-N.H
-Mass
 Rose Island
-Conn
 N.Jersey
 Delaware
 Maryland
@@ -2117,78 +1517,31 @@ N.Dakota
 Idaho
 Wyoming
 S.Dakota
-a
-t
-o
-s
-e
-n
-n
-M
-i
 Nevada
-C
 alifornia
-Utah
 Colorado
 Arizona
 New uexico
 Alaska
 Hawaii
-is
-c
-o
 New York
-n
-si
-n
 Minnesota
 Penns
 Nebraska
-Iowa
 Kansas
 Okkahoma
 Texas
-i
-r
-u
-o
-s
-s
-i
-M
 Arkansas
 uisia
-a
-n
-o
-L
 W . V ir gin ia
 g i n i a
-r
-V e
 i n a
 N . C a r o l
 S.Carolina
-Ohio
-ois
 Illin
-a
-n
-a
-i
-d
-n
-I
 K e n t u c k y
 Ten n e s s e e
-a
 sissipi
-m
-a
-b
-Ala
-Mis
 Georgia
 Florida
 Fig 2.2 - The United States of America with 50
@@ -2203,7 +1556,6 @@ given below.
 Powers of the Central Government
 Powers of the states
 Imposition of taxes and collection
-²
 ² Financial affairs
 ² National Security
 ² Foreign affairs and foreign trade
@@ -2219,14 +1571,10 @@ mentioned below.
 ² The complexity of social, political and economic problems.
 ² The struggle for power in the international arena after the Second World War.
 ² The financial strengthening of the Central Government.
-50
 For free distribution
 For free distribution
-51
-W
 Establishment of the Swiss Confederation
 Reasons behind the establishment of a federal state
-²
 The threat to the national security being sandwiched between four countries:
 France, Italy, Germany and Austria.
 ² The difficulty to develop Switzerland economically due to its harsh
@@ -2258,10 +1606,8 @@ been amended occasionally and the new constitution was approved in 1999 for
 the last time. There are 26 provincial governments known as cantons in the federal
 system. It is a significant feature that freedom of a higher level has been awarded
 to them
-50
 For free distribution
 For free distribution
-51
 Structure of the federal system in Switzerland
 ² The legislature is called the Federal Assembly and it consists of the national
 council and the council of states.
@@ -2291,11 +1637,8 @@ power to settle it.
 ² Cantons cannot execute their power and work independently.
 ² The use of direct democratic strategies to inquire public opinion in decision-
 making by the cantons.
-52
 For free distribution
 For free distribution
-PB
-03
 The Multicultural Society
 Introduction
 The present day society is extremely complex. Economic, social,
@@ -2323,7 +1666,6 @@ T.B. Tyler
 Culture is the collective name that can be given to all behaviour patterns
 required socially, by means of symbols or inheritance.
 Charles A. Elwood
-5353
 For free distribution
 Culture means the socially as well as traditionally accepted forms of
 implementation of beliefs, styles of thought, applied arts, life styles,
@@ -2338,8 +1680,6 @@ to culture. Some of them are given below;
 Language
 Knowledge
 ² Religion
-²
-²
 ² Clothes
 ² Food and Drink
 ² Arts
@@ -2358,7 +1698,6 @@ regulations
 ² Politics
 ² Technology
 ² Habitat
-²
 Infrastructure
 In every society an important function or role is performed by culture for the
 existence of that society. Culture continues to change and develops within society,
@@ -2370,8 +1709,6 @@ Activity
 festive occasion you participated in. Note, step by step the cultural features
 evoked in it.
 e.g - The occasion of a wedding or a funeral.
-²
-54
 For free distribution
 Basic features of a multicultural society
 1. Coexistence of different ethnic groups, different religious beliefs, individuals
@@ -2419,18 +1756,15 @@ Write examples of different customs and traditions related to different
 religions and ethnic groups.
 ² Buddhist
 ² Hindu
-²
 Muslim
 ² Christian
 ^for this, make use of the material you studied in Grades 6,7,8 and 9&
-5555
 For free distribution People speaking different languages, practising different religions and
 following different customs co-exist in a multicultural society. Multicultural
 societies can be identified in most countries today. Our country, Sri Lanka, is a
 good example of a multicultural society though not much complex. Countries such
 as, India and the United States of America can be cited as multicultural countries
 with complexity.
-²
 Population of Sri Lanka according to ethnicity
 Ethnic group
 Sinhala
@@ -2449,17 +1783,12 @@ Population
 Percentage
 74'9]
 11'2]
-9'3]
-4'1]
-0'2]
-0'3]
 Table No. 3.1
 Source - Population Census 2012
 Department of Population and Statistics
 Activity
 ² Examine the multicultural features of a country like India or U.S.A and
 prepare an article to be published on a wall paper.
-²
 Population of Sri Lanka according to Religion
 Religion
 Population
@@ -2472,14 +1801,9 @@ Christian
 2"561"299
 1"967"523
 1"552"161
-70]
-12'6
-9'7
-7'6
 Table No. 3.2
 Source - Population Census 2012
 Department of Population and Statistics
-56
 For free distribution Although the composition of the ethnic groups and religions is as above, ethnic
 groups following different religions can be seen.
 e.g (- Sinhala - Buddhist, Catholic/Christian
@@ -2493,34 +1817,25 @@ multicultural society
 Location
 ² Geographical location
 ² Centralized location in the Indian Ocean
-²
-²
 Located close to India
 Located as an East - West trade centre
-5757
 For free distribution
 Migrations
-²
 Arrival of Vijaya and his retinue
 ² Arrival of a princess and her retinue for the coronation of Vijaya
 ² Arrival of Panduwasdeva and retinue
 ² Arrival of Bhadda Kachchana and retinue
 ² Arrival of Arahath Mihindu and retinue
 ² Arrival of Therini Sangamitta and retinue
-²
 Migration that takes place at present for various reasons like tourism,
 employment, education etc.
 Invasion
-²
-²
 The Sena - Guttika invasion
 The invasion by Pandu - Parinda and retinue
 ² The Kalinga Magha invasion
-²
 Invasion by Western European nations
 Arrival of Various nationalities for trade
 ² Arabs
-²
 Indians
 ² Chinese
 ² European
@@ -2535,22 +1850,16 @@ Good Governance can be defined as a concept that emerged consequent to
 the factors that influenced the collapse of social justice as well as the lethargy in
 the economic development of certain countries where there was no lack of either
 economic or human resources.
-58
 For free distribution Given below are some of the reasons as to why economic development has
 become lethargic as a result of the failure of the economic and human resources of
 these countries to be properly managed.
 Inefficiency of governance
 Politicization of public services
 ² Power becoming unnecessarily centralized
-²
-²
 ² Bureaucratic control
-²
 Absence of public participation in deciding on state policy and its
 implementation
-²
 Escalation of bribery and corruption
-²
 State administrators becoming irresponsible.
 ² Negligence of national goals by the private sector
 While emphasizing the necessity of alleviating the above weaknesses faced
@@ -2573,7 +1882,6 @@ accountable to the public
 8' Acting with transparency
 9' Preparation of the background for political socialization
 10' Safeguarding and securing constitutionality
-5959
 For free distribution
 Importance of respecting political, socio-economic and cultural
 identity of each other for good governance
@@ -2586,39 +1894,28 @@ Political
 ² Following any political ideology of one's choice
 ² Respecting political leadership
 ² Acting independently when taking political decisions and conclusions
-²
 Ensure that such decisions are not obstructive to others
 ² Conducting free and fair elections
 Economic
 Involving in a legitimate employment or trade of one's choice
 Organization and implementation of trade unions
-²
-²
 ² Taking steps for the minimization of discrepancies in the distribution of
 income
 ² Development of infrastructural facilities
 Social and Cultural
 ² Adherence to a religion of one's choice
 ² Following customs and manners
-²
 Holding various celebrations
 ² Residing in a region of one's choice
-²
 ² Travelling freely
 ² Respecting cultures of others
 Learning and using different languages
 Acting with respect for political, socio-economic and cultural identity with respect
 to the above is essential for the well-being of a multicultural society.
-60
 For free distribution Implementation of Good Governance in a multicultural society
-²
 confirms mutual trust among ethnic groups
 ² broaden understanding between each other
 ² develops participation of all ethnic groups for administrative purposes
-²
-²
-²
-²
 learns to respect each other
 acts irrespective of religious and cultural diversity
 learns to live as law-abiding citizens
@@ -2639,7 +1936,6 @@ Activity
 ² Write an essay in no less than 250 words on the topic “Let us implement
 multicultural sociality for the well - being of the country ” Display the
 best compositions in the classroom.
-6161
 For free distribution Characteristics a citizen should inculcate for the well-being
 of a Multicultural Society
 ² Understanding and identifying cultures of one another, acting consciously
@@ -2647,12 +1943,8 @@ and respecting each other
 Respecting other cultures
 Acting so as to avoid conflicts
 ² Avoiding insulting other religions
-²
-²
 ² Developing mutuality
 ² Understanding that acting in co-operation facilitates achievement of victory
-²
-²
 ² Respecting and tolerating of other's views
 ² Equality
 Learning and using the language of other ethnic groups
@@ -2662,11 +1954,8 @@ Society
 When the people of a multicultural society act cohesively,
 conflicts are minimized
 ² national unity and co-existence develop
-²
 ² mutual goodwill and trust develop
-²
 ² human freedom and democracy is assured
-²
 feeling of one nation, one country develops
 every citizen is motivated to act with determination, for the development of
 the country as a national duty
@@ -2678,18 +1967,14 @@ united in building a strong united country. It is our responsibility that we com
 ourselves to it.
 Let us consider that it is our duty to ensure that the implementation of the
 great expression in our National Anthem ''As children of a single mother,'' bloom.
-62
 For free distribution Activity
-²
 Inquire about the other ethnic groups living along with you in your
 region and what their religions are,
 ² Discuss with your class teacher and invite a priest or a religious leader
 of another ethnic group for a discussion.
-²
 Why is it important that we learn the main languages used in our
 country? (Tamil language by the Sinhalese and Sinhala language by the
 Tamils) Present 05 points.
-6363
 For free distribution 04
 Economic Systems and Economic
 Relations
@@ -2698,10 +1983,6 @@ investigate basic economic problems and economic activities,
 explore information about various economic systems,
 analyse the present economic systems in relation to development,
 analyse the influence of globalization on Sri Lanka.
-²
-²
-²
-²
 4.1. Basic economic problems and economic activities
 Man is subject to various needs and wants when living in a social system.
 When attempting to satisfy these wants, man has to face various problems. The
@@ -2725,7 +2006,6 @@ limited. Although we need to build a large house, problems arise when we attempt
 to build it based on requirements such as the land available, finances etc. Therefore,
 if this unlimited necessity is to be met, with the resources available, it becomes
 necessary to function in the context of a systematic and scientific methodology.
-64
 for free distribution Activity 4.1
 Display on a table human needs and the wants relevant to them.
 Basic Economic Problems
@@ -2762,7 +2042,6 @@ produced the next economic problem to be faced is regarding how they are to be
 produced. In this regard two sub – problems need to be faced. They are,
 i What is the technique to be applied?
 ii By which section is the production to be made?
-65
 for free distribution
 i. What is the technique to be applied?
 There are two main techniques employed in production.
@@ -2779,7 +2058,6 @@ Deciding as to which sector does the production. There are three sectors
 where production takes place. As to how production is carried out is of secondary
 importance.
 State sector
-²
 Mineral oil production
 ² State sector education
 ² Railway service
@@ -2803,7 +2081,6 @@ iii. For whom is it produced?
 Deciding about for whom goods and services are produced is meant by this.
 Society is made up of various groups, in terms of capability to purchase. In this
 instance it is important as to which of these groups is targeted when producing.
-66
 for free distribution
 That is, deciding on the consumers among whom the goods and services are
 to be distributed. Luxury goods which derive a high profit are to be produced for
@@ -2811,7 +2088,6 @@ people receiving high incomes? Or otherwise, are essential goods to be produced
 for those receiving low incomes? Decision taken in this regard can be noted as
 examples.
 Activity 4.1
-²
 Imagine that you own a block of bare land bordering a trunk road.
 Should you intend to use this land for economic activities? Describe
 your decision in the light of the economic question above.
@@ -2825,11 +2101,9 @@ e.g. The features above can be seen in food, clothes, medicine etc.
 e.g. Sunlight; water, air.
 There are instances where non – economic goods, goods provided free
 to us, at times become economic goods.
-e.g.
 i. Although we get water free of charge, we have to pay for bottled water.
 ii. We have to pay for sunlight converted to electricity
 iii. A price has to be paid for nitrogen stored and used in vehicles.
-67
 for free distribution
 1. Land
 The earth and all resources related to the
@@ -2864,7 +2138,6 @@ for the expand production process is called
 entrepreneurship. Payment made for this is called
 profits or profit.
 Fig 4.5
-68
 for free distribution
 Activity 4.1
 Name five goods utilized for human needs. Show, in the form of a table the
@@ -2872,10 +2145,8 @@ production factors used for each such commodity.
 Processes taking place in an economy
 Various processes take place in an economy. These processes can be
 divided into three main parts
-²
 Production
 Distribution
-²
 ² Consumption
 1. Production
 Production is the process of the alteration of resources so as to facilitate
@@ -2886,14 +2157,11 @@ Tea, rubber, coconut, paddy and other types
 of grain, vegetables, fruits, meat, fish,
 eggs, etc.
 Fig 4.6
-²
 Industrial Products
 Machinery, motor vehicles, garments,
 stationery, instant food, etc.
 Fig 4.7
-69
 for free distribution
-²
 Services
 Education, health, postal,
 telecommunication,
@@ -2915,7 +2183,6 @@ particular good are called
 intermediate goods.
 feature
 Special
-of
 intermediate goods is that
 they cannot be reused.
 e.g; Fertilizer used in
@@ -2932,7 +2199,6 @@ export goods. Capital
 goods can be used
 again and again in the
 production process.
-e.g;
 buildings, vehicles etc.
 Machinery,
 2.Distribution
@@ -2945,7 +2211,6 @@ etc., were received in exchange. At present, goods came to be exchanged, through
 the market with money as the medium. This process is called trade. Trade takes
 place not only in the interior of a country, but also internationally. Trade can be
 divided into two main types.
-70
 for free distribution
 ² Wholesale Trade
 Wholesale trade is the process by
@@ -2974,7 +2239,6 @@ Complete the table below making use of goods and services you know.
 Consumer goods
 Intermediate goods
 Capital goods
-71
 for free distribution
 Exploring information on various economic systems
 An economic system shows how various organizations deal with the solution
@@ -2990,7 +2254,6 @@ sector handled with the intention of profit making is called a capitalist econom
 system. Given below are a few basic qualities of such an economy;
 ² Existence of a competitive market
 ² Ownership of production factors owned by the private sector
-²
 ² Unequal distribution of profits
 Production being profit oriented
 In capitalist economic systems an effort is made to attract customers to one's
@@ -3006,12 +2269,10 @@ Economic organizations in which a central planning board is functioning to
 solve basic economic problems and the property is under common ownership are
 called a Socialist Economic System. Socialist Economic Systems are also called
 planned economic systems or state enterprise economic systems.
-72
 for free distribution
 Given below are a few basic qualities of such an economy;
 ² Property is state – owned
 ² The economy is handled by a central planning board
-²
 In the solution of basic economic problems, the focus is on the common good
 North Korea and Cuba can be cited as examples of countries where socialist
 economic systems exist. It is evident that the existing socialist economic systems
@@ -3021,14 +2282,11 @@ Mixed economic systems contain the features of both capitalist and socialist
 economic systems. Such economic systems are seen in most of the countries in
 the world. Sri Lanka is also considered a country with a mixed economic system.
 Following are some features of a mixed economic system'
-²
 Ownership of factors of production devolved on both state and private
 sectors.
 ² Both the state and private sectors take action in the solution of basic economic
 problems.
 ² Although the price of commodities depends on the market, there is state
-²
-²
 intervention.
 Existence of both private and state sector enterprise'
 Intervention of the state in the setting up of welfare activities for the common
@@ -3038,13 +2296,11 @@ Activity
 ² Discuss the characteristics of a mixed economy prevailing in the economy
 of Sri Lanka.
 ² Through this, explain the advantages and disadvantages that the public has
-got.
 The concept of Market Economy
 The Market Economy which operates at present is also called Neo
 – Liberal Economic system. Under this, while the state does not implement what
 the private sector can implement, there is scope for the market to function under
 minimum state intervention.
-73
 for free distribution
 Countries like Russia, Poland, China, where a Socialist Economic system
 prevailed are gradually implementing the concept of Market Economy at present.
@@ -3075,7 +2331,6 @@ iii. Economies that are in the process of moving towards a transformation
 economy or market economy e.g; Countries like Armenia, Azerbaijan, Belarus,
 Estonia, Georgia, Kazakhstan, Latvia, Lithuania, Russia, Ukraine, Uzbekistan
 that belonged to USSR (The Union of Soviet Socialist Republics).
-74
 for free distribution
 Basic characteristics of transformational economies can be identified as
 follows;
@@ -3091,7 +2346,6 @@ Privatization of
 loss bearing state
 enterprises
 Encouragement
-of
 Private enterprises
 Activity
 ² Are the basic characteristics of a market economy evident in Sri Lanka?
@@ -3104,7 +2358,6 @@ economy existed in various forms. These economic policies changed from time to
 time based on the government that controlled the state. After winning freedom from
 British rule in 1948, it is evident that economic systems with socialist, capitalist and
 mixed economic features, had existed.
-75
 for free distribution
 Current economic system of Sri Lanka and Development
 The economic system that prevails in Sri Lanka is based on the open economic
@@ -3118,8 +2371,6 @@ encouraged through various strategies introduced to the economy.
 ² Encouragement of foreign investment
 ² Privatization of state - property
 ² Fluctuation of exchange rates
-²
-²
 Introduction of an import export economy
 Opening up of state institutions to the competitive market
 ² Broadening infrastructural facilities
@@ -3137,11 +2388,9 @@ entrepreneurs
 Allowing the value of the currency to float
 in the market
 Characteristics
-of a
 Market Economy
 System that prevails in
 Sri Lanka
-76
 for free distribution
 Introduction to Development
 In an economic system, development or growth of various forms can be
@@ -3169,7 +2418,6 @@ with the passage towards development.
 It is difficult to give a definite definition to development. This concept
 implies complete personal and social development. In this regard there are several
 aspects that should be taken into consideration.
-77
 for free distribution
 Sustainable
 Development
@@ -3199,12 +2447,10 @@ Respecting other cultures
 Matters that need to be
 taken into consideration in
 sustainable development.
-78
 for free distribution Activity
 ² List the points that should be taken into consideration in sustainable
 development.
 Describe the importance of sustainable development.
-²
 At the millennium assembly of the United Nations Organization in 2000 on
 development, eight Millennium Development Targets were approved.
 They are,
@@ -3229,7 +2475,6 @@ resources.
 When inquiring into modern development trends in Sri Lanka, it is possible
 to divide the changes that took place after independence into several main stages.
 The table below shows the special features evident in each period;
-79
 for free distribution
 Stage
 Special features
@@ -3242,39 +2487,26 @@ Provision of consumer subsidies
 Provision of opportunities to private entrepreneurs
 Plantation industry getting priority
 Encouragement of a locally dependent agricultural section
-²
 Existence of an economic system based on import – export
 ² Both the state and private sectors joining in economic activities
-²
-²
 ² Nationalization of private enterprises (After 1956)
-²
 ² Assumption of a semi – open appearance
 ² Relaxation of exchange regulations
-²
 ² Reduction of food subsidies
 ² Becoming a closed economy
 ² Commencement of import oriented industries
-²
-²
 Introduction of restrictions on export
 Imposition of new regulations regarding distribution of essential
 food items
-²
 Implementation of a ration system
-²
 Limitation of private land ownership
-²
 Encouragement of a local supply agricultural sector
 ² Making exchange control rules more static and regular
 ² Development depending mostly on local resources
-²
 ² Relaxation of export – import limits
-²
 Provision of tax relief for foreign investors
 ² Commencement of export – based industries
 ² Restriction of food subsidies
-²
 Preferential treatment for the industrial sector over the agriculture
 sector
 Setting up of free trade zones
@@ -3287,17 +2519,8 @@ Provision of tax relief for private entrepreneurs
 Privatization of state enterprises
 Involvement of the private sector in the provision of infrastructural
 facilities
-²
-²
-²
-²
-²
-²
-²
-²
 ² Restructuring of state institutions
 ² Obtaining international advice on policy making
-80
 for free distribution
 After 2004 the implementation of an open economic policy is prominent.
 Nevertheless focus of attention on the agricultural sector and investments were
@@ -3305,15 +2528,6 @@ evident. Given below are some special features prominent during this stage.
 Colombo Port
 Expressway
 Fig 4.11
-²
-²
-²
-²
-²
-²
-²
-²
-²
 Stop privatization of state institutions.
 Repossession of privatized state institution by the state.
 e.g - Sri Lankan Air ways, Sevanagala Sugar Company, Paper Corporation,
@@ -3334,7 +2548,6 @@ Implementation of new changes in the field of education. e.g: Introduction
 of technical subjects to Advanced Level subject stream, establishment of
 professional and technical universities, the thousand school programme,
 establishment of ‘technical laboratories’.
-81
 for free distribution
 Some of the ongoing development activities in Sri Lanka have the following
 advantages.
@@ -3342,7 +2555,6 @@ Advantages
 ² Rise in employment opportunities
 ² Rise in foreign exchange earnings
 ² Rise in the standard of living of the people
-²
 Speeding up of regional development
 ² Maintenance of high level of economic
 development
@@ -3357,18 +2569,8 @@ Activity
 2' Explain with examples the benefits that Sri Lanka achieves through
 these projects.
 Gradual decrease in the number of families receiving Samurdhi in Sri Lanka
-Year
 Number
-of
 families
-2005
-2006
-2007
-2008
-2009
-2010
-2011
-2012
 1960664
 1916594
 1844660
@@ -3386,35 +2588,9 @@ Percentage of admission for Primary
 Education
 Position of Sri Lanka according to
 Human Development Index
-2009
-10'0
-18'4
-91'3
-102
-2010
-8'5
-17'6
-91'4
-91
-2011
-8'5
-17'6
-91'9
-97
-2012
-9'4
-17'4
-92'2
-92
-102
-91
-97
-92
-82
 for free distribution Activity
 ² Using The Central Bank report, prepare rates important to Sri Lanka
 apart from the indices above.
-²
 Based on these indices, write a short report about the development of Sri
 Lanka.
 The influence of technological development and globalization
@@ -3433,7 +2609,6 @@ in countries of the world, the whole world has drawn closer to each other. Thus
 we can know of any event that occurs anywhere in the world in a moment. The
 world drawing closer in this manner with technology is generally known as
 globalization.
-83
 for free distribution
 The mutual relationship taking place within the economic, political and
 cultural processes is called globalization. The world economy becoming a single
@@ -3467,7 +2642,6 @@ such as the World Bank, International Monetary Fund, United Nations Organization
 Asian Development Bank and World Trade Organization have been set up to
 promote this effort. However the effort made through these institutions have directly
 or indirectly influenced other countries.
-84
 for free distribution
 Characteristics observed in the world Economy consequent to globalization
 Rise of Multinational
@@ -3533,10 +2707,8 @@ Objectives
 ² Greater systematization of
 financial transaction.
 ² Barrier trade Expansion
-²
 Free trade
 ² Broadening of Regional trade
-85
 for free distribution Bay of Bengal Initiative
 for Multi-Sectoral
 Technical and
@@ -3554,9 +2726,6 @@ Governmental and non
 governmental organizations.
 Technological exchange.
 Ensure regional co-operation.
-²
-²
-²
 Apart from this, the emergence of world economic groups has also occurred
 resulting from globalization. e.g - Birth of organizations like G7, G77, G24, G15.
 The primary objective of setting up these international economic organizations was
@@ -3572,7 +2741,6 @@ after 1977 the influence of globalization has become more and more pronounced.
 The reason for this is the exposure of production and trade to the world market.
 Given below are several positive and negative influences Sri Lanka has had
 to face on account of globalization.
-86
 for free distribution
 Positive Influences
 1' Influx of foreign investments and modern technology
@@ -3602,7 +2770,6 @@ foreign countries
 5' Escalation of the influence brought on by developed countries
 6' Local culture being subject to various questionable influences
 7' Proliferation of unsuitable economic and consumer patterns in the country
-87
 for free distribution 8' Need to depend on foreign loans and aid
 9' Need to face world economic differences directly.
 10' Problems regarding public welfare because of the state sector is distancing
@@ -3624,7 +2791,6 @@ minimise the negative influence of globalization?
 purpose.
 4' Prepare a letter for a wall newspaper on the topic ''The influence of
 globalization on the wellbeing of a multicultural society."
-88
 for free distribution 05
 Conflict Resolution in a
 Democratic Society
@@ -3649,7 +2815,6 @@ between families, in the society and within institutions. As it is detrimental t
 individual and society, a solution should be sought at the beginning. Since the
 conflict occurs as a result of the mindset of the individual, the elimination or the
 minimisation of a conflict can bring about mental peace.
-89
 For free distribution Directions to create mental peace
 ² Turn to religious activities
 ² Engage in psychological exercises
@@ -3658,11 +2823,8 @@ For free distribution Directions to create mental peace
 Basic reasons for conflicts
 The triangular struggle conflicts model of Joban Galtun is useful to study
 about conflicts.
-B
 Context
 Attitudes
-C
-A
 Behaviour
 The context here is the background to the conflict. Conflicts occur with the
 connections based on the desires of the relevant parties. Hence the context explains
@@ -3674,7 +2836,6 @@ disappointment and hatred do occur in minds. The final result is the conflict du
 aggressive attitudes.
 Behaviour related to conflicts is multifaced. It can be helpful or forceful.
 Forceful behaviour can be aggressive or destructive.
-90
 For free distribution
 Parties involved in conflicts
 Conflicts
@@ -3695,13 +2856,10 @@ Activity
 ² What are the causes of that conflict?
 ² What are the ill - effects you got out of that?
 ² Discuss the action you would have taken to avoid it.
-91
 For free distribution Types of conflicts
 Conflicts can be identified by their nature when studying about the types of conflicts.
 According to the following diagram they can be studied broadly under two main
 areas, such as,
-²
-²
 Internal conflicts
 International conflicts
 Individual’s
@@ -3730,7 +2888,6 @@ Among several
 countries
 Conflicts that occur on political opinion,
 economic, social reasons and power struggle
-92
 For free distribution Internal Conflicts
 Personal and social conflicts among the people of a country can be categorised
 as internal conflicts. These can be categorised as universal and intricate conflicts.
@@ -3759,7 +2916,6 @@ wars were extremely gruesome. Millions of human lives were destroyed and the
 loss of property and environmental damage was terrible.
 Fig 5.1 - -- First world war
 Fig 5.2 - -- Second world war
-93
 For free distribution
 Though there is no wars of global level, there
 are many wars between several countries. The
@@ -3780,7 +2936,6 @@ Roots of Conflicts
 Communal feeling, political ideologies, religious ideologies, socio - economic
 problems can be cited as main roots of conflicts. It is represented by the diagram
 below.
-94
 For free distribution Ethnicity
 Politics
 Roots of conflicts
@@ -3805,10 +2960,8 @@ Social economic
 status
 • Sectoral conflicts (Irish war)
 • Between religions (War of the cross)
-95
 For free distribution
 Activity
-²
 Select one root from the above chart and explain it using an example
 from an ongoing war.
 ² Prepare a poster depicting the terror of war and necessity of peace.
@@ -3836,27 +2989,19 @@ situations.
 Aspects of discussion
 Coming to a settlement by way of discussions
 Instant solutions
-²
 ² Personal or confidential environment
-²
 ² Minimum cost
-²
-²
 "Win - win" for both parties
 Informal structure
-96
 For free distribution
 Opportunities where discussion can be utilised
 ² Personal disputes
 ² Family disputes
 ² Property disputes
-²
-²
 ² Disputes within and among countries
 Inter - institution disputes
 Institutional disputes
 Activity
-²
 Select an occasional disputable situation in your classroom / school and
 present how you would make use of the discussion method to solve it
 using a role play.
@@ -3877,11 +3022,9 @@ Aspects of bargaining
 ² Related to service conditions and wages
 ² Bargaining commences from demands
 ² Bargaining ends in an agreement
-97
 For free distribution
 Activity
 ² Explain the special features of bargaining.
-²
 Explain the advantages of settling disputes of employer - employee by
 way of bargaining.
 Mediation
@@ -3893,7 +3036,6 @@ Facts to be considered when selecting a mediator
 ² An unbiased individual accepted by both parties
 ² Who has a thorough knowledge of the conflict
 ² A person who does not force his own decisions and solutions on the parties
-²
 ² Who directs parties towards a solution acceptable to both parties
 ² Meets both parties separately in instances where they cannot meet directly
 Who does not influence either party
@@ -3903,17 +3045,12 @@ Qualities of a mediator
 Dedication
 ² A good listener
 ² Fidelity
-²
 ² Honesty
 ² Unbiased nature
 ² Moderation
 ² Observation and Creativity
-98
 For free distribution
 Opportunities to use mediation
-²
-²
-²
 Family disputes (e.g. Domestic violence)
 Consumer and trade disputes (e.g. Regarding goods produced below the
 standard)
@@ -3925,7 +3062,6 @@ tenants)
 ² Conflicts among countries
 Activity
 Mention the particular features of the mediation process.
-²
 ² Explain the uses of mediation in resolving problems.
 ² Select a conflict situation in your classroom/ school and be a mediator for it.
 Explain what action you have taken.
@@ -3937,7 +3073,6 @@ both parties are in neither win nor lose positions. The conciliator may take par
 settle the dispute on a request by one of the parties or someone else.
 Role of the conciliator
 Induce the opposite parties to a discussion
-²
 ² Take the initiative to explain the underlying reasons for the conflict
 ² Raise a direct or indirect discussion regarding the reasons of the conflict
 ² Try to reduce the gap and the differences between the opposite parties
@@ -3946,7 +3081,6 @@ The Conciliatory Council has been established as a legal entity by the
 Ministry of Justice to conciliate. It directs settlement of conflicting situations, minor
 offences, family disputes before taking them to courts. Many such conciliatory
 councils have been established at regional level.
-99
 For free distribution
 Opportunities for using conciliation
 ² Settlement of family disputes
@@ -3956,7 +3090,6 @@ Opportunities for using conciliation
 ² Settlement of minor offences (insult, warning and damage to property)
 Activity
 Participate in a session of a conciliatory board in your area.
-²
 ² Prepare a report after studying the process thoroughly.
 Arbitration
 Arbitration is the process which is useful in settling a dispute by a mediator
@@ -3968,12 +3101,10 @@ Qualities of an arbitrator
 ² Gives good hearing
 ² Unbiased stand
 ² Balanced presence
-²
 Takes correct decisions
 ² Creativity and observation
 ² Ability to explain clearly and meaningfully
 ² Equity
-100
 For free distribution Chances of using arbitration
 ² Settling industrial disputes
 ² Disputes of wages and rights
@@ -3981,7 +3112,6 @@ For free distribution Chances of using arbitration
 ² Disciplinary inquiries
 ² Disputes over finance
 Activity
-²
 Act out a role play to portray the settlement of disputes by way of
 arbitration.
 ² Discuss the advantages and disadvantages of solving disputes through
@@ -4007,10 +3137,8 @@ Fig 5.6 - -Aluthkade Courts
 Complex
 ² Ability to appeal
 ² The loser should pay the costs of litigation
-101
 For free distribution
 Activity
-²
 Discuss the advantages and the disadvantages of the legal process in
 conflict resolution.
 ² Participate in a court of law to observe the process of solving disputes in
@@ -4035,7 +3163,6 @@ Qualities a citizen should possess in settling disputes
 There are a lot of qualities to be developed personally and socially to
 overcome the challenges aimed at a person, facing disputes is one such challenge.
 The following qualities given in the chart should be developed.
-102
 For free distribution Self awareness
 Patience
 Kindness and
@@ -4071,7 +3198,6 @@ Activity
 ² Recollect the best qualities within you
 ² Be happy about them
 ² Draw a creative picture about the qualities within you and exhibit it
-103
 For free distribution ² Advantages of peaceful resolution of conflicts
 Preventing loss of life
 Preventing loss of resources and property
@@ -4093,5 +3219,4 @@ Activity
 within you.
 ² Suggest things one could do to prevent disturbance to the others in the
 family, school, and society.
-104
 For free distribution

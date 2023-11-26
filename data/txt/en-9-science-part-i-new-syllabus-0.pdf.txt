@@ -1,123 +1,46 @@
 Contents
 1. Applications of Micro-organisms
-1.1
-1.2
-1.3
 Micro-organisms
 Environments and substrates of micro-organisms
 Effects of micro-organisms
 2. Eye and Ear
-2.1
-2.2
-2.3
-2.4
-2.5
 Structure and function of the human eye
 Defects of vision
 Eye diseases
 Structure and function of the human ear
 Defects of ear
 3. Nature and Properties of Matter
-3.1
-3.2
-3.3
 Elements
 Compounds
 Mixtures
 4. Basic Concepts Associated with Force
-4.1
-4.2
-4.3
-4.4
 Force
 Magnitude of force
 Direction of force and point of application
 Graphical representation of force
 5. Pressure Exerted by Solid
-5.1
-5.2
-5.3
-5.4
 Pressure
 Factors affecting the pressure
 Units of pressure
 Changing the factors affecting pressure as needed
-Page
-01
-01
-03
-04
-16
-16
-22
-29
-31
-33
-38
-39
-44
-46
-52
-52
-53
-54
-56
-60
-60
-61
-66
-67
-xi
 6. The Human Circulatory System
-6.1
-6.2
-6.3
-6.4
 Structure of the human heart
 Arteries, veins and capillaries
 Components of blood and their functions
 Blood transfusion
 7. Plant Growth Substances
-7.1
-7.2
 Introduction to plant growth substances
 Uses of artificial growth substances
 8. Support and Movements of Organisms
-8.1
-8.2
-8.3
 Support and movements of animals
 Bones, muscles and joints
 Support and movements of plants
 9. The Evolutionary Process
-9.1
-9.2
-9.3
-9.4
 Origin of the Earth
 Origin of life on the Earth
 Evolution
 Importance of evolution in bio-diversity
-72
-72
-73
-75
-76
-83
-83
-86
-89
-89
-90
-92
-98
-98
-99
-102
-107
 Cover Page :- Human heart and a magnified DNA helix.
-xii
-1
 Applications of
 Micro-organisms
 1.1 Micro-organisms
@@ -138,12 +61,10 @@ and modes of nutrition.
 Unicellular and some of
 micro-organism category.
 the multicellular organisms can be seen
-in
 These micro-organisms can be categorized into groups as bacteria, fungi, algae and
 protozoa. Viruses which are a group in between the living and non-living are also
 studied under micro-organisms.
 Science | Applications of Micro-organisms
-1
 Algae
 Chlamydomonas
 Spirogyra
@@ -187,7 +108,6 @@ canal and urinary tract are some specific substrates that micro-organisms grow.
 Microbes can survive even under extreme environmental conditions. Hot water
 springs, salt marshes, liquids such as petrol and diesel are some such environments.
 Science | Applications of Micro-organisms
-3
 1.3 Effects of micro-organisms
 Micro-organisms have been used in different industries by human from the past.
 Micro-organisms are beneficial for the environmental equilibrium. But, they can
@@ -227,7 +147,6 @@ Figure 1.2 - Nodules of legumes
 Azotobacter, a free living Nitrogen fixing bacteria, is directly added to the cultivation
 lands. They are known as bio fertilizers. Bio fertilizers are the substances which
 make the soil rich with nutrients by using micro-organisms.
-4
 Science | Applications of Micro-organisms
 ² Producing compost
 Compost is prepared by rapid decomposition of
@@ -260,7 +179,6 @@ used without medical advice.
 Penicillin, Amoxicillin, Tetracycline and Erythromycin are used against bacterial
 infections while Griseofulvin is used against fungal infections.
 Science | Applications of Micro-organisms
-5
 For extra knowledge
 ² The antibiotic Penicillin was discovered by the Scottish
 scientist Alexander Fleming.
@@ -290,7 +208,6 @@ Applications of micro-organisms in industries
 Various strains of microbes are used for research and economic benefits. Using
 micro-organisms in industrial activities for economic benefits is known as
 Industrial Microbiology.
-6
 Science | Applications of Micro-organisms
 Micro-organisms are commonly used in following large scale and small scale
 industries.
@@ -335,7 +252,6 @@ grade ores, by the use of microbes, is known as bio-leaching. Uranium and Copper
 are such two metals that are extracted by bio-leaching.
 Figure 1.5 - Producing biogas
 Science | Applications of Micro-organisms
-7
 ² Milk based products
 Let us do activity 1.1 to demonstrate the production of yoghurt.
 Activity 1.1
@@ -354,9 +270,7 @@ Step - I
 Step - II
 Step - III
 88 - 95 0C
-Milk
 Cream
-Milk
 Gelatin
 Sugar
 Cooling
@@ -367,11 +281,9 @@ Heat for 15-30 min
 Step - IV
 60 0C
 Extract
-Milk
 Incubating for 6-7 hours
 Refrigeration under 4 0C
 Figure 1.6
-8
 Science | Applications of Micro-organisms
 When boiling, unfavourable bacteria in milk get
 destroyed. Lactobacillus and Streptococcus are
@@ -404,10 +316,8 @@ micro-organisms decomposes the hydrocarbons in oil.
 ² Heavy metals such as Chromium (Cr), Lead (Pb) and Mercury (Hg) are released
 to the environment from different industries. This polluted water is sent through
 a tower which contains bacteria to remove these toxic heavy metals from water.
-²
 In producing bio-degradable plastics (plastics that are decomposed by bacteria)
 Science | Applications of Micro-organisms
-9
 We have discussed the favourable impacts of micro-organisms. Based on the
 following features, micro-organisms are used in economically important large-scale
 productions.
@@ -441,7 +351,6 @@ Host is an organism, who provides its body inside or outside as the substrate to
 growth of the pathogen.
 e.g. Viruses act as the pathogen for Dengue disease, while mosquitoes are the
 vectors. Symptoms appear on man, who is the host.
-10
 Science | Applications of Micro-organisms
 ² Diseases caused by micro-organisms to human
 Microbial infections spread by air, water, food, contact, vectors etc. Pathogenic
@@ -451,8 +360,6 @@ Table 1.2 - Information of diseases caused by micro-organisms to human
 Pathogen
 Disease
 Method of spread
-Cold
-Air
 Viruses
 Dengue
 Mosquito vectors
@@ -462,13 +369,11 @@ Through respiratory
 system
 Through the skin by
 mosquito bites
-AIDS
 Blood and other fluids of
 an infected person
 Through sexual contacts
 or blood transfusion
 Tuberculosis
-Air
 Through respiratory
 system
 Typhoid fever
@@ -507,7 +412,6 @@ infects the skin, mouth and nasal path. Skin ulcers,
 fever, reducing red blood cells and enlarging liver are
 symptoms of leishmaniasis.
 Science | Applications of Micro-organisms
-11
 ² Diseases caused by micro-organisms to plants
 Some of the diseases caused by micro-organisms to plants are given below.
 Powdery mildew disease
@@ -546,7 +450,6 @@ nature of the food is changed. The change of physical and chemical nature of foo
 makes the food unfit for consumption. This process is known as food spoilage.
 (You have learnt about food spoilage such as fermentation of carbohydrates,
 putrefaction of proteins and rancidity of lipids in grade 8).
-12
 Science | Applications of Micro-organisms
 Summary
 ² Micro-organisms are unicellular or multicellular organisms which cannot be
@@ -600,20 +503,13 @@ micro-organisms is known as,
 1. Antibiotics are any chemical substance that is used to destroy or
 deactivate micro-organisms.
 2. The vaccine given for tetanus contains weakened bacterial toxins.
-( )
-( )
-14
 Science | Applications of Micro-organisms
 3. Viruses are pathogens that display both living and non-living
 characteristics.
 Most microbes in the environment are unfavourable to living
 beings.
-4.
 5. Rhizobium bacteria found in the root nodules of legume plants fix
 atmospheric nitrogen.
-( )
-( )
-( )
 03) Answer the following questions.
 1. Name three industries based on microbial activity.
 2. Explain two instances where micro-oraganisms are used in the medical field.
@@ -642,7 +538,6 @@ Antitoxins
 Bio-degradation
 Pathogen
 Vector
-Host
 - ~sn[Q
 - ~sq°›¯À
 - RÌ¨£øh
@@ -683,7 +578,6 @@ Host
 - ÷|õ´U PõÂ
 - Â¸¢x ÁÇ[Q
 Science | Applications of Micro-organisms
-15
 The table 2.1 shows the information about the main parts of the eye.
 Table 2.1 - Information about the major parts of the human eye
 Structural Part
@@ -704,11 +598,9 @@ this layer.
 Aqueous humour
 • A transparent watery liquid.
 • Fills the space between the lens and cornea.
-Lens
 • Transparent biconvex lens that has the ability to change its
 curvature
 • Focuses the images on retina.
-Iris
 Pupil
 Ciliary muscle
 Vitreous humour
@@ -731,7 +623,6 @@ located.
 • The nerve that connects the eye and the brain.
 • Convey the visual stimulus from the retina to the brain for
 the interpretation of the image.
-18
 Science | Eye and Ear
 Let us see how the eye perceives visionary senses.
 Let us inquire the way that our eye functions to give us sight. To see an object clearly,
@@ -744,7 +635,6 @@ through convex and concave lenses.
 Activity 2.2
 You will need :- A convex lens, a concave lens, a parallel beam of light made
 by using a torch or by reflecting the sunlight using a mirror, a
-comb
 Method :-
 ² Let the parallel beam of light fall on the convex lens and observe the refracted
 rays.
@@ -787,7 +677,6 @@ away? The lens of the eye has the ability to increase or decrease its curvature 
 required size.
 Let us do the activity 2.4 to study about the image formation of a distant object and
 nearby object without changing the image distance.
-20
 Science | Eye and Ear
 Activity 2.4
 You will need :- A convex lens with a less curvature, another convex lens with
@@ -844,7 +733,6 @@ Two eye defects can be identified in vision, when the eye ball becomes short or 
 and when eye is unable to adjust the focal length of its lens to the desired level.
 ² Long sight (hypermetropia)
 ² Short sight (myopia)
-22
 Science | Eye and Ear
 Long sight (hypermetropia)
 A person having this defect is able to see far objects clearly, but close objects
@@ -883,9 +771,7 @@ screen.
 ² Get a clear image of a
 somewhat far object on
 the screen.
-the
 ² Light the candle in front
-of
 lens without
 changing the distance
 between the lens and
@@ -902,12 +788,8 @@ Figure 2.14 a
 Figure 2.14 b
 Figure 2.14 c
 Figure 2.14 d
-d
-d
-d
 From the activity 2.5 you can understand that, when nearby objects cannot be seen
 clearly, convex lenses can be used to make the image clear.
-24
 Science | Eye and Ear
 Short sight (myopia)
 A person sees nearby objects clearly while distant objects appear blurred. This
@@ -942,23 +824,19 @@ of the convex lens and
 get a clear image of it
 on the screen.
 Figure 2.18 a
-d
 ² When the candle is kept far away without changing the distance between
 the lens and the screen (distance “d”), we can get a blurred image of a
 distant object on the screen.
 Figure 2.18 b
-d
 ² Place a concave lens in front of the convex lens and move it till a clear
 image of the candle is formed on the screen.
 Figure 2.18 c
-d
 From the activity 2.6 it can be understood that when distant objects cannot be seen
 clearly, concave lenses can be used to get a clear image of a distant object.
 Binocular vision and stereoscopic vision
 The eyes of human, monkey, 'Rilava'/'Mandi', chimpanzee, gorilla and loris are
 located in front position of the skull (figure 2.19). So, there is a greater chance of
 seeing the same area with both eyes.
-26
 Science | Eye and Ear
 Human
 Monkey
@@ -971,7 +849,6 @@ both eyes (figure 2.20). But, they have the ability to look more areas separatel
 using the each eye.
 Loris
 Cattle
-Dog
 Figure 2.20
 Tiger
 The ability to maintain visual focus on an object with both eyes creating a single
@@ -1008,12 +885,10 @@ Method :-
 ² Hold the clip of the pen keeping its hole upwards in a distance when you
 stretch the hands to your front.
 ² Close one eye and insert the pen into the clip.
-²
 Insert the pen again into the clip using both eyes.
 ² Compare the difference of ease, in both situations.
 It is easier to insert the pen into the clip by seeing through both eyes rather than
 seeing through one eye. This is because of the stereoscopic vision of the eye.
-28
 Science | Eye and Ear
 2.3 Eye diseases
 Two common eye diseases identified at present are;
@@ -1062,16 +937,11 @@ high blood pressure inside the eye. A person with diabetes has an increased risk
 developing glaucoma. The damage caused to the eye from this disease cannot be
 reversed again.
 The figures A, B, C and D shows how a glaucoma patient loses his vision gradually.
-A
-C
-B
-D
 A - healthy eye sees the objects clearly
 B - first stage of glaucoma
 C - middle stage of glaucoma
 D - final stage of glaucoma (leads to vision loss or blindness)
 Figure 2.25
-30
 Science | Eye and Ear
 Eye infections
 In addition to above mentioned diseases, eyes
@@ -1105,10 +975,7 @@ Method :-
 ² Observe
 diagram well.
 the model or
-the
-²
 Identify the parts of the human
-ear.
 ² Get the help of a named diagram
 of the human ear.
 Figure 2.27 - A model of the human ear
@@ -1143,11 +1010,8 @@ diagram
 Method :-
 ² Observe
 the model or
-the
-²
 diagram well.
 Identify the parts of the human
-ear.
 ² Get the help of a named diagram
 of the human ear.
 Figure 2.27 - A model of the human ear
@@ -1167,23 +1031,18 @@ Cochlea
 Eustachian tube
 Information about the major parts of the human ear is given in the table 2.2.
 Table 2.2 - Information about the major parts of the human ear
-Area
 Part of the organ
 Pinna/ear lobe
 Outer
-ear
 External auditory canal
 Tympanic membrane
 Ossicles
 Middle
-ear
 Eustachian tube
 Cochlea
 Auditory nerve
 Inner
-ear
 Semi-circular canals
-32
 Science | Eye and Ear
 Information
 ² A cartilaginous organ
@@ -1261,11 +1120,9 @@ Heavy truck
 Business office
 Living room
 Woodland
-34
 Science | Eye and Ear
 Summary
 ² Optical sensory organ of the body is the eye.
-²
 Images that are real, inverted and smaller than the object formed on the retina
 are interpreted by the brain. This is known as vision.
 ² Binocular vision of human is important to determine the distance of an object
@@ -1321,31 +1178,11 @@ c. Ossicles are located in the external auditory canal.
 2. 20 Hz - 20 000 Hz
 4. 200 Hz - 20 000 Hz
 02) Following figure shows the structure of the human eye.
-H
-G
-F
-A
-B
-E
-C
-D
-I
 Write down the names and functions of each part in the eye denoted by English
 letters A to H.
-36
 Science | Eye and Ear
 03) Using given English letters, mention the path of the auditory impulse that
 start from ear to the brain.
-A
-E
-G
-F
-H
-K
-J
-B
-C
-D
 Technical Terms
 Long sight
 Short sight
@@ -1354,7 +1191,6 @@ Stereoscopic vision
 Retina
 Optic nerve
 Cornea
-Iris
 Pupil
 Fovea
 Blind spot
@@ -1410,7 +1246,6 @@ Semi-circular canals
 - Y%jK iakdhqj
 - w¾O pl%dldr kd< - Aøμ ÁmhUPõÀÁõ´
 Science | Eye and Ear 37
-3
 Nature and
 Properties of Matter
 Recall what you have learnt about the properties of matter in grade 8. You may
@@ -1434,10 +1269,8 @@ The pure substances with specific properties which, cannot be further divided by
 either physical or chemical methods into substances with different properties, are
 called elements. Accordingly iron, sulphur, chlorine, silver, zinc and copper belong
 to elements. There are about 120 elements have been discovered upto now.
-38
 Science | Nature and Properties of Matter
 Copper
-Iron
 Sulphur
 Mercury
 Carbon
@@ -1464,7 +1297,6 @@ such case the first letter of the name of the element is used as the symbol. Whe
 single letter is used as the symbol, compulsorily it should be a capital letter. Table
 3.1 presents some examples.
 Copper
-Iron
 Sulphur
 Mercury
 Carbon
@@ -1491,16 +1323,12 @@ such case the first letter of the name of the element is used as the symbol. Whe
 single letter is used as the symbol, compulsorily it should be a capital letter. Table
 3.1 presents some examples.
 Science | Nature and Properties of Matter
-39
 Table 3.1
 Element
 Carbon
 Oxygen
 Sulphur
 Symbol
-C
-O
-S
 When the names of several elements commence in the same letter, the next letter
 or another letter in the name is added to the symbol. In that, the second letter is a
 simple letter. Table 3.2 gives some examples.
@@ -1511,19 +1339,12 @@ Calcium
 Magnesium
 Aluminium
 Symbol
-Cl
-Ca
-Mg
-Al
 In some elements, the symbol originates in its Latin name. Table 3.3 lists some
 examples for such symbols.
 English name
 Sodium
 Copper
-Lead
-Gold
 Mercury
-Iron
 Silver
 Table 3.3
 Latin Name Symbol
@@ -1534,13 +1355,6 @@ Aurum
 Hydrargyrum
 Ferrum
 Argentum
-Na
-Cu
-Pb
-Au
-Hg
-Fe
-Ag
 Table 3.4 illustrates names of several elements and their symbols.
 Element
 Hydrogen
@@ -1551,31 +1365,15 @@ Sulphur
 Chlorine
 Aluminium
 Symbol
-H
-C
-O
-N
-S
-Cl
-Al
 Table 3.4
 Element
 Magnesium
-Zinc
 Silicon
 Phosphorous
 Argon
 Calcium
 Iodine
 Symbol
-Mg
-Zn
-Si
-P
-Ar
-Ca
-I
-40
 Science | Nature and Properties of Matter
 3.1.2 Building units of elements
 You have learnt that, matter is composed of particles. These
@@ -1607,14 +1405,6 @@ Hydrogen (H)
 Fluorine (F)
 Symbol of the
 molecule
-O2
-N2
-Cl2
-H2
-F2
-O
-O
-H H
 Figure 3.4 -
 A representation
 of an Oxygen molecule
@@ -1627,7 +1417,6 @@ Therefore, elements are composed either, from atoms of the same kind or from
 molecules formed by combining those same kind of atoms. Thus, they cannot be
 further divided into simple substances chemically.
 Science | Nature and Properties of Matter
-41
 Atomic number (Z)
 The number of protons present in the nucleus of a given atom of an element is
 called the atomic number. It is generally designated by the symbol Z. The atomic
@@ -1643,55 +1432,15 @@ Fluorine (F)
 Neon (Ne)
 Sodium (Na)
 Number of Protons Number of Electrons Atomic Number
-6
-7
-8
-9
-10
-11
-6
-7
-8
-9
-10
-11
-6
-7
-8
-9
-10
-11
 Mass number (A)
 The sum of the protons and neutrons present in the nucleus of a given atom of an
 element, is called the mass number of the atom of that element. The mass number
 is represented by the symbol A.
 Table 3.8 - Mass number of atoms of some elements
 Element Number of protons
-N
-O
-F
-Na
-Cl
-(p)
-7
-8
-9
-11
-17
 Number of Neutrons
-(n)
-7
-8
-10
-12
-18
 Mass number
 (p + n)
-14
-16
-19
-23
-35
 There is a standard method of representing atomic number and mass number of an
 atom. This standard method is, writing atomic number at the left hand side bottom
 end and mass number at the left hand side top end of the symbol of the atom. The
@@ -1700,10 +1449,7 @@ Sum of protons and neutrons
 (Mass number)
 Number of protons
 (Atomic number)
-23
-11Na
 Science | Nature and Properties of Matter
-43
 3.2 Compounds
 Compounds are formed by the chemical combination of two or more elements
 in a certain ratio. Some of those compounds exist in nature as molecules. Since
@@ -1711,9 +1457,6 @@ those molecules contain atoms that are different from one another, they are call
 hetero-atomic molecules.
 e.g. A Hydrogen chloride molecule is formed by the combination of
 one hydrogen atom and one chlorine atom.
-H
-Cl
-H Cl
 Hydrogen atom
 Chlorine atom
 Hydrogen chloride molecule (compound)
@@ -1725,9 +1468,6 @@ to two or more kinds of elements.
 e.g. A water molecule is formed by the
 combination of an oxygen atom and two
 hydrogen atoms. This is illustrated by figure 3.9.
-O
-H
-H
 Figure 3.9 - Water molecule
 Assignment 3.1
 Using various materials create models for several homo-atomic and hetero-atomic
@@ -1735,19 +1475,11 @@ molecules. Display the models you made in the classroom.
 A carbon dioxide molecule is formed by the
 combination of a carbon atom and two oxygen
 atoms. This is shown by figure 3.10.
-O
-OC
 Figure 3.10 - Carbon dioxide molecule
-H
-H
-C
-H
-H
 A methane molecule is formed by the combination
 of a carbon atom with four hydrogen atoms. This is
 illustrated by figure 3.11.
 Figure 3.11 - Methane molecule
-44
 Science | Nature and Properties of Matter
 An ammonia molecule is formed by the combination
 of a nitrogen atom with three hydrogen atoms. This is
@@ -1761,10 +1493,6 @@ Chemical formula
 of the compound
 (Building unit of the
 compound)
-H
-N
-H
-H
 Figure 3.12 - Ammonia
 molecule
 Elements contained
@@ -1775,11 +1503,7 @@ Carbon dioxide
 Sodium chloride (Common salt)
 Copper sulphate
 Calcium carbonate
-H2O
 C6H12O6
-CH4
-CO2
-NaCl
 CuSO4
 CaCO3
 H and O
@@ -1816,7 +1540,6 @@ y Sucrose (contained in sugar cane)
 - CH3OCH3
 - C12H22O11
 Science | Nature and Properties of Matter
-45
 3.3 Mixtures
 Next, let us study about the non-pure substances (mixtures).
 Pay your attention to sea water. Various salts and various gases are dissolved in it.
@@ -1835,7 +1558,6 @@ Let us identify constituents in some mixtures. Let us study table 3.10.
 Table 3.10 - Mixtures and their constituents
 Mixture
 Constituents
-Air
 nitrogen, oxygen, argon, carbon dioxide, water vapour
 Sea water
 water, salts, dissolved oxygen, dissolved carbon dioxide
@@ -1848,7 +1570,6 @@ physical methods. When rice is mixed with sand they can be separated by sifting
 using the sifting bowl. So, sifting is a physical method of separating constituents
 in a mixture. Let us involve in activity 3.3 to study about the physical methods of
 separating constituents in a mixture.
-46
 Science | Nature and Properties of Matter
 Activity 3.3
 ² You are provided with the following mixtures. Suggest suitable methods for
@@ -1884,7 +1605,6 @@ Assignment 3.2
 Prepare a chart to show the physical methods used to separate constituents of a
 mixture and the instance in which those methods are used.
 Science | Nature and Properties of Matter
-47
 According to that, mixtures can be described as follows.
 A matter which consists of two or more constituents which can be separated by
 physical methods are called mixtures.
@@ -1900,7 +1620,6 @@ well with a glass rod and allow to stand for a few minutes.
 You will be able to see that properties like colour and transparency are alike
 throughout the mixture. The mixtures with a uniform composition right throughout
 the mixture are called homogeneous mixtures.
-e.g.
 Salt solution, sugar solution, sea water
 Heterogeneous mixtures
 Dissolve a little clay in water, allows to stand from some time and observe. If you
@@ -1915,7 +1634,6 @@ and observe these mixtures.
 salt, soap, copper sulphate, limestone, washing blue, chilli powder
 ² Record the observations
 ² Classify the mixtures you have prepared as homogeneous and heterogeneous.
-48
 Science | Nature and Properties of Matter
 Summary
 ² Matter can be classified as pure substances and non-pure substances (mixtures).
@@ -1948,8 +1666,8 @@ Exercise
 01) Select the correct or most suitable answer.
 1. The number of protons, neutrons and electrons in the 35
 2. 17, 18, 17
-3. 17, 17, 18
 1. 17, 18, 18
+3. 17, 17, 18
 17Cl atom respectively are,
 4. 17, 17, 17
 2. Of the following statements given about the atom, select the false statement.
@@ -1958,7 +1676,6 @@ Exercise
 3. There is a positively charged nucleus at the center of an atom.
 4. An atom cannot be further divided.
 Science | Nature and Properties of Matter
-49
 3. A unique property for a certain atom is,
 1. its atomic number
 2. the number of neutrons in the nucleus
@@ -1986,36 +1703,25 @@ elements.
 Element
 Sodium
 Calcium
-Iron
 Sulphur
 Bromine
 Number of
 protons
-11
 ......................
 ......................
 ......................
-35
 Number of
 neutrons
 ......................
-20
 ......................
-16
 ......................
 Atomic
 number
 ......................
-20
-26
-16
 ......................
 Mass number
-23
 ......................
-56
 ......................
-80
 03) Indicate whether the mixtures given below are homogeneous or heterogeneous.
 1. Tea
 2. Sea sand
@@ -2023,7 +1729,6 @@ Mass number
 4. Vinegar
 5. Copper sulphate solution
 chaff
-50
 Science | Nature and Properties of Matter
 04) Copy the following figure on classification of matter in your book and fill
 in the blanks.
@@ -2039,7 +1744,6 @@ single letter.
 4. Write the chemical symbols and names of five elements symbolized by two
 letters.
 Technical Terms
-Atom
 Molecule
 Matter
 Elements
@@ -2054,7 +1758,6 @@ Atomic number
 Mass number
 Homo-atomic molecules
 Hetero-atomic molecules
-- Aq
 - mrudKqj
 - ‰»UTÖ
 - wKqj
@@ -2062,7 +1765,6 @@ Hetero-atomic molecules
 - mod¾:h
 - ‰»P[PÒ
 - uQ,øjH
-- P¸
 - kHIaáh
 - ¦÷µõzuß
 - fm%dafgdak
@@ -2083,10 +1785,8 @@ Hetero-atomic molecules
 - £À¼Ú Aq‰»UTÖPÒ
 - úIumrudKql wKq
 Science | Nature and Properties of Matter
-51
 Basic Concepts
 Associated with Force
-4
 4.1 Force
 Let us consider situations like lifting an object, pushing a table, opening or closing
 a door or hitting a ball (figure 4.1).
@@ -2103,17 +1803,11 @@ the ball.
 You can press a ball by keeping it on the ground and tread on it. Here, you change
 the shape of the ball by applying a force.
 Accordingly, by applying a force;
-²
-²
-²
-²
-²
 object at rest can be moved.
 object in motion can be stopped.
 the speed of motion can be changed.
 the direction of motion can be changed.
 the shape of object can be changed.
-52
 Science | Basic Concepts Associated with Force
 4.2 Magnitude of force
 A ball can be moved slowly by hitting slightly. If you hit it harder it moves fast.
@@ -2151,7 +1845,6 @@ magnitude of the force exerted by your hand on
 the wooden block.
 Figure 4.4
 Science | Basic Concepts Associated with Force
-53
 Activity 4.2
 You will need :- A wooden block, few tintex nails, some thread
 Method :-
@@ -2160,9 +1853,6 @@ wooden block. Tie a piece of thread to the nail
 (figure 4.7), so that the thread is leaning on
 the block.
 Figure 4.7
-(a)
-(b)
-(c)
 Figure 4.7 - The wooden block on the table viewed from the top
 ² Place the wooden block on the table as in figure 4.7 (a), and pull it by the
 thread, keeping the thread horizontally. Observe the direction of motion of the
@@ -2185,14 +1875,9 @@ Method :-
 surface of the wooden block as shown in figure 4.8.
 ² Fix a nail to the center of the wooden disc as shown in
 figure 4.9.
-A
-C
-B
 Figure 4.8
-54
 Science | Basic Concepts Associated with Force
 Science | Basic Concepts Associated with Force
-55
 ² Now tie a piece of thread to the nail A of the wooden block and pull the thread,
 keeping it horizontally. Observe the direction of motion of the wooden block .
 Moreover the length of the straight line drawn to denote the force of 10 N on X
@@ -2201,10 +1886,7 @@ In our day-to-day life, we apply forces on various objects. When we write with a
 pen, we have to apply forces to move the pen on the sheet of paper. When walking,
 forces are applied on the floor by our feet. When playing cricket, forces are applied
 on the ball by hitting the bat. To move the bat, the player has to apply force on the
-bat.
-(a)
 Figure 4.11
-(b)
 We have to make an effort to do these types of work. Most of the time, we apply
 forces in the easiest way to reduce effort. For example, let us consider the figure
 4.11 (a). A person drawing a loaded cart is shown there. He applies a horizontal
@@ -2213,9 +1895,7 @@ and pull with a difficulty to maintain the horizontal force. This difficulty can
 be overcome by drawing the cart to a direction shown in figure 4.11 (b). Although
 the force is not applied horizontally, the cart moves to the direction we want. What
 we do here is changing the direction of force to make the work easy.
-(a)
 Figure 4.12
-(b)
 A person pushing a loaded cart is shown in the figure 4.12 (a). The person has to
 bend and push it with difficulty. To ease the work, a wooden or metal handle can be
 fitted to the cart and the point where the force is applied (point of application) can
@@ -2224,18 +1904,11 @@ In our day-to-day life, we select the way of applying forces in such a way, that
 work is handled easier. What is applied here is not merely the scientific knowledge,
 but our practical experiences also contribute a lot. But, if there is some knowledge
 about forces, our tasks can be fulfilled easier.
-56
 Science | Basic Concepts Associated with Force
 Science | Basic Concepts Associated with Force
-57
 Summary
-²
 Force is a pull or a push.
 ² When a force is applied,
-■
-■
-■
-■
 an object at rest can be moved.
 an object in motion can be stopped.
 the speed of motion can be changed.
@@ -2245,7 +1918,6 @@ the shape of an object can be changed.
 ² Newton spring balance is used to measure the magnitude of a force.
 ² Force has a direction and a magnitude. Therefore, force is a vector quantity.
 ² The point on which the force is acting on the object is known as the point of
-■
 application of the force.
 ² Day-to-day life activities can be done easily by changing the direction and
 the point of application of a force.
@@ -2271,12 +1943,9 @@ The true statements are;
 3. b and c only
 2. a and c only
 4. a, b, and c all
-58
 Science | Basic Concepts Associated with Force
 Science | Basic Concepts Associated with Force
-59
 Pressure Exerted by Solid
-5
 5.1 Pressure
 You may have experienced that, when the strap of your school bag is narrow, it is
 uncomfortable to the shoulder. When it is broad it is not that uncomfortable.
@@ -2322,15 +1991,10 @@ wire which is sent round
 the cake of soap. Observe
 what happens.
 Cake of
-soap
 Plank
 Table
 Table
-Wire
-Sand
-bag
 Figure 5.3
-²
 Increase the number of sand bags one by one using a new cake of soap in each
 instance. Measure the time taken to pass the metal wire through each cake of soap.
 ² Tabulate your readings as shown below.
@@ -2340,17 +2004,7 @@ Weight of sand
 Time taken to cut through
 bags (N)
 the cake of soap (s)
--
 Table 5.1
-10
-20
-hung
-01
-02
-01
-02
-03
-04
 In the activity 5.1, sometimes one sand bag will not be enough for the wire to cut
 through the cake of soap. If it is so, the reason is that the force exerted by the weight
 of one sand bag is not enough to cut the cake of soap. When the number of sand
@@ -2375,46 +2029,30 @@ the plank which is kept
 on two tables as shown in
 the figure 5.3.
 Cake of
-soap
 Plank
 Table
 Table
-Wire
 ² Hang one sand bag on the
 wire which is sent round
 the cake of soap. Observe
 what happens.
 Increase the number of sand bags one by one using a new cake of soap in each
 instance. Measure the time taken to pass the metal wire through each cake of soap.
-Sand
-bag
 Figure 5.3
-²
 ² Tabulate your readings as shown below.
 Table 5.1
 Instance
 No. of sand bags
-hung
 Weight of sand
 bags (N)
 Time taken to cut through
 the cake of soap (s)
-01
-02
-10
-20
--
-01
-02
-03
-04
 In the activity 5.1, sometimes one sand bag will not be enough for the wire to cut
 through the cake of soap. If it is so, the reason is that the force exerted by the weight
 of one sand bag is not enough to cut the cake of soap. When the number of sand
 bags are being increased, time taken for the wire to cut through the cake of soap
 becomes less.
 Science | Pressure Exerted by Solid
-61
 Two facts are revealed by this activity. They are;
 ▪ Force affects the pressure exerted on a solid object.
 ▪ Pressure increases with the increase of force.
@@ -2438,14 +2076,6 @@ shown in the figure 5.4 b.
 to the upper horizontal edge of the piece of sponge.
 15 c m
 20 cm
-15
-10
-5
-0
-15
-10
-5
-0
 15 cm
 10 cm
 Figure 5.4 a
@@ -2461,10 +2091,6 @@ Weight of 2 kg
 2 kg on the wooden block
 as shown in figure 5.4 d and
 take the reading of the upper
-15
-10
-5
-0
 Wooden Block
 Figure 5.4 c
 edge of the piece of sponge as before.
@@ -2473,22 +2099,16 @@ of 5 kg on the wooden block and take the reading.
 ² Tabulate the readings, you obtained as below in the
 table 5.2.
 Figure 5.4 d
-15
-10
-5
-0
 62 Science | Pressure Exerted by Solid
 Table 5.2
 Instance
 Force exerted on
 the piece of sponge
-(N)
 Reading at the upper
 edge of the piece of
 sponge (cm)
 Reduction of the
 height of sponge
-(cm)
 Sponge only
 Wooden block on
 the sponge
@@ -2515,26 +2135,20 @@ and keep the cake of soap
 on the plank as shown in
 the figure 5.5.
 Cake of
-soap
 Plank
 Table
 ² Send
-the
 thick wire
 round the cake of soap
 and hang the sand bag
 of 20 N weight. Observe
 what happens.
 Table
-Wire
-Sand
-bag
 Figure 5.5
 ² Remove the thick wire and repeat the above step using the thin wire. Observe
 what happens again.
 ² What can be concluded according to the observations you made?
 Science | Pressure Exerted by Solid
-63
 In the activity 5.3 above, same weight is used in both instances; with the thick wire
 as well as with the thin wire. Hence, the force exerted on the cake of soap is same
 in both instances. But, the cake of soap is cut through easily when the thin wire is
@@ -2553,14 +2167,9 @@ a piece of sponge (B) with the size of 15 cm × 10 cm × 5 cm,
 a piece of sponge (C) with the size of 15 cm × 5 cm × 5 cm,
 a piece of sponge (D) with the size of 10 cm × 5 cm × 5 cm,
 four 1” nails, a scale of 15 cm, a hammer, a Newton spring balance
-10
-15
-0
-5
 Figure 5.6 a
 10 cm
 15 cm
-5 cm
 Method :-
 ² Weigh the wooden block using the spring balance.
 ² Paste the scale of 15 cm on to the L shaped frame made
@@ -2571,12 +2180,7 @@ edge of the sponge.
 ² Then place the 15 cm × 10 cm surface of the wooden
 block on the sponge as shown in figure 5.6 a.
 15 cm
-5 cm
 10 cm
-15
-10
-5
-0
 Figure 5.6 b
 ² Note down the new reading of the scale relevant to the upper horizontal
 edge of the sponge.
@@ -2597,13 +2201,11 @@ edge of the sponge.
 Instance
 Force exerted
 on the surface
-(N)
 Table 5.3
 Contact surface
 area (cm2)
 Height of
 the sponge
-(cm)
 Reduction of
 the height of
 sponge (cm)
@@ -2627,7 +2229,6 @@ During this activity, same wooden block is kept on all sponges. Therefore, the f
 exerted on all different sponges is the same. But, the contact area of the wooden
 block on each piece of sponge is changed.
 Science | Pressure Exerted by Solid
-65
 When the contact area is large, the contraction of the sponge is less and when that
 area is less, the contraction of sponge is higher.
 The standard unit of measuring pressure is N m-2. It is also known as Pascal (Pa).
@@ -2655,11 +2256,8 @@ standard unit of measuring force is N (Newton) and the standard unit of measurin
 surface area is m2 (square metre).
 Pressure
 Pressure
-=
 Perpendicular force
 Surface area on which the force is acting
-= N
-m2
 = N m-2 (Newton per square meter)
 66 Science | Pressure Exerted by Solid
 after him.
@@ -2672,11 +2270,7 @@ normal force of 300 N is acting on it?
 Pressure
 Perpendicular force
 Surface area on which the force is acting
-=
-=
-=
 300 N
-2 m2
 150 N m-2 or 150 Pa
 Solved
 example 2:
@@ -2686,7 +2280,6 @@ surface. Pressure exerted by the
 box on the surface is 200 Pa.
 What is the contact area of the surface of the box?
 Pressure
-=
 Surface area =
 Surface area =
 Perpendicular force
@@ -2696,7 +2289,6 @@ Pressure
 400 N
 200 N m-2
 Surface area =
-2 m2
 5.4 Changing the factors affecting pressure as needed
 When cutting something it is easier if the knife is well
 sharpened. When sharpening, the knife-edge becomes
@@ -2713,13 +2305,9 @@ example 1:
 What is the pressure exerted on a surface of 2 m2, when a
 normal force of 300 N is acting on it?
 Pressure
-=
-=
-=
 Perpendicular force
 Surface area on which the force is acting
 300 N
-2 m2
 150 N m-2 or 150 Pa
 Solved
 example 2:
@@ -2729,7 +2317,6 @@ surface. Pressure exerted by the
 box on the surface is 200 Pa.
 What is the contact area of the surface of the box?
 Pressure
-=
 Surface area =
 Surface area =
 Surface area =
@@ -2739,7 +2326,6 @@ Perpendicular force
 Pressure
 400 N
 200 N m-2
-2 m2
 5.4 Changing the factors affecting pressure as needed
 When cutting something it is easier if the knife is well
 sharpened. When sharpening, the knife-edge becomes
@@ -2747,7 +2333,6 @@ very thin. It can exert a high pressure on the object. So,
 the object can be cut thinner and easier (figure 5.7).
 Figure 5.7
 Science | Pressure Exerted by Solid
-67
 The bottom of the skates used by skiers is made
 sharp like a knife-edge (figure 5.8). Because of
 this, a high pressure is exerted on ice, when the
@@ -2772,7 +2357,6 @@ Summary
 factors. They are,
 • Perpendicular force acting on the surface
 • Surface area on which the force is acting
-²
 Pressure (P) =
 Perpendicular force (F)
 Surface area (A)
@@ -2805,29 +2389,17 @@ Which of the above statements are true?
 4. a, b and c all
 4. A perpendicular force of 60 N was applied on an area of 3 m2. What is the
 pressure exerted on the surface?
-1'
-1
 60 N « 3 m2
 2' 3 m2
-60 N
 3' 60 N
-3 m2
 4' 60 N « 3 m2
 5. The pressure was 50 Pa, when a perpendicular force was applied on a surface
 area of 2.5 m2. The force applied was;
-1' 1
-25
 N 2' 1
-20
 N 3' 20 N
 4' 125 N
 Science | Pressure Exerted by Solid
-69
 06. In which of these instances, the devices are applied to decrease pressure?
-1
-3
-2
-4
 02) Answer the following questions.
 1. (a) What are the units of pressure?
 (b) Mention the factors affecting pressure.
@@ -2838,7 +2410,6 @@ pressure.
 decrease pressure.
 (c) State two examples where the factor, perpendicular force is practically
 used to increase pressure.
-1 m
 03) The length, breadth and height of the
 cuboid shown in the figure are 2 m,
 1 m and 1 m respectively. Its weight is
@@ -2846,11 +2417,6 @@ cuboid shown in the figure are 2 m,
 (a) The cuboid is kept on a horizontal
 surface as shown in the figure. How
 much is the pressure acting on the surface?
-1 m
-B
-A
-C
-2 m
 (b) While the cuboid is in the position as in part (a), an object weighing 150 N
 is kept on it. Then, what is the pressure acting on the horizontal surface?
 (c) The object weighing 150 N is removed and the cuboid is kept
@@ -2879,7 +2445,6 @@ Pascal
 - meial,a
 - £ìPõÀ
 Science | Pressure Exerted by Solid
-71
 ² The heart has four chambers. The upper chambers are called atria and the lower
 chambers are called ventricles.
 ³ Left atrium
@@ -2954,8 +2519,6 @@ Plasma
 The main function of the plasma is transporting substances dissolved in it.
 Science | The Human Circulatory System 75
 Some examples are given below;
-²
-²
 It transports the digestive products, minerals and vitamins to the cells.
 It transports the excretory products during biochemical reactions within
 the cells to the excretory organs.
@@ -2979,59 +2542,16 @@ Compatibility of blood groups in transfusion is represented in the table 6.1.
 compatibility of blood group)
 Figure 6.6
 Table 6.1- Compatibility of blood group
-D
-o
-n
-o
-r
 Blood type
-A
-B
-AB
-O
-A
-√
-«
-«
-√
 Recipient
-B
-«
-√
-«
-√
-AB
-√
-√
-√
-√
-O
-«
-«
-«
-√
 According to the table, blood group AB can receive blood from all other blood
 groups. Therefore, blood group AB is called the universal recipient.
 Blood group O can donate to all the other blood groups. Therefore, blood group O
 is called the universal donor.
-76
 Science | The Human Circulatory System
 Information in the table 6.1 can be illustrated as in figure 6.7.
 Donor
-A
-B
-AB
-O
 Recipient
-A
-AB
-B
-AB
-AB
-A
-B
-AB
-O
 Figure 6.7 - Compatibility of blood group
 For a blood transfusion, not only the blood group, but also the Rhesus factor (Rh
 factor) must be compatible.
@@ -3043,31 +2563,13 @@ table 6.2 shows the compatibility of blood with Rhesus factor.
 (√ represent positive compatibility of blood with Rhesus factor while « represent
 negative compatibility of blood with Rhesus factor
 Table 6.2 - Compatibility of Rhesus factor
-D
-o
-n
-o
-r
-Rh+
-Rh-
 Recipient
-Rh+
-√
-√
-Rh-
-«
-√
 The figure 6.8 represents the same facts in table 6.2.
-Rh-
-Rh+
 Hence both the blood group and the Rhesus factor
 have to be matched to donate blood. Both the blood
 group and Rhesus factor are considered when
 expressing the blood group of an individual.
 e.g. A+, A-, B+, B-, AB+, AB-, O+, O -
-Rh-
-Rh+
-Rh+
 Figure 6.8 - Compatibility of
 Rhesus factor
 The National Blood Transfer Service (NBTS) has a list of other qualifications a
@@ -3076,7 +2578,6 @@ and hand it over to the NBTS before donating blood. Blood donor declaration and
 donation record is given in the extra knowledge frame.
 Science | The Human Circulatory System 77
 For extra knowledge
-78
 Science | The Human Circulatory System
 MEDICAL ASSESSMENT
 REGISTRATION
@@ -3108,7 +2609,6 @@ pressure and diabetes
 Assignment 6.3
 ² Collect newspaper cuttings about the good health habits that should be
 followed to maintain a healthy blood circulatory system.
-²
 Share that knowledge with your classmates.
 Summary
 ² The human heart has four chambers.
@@ -3125,7 +2625,6 @@ vena cava and inferior vena cava are connected to the right atrium.
 the vessels that take the blood towards the heart are veins.
 ² An artery ends up with a capillary and a vein starts with a capillary.
 ² The main functions of blood are transportation and protection.
-80
 Science | The Human Circulatory System
 ² Depending on the protein components in blood cells, there are four blood
 groups as A, B, AB and O.
@@ -3137,7 +2636,6 @@ known as blood agglutination.
 ² The mechanism of blood coagulation during an injury differs from the
 mechanism of blood coagulation in the process of agglutination.
 ² There is a list of qualifications a blood donor must fulfill.
-²
 It is vital to maintain a proper functioning blood circulatory system as to lead
 a healthy life.
 Exercise
@@ -3168,7 +2666,6 @@ The correct statements are,
 2. b and c only
 4. a, b and c all
 5. During an internal bleeding the blood cells that help for blood coagulation
-are,
 1. Red blood cells
 3. Platelets
 2. White blood cells
@@ -3189,39 +2686,21 @@ related to the human heart.
 a. What are the two veins that open
 to the right atrium?
 b. Write the numbers of bicuspid
-8
-1
-4
-3
-2
-6
-9
 valve and tricuspid valve.
 c. Write down the names of the
 four chambers and the relevant
 numbers
-11
-13
 2. Write five good habits that help in
 maintaining a healthy circulatory
 system.
 Technical Terms
-5
-7
-10
-12
-14
 Blood circulatory system -
--
 Blood groups
 Blood transfusion
 Universal donor
 Universal recipient
 Rhesus factor
 Agglutination
--
--
--
 reêr ixirK moaO;sh - S¸va _Ø÷Óõmhz öuõSv
 reêr .K
 reêr mdrú,hkh
@@ -3230,16 +2709,11 @@ id¾j m%;s.%dylhd
 Íiia idOlh
 - S¸v ÁøPPÒ
 - S¸vU SÖUS¨ £õ´a\À
--
 \µ“Á ÁÇ[Q
 \µ“Á Áõ[Q
 Ÿéì Põµo
--
 - J¸[öPõmhÀ
--
--
 - Yaf,aIKh
-82
 Science | The Human Circulatory System
 7 Plant Growth
 Substances
@@ -3326,7 +2800,6 @@ fruit fall and leaf fall take place in plants.
 Artificial growth substances are widely used in horticulture and growing ornamental
 plants. Some of these are given in the table 7.1.
 Artificial growth substances
-Uses
 Table 7.1
 2,4 DPA
 (2,4 Dichloro Phenoxyacetic Acid)
@@ -3349,7 +2822,6 @@ used.
 are used.
 ² Collect information about the use of artificial growth substances and prepare
 a report.
-86
 Science | Plant Growth Substances
 Assignment 7.2
 Prepare a collection of flower plants by the root induction of their stem
@@ -3399,11 +2871,9 @@ induce flowering in pine apple in off seasons?
 4. NAA
 02) Chemical substances and their effect for plant growth is mentioned in
 A and B colomns. Match A and B correctly.
-A
 a. Auxins
 b. Cytokinins
 b. Gibberellins
-B
 cell division
 cell elongation
 stem elongation
@@ -3418,7 +2888,6 @@ Plant ageing
 Phototropic movements
 uõÁμ ÁÍºa]a^μõUQ¨
 £uõºzu[PÒ
--
 - Ydl j¾Ol øjH
 - j¾Okh W;af;ackh lrk øjH - ÁÍºa] ysiPÒ
 - j¾Okh ksfYaOkh lrk øjH - ÁÍºa] {÷μõvPÒ
@@ -3432,10 +2901,8 @@ uõÁμ ÁÍºa]a^μõUQ¨
 - usk }m]¯øhuÀ
 ö\¯ØøP ÁÍºa]¨
 £uõºzu[PÒ
--
 Stem elongation
 Artificial growth substances - lD;%su j¾Ol øjH
-88
 Science | Plant Growth Substances
 Elastic band A represents the biceps muscle in the elbow joint. When biceps muscle
 is contracted the hands bends and lifts up.
@@ -3458,7 +2925,6 @@ Movements of plants
 Growth of a part in a plant as a response to a stimulus or change of the location due
 to a turgor change , is known as a movement of a plant. These responses can be
 catogorized into two main groups as,
-²
 Tropic movements
 ² Nastic movements
 Tropic movements
@@ -3467,7 +2933,6 @@ between the direction of stimulus and direction of response. Tropic movements
 occur due to the effect of growth substances. Response may be towards or away
 from the stimulus. Positive tropism occurs towards the stimulus. Negative tropism
 occurs away from the stimulus.
-92
 Science | Support and Movements of Organisms
 Some of tropic movements are described below.
 y Positive geotropism
@@ -3479,12 +2944,7 @@ roots growing towards the ground
 stem of the plant growing away from the ground
 stem growing towards the light
 roots moving towards the water source
--
--
--
--
 y Positive thigmotropism
--
 the ovule
 coiling of tendrils in Passion fruit with the
 support
@@ -3493,7 +2953,6 @@ Activity 8.3
 You will need:- Two pots, s ome green
 gram seeds
 Method :-
-y
 Plant 5 soaked seeds in each pot.
 y After seed germination, keep one
 healthy plant in each pot and uproot
@@ -3502,7 +2961,6 @@ y Keep one pot vertical and the other
 toppled down as in the figure 8.7.
 Figure 8.7
 y Observe the growth pattern of root and shoot after one week.
-y
 Identify and study tropic movements.
 In both pots, roots grow towards ground.
 That means movement of a plant root is
@@ -3532,8 +2990,6 @@ Figure 8.9 - Shrinking of Mimosa leaves
 stimulus is touched
 Seismonastic movement - exhibiting sleeping movement during a shock
 Photonastic movement - blooming of flowers with the sunrise
-²
-²
 Let us do the activity 8.4 to study about responses of plant parts
 Activity 8.4
 You will need :- Mimosa plants
@@ -3553,7 +3009,6 @@ help for these movements of the plant. Pvlvini are
 also present in plants showing sleeping movement at
 dust with the decrease of sunlight.
 e.g. 'Kathurumurunga', Tamarind, 'Nelli'
-94
 Science | Support and Movements of Organisms
 pulvinus
 Figure 8.10 - Place where the
@@ -3615,7 +3070,6 @@ movement is known as,
 3. haptonastic movement
 2. negative geotropic movement
 4. nyctinastic movement
-96
 Science | Support and Movements of Organisms
 6. A tropic movement is,
 1. a movement with a response directed towards the direction of the stimulus
@@ -3630,12 +3084,8 @@ Science | Support and Movements of Organisms
 02) Following figures show some activities and their observations used to
 demonstrate the plant movements. Write the name of the movement
 demonstrated in each activity.
-a.
 Before
 After
-b.
-c.
-d.
 Technical Terms
 Support
 Tropic movements
@@ -3652,7 +3102,6 @@ In-situ conservation
 - id¾jir p,k
 - ia:dkSh ixrlaIKh - EÒ{ø»U Põ¨¦
 Science | Support and Movements of Organisms 97
-9
 The Evolutionary
 Process
 Diversity of living organisms in our environment is a result of the evolutionary
@@ -3697,13 +3146,11 @@ This theory states that life was originated from non-living things in a spontane
 not pay attention to it.
 Spontaneous generation theory
 manner.
-e.g.
 y Rats who born from pieces of clothes
 y Maggots who born from rotten meat
 y Weevils who born from decayed wood
 The Spontaneous generation theory has been effectively disproved by the
 experiments conducted by the scientist Louis Pasteur.
-98
 Science | The Evolutionary Process
 Science | The Evolutionary Process 99
 Various types of elements at the centre of the Earth reacted with each other and
@@ -3727,13 +3174,11 @@ not pay attention to it.
 Spontaneous generation theory
 This theory states that life was originated from non-living things in a spontaneous
 manner.
-e.g.
 y Rats who born from pieces of clothes
 y Maggots who born from rotten meat
 y Weevils who born from decayed wood
 The Spontaneous generation theory has been effectively disproved by the
 experiments conducted by the scientist Louis Pasteur.
-98
 Science | The Evolutionary Process
 Science | The Evolutionary Process 99
 For extra knowledge
@@ -3770,7 +3215,6 @@ It is believed that the energy required for this was supplied by electric discha
 during lightning, eruption of volcanoes and by the ultra violet radiation of the sun.
 These materials dissolved in rain water and collected in oceans. This mixture was
 known as the primordial soup.
-100
 Science | The Evolutionary Process
 Science | The Evolutionary Process 101
 The first living cell or the pre-cell appeared as a result of a bio chemical reaction in
@@ -3780,14 +3224,11 @@ Scientists have experimentally shown that the first living cell was created by t
 primordial soup.
 For extra knowledge
 two scientists Haldane and Oparin
-The
-put
 the biochemical evolution
 forwarded
 theory about the origin of life. This theory
 was scientifically proved by Stanley Miller
 by conducting scientific
-in
 laboratory.
 investigations
 Stanley Miller
@@ -3811,7 +3252,6 @@ originated about 5 million (5 000 000) years ago.
 The world of plants evolved by the gradual changes resulted in photosynthetic algae
 on the oceans. First, less developed plants originated which, was then followed by
 non-flowering plants and flowering plants at last.
-100
 Science | The Evolutionary Process
 Science | The Evolutionary Process 101
 Accordingly, evolution of life has occurred at different times with several changes.
@@ -3822,7 +3262,6 @@ Various changes in the natural environment can have an impact on the existence o
 life.
 Life’s existence is confirmed by changes that occur gradually in living organisms in
 relation to continuous changes in the environment.
-102
 Science | The Evolutionary Process
 Science | The Evolutionary Process 103
 Figure 9.5 - Mammoth
@@ -3848,11 +3287,9 @@ Step II
 Step III
 Step IV
 Figure 9.7 - How to create a model fossil
-104
 Science | The Evolutionary Process
 Science | The Evolutionary Process 105
 Importance of evolution in bio-diversity
-9.4
 There is a competition among animals for the limited resources in the environment.
 The creatures who succeed, will be naturally selected and be established in the
 environment. These selected organisms become pioneers in the environment and
@@ -3877,7 +3314,6 @@ in "Bulathsinhala", "Ibbankatuwa", "Rawana" falls and "Pomparippu". Include
 the facts about the "Balangoda Man" too.
 Summary
 ² Origin of the Earth took place about 4.5 billion years ago and origin of life
-²
 took place 3.5 billion years ago.
 “Origination of life is a result of a process of bio-chemical reactions” is the
 theory that is accepted today.
@@ -3888,9 +3324,7 @@ is called the evolution.
 ² Fossil records are the main detailed evidence of evolution.
 ² Animals that do not undergo evolutionary process are known as living fossils.
 ² Horse is an organism with complete fossil evidence about its evolution.
-²
 Important evidences about evolution of the mankind were found in Sri Lanka.
-106
 Science | The Evolutionary Process
 Science | The Evolutionary Process 107
 Exercise
@@ -3933,14 +3367,8 @@ unicellular bacterium.
 organisms is known as evolution.
 3. To come to a conclusion on biological evolution, only fossil
 evidence is sufficient.
-( )
-( )
-( )
 4. Lingula is a living fossil found in Sri Lanka.
 5. The process of evolution too contribute towards the bio-diversity.
-( )
-( )
-108
 Science | The Evolutionary Process
 Science | The Evolutionary Process 109
 03) Give short answers.
@@ -3973,7 +3401,6 @@ ußÛaø\¨ ¤Ó¨£õUPU
 - E°ºa _Ák
 - ÁõÊ® E°ºa_Ák
 C¯ØøPz ÷uºÄU
--
 öPõÒøP
 - CÚ©õuÀ
 - fmdis,h
@@ -3981,7 +3408,5 @@ C¯ØøPz ÷uºÄU
 - iajhx isoaO ckkjdoh
 - iajdNdúl jrK jdoh
 - úfYaI m%dma;sh
--
-108
 Science | The Evolutionary Process
 Science | The Evolutionary Process 109

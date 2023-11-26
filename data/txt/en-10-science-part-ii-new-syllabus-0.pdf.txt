@@ -19,30 +19,8 @@ and potential difference accross the conductor
 20.5 Sex determination of human
 20.6 Human inherited disorders
 20.7 Genetic engineering
-125
-125
-127
-136
-140
-140
-143
-146
-149
-152
-154
-161
-169
-169
-174
-179
-182
-182
-184
-188
-x
 The world of life
 Biology
-13
 13.1 Classification of organisms
 It is believed that life originated on earth about 3.6 billion years ago. It is accepted
 that the life originated as unicellular organisms and thereafter complex multicellular
@@ -56,7 +34,6 @@ y Identify the species of organisms in Fig. 13.1
 y Group the organisms using appropriate criteria
 y Compare your grouping with other students in the class
 Figure 13.1 - Different species of organisms
-1
 For free distribution
 You may have grouped the above organisms on the basis of different criteria.
 Grouping of organisms into different levels based on their common
@@ -70,7 +47,6 @@ they are,
 organisms, without studying each and every organism
 Identification of organisms with economical uses to human
 ² Ability to reveal the relationship between different groups of organisms
-²
 Methods of classification of organisms
 Aristotle in 4th B.C. introduced the first scientific classification of organisms.
 Carolus Linnaeus in 18th A.D. introduced a successful classification. All organisms
@@ -98,7 +74,6 @@ possesses below features.
 E.g. Locomotive appendages - Fins of fish, Feathers of birds, Legs of human
 In a natural classification, organisms are grouped into taxonomic levels in a
 hierarchy of categories.
-2
 For free distribution
 For extra knowledge
 Consider the following examples to identify the taxonomic levels in a
@@ -147,7 +122,6 @@ with three domains. The 3 domains are,
 1. Domain Archaea
 2. Domain Bacteria
 3. Domain Eukarya
-3
 For free distribution
 Domain
 Bacteria
@@ -173,7 +147,6 @@ organisms. Bacteria and Cyanobacteria belong to this domain.
 Bacteria
 Figure 13.4 - Organisms belong to Domain Bacteria
 Cyanobacteria
-4
 For free distribution
 For extra knowledge
 Ribosome
@@ -204,7 +177,6 @@ AIDS virus
 Bacteriophage virus
 Figure 13.6 - Electron microscopic view of several viruses
 Bird flu virus
-5
 For free distribution
 Domain Eukarya
 The most prominent organisms with a eukaryotic cellular organization belong to
@@ -232,7 +204,6 @@ y To extract agar which is used to prepare culture media to grow bacteria
 y To extract alginic acid used to make ice cream
 y Some protozoans cause diseases to human
 E.g. :- Amoebiosis, Malaria, Sleeping sickness
-6
 For free distribution
 For extra knowledge
 Below are some algae belong to kingdom Protista. They are classified
@@ -249,9 +220,7 @@ contribute greatly
 to decompose organic
 matter in the environment. They also form
 symbiotic associations with other organisms.
-to
 Figure 13.9 - Fungi mycelium
-7
 For free distribution
 Figure 13.10 - Reproductive structures of Fungi
 Below are some useful and harmful effects of fungi to human.
@@ -260,9 +229,6 @@ y Bread and alcohol fermentation
 y To produce antibiotics
 y Decomposition of dead bodies and structures
 y To cause diseases to plants and animals -
--
--
--
 E.g. :-Agaricus - Mushroom
 E.g. :-Yeast
 E.g. :- Penicillium
@@ -280,7 +246,6 @@ rod, put it on to a glass slide, cover it
 with a coverslip and observe through
 the microscope.
 Figure 13.11 - Slice of bread affected by Fungi
-8
 For free distribution
 Table 13.1 - Characteristics of species that belong to Domain Bacteria, Kingdoms of
 Protista and Fungi
@@ -363,7 +328,6 @@ of them obtain nutrition as
 saprophytic organisms.
 Mostly reproduce by
 asexual spores
-9
 For free distribution
 Distribution Widely distributed,
 in air, water, soil
@@ -392,23 +356,18 @@ in green colour, because they possess chlorophyll pigments. They can absorb ligh
 energy and produce food by photosynthesis.
 They reproduce sexually and asexually. The plants in kingdom plantae, can be
 divided as given below
-1.
-2.
 Non- flowering plants
 Flowering plants
 Non-flowering plants
 Plants that can not produce flowers are known as non-flowering plants. These non
 flowering plants again can be divided into two groups according to the ability of
 producing seeds. They are,
-1.
-2.
 Non-flowering, seedless plants
 Non-flowering seed plants
 Non- flowering seedless plants
 Plants that do not produce flowers and seeds belong to this type.
 Examples :- Marchantia, Pogonatum, Selaginella, Nephrolepis, Salvinia,
 Acrosticum, Drynaria
-10
 For free distribution
 Non- flowering plants
 (No flowers)
@@ -435,7 +394,6 @@ Salvinia
 Acrosticum
 Drynaria
 Figure 13.12 -Non-flowering seedless plants
-11
 For free distribution
 Below are features of Non- flowering seedless plants.
 Feature
@@ -462,7 +420,6 @@ Examples :- Cycas, Pinus
 Cycas
 Figure 13.13 - Gymnosperms
 Pinus
-12
 For free distribution
 Below are features of Non- flowering seed plants.
 Table 13.3 - Features of Non- flowering seed plants
@@ -492,7 +449,6 @@ the number of cotyledons in the seed.
 Monocots - Coconut
 Dicots - Mango
 Figure 13.14 - Flowering plants
-13
 For free distribution
 Activity 13.3
 Uproot a paddy or grass and a Kuppamenia/ Kupameni plants and wash their
@@ -531,7 +487,6 @@ Animals belong to kingdom Animalia again can be divided into two groups
 according to the presence or absence of a vertebral column.
 1. Invertebrates
 2. Vertebrates
-14
 For free distribution
 Invertebrates
 Organisms without a vertebral column is known as invertebrates. Invertebrates
@@ -568,13 +523,11 @@ organisms to paralyze them using
 Nematocyst / Cnidocyst
 ² Asexual reproduction is done by
 budding. Show sexual reproduction
-too.
 polyp form
 medusa form
 tentacles
 Figure 13.16 - Longitudinal section of a
 Cnidarian
-15
 For free distribution
 For extra knowledge
 Coral reefs produced by a
@@ -584,7 +537,6 @@ role for the survival of marine
 organisms.
 Figure 13.17 - Polyp coral colonies
 Annelida
-²
 The first organisms to evolve a body cavity called coelom belong to this phylum.
 Segmented worms like earthworm, leech, Nereis are examples for Annelids.
 Earthworm
@@ -611,9 +563,7 @@ irrespective of the body movements.
 Figure 13.19 - External apperance of an
 Annelid
 ² Some reproduce asexually and some by sexual reproduction.
-16
 For free distribution
-²
 Mollusca
 Soft bodied triploblastic organisms belong to this phylum. Species such as Snail,
 Bivalve, Chiton, Slug, Squid, and Octopus belong to this phylum.
@@ -631,11 +581,8 @@ Soft bodied animals.
 head, muscular foot
 and visceral mass. The body
 is not divided into segments.
-Head
 visceral
-mass
 muscular
-foot
 Figure 13.21 Longitudinal section of
 Figure 13.21 - Longitudinal section of a
 mollusc
@@ -651,7 +598,6 @@ Arthopoda, possesses the highest number of organisms. There are about 950,000
 species belong to this phylum. The organisms with jointed limbs, such as Insects
 (Bee, Butterfly, Cricket, Mosquito) , Spider, Scorpion, Millipede, Centipede, Prawn,
 Crab, Barnacle belong to this phylum.
-17
 For free distribution
 Butterfly
 Spider
@@ -676,7 +622,6 @@ male organisms. They show sexual
 dimorphism. Carryout sexual
 reproduction.
 Assignment 13.2
-Head
 Thorax
 Jointed
 limbs
@@ -685,7 +630,6 @@ Figure 13.23 - External appearance of
 an insect
 Prepare an insect box using dead insects found in your home.
 Echinodermata
-y
 It is a phylum that shows phylogenetic (evolutionary) relationship to phylum
 chordata. Starfish, Brittle star, Sea urchin, Sea cucumber, Sea lilly belong to this
 phylum.
@@ -693,7 +637,6 @@ Starfish
 Sea urchin
 Figure 13.24 - Several species of Echinodermata
 Sea cucumber
-18
 For free distribution
 Features of Echinodermates.
 y All are marine.
@@ -731,7 +674,6 @@ heart
 post anal tail
 gill slits
 Pisces
-y
 Fish that are well adapted to live in water belong to this group. They live in fresh
 water and marine environments. Some have cartilaginous skeleton. Some have
 bony skeleton.
@@ -740,7 +682,6 @@ Butterfly fish
 Skate
 Fig 13.27 - Several species of Pisces
 Sea horse
-19
 For free distribution
 Features of fish
 ² Possess a bony or a cartilage endo skeleton.
@@ -782,15 +723,11 @@ Chondrichthyes
 Osteichthyes
 ^Seer fish ,Tilapia, Sea horse)
 Figure 13.28 - Classes of Pisces
-20
 For free distribution
-y
 Amphibia
 Amphibians which need water to complete their life cycle belong to this class. They
 are the first organisms to invade land during evolution. Frogs, Toads. Salamander,
 Ichthyophis are some animals belong to this class.
-Toad
-Frog
 Salamander
 Figure 13.29 - Several species of Amphibia
 Features of Amphibians.
@@ -802,7 +739,6 @@ life cycle)
 ² Possess a three chambered heart with two atria with a single ventricle.
 ² Respiration is done by lungs, moist skin and buccal cavity.
 ² They are cold blooded animals (poikilothermic)
-y
 Reptilia
 Animals that are well adapted to life on land belong to this class. They live in
 terrestrial, fresh water and marine ecosystems. Tortoise, Turtle, Snakes, Lizard,
@@ -811,7 +747,6 @@ Tortoise
 Crocodile
 Figure 13.30 - Several species of Reptilia
 Cobra
-21
 For free distribution
 Features of Reptiles.
 • Dry skin without glands. Possess scales on skin.
@@ -839,14 +774,12 @@ wings.
 • Four chambered heart with two atria and two ventricles.
 • Warm-blooded animals (homoiothermic).
 • Body temperature is not changed according to environmental temperature.
-22
 For free distribution
 ● Mammalia
 Animals that nourish young with milk belong to class Mammalia . Human, Mice,
 Loris, Monkey, Orung utang, Gorilla, Chimpanzee, Bat, Whale. Dolphin Stag,
 Deer, Buffalo are some animals belong to this class.
 Rilawa/Mandi
-Bat
 Dolphin
 Figure 13.32 - Several species of Mammalia
 Features of mammals.
@@ -858,17 +791,14 @@ Features of mammals.
 ² Biconcave red blood cells lacking a nucleus .
 ² Warm blooded animals. (Homoiothermic)
 ² Testes present outside the body.
-²
 Internal fertilization.
 ² Possess a placenta and embryonic membranes.
-23
 For free distribution
 13.2 Nomenclature of organisms
 In each language, an object is named using words. Different names are used to
 identify organisms. But these names vary according to the language, country and
 region. The evolutionary relationships are not depicted in those names. Therefore
 scientists wanted to avoid this situation and to name them using a common name.
-y
 Binomial nomenclature
 A successful nomenclature was introduced by a Swedish natural scientist called
 Carolus Linnaeus in 1753. As it contains two epithets for an organism, it is known
@@ -877,7 +807,6 @@ The methodology to name an organism is regulated by International Commission
 on Botanical Nomenclature (ICBN) and International Commission on Zoological
 Nomenclature (ICZN).
 The standards of binomial nomenclature
-y
 y The scientific name of a species or species name is composed of two epithets.
 y The first epithet is generic name and the second epithet is the specific epithet.
 y The species name is given in Latin or Greek.
@@ -889,20 +818,11 @@ For extra knowledge
 For extra knowledge
 For extra knowledge
 • Few important scientific names
-Man
 Asian Elephant
 Jungle Fowl
 Asoka Pethiya
 Blue Lotus
-Na
 Coconut
--
--
--
--
--
--
--
 Homo sapiens
 Elephas maximus
 Gallus lafayetti
@@ -910,7 +830,6 @@ Puntius asoka
 Nymphaea stellata
 Mesua nagassarium
 Cocos nucifera
-24
 For free distribution
 Activity 13.4
 Exhibit scientific names of few plants found in your school garden.
@@ -930,16 +849,13 @@ y Kingdom Plantae is divided into two groups considering the fact that
 flowering and non flowering.
 y Kingdom Animalia is divided into two groups considering the fact that
 the presence or absence of the vertebral column.
-y
 Invertebrates again can be divided into phyla such as Cnidaria, Annelida,
 Mollusa, Athropoda and Echinidermata.
 y Vertebrates are divided into groups like Pisces, Amphibia, Reptilia, Aves
 and Mammalia.
 y Living organisms are named scientifically using binomial nomenclature.
-25
 For free distribution
 Exercise
-(1)
 State different classification systems of organisms and the scientists
 who introduced them.
 Classification System
@@ -947,20 +863,16 @@ Scientist
 ……………………………........ …………………………………..
 ……………………………........ …………………………………..
 ……………………………........ …………………………………..
-(2)
 Compare differences between natural and artificial classification
 systems.
-(3)
 State 3 domains and organisms belong to them.
 Domains
 Organisms
 ……………………………........ …………………………………..
 ……………………………........ …………………………………..
 ……………………………........ …………………………………..
-(4)
 State the uses of the coral reefs which is a creation of an organism
 belong to phylum Cnidaria.
-(5)
 Classify below mammals using a tree diagram.
 Bat, Whale, Monkey, Rat, Bear
 Classification
@@ -980,7 +892,6 @@ Technical terms
 - •ÒÍ¢usi¼PÒ
 - wmDIaGjxYSka
 - oaùmo kdulrKh - C¸ ö\õØö£¯Ÿk
-26
 For free distribution
 Continuity of life 14
 Biology
@@ -988,8 +899,6 @@ Biology
 The life process that gives rise to a new generation from an existing generation is
 referred to as reproduction. Reproduction is a characteristic feature of organisms. It
 is essential to maintain the continuity of life. Reproduction is of two types,
-²
-²
 Asexual Reproduction
 Sexual Reproduction
 ² Asexual reproduction
@@ -1017,7 +926,6 @@ more or less like maternal organism
 mixed characteristics of parents
 ² No production of gametes
 ² Gametes are produced
-27
 For free distribution
 ² Bulbils
 Special reproductive structure formed by a modification of a vegetative bud or a
@@ -1029,8 +937,6 @@ Vegetative propagation, storage of food and spending dormant period in adverse
 climatic conditions are some functions of underground stems. Underground stems
 are categorized into four types according to the external features.
 They are;
-(I)
-(II)
 Rhizome - E.g. :- Ginger, Turmeric, Cannas, Araththa
 Corm - E.g. :- Big rooted Taro yam(Habarala/Nersshembu), Cocoyam
 (Gahala/Shembu),Taro, Elephant foot yam
@@ -1052,7 +958,6 @@ propagation. This can be done in several ways.
 ² Layering
 ² Grafting
 ² Tissue culture
-29
 For free distribution
 Rooting of stem cuttings
 New plants can be obtained by planting stem cuttings of a mother plant. It is more
@@ -1063,7 +968,6 @@ Assignment 14.1
 ² Find out and record various agro-chemicals in the market that are used to
 promote rooting of twigs.
 ² Prepare a list of plants that cannot be propagated by stem cuttings.
-²
 Investigate the features of a twig that should be selected for quick rooting.
 Layering
 Initiate rooting while it is still attached to the mother plant is known as layering.
@@ -1085,7 +989,6 @@ e.g. :- Pomegranate, Lemon
 Ground layering
 Aerial layering
 Figure 14.2 - Types of Layering
-30
 For free distribution
 Following are some advantages of layering.
 ² Plants that do not produce seeds can be propagated successfully.
@@ -1100,9 +1003,6 @@ known as grafting. Two parts of the plants grafted are mentioned below.
 ^1& Stock
 The rooted part of the plant is known as stock. Following are the characteristics that
 should be shown by a stock.
-”
-”
-”
 ^2& Scion
 Bearing a strong root system.
 Having a uniform growth.
@@ -1110,7 +1010,6 @@ Withstanding environmental changes and diseases.
 The twig or the bud taken from another plant and grafted to a stock is known as
 scion. Following are the characteristics that should be shown by a scion.
 ” Should be a variety of good characteristics
-”
 Should be free from pests and diseases
 In the process of grafting, stock and scion are fused together by their cambium.
 Therefore grafting can be done only on the dicotyledonous plants, which have
@@ -1128,7 +1027,6 @@ grafting knife.
 re-wrap keeping the bud open.
 ² Cutting the stem of the stock about 15 cm above, from the bud after
 about three weeks.
-31
 For free distribution
 Figure 14.3 – Steps of bud grafting
 There are several types of bud grafting according to the shape of the cut on the
@@ -1144,7 +1042,6 @@ twig which has no tender leaves, flowers or fruits).
 ² Wrapping the place from bottom to top using polythene strips.
 ² Removing the wrap when the twig is observed to be growing.
 Figure 14.4 – Steps of twig grafting
-32
 For free distribution
 According to the shapes of the cuts of the edges of stock and scion several types of
 twig grafting can be done.
@@ -1179,15 +1076,9 @@ callus, which is grown from the vegetative tissue introduced.
 further.
 ^4& Gradually let the new plantlets to get adapted to natural conditions to be
 cultivated in the field.
-33
 For free distribution
 Following are some advantages of tissue culture.
 Figure 14.5- Steps of tissue culture
-”
-”
-”
-”
-”
 Production of offsprings which are identical to mother plant.
 Propagating a large number of plants at the same time.
 Production of a large number of plants in a short period of time.
@@ -1198,14 +1089,8 @@ Assignment 14.2
 ² Prepare a list of places, where tissue culture is practising in Sri Lanka, using
 various sources.
 If possible, visit such a place and study the process of tissue culture.
-²
 ² Name the plants, which are mostly produced by tissue culture in Sri Lanka.
 Advantages of vegetative propagation
-”
-”
-”
-”
-”
 Ability of propagating plants that do not produce seeds successfully.
 Ability of having offsprings that are identical to mother plant.
 Propagation of plants that bear fruits early.
@@ -1213,12 +1098,10 @@ Ability of propagating selected plants which are resistant to diseases and
 pests.
 Ability of generating plant varieties which withstand adverse
 environmental conditions.
-34
 For free distribution
 Disadvantages of vegetative propagation
 ” New varieties are not evolved
 Sexual reproduction of plants
-²
 Seeds are produced by fusion of gametes produced in sexual structures in matured
 plants. These seeds can grow into new plants.
 Flower
@@ -1232,38 +1115,18 @@ or pedicel. There are four principle parts of a flower, which are given below.
 Stigma
 Anther
 Filament
-m
-u
-i
-c
-e
-o
-r
-d
-n
-A
 Petals
 Sepals
 Receptacle
 Figure 14.6 – Longitudinal section of a typical flower
 Pedicel
 Style
-m
-u
-i
-c
-e
-o
-n
-y
-G
 Ovary
 Calyx
 Calyx is comprised of several sepals. This is the outer-most part of a flower. Calyx
 is the whorl of sepals located on the receptacle at the tip of the flower stalk (pedicel).
 This is green in colour. This protects the flower parts, when the flower is in bud
 stage.
-35
 For free distribution
 Corolla
 Corolla is comprised of a whorl of petals, and is located inner to the calyx. This
@@ -1280,7 +1143,6 @@ three parts, named stigma, style and ovary. Ovules are located in the ovary. Ovu
 are the female gamete cells of a flower.
 Activity 14.4
 • Collect some flowers. Observe and identify their parts using a hand lens.
-•
 Invert a shoe flower and cut longitudinally across the stalk and draw a
 labelled diagram.
 ² Bisexual flowers
@@ -1302,7 +1164,6 @@ E.g. :- Pumpkin, Corn, Coconut, Bitter gourd
 When staminate flowers and pistilate flowers are born separately on two plants,
 they are called dioecious plants.
 E.g. :- Papaw, Vallisneria
-36
 For free distribution
 Pollination
 The process of depositing matured pollen of a flower on the stigma of the flower of
@@ -1325,7 +1186,6 @@ Figure 14.8 - Cross-pollination
 to mix
 Cross-pollination
 characteristics of
-It
 helps to give rise to a strong new
 generation with new characteristics. Therefore some flowers are adapted to avoid
 self-pollination and promote cross-pollination. Some of those adaptations are
@@ -1339,7 +1199,6 @@ Self – Sterility
 Fruits are not developed when pollen of a flower is deposited on the stigma of the
 same flower.
 E.g. :- Passion fruit
-37
 For free distribution
 Hercogamy
 This is the positioning of stamens and stigma of a flower at a distance.
@@ -1375,14 +1234,12 @@ insects for the process of pollintation.
 ” Stamens and stigma are located in such a way, that they are easily contacted
 with animals
 ” Flowers having shapes that cheat insects
-38
 For free distribution
 Some examples for flowers pollinated by animals are passion fruit, winged bean,
 Kathurumurunga /Agaththi
 Kathurumurunga /Agathi
 Thunbergia
 Figure 14.10- Flowers pollinated by animals
-Wind
 Flowers pollinated by wind are referred to as aerophilous or anemophilous
 flowers. Such flowers usually locate separately as staminate and pistilate flowers.
 Aerophilous flowers show following adaptations for successful pollination.
@@ -1394,9 +1251,7 @@ Aerophilous flowers show following adaptations for successful pollination.
 Examples for flowers pollinated by wind are Paddy, Corn, Grass and Coconut
 Paddy
 Figure 14.11-Flowers pollinated by wind
-Corn
 Coconut
-39
 For free distribution
 Water
 Flowers pollinated by water are referred to as hydrophilous flowers. Such flowers
@@ -1415,12 +1270,10 @@ known as artificial pollination. This can be done with fingers or with a brush.
 E.g.:- Anthurium, Passion fruit
 Figure 14.13 - Performing artificial
 pollination
-40
 For free distribution
 Fertilization
 meiosis
 meiosis
-ovum
 ovule
 ovary
 ovule
@@ -1436,7 +1289,6 @@ solution on the stigma and germinates.
 • Pollen tube grows through the style towards an ovule in the ovary.
 • The male gamete in the pollen cell fuses with the ovum in the ovary and this
 phenomenon is known as fertilization.
-41
 For free distribution
 Production of fruits and seeds
 After fertilization zygote develops to form an embryo. The flower undergoes several
@@ -1469,10 +1321,8 @@ below.
 • By wind
 • By explosive mechanism
 Assignment 14.3
-•
 Identify and name the agent of dispersal of fruits that you come across.
 • Mention two adaptations that each fruit has for its method of dispersal.
-42
 For free distribution
 Dispersal of fruits and seeds by animals
 Fruits and seeds that are dispersed by animals may have following adaptations.
@@ -1502,10 +1352,8 @@ E.g. :- Mahogani, Hora/Ennei
 E.g. :- Orchid
 • Production of fruits and seeds in large numbers.
 E.g. :- Grass, Mahogni, Milk weed (Wara/Erukkalai), Cotton
-43
 For free distribution
 Cotton
-Hora
 Mahogani
 Grass
 Figure 14.16 - Fruits and seeds dispersed by wind
@@ -1525,7 +1373,6 @@ Dispersal of fruits and seeds by explosive mechanism
 Pericarp of the fruit of some plants explodes and the seeds are dispersed far away.
 Touch, moisture or dry weather conditions can cause explosion.
 E.g. :- Rubber, Ladies fingers, Koodalu, Red bead (Madatiya/ Manjadi)
-44
 For free distribution
 Rubber
 Madatiya/Manjadi
@@ -1547,7 +1394,6 @@ are fulfilled. This condition is known as dormancy.
 Seeds show dormancy as an adaptation for adverse environmental conditions.
 Following factors affect the dormancy of seeds.
 1) Embryo being not matured
-2)
 Impermeability of testa for water or oxygen
 Various methods are practised to remove the dormancy of seeds before germinating
 them. Some of them are mentioned below.
@@ -1556,21 +1402,15 @@ them. Some of them are mentioned below.
 3) Removing the seed coat E.g. - Orange seeds
 4) Keeping the seeds in hot water E.g. - Lead tree (Ipil Ipil)
 5) Gently cracking the seed coat E.g. - Nelli/Nellikai seeds
-45
 For free distribution
 Activity 14.5
 Design a suitable activity to investigate the external factors for seed germination.
 For extra knowledge
 Seed germination occurs mainly in two ways.
-1)
-2)
 Hypogeal germination
 Epigeal germination
-the
 Hypogeal germination
 Here,
-seed
-when
 germinates, plumule emerges
 up from the soil, but cotyledon
 does not emerge up from the
@@ -1592,7 +1432,6 @@ emerges up from the soil,
 cotyledons also emerge up
 from the soil. Moreover,
 cotyledons produce food
-in
 by photosynthesis
 addition to supply stored
 food for
@@ -1601,10 +1440,8 @@ in its early stage. Most
 dicotyledonous plants show epigeal germinaton
 E.g. :- Bean, Tamarind
 Figure 14.20- Epigeal germination
-46
 For free distribution
 14.3 Reproduction of man
-²
 Puberty (Adolescence)
 Sexual maturity or attaining adolescence is referred to as puberty. Secondary sexual
 characteristcs which differentiate males and females begin to appear from the
@@ -1633,7 +1470,6 @@ Oestrogen and Progesterone are responsible for this.
 ² Process of reproduction
 Reproductive cells or gametes should be produced for the process of reproduction.
 This occurs in reproductive systems.
-47
 For free distribution
 Male reproductive system
 Main parts of the male reproductive system
@@ -1669,7 +1505,6 @@ Epididymis
 Testes
 Scrotum
 Figure 14.21 - Male reproductive system
-48
 For free distribution
 Functions of male reproductive system
 Production of sperms begins when a male attains his puberty. Sperms are formed
@@ -1695,18 +1530,13 @@ reason for testes to be in a sac called scrotum
 out side the body. Matured sperm is motile and
 consists of three parts named head, body and
 tail.
-Head
-Neck
-Body
 Activities of male reproductive system
 ■ Production of sperm cells
 ■ Ejection of sperms into female reproductive
 system
 ■ Production of Testosterone
-Tail
 Figure 14.23 - Structure of a sperm
 under electron microscope
-49
 For free distribution
 Female reproductive system
 Main parts of the female reproductive system
@@ -1736,7 +1566,6 @@ Urethra
 Vulva
 Vagina
 Figure 14.24 - Location of female reproductive system
-50
 For free distribution
 Fallopian tube
 Lumen of uterus
@@ -1762,7 +1591,6 @@ Corpus luteum
 Developing Corpus luteum
 Released ovum
 Figure 14.26 - Cross section of an ovary with various stages of ovum
-51
 For free distribution
 Activities of female reproductive system
 ² Developing ova which are the female reproductive cells
@@ -1802,7 +1630,6 @@ This is the initial phase. Under the influence of Follicle Stimulating Hormone (
 secreted by pituitary, a primary follicle in the ovary develops to form a graafian
 follicle, which is ready to release an ovum. This takes about 14 days. During this
 phase, ovary secrets Oestrogen.
-52
 For free distribution
 • Luteal Phase
 This is the final phase. When graafian follicle is matured, it bursts and the ovum
@@ -1834,7 +1661,6 @@ This is the initial phase. If fertilization does not take place, level of Proges
 decreases. This causes the degradation of the wall of uterus and it is expelled out
 from the body through vagina with blood. This is referred to as menstrual flow and
 occurs for about four days.
-53
 For free distribution
 • Proliferation phase
 This is the second phase. Degraded wall of uterus starts to re-build because of the
@@ -1845,11 +1671,9 @@ This is the final phase. Uterine wall thicknes and blood supply also increase. G
 on the uterine wall are activated and it becomes secretory. This happens because
 of the influence of hormone Progesterone. It takes about 14 days for this. Body
 temperature also increases slightly during this period.
-370C
 Day 4
 Day 14
 Day 28
-360C
 Figure 14.29 - Changes of body temperature during
 menstrual cycle
 ² Fertilization and Implantation
@@ -1859,7 +1683,6 @@ part of fallopian tube. Then one of the sperms fuses with the ovum passing down
 towards uterus. Here nucleic matter of the ovum and the sperm fuses together. This
 phenomenon is called fertilization.
 Figure 14.30 - Fertilization of a sperm and an ovum
-54
 For free distribution
 Fertilized ovum is referred to as zygote. While it is rolling towards uterus, it divides
 to increase the number of cells. Then it is known as morula. Morula disintegrates the
@@ -1891,17 +1714,9 @@ between the mother and the foetus. Though nutrients, oxygen and agents of diseas
 blood exchange does not occur through umbilical cord. Removal of excretory
 products and carbondixoide also occurs through umbilical cord. Principle changes
 in foetal development with time are given in the table below.
-55
 For free distribution
 Time period
 (Months)
-03
-04
-05
-06
-07
-08
-09
 Table : 14.2- Principle changes of foetus with time
 Principle changes of foetus with time
 ■ Takes human form
@@ -1913,7 +1728,6 @@ parts
 ■ Hair begins to grow
 ■ Foetus is completely covered with hair
 ■ Mother can feel the movements of foetus for the first
-time
 ■ Heart beat of foetus can observe from out side
 (average rate of heart beat is 120-140 per minute)
 ■ Eyebrows and eyelashes have developed
@@ -1925,13 +1739,6 @@ time
 ■ Testes are positioned in scrotum
 ■ Body shows a full grown nature
 ■ Weight of foetus is about 2
-- 3
-1
-2
-kg
-1
-2
-56
 For free distribution
 Placenta
 Umbilical Cord
@@ -1942,7 +1749,6 @@ Cervix
 Bladder
 Vagina
 Figure 14.32 - Development of foetus in uterus
-Anus
 ² Child birth or Parturition
 When it is close to child birth, head of the foetus in uterus, turns towards vagina.
 After completion of development for about 280 days, foetus is pushed outside
@@ -1958,7 +1764,6 @@ Hormonal co-ordination
 Human reproduction process is completely regulated by hormones. This can be seen
 in both males and females. Here several hormones such as FSH, LH, Testosterone,
 Oestrogen, Progesterone, secreted by several endocrine glands are important.
-57
 For free distribution
 14.4 Sexually transmitted diseases
 Diseases transmit from one person to another, mainly because of a sexual contact and
@@ -1987,7 +1792,6 @@ AIDS is transmitted by sexual secretions and blood. To keep off from this diseas
 risk activities and vectors should be avoided.
 It is possible to avoid sexually transmitted diseases by being responsible during
 sexual activities.
-58
 For free distribution
 Summary
 ² Reproduction of organisms is of two types. They are sexual reproduction
@@ -2016,7 +1820,6 @@ fertilization of a sperm and an ovum.
 matured females is menstrual cycle.
 ² Gonorrhoea, Syphilis, Herpes and AIDS are some of the diseases that are
 sexually trasmitted.
-59
 For free distribution
 Exercises
 (1) Mention the differences between sexual reproduction and asexual reproduction.
@@ -2045,25 +1848,13 @@ occur .
 ^8& Enlist the changes in males and females during puberty.
 Changes occur in males
 Changes occur in females
-60
 For free distribution
 (9) Given below is a diagram of a female reproductive system. Name the parts
 indicated
 (10) Given below is a diagram of a male reproductive system. Name the parts
 indicated.
-61
 For free distribution
 (11) A line diagram of a typical flower is given below. Name the parts indicated.
-J
-H
-G
-F
-E
-A
-B
-C
-I
-D
 Reproduction
 Asexual reproduction
 Technical terms
@@ -2076,12 +1867,10 @@ Vegetative propagation
 Tissue culture
 Pollination
 Fertilization
-Seed
 dormancy
 Zygote
 Foetus
 mgl frdamKh
--
 - mrd.Kh
 - ixfiapkh
 - îc iqma;;dj
@@ -2097,17 +1886,14 @@ CÚ¨ö£¸UP®
 - CøÇ¯ ÁÍº¨¦
 - P¸UPmhÀ
 P¸UPmhÀ
--
 - ÂzxUPÎß
 EÓ[S{ø»
 - ~P®
 - •vº ‰»Ä¸
-62
 For free distribution
 Hydrostatic pressure
 and its applications
 Physics
-15
 15.1 Pressure
 Let us review what you have previously learnt about the pressure experienced by
 surfaces due to solid objects.
@@ -2115,8 +1901,6 @@ Pressure is the force acting on a unit area.
 Pressure =
 Perpendicular force applied (F)
 area (A)
-F
-A
 The unit of pressure is Newtons per square meter (Nm-2).
 As a tribute to the French scientist Blaise Pascal, this unit
 has been named as the Pascal (Pa).
@@ -2128,19 +1912,15 @@ area of the bottom of the box is 0.2 m2, find the pressure exerted on the surfac
 the table under the box.
 Pressure =
 Force
-Area
 400 N
-=
 0'2 m2
 = 2000 Pa
-63
 For free distribution
 Example 2
 The pressure exerted by a pile of soil distributed over an area of 8 m2 of the ground
 is 150 Pa. What is the force exerted on the ground due to the pile of soil?
 Pressure =
 Force
-Area
 Force = Pressure × area
 = 150 N m-2 × 8 m2
 = 1200 N
@@ -2168,7 +1948,6 @@ observe that the water pressure acts in every
 direction.
 Figure 15.1 – Polythene bag with holes
 filled with water
-64
 For free distribution
 Take a plastic bottle with a height of
 about 25 cm, make several holes at
@@ -2176,12 +1955,10 @@ the same level near the bottom and fill
 it with water. You will see water
 exiting the bottle as shown in Figure
 15.2. You will notice
-the
 horizontal distance traveled by water
 coming out of every hole is the same.
 This is because the pressure at the
 same level of a liquid is the same.
-that
 Figure 15.2 – Set-up for comparing the hydrostatic
 pressure at the same level
 Now let us find out how the height of the
@@ -2204,19 +1981,12 @@ higher. Therefore, it can be concluded that the pressure in a liquid increases w
 the depth of the liquid.
 Let us engage in Activity 15.1 in order to find out how the pressure of a liquid
 depends on the shape of the liquid column.
-65
 For free distribution
 Activity 15.1
 Dependence of liquid pressure on the shape of the water column
-a
-b
-c
-d
-e
 Tubes of
 various
 shapes
-PVC
 tubes
 Figure 15.4 - Investigating the dependence
 of the shape of the water column on the liquid
@@ -2229,15 +1999,8 @@ Figure 15.4. Fix them to a
 PVC tube with closed ends as
 shown, and fill the system
 with water. Record
-the
 vertical heights of the water
 columns in each tube.
-Tube
-a
-b
-c
-d
-e
 You will notice that the height of the liquid column of each of the tubes is the same.
 It is clear from the above experiments that the pressure at the equal levels of a liquid
 is the same. Therefore the pressure at the places where all the tubes are fixed to the
@@ -2254,7 +2017,6 @@ column.
 (iii) At a given point in a liquid, the pressure is the same in all directions.
 (iv) Liquid pressure depends on the vertical height of the liquid column. It does not
 depend on the shape of the liquid column.
-66
 For free distribution
 If the height of the liquid column is h and the density of the liquid is ρ, the weight
 of the liquid column above a unit area of the bottom surface of the container is hρg.
@@ -2269,8 +2031,6 @@ any other depth of a container. If there is a liquid column of height h above an
 point in a liquid as shown in Figure 15.5, then the liquid pressure P at that point is
 given by,
 P = h ρ g
-h
-ρ
 Figure 15.5 - Pressure at a point
 situated at a depth h in a liquid
 When the unit of h is meters (m), the unit of ρ is
@@ -2283,21 +2043,14 @@ At a certain location, the depth of a certain point in a lake is 1.5 m. Find the
 exerted by the water at the bottom of the lake at this location. (Density of water =
 1000 kg m-3, g = 10 m s-2)
 Pressure
-=
-=
-=
 h ρ g
 1.5 m × 1000 kg m-3 × 10 m s-2
 15 000 Pa
-67
 For free distribution
 Example 2
 The depth of a certain region of the sea is 10 m. Find the pressure exerted at this
 region by the sea water. (Density of sea water = 1050 kg m-3, g = 10 m s-2).
 Pressure
-=
-=
-=
 h ρ g
 10 m × 1050 kg m-3 × 10 m s-2
 105 000 Pa
@@ -2306,12 +2059,9 @@ Liquids do not get compressed by forces exerted on them. Therefore, the pressure
 exerted at one point in a liquid can be transmitted to another point in the liquid.
 A machine constructed to operate based on this principle is known as hydraulic
 press. Figure 15.6 illustrates the working principle of a hydraulic press
-20 N
 piston
-A
 10 cm2
 piston
-B
 200 cm2
 400 N
 Figure 15.6 - Hydraulic press
@@ -2319,15 +2069,10 @@ It consists of a liquid volume trapped by two pistons A and B on either side of 
 cylindrical liquid columns. Assume that the area of piston A is 10 cm2 and the area
 of piston B is 200 cm2. If a force of 20 N is applied on piston A, the pressure it
 exerts on the liquid,
-P =
-F =
-A
-20 N
 10-3 m2
 = 2 × 104 N m-2
 = 20 000 N m-2
 = 2 N cm-2
-68
 For free distribution
 This pressure is transmitted to piston B through the liquid. Therefore, pressure at
 piston B is also 2 N cm-2. That is, the fluid exerts a force of 2 N vertically upwards
@@ -2362,7 +2107,6 @@ A jack is used to lift one side of a vehicle when a wheel of the vehicle needs t
 detached. Out of the many types of jacks available, the type that is most frequently
 used is the hydraulic jack. such a jack shown in the figure 15.8 . The hydraulic jack
 also operates on the principle of pressure transmission.
-69
 For free distribution
 Here also a force is applied on a small piston. The pressure caused in the oil by this
 force is transmitted to the large piston through the oil, lifting one side of the vehicle.
@@ -2385,7 +2129,6 @@ are pressed to apply a pressure on the break-discs or break-drums. Since the
 cross-sectional area of the slave cylinder is larger than that of the master cylinder,
 the force applied on the break-pads by the slave cylinder is greater than the force
 applied by the driver on the break-pedal.
-70
 For free distribution
 Exercise 15.1
 (1) The pressure exerted at the bottom of a container due to a liquid inside
@@ -2410,7 +2153,6 @@ rise to a pressure is when a compressed gas attempts to expand. From the activit
 described below you can easily see that a compressed a gas causes a pressure.
 Activity 15.2
 Figure 15.10 – Investigation on gas pressure
-71
 For free distribution
 ● Pour water into a U-tube as shown in Figure 15.10(a). Then the water levels
 in the two arms X and Y would become equal.
@@ -2439,7 +2181,6 @@ the weight of the air above that point. This pressure is known as the atmospheri
 pressure.
 The atmospheric pressure was measured for the first time by the Italian scientist
 Torricelli. The instrument he used for that purpose is shown in Figure 15.11.
-72
 For free distribution
 Vacuum
 pressure due to
@@ -2473,7 +2214,6 @@ with mercury, the height of the mercury column would remain at 76 cm. The space
 above the column would be reduced in height. If we incline the tube, even though
 the physical length of the mercury would increase, the vertical height of the mercury
 column would remain at 76 cm.
-73
 For free distribution
 While the atmospheric pressure at the sea level is 76 cm Hg, as we move up from
 the sea level, the height of the air column decreases and the atmospheric pressure
@@ -2501,14 +2241,12 @@ reducing the pressure inside the straw. The
 pressure at the liquid surface outside the
 straw is at the atmospheric pressure while the
 pressure inside the straw is less than the
-the
 atmospheric
 atmospheric pressure pushes the liquid in the
 glass into the tube and the liquid moves up
 through the straw.
 pressure. Therefore
 Figure 15.13 – Drinking with a straw
-74
 For free distribution
 (II) Removing the water in a tank using the
 siphon method
@@ -2522,8 +2260,6 @@ flow out and then the tube should be
 lowered down to of A. Thereafter, when
 the finger is removed, water starts to flow
 to tank B from tank A.
-A
-B
 Figure 15.14 – Syphon
 method
 The pressure at the end of the tube in A
@@ -2533,19 +2269,16 @@ is exposed to the atmosphere, the pressure there is equal to the atmospheric
 pressure. Therefore, the higher pressure in tank A, pushes the water to the other
 end of the tube at tank B which has a lower pressure.
 (III) Action of the rubber sucker
-the
 two surfaces
 Atmospheric pressure
 When a rubber sucker is pressed
 onto a glass surface as shown in
 Figure 15.15, most of the air
-is
 between
 removed leaving only a little air
 in between the sucker and the
 glass surface. Then, since the
 pressure inside the rubber sucker
-is
 the atmospheric
 pressure outside, the sucker is
 held pressed to the surface by the
@@ -2553,29 +2286,20 @@ atmospheric pressure. The rubber
 sucker would function properly
 only if there is no air flow between the edge of the sucker and the glass surface.
 Figure 15.15 – Rubber sucker
-than
-less
-75
 For free distribution
 Example
-(1)
 The atmospheric pressure at sea level is 76 cm Hg. Taking the density of
 mercury as 13600 kg m-3 acceleration due to gravity as 10 m s-2.
 (i) find the atmospheric pressure in Pascals.
 (ii) find the height of a water column that can be balanced by the atmospheric
 pressure. (Density of water is 1000 kg m-3).
 Answer
-¸'
 Atmospheric pressure = h × ρ × g
-P
 = (76 / 100 m ) × (13600 kg m-3) × (10 m s-2)
 = 103 360 Pa
-¸¸'
 If the height of the water column is h,
 h ρ g = 103360
 h × 1000 × 10 = 103360
-h
-h
 = 103360 / 10000
 = 10.3360 m
 15.4 Floatation
@@ -2591,7 +2315,6 @@ its weight in air. This is becuase water exerts an upward force on objects that 
 immersed in water. This upward force is known as the upthrust. Not only water,
 any fluid exerts an upthrust on objects that are immersed or upthrust exerts on
 floating bodies too in that fluid.
-76
 For free distribution
 Activity 15.3
 • Suspend a piece of metal on a spring balance as shown in Figure 15.16 (a) and
@@ -2615,7 +2338,6 @@ decreased. According to the explanation given regarding the figure (c), the
 spring balance reading decreases when an upward force is acting on the object.
 Therefore, this confirms that an object immersed in a liquid (fluid) experiences
 an upward thrust exerted by the liquid.
-77
 For free distribution
 Activity 15.4
 • Get a cubic shaped piece of metal and mark by a line where its volume is
@@ -2625,17 +2347,12 @@ divided into two equal parts.
 • Now submerge the metal cube in water to each of the levels indicated by the
 figures 15.17(a), (b), (c) and (d) and record the spring balance readings and
 the weight of the beaker together with the displaced water each time.
-(a)
-(b)
-(c)
-(d)
 Figure 15.17 – Set-up for measuring the upthrust
 Complete the table given below using your measurements.
 Stage
 Spring
 balance
 reading
-(N)
 Weight of beaker
 with displaced
 water (N)
@@ -2646,7 +2363,6 @@ near the water surface
 (d) -Cube fully immersed in water and far from
 the water surface
 What conclusions can you draw from the above activity?
-78
 For free distribution
 Let us assume that thereadings taken by a pupil were as given below.
 Stage
@@ -2660,14 +2376,6 @@ displaced water (N)
 and near the water surface
 (d)- Cube fully immersed in water and
 far from the water surface
-1.2
-0.9
-0.6
-0.6
-1.3
-1.6
-1.9
-1.9
 The upward thrust and the weight of the displaced volume of water calculated from
 the readings above are tabulated below.
 Stage
@@ -2678,17 +2386,9 @@ Upthrust (N)
 near the water surface
 (d) - Cube fully immersed in water and far from
 the water surface
-0
-0.3
-0.6
-0.6
 Weight of dis-
 placed volume of
 water (N)
-0
-0.3
-0.6
-0.6
 The conclusion that can be drawn from the results shown in the table above is that
 when the object is partially or fully submerged in water, the upward thrust acting on
 the object is equal to the weight of the water displaced by the object. This is known
@@ -2698,7 +2398,6 @@ When an object is partially or completely submerged in a fluid, the upthrust
 acting on it is equal to the weight of the fluid displaced by the object.
 The figure 15.18 shows how three different objects A, B and C are submerged in
 water.
-79
 For free distribution
 Figure 15.18 - Three different objects placed in water
 Object A is partially submerged and floating while object B is fully submerged and
@@ -2715,7 +2414,6 @@ sink in water.
 • Now measure the apparent weights of the three objects while A is floating,
 partially submerged, B is floating, fully submerged and C is sunk.
 Figure 15.19 - Diagram for activity 15.5
-80
 For free distribution
 Tabulate the observations and readings in the table given below. Try to fully
 submerge the floating object by applying an external force.
@@ -2728,9 +2426,6 @@ Is the object partially
 submerged and floating? /
 fully submerged and floating?
 / sunk?
-A
-B
-C
 Fill the following table with relevant calculations.
 How the object
 appeared in
@@ -2740,57 +2435,31 @@ object (N)
 Upthrust on the
 object (N)
 Object
-A
-B
-C
 What conclusion can you draw from your results?
 The following table shows the readings and observations made by a student. Let
 us investigate the results he obtained.
 Object
 Weight of the
 object (N)
-A
-B
-C
-1.1
-1.8
-2.4
 Apparent weight
 of object in water
-(N)
-0
-0
-0.5
 Is the object partially submerged
 and floating? /fully submerged and
 floating? / sunk?
 Floating
 Fully submerged and floating
-Sunk
-81
 For free distribution
 The corresponding calculations are shown in the table below.
 Object
-A
-B
-C
 How the object
 appeared in water
 Partially submerged
 and floating
 Fully submerged and
 floating
-Sunk
 Weight of the object
-(N)
-1.1
 Upthrust on the
 object (N)
-1.1
-1.8
-2.4
-1.8
-1.9
 The results obtained from this activity are stated below.
 The weight of the object that was partially submerged while floating and the weight
 of the object that was fully submerged while floating are equal to the upthrust
@@ -2812,7 +2481,6 @@ If the upthrust acting on an object fully immersed in a fluid,
 (a) is less than the weight of the object, the object sinks in the fluid.
 (b) is equal the weight of the object, the object floats in the fluid while being fully
 submerged in it.
-82
 For free distribution
 (c) is greater than the weight of the object, the object floats while partially
 submerged in the fluid so that an upthrust equal to the weight of the object acts
@@ -2841,7 +2509,6 @@ a small volume of the liquid is displaced in a high density liquid, the hydromet
 immersed to only small depth. But when it is put in a low density liquid it immerses
 more because more liquid should displace, to produce the upthrust required to
 balance it.
-83
 For free distribution
 Exercise 15.2
 (1) (i) The depth of a reservoir is 1.2 m. Calculate the pressure at the bottom of
@@ -2862,7 +2529,6 @@ immersed in water, its apparent weight is 5 N.
 (a) What is the upward thrust exerted on the piece of metal by water?
 (b) What is the weight of the water displaced by the piece of metal when it
 is completely immersed in water?
-84
 For free distribution
 Summary
 • Pressure is produced by liquids and gases as well as by solids.
@@ -2882,7 +2548,6 @@ That is, the atmospheric pressure at the sea level is equal to the pressure
 due to a mercury column of height 76 cm.
 In order to measure average value of the pressure, the mercury barometer
 and the aneroid barometer are used.
-•
 • When an object is partially or completely submerged in a liquid, an
 upthrust equal to the weight of the quantity of liquid displaced acts on the
 object by the liquid.
@@ -2893,7 +2558,6 @@ Pressure
 - mSvkh
 - A•UP®
 Hydraulic jack
--
 øj mSvk celal=j
 - }›¯À E¯ºzv
 Upthrust
@@ -2906,7 +2570,6 @@ Mercury barometer
 - riÈh jdhqmSvkudkh - Cµ\ £õµ©õÛ
 Aneroid barometer
 - ks¾øj jdhqmSvkudkh - AÛöµõ´m £õµ©õÛ
-85
 For free distribution
 Chemistry
 Changes in Matter
@@ -2922,12 +2585,10 @@ acid (H2SO4), a few pellets of sodium hydroxide (NaOH), two metal spoons, a
 moth ball (naphthalene), a box of matches, two 50 ml beakers, a Bunsen burner, a
 thermometer
 Do the activities (i), (ii), (iii) and (iv) and record the observations.
-i).
 Heat a metal spoon strongly in the Bunsen flame and take it away from
 the flame. Place a moth ball on it and observe. Close it with another
 spoon quickly. After some time observe the inner side of the spoon.
 ii). Hold a piece of cleaned magnesium ribbon with a pair of tongs and burn
-it.
 iii). Measure the initial temperature of a dilute sulfuric acid solution. Add a
 few pellets of sodium hydroxide to this solution, stir and measure the
 temperature again.
@@ -2941,7 +2602,6 @@ ii). Magnesium ribbon burned with a white bright flame leaving a white powder.
 iii). Sodium hydroxide dissolved. The container became hot. The thermometer
 reading rose.
 iv). Magnesium ribbon dissolved liberating gas bubbles. The beaker was heated.
-86
 For free distribution
 Chemistry
 Changes in Matter
@@ -2971,14 +2631,10 @@ Examples:
 4.Condensation of water vapour
 powder)
 liquid)
-gas)
-into
 droplets (gas
 liquid)
 existing
 substances
-The
-are
 undergone changes and new
 substances are formed.
 Examples:
@@ -2999,7 +2655,6 @@ substances produced by a chemical changes are known as the products.
 During a chemical reaction, reactants turn into products.
 Reactants
 products
-87
 For free distribution
 Chemistry
 Changes in Matter
@@ -3008,7 +2663,6 @@ Activity - 16.2
 Requirements:- magnesium ribbon, zinc granules, potassium permanganate,
 barium chloride, sodium sulphate, boiling tubes, test tubes, a Bunsen burner, an
 iron plate, a dry ekel , a box of matches, a pair of tongs.
-i.
 Hold a magnesium ribbon in the Bunsen flame with the pair of tongs.
 ii. Heat crystals of potassium permanganate in a boiling tube. Insert a
 glowing splint into the tube.
@@ -3032,9 +2686,6 @@ flame
 Nature of the
 products
 A white powder
-ii.
-iii.
-iv.
 According to the nature of the chemical change, they can be classified into four
 types. They are as follows.
 • Chemical combination reactions
@@ -3047,9 +2698,7 @@ the air forming magnesium oxide.
 magnesium + oxygen
 2Mg + O2
 magnesium oxide
-2MgO
 Here, two elements have combined to form a new compound.
-88
 For free distribution
 Chemistry
 Changes in Matter
@@ -3061,21 +2710,17 @@ carbon + oxygen
 carbon dioxide
 C + O2
 carbon dioxide + carbon
-CO2
 carbon monoxide
 CO2 + C
 calcium oxide + water
 CaO + H2O
 hydrogen + chlorine
-2 CO
 calcium hydroxide
 Ca(OH)2
 hydrogen chloride
 H2 + Cl2
-2HCl
 The common reaction for chemical combinations is as follows.
 A + B
-C
 ² Chemical Decomposition Reactions
 Reflect on the second reaction in Activity 16.2. In that reaction potassium
 permanganate decomposes under the influence of heat to form other compounds
@@ -3096,7 +2741,6 @@ hydrogen peroxide
 2H2O2
 water + oxygen
 2 H2O + O2
-89
 For free distribution
 Chemistry
 Changes in Matter
@@ -3105,7 +2749,6 @@ silver oxide
 silver + oxygen
 4Ag + O2
 The common reaction for chemical decompositions is as follows.
-A
 B + C
 ² Single Displacement Reactions
 Focus your attention on the third reaction of Activity 16.2. In that reaction zinc
@@ -3136,7 +2779,6 @@ AC + B
 • Double Displacement Reactions
 Consider the reaction (iv) of the Activity 16.2. In that reaction barium chloride and
 sodium sulphate react giving barium sulphate and sodium chloride.
-90
 For free distribution
 Chemistry
 Changes in Matter
@@ -3150,12 +2792,10 @@ double displacement reaction.
 A few other examples for double displacement reactions are given below.
 ferrous
 sulphate
-+
 sodium
 hydroxide
 ferrous
 hydroxide
-+
 sodium
 sulphate
 FeSO4 + 2NaOH
@@ -3165,13 +2805,11 @@ chloride
 CaCl2 + Na2CO3
 sodium
 carbonate
-+
 calcium
 sodium
 chloride
 CaCO3 + 2NaCl
 carbonate
-+
 The common reaction representing double displacement reactions is as follows.
 AB + CD
 AD + CB
@@ -3192,8 +2830,6 @@ an equation.
 magnesium + oxygen
 Mg + O2
 magnesium oxide
-MgO
-91
 For free distribution
 Chemistry
 Changes in Matter
@@ -3203,20 +2839,17 @@ elements in the reactants should be equal to their number of atoms in the produc
 Equating the number of atoms of reactants with those of the products is known as
 balancing the equation.
 Mg + O2
-MgO
 Follow the following steps to balance the above equation.
 There are two oxygen atoms in the reactants. Products contain one oxygen atom. To
 balance oxygen, magnesium oxide cannot be written as MgO2 because the formula
 of magnesium oxide produced by the above reaction is MgO. Therefore, 2 is written
 in front of MgO.
 Mg + O2
-2MgO
 When writing ‘2 MgO’, two magnesium atoms are present in the products. But
 there is only one magnesium atom on the reactant side. So, ‘2’ should come in front
 of Mg. This gives the following equation.
 2Mg + O2
 This is the balanced chemical equation of the reaction between magnesium
-2MgO
 and oxygen.
 Study carefully how the balanced chemical equation is written for the following
 reaction also.
@@ -3235,7 +2868,6 @@ Now there are 6 hydrogen atoms in the products, so write 3 as the coefficient of
 As there are six chlorine atoms in the reactants insert 2 as the coefficient of AlCl3.
 Al + 6HCl
 2AlCl3 + 3H2
-92
 For free distribution
 Chemistry
 Changes in Matter
@@ -3252,10 +2884,7 @@ Balance the following equations by using the above method.
 • N2 + H2
 • H2 + O2
 • KClO3
-Na2O
 Al2O3
-NH3
-H2O
 KCl + O2
 Assignment - 16.1
 • Consider the word equations from 1 to 5 given below.
@@ -3283,7 +2912,6 @@ iron + carbon dioxide
 sodium oxide
 b.water + sodium
 sodium hydroxide + hydrogen
-93
 For free distribution
 Chemistry
 Changes in Matter
@@ -3318,7 +2946,6 @@ So, 44 x 3 g (132 g) of carbon dioxide are formed in the above reaction.
 ² Reactions of Metals with Air
 We have seen that the objects such as nails, barbed wire and cutting tools made of
 iron rust fast. But jewellery made of gold do not tarnish even after a long period of
-94
 For free distribution
 Chemistry
 Changes in Matter
@@ -3341,11 +2968,9 @@ their oxides.
 4Na + O2
 2Mg + O2
 2 Na2O
-2MgO
 When heated in air, the surface of metals like zinc (Zn), iron (Fe) and copper (Cu)
 becomes dull. Prolonged heating turns them into the oxides.
 2Zn + O2
-2ZnO
 Metals like silver (Ag), platinum (Pt) and gold (Au) are not converted to their
 oxides. how strongly they are heated.
 Based on these facts, it can be concluded that metals differ in their readiness of
@@ -3354,7 +2979,6 @@ reacting with oxygen.
 Some metals react with cold water, hot water and water vapour at different speeds.
 Hence, it is clear that the reactively of metal towards water differ from one another.
 To confirm this, let us do activities 16.4 and 16.5.
-95
 For free distribution
 Chemistry
 Activity - 16.4
@@ -3394,7 +3018,6 @@ Iron does not react with cold water or hot water. When heated in steam it gives 
 metal oxide and hydrogen gas.
 3Fe + 4H2O
 Fe3O4 + 4H2
-96
 For free distribution
 Chemistry
 Changes in Matter
@@ -3433,7 +3056,6 @@ MgCl2 + H2
 2AlCl3 + 3H2
 ZnCl2 + H2
 FeCl2 + H2
-97
 For free distribution
 Chemistry
 Changes in Matter
@@ -3471,7 +3093,6 @@ ZnSO4 + Cu
 No reaction occurs when copper metal is added to the zinc sulphate solution.
 ZnSO4 + Cu
 No change is observed
-98
 For free distribution
 Chemistry
 Changes in Matter
@@ -3486,21 +3107,6 @@ from one another. The activity series is built up on the basis of those observat
 as well as other data. The series obtained by the arrangement of metals in the
 descending order of their reactivity is referred to as the activity series. The
 activity series is very important in the studies in chemistry.
-K
-Na
-Ca
-Mg
-Al
-Zn
-Fe
-Sn
-Pb
-H
-Cu
-Hg
-Ag
-Pt
-Au
 Activity series
 • Uses of the Activity Series
 • Activity series is useful to identify the precautions to be taken when storing
@@ -3508,7 +3114,6 @@ metals. The metals with high reactivity such as sodium (Na), potassium (K) and
 calcium (Ca) should be stored in liquids such as kerosene and liquid paraffin.
 Because of their high reactivity with air, they react with the components in air if
 they are kept exposed to air.
-99
 For free distribution
 Chemistry
 Changes in Matter
@@ -3545,7 +3150,6 @@ winds. A group of archeologists succeeded in reconstructing such a furnace
 and producing iron by smelting the iron ore. Archeological records state that
 steel for making the ceremonial sword of the Emperor of Arab had been
 brought in from ‘Serendib’.
-100
 For free distribution
 Chemistry
 Changes in Matter
@@ -3564,8 +3168,6 @@ the furnace.
 lime stone + coke + haematite
 waste gases
 fire brick
-wall
-slag
 hot air blast
 slag out
 molten iron out
@@ -3574,17 +3176,14 @@ Fig. 16.1 - Blast furnace
 During extraction of iron, following reactions occur in the blast furnace.
 • Coke burns in air forming carbon dioxide.
 C + O2
-CO2
 • Carbon dioxide gas reacts with coke giving carbon monoxide gas (CO).
 CO2 + C
-2 CO
 • Carbon monoxide reduces the iron ore (Fe2O3). This produces liquid iron.
 Fe2O3 + 3CO
 2Fe + 3CO2
 • Calcium carbonate decomposes giving calcium oxide and carbon dioxide.
 CaCO3
 CaO + CO2
-101
 For free distribution
 Chemistry
 Changes in Matter
@@ -3596,7 +3195,6 @@ SiO2 + CaO
 Al2O3 + CaO
 CaSiO3
 CaAl2O4
-slag
 The slag floats on molten iron. Molten iron and liquid slag are separately flown out.
 Assignment - 16.2
 1. Collect information about the iron industry in ancient Sri Lanka.
@@ -3621,7 +3219,6 @@ F o r
 Presently solvents that dissolve gold have been discovered. When the metal
 with impurities is dissolved in these solvents, only gold dissolves. In order to
 get the metal that has gone into the solution, it is displaced by another metal.
-102
 For free distribution
 Chemistry
 Changes in Matter
@@ -3641,10 +3238,8 @@ ZnCl2 + H2
 Zn + 2 HCl
 Fig. 16.2 presents a set of apparatus that can be used to collect hydrogen gas
 prepared by a reaction such as the above.
-cork
 conical flask
 dilute hydrochloric
-acid
 Thistle funnel
 delivery tube
 ruber tube
@@ -3654,7 +3249,6 @@ trough
 beehive shelf
 zinc granules
 Fig. 16.2 Preparation of hydrogen gas in the laboratory
-103
 For free distribution
 Chemistry
 Changes in Matter
@@ -3680,7 +3274,6 @@ gas, use about five test tubes).
 water. Introduce a lighted ekel into this test tube.
 What is your observation? The gas burns with a squeaky ‘pop’. By this, hydrogen
 gas can be identified easily.
-104
 For free distribution
 Chemistry
 Uses of hydrogen gas
@@ -3717,7 +3310,6 @@ K2MnO4 + MnO2 + O2
 2KCl + 3O2
 In the laboratory oxygen gas can be prepared by heating potassium permanganate
 using the apparatus in Fig. 16.4.
-105
 For free distribution
 Chemistry
 Changes in Matter
@@ -3752,7 +3344,6 @@ for combustion.
 • It is used to generate the oxy-acetylene flame used for welding metals.
 • Oxygen is used as a raw material in industries such as the production of
 sulphuric acid and nitric acid.
-106
 For free distribution
 Chemistry
 Changes in Matter
@@ -3786,7 +3377,6 @@ Water
 beehive shelf
 calcium carbonate
 Fig. 16.5 - preparation of carbon dioxide gas in the laboratory
-107
 For free distribution
 Chemistry
 Changes in Matter
@@ -3818,7 +3408,6 @@ well. Compare the colours of the solutions in the two test tubes.
 You will see that lime water turns more milky in the test tube containing carbon
 dioxide. Calcium hydroxide in lime water reacts with carbon dioxide in the test
 tube as follows.
-108
 For free distribution
 Chemistry
 Changes in Matter
@@ -3851,10 +3440,8 @@ s = solid
 l = liquid
 g = gas
 aq = aqueous
-e.g.
 2Mg(s) + O2 (g)
 2MgO(s)
-109
 For free distribution
 Chemistry
 Changes in Matter
@@ -3890,7 +3477,6 @@ useful for many tasks including respiration and combustion.
 • Carbon dioxide present at a percentage of about 0.03% by volume in the
 atmosphere has contributed to make the Earth suitable for living organizations.
 It also acts as a raw material for the production of food in plants by photosynthesis.
-110
 For free distribution
 Chemistry
 Changes in Matter
@@ -3902,27 +3488,18 @@ them in the laboratory.
 Exercise
 1. Opposite each of the following statements, place a tick ( ) if it is true and a
 cross ( X ) if it is false.
-( )
 i. Melting of wax is a chemical change.
-( )
 ii. A chemical change occurs in a fire place burning firewood.
-( )
 iii. Evaporation of Eau de cologne is a physical change.
 iv. Rusting of iron is not a chemical change.
-( )
 v. A chemical change occurs when a salt solution is made by dissolving
-( )
 crystals of salt in water.
 2. Identify each of the following reactions as combination, decomposition,
 single displacement and double displacement.
-i.
-ii.
 4Na + O2
 2Ag2CO3
-iii.
 Zn + H2SO4
 iv. NaCl + AgNO3
-v.
 2Na + 2H2O
 2Na2O
 4Ag + 2CO2 + O2
@@ -3939,13 +3516,11 @@ iv. Aluminum and dilute hydrochloric acid react giving aluminum chloride
 and hydrogen.
 v. Sodium carbonate reacts with dilute hydrochloric acid forming sodium
 chloride, water and carbon dioxide.
-111
 For free distribution
 Chemistry
 Changes in Matter
 4. Answer the following questions that are based on the metals given below.
 Ca, Mg, Cu, Zn, Al,
-Fe
 i. What is the metal that reacts fastest with water?
 ii. What is the metal that does not react with dilute hydrochloric acid?
 iii.Which metal effervesces fastest with dilute hydrochloric acid?
@@ -3979,7 +3554,6 @@ If the mass of haematite reduced is 100 kg, calculate,
 a. the mass of iron produced;
 b. the mass of carbon monoxide used up; and
 c. the mass of carbon dioxide released to the atmosphere.
-112
 For free distribution
 Chemistry
 Changes in Matter
@@ -3992,13 +3566,6 @@ iv. Using as raw materials to produce ammonia
 v. Making margarine from vegetable oils
 vi. Aiding respiration during diving
 vii. Supporting combustion of firewood
-( )
-( )
-( )
-( )
-( )
-( )
-( )
 9. The figure illustrates a part of a set of apparatus assembled to collect a
 certain gas.
 i. There is a fault in this set of apparatus. What is it?
@@ -4013,7 +3580,6 @@ vi.What gas could be expected to form if X is egg shells and Y is a
 solution of vinegar?
 vii. A sample of the gas in part (vi) is collected in a test tube. Write how
 it could be identified.
-113
 For free distribution
 Chemistry
 Changes in Matter
@@ -4023,19 +3589,9 @@ Condensation
 Combination
 Decomposition
 Displacement
-Rate
 Reversible reaction
 Blast Furnace
 Technical terms
--
--
--
--
--
--
--
--
--
 ils%h;d fYa%Ksh
 ksiaidrKh
 ikSNjkh
@@ -4045,25 +3601,12 @@ ixfhdackh
 Ys>%;dj
 m%;sj¾;H m%;sl%shdj
 Odrd W!Iaulh
--
--
--
--
--
--
--
--
--
 uõUPzöuõhº
 ¤›zöuk¨¦
 Jk[PÀ
 ÷\ºUøP
-¤›øP
 Ch¨ö£¯ºa]
-Ãu®
 «Ð¢ uõUP[PÒ
-Fxø»
-114
 For free distribution
 Rate of Reaction
 • Surface area of reactants
@@ -4074,19 +3617,12 @@ When a solid reacts with a liquid or a gas, the reaction occurs only on the surf
 of the solid. The reason for this is that the particles of reactants collide only on the
 surface of the solid. Let us carry out assignment 17.2, for further clarification.
 Assignment - 17.2
-2 cm
-2 cm
 y Consider a cube of marble (CaCO3 ), of a side
 2 cm, put into dilute hydrochloric acid
 solution. Calculate the surface area of marble
 that comes into contact with the acid.
-2 cm
 y Suppose that marble cube is cut into 8 small cubes, a side of each is 1cm
 in length.
-m
-c
-1
-1 cm
 y Calculate the total surface area of the marble cubes touching the acid, if
 those 8 small cubes are put into the acid solution.
 Surface area of one side of the large cube = 2 cm X 2 cm = 4 cm2
@@ -4105,12 +3641,9 @@ Accordingly it is clear that the surface area increases, when a large cube is di
 into small cubes.
 Let us carry out the activity 17.1 to find out, how surface area of reactants affects
 the rate of a reaction.
-117
 For free distribution
 Rate of Reaction
 Chemistry
-)A(
-)B(
 High pressure condition
 Low pressure condition
 Fig. 17.1
@@ -4163,12 +3696,10 @@ of manganese dioxide remains the same, it has not been consumed during the
 reaction. That is, manganese dioxide has acted as a catalyst for this reaction.
 In addition to the substances that speed up reactions, there are substances that
 reduce the rate of reactions. These are known as inhibitors.
-121
 For free distribution
 Low pressure condition
 Work, energy and power
 Physics
-18
 18.1 Work
 You have learnt before, that an object is said to have done work if its position or
 shape changed under the action of a force applied on it. Let us investigate further
@@ -4176,24 +3707,13 @@ about work.
 If we place an object on a horizontal plane as shown in Figure 18.1 and apply a
 constant force of 1 N on it until it moves a distance of 1 m along the direction of the
 force, the work done by the force is defined to be one Joule (1 J).
-1 m
-1 N
-1 N
 Figure 18.1 – Moving an object by 1 m under the action of a force of 1 N
 If a constant force of 2 N acts on the object until it moves by 1 m in the direction of
 the force, then the work done on the object is 2 J.
-1 m
-2 N
-2 N
 Figure 18.2 – Moving an object by 1 m under the action of a force of 2 N
-125
 For free distribution
 Similarly, if a constant force of 3 N acts on the object until it moves by 1 m in the
 direction of the force as shown in Figure 18.3, then the work done on the object is
-3 J.
-1 m
-3 N
-3 N
 Figure 18.3 – Moving an object by 1 m under the action of a force of 3 N
 Therefore,
 Work done by a force = Magnitude of the × distance moved in the
@@ -4214,7 +3734,6 @@ Force that mast be applied vertically upwards to lift the 40 N weight = 40 N
 Height to be lifted = 2 m
 Work done = 40 N × 2 m
 = 80 J
-126
 For free distribution
 Example 3
 The mass of an object is 5 kg. Find the work done in lifting it upwards by 3 m.
@@ -4229,20 +3748,13 @@ Work done = 50 N × 3 m
 Exercise 18.1
 Copy the table given below in your exercise book and fill in the blanks.
 Force
-20 N
 ..........
-15 N
 0.75 N
 Displacement
 of force
-2 m
 80 cm
 ...........
-8 m
-Work
-done
 .............
-24 J
 22.5 J
 ..............
 18.2 Energy
@@ -4256,7 +3768,6 @@ Magnetic energy
 Mechanical energy
 Light energy
 Sound energy
-127
 For free distribution
 Out of these different forms of energy, we will discuss mechanical energy here.
 There are two forms of mechanical energy and they are known as potential energy
@@ -4268,8 +3779,6 @@ horizontal floor so that it collides with a light trolley (B). After the collisi
 trolley would move some distance before coming to rest. Next, project the object
 with a higher velocity. Now the trolley will move a longer distance before coming
 to rest.
-B
-A
 Figure 18.4 – Pushing an object with a velocity
 In this case, part of the kinetic energy of the moving object is transferred to the
 trolley setting the trolley in motion. When a higher initial velocity is given to the
@@ -4281,18 +3790,9 @@ From these results, it is clear that the kinetic energy depends on the two facto
 velocity and mass.
 The following equation, which involves the two factors velocity and mass is used
 to calculate the kinetic energy of a moving object.
-kE
-=
-2
-mv
-1
-2
 Where, m = mass of the object
 v = velocity of the object
 = kinetic energy
-E
-k
-128
 For free distribution
 When the unit of mass is kg, and the unit of velocity is m s-1, the unit of kinetic
 energy is J (Joule).
@@ -4300,16 +3800,12 @@ Example 1
 The mass of an object is 6 kg. Calculate its kinetic energy when it is moving at a
 velocity of 4 m s-1.
 Kinetic energy =
-mv2
-=
 × 6 × 42
 = 48 J
 Example 2
 Calculate the kinetic energy of an object of mass 4 kg at an instant that it is moving
 with a velocity of 2 m s-1.
 Kinetic energy =
-mv2
-=
 × 4 × 22
 = 8 J
 Exercise 18.2
@@ -4318,7 +3814,6 @@ Exercise 18.2
 it is running at?
 (2) The kinetic energy of an object of mass 500 g is 9 J when it is moving with a
 certain velocity. Calculate the velocity of the object at that instant.
-129
 For free distribution
 Potential energy
 The energy stored in an object due to its position or due to a change in
@@ -4328,11 +3823,6 @@ object. That is, we expend some energy to bring the object to its new position. 
 energy is stored in the object as potential energy.
 Let us find the energy required to lift an object of mass 3 kg by a distance of 2 m as
 shown in Figure 18.5 .
-30N
-m
-2
-3kg
-30N
 Figure 18.5 - Doing work against gravity
 Weight of the 3 kg mass = 3 kg « 10 m s-2 = 30 N
 Force required to lift the object = 30 N
@@ -4345,7 +3835,6 @@ Work done = Weight of the object × vertical distance lifted
 Weight of the object = mass of the object × gravitational acceleration
 Since the work done is 60 J the energy stored in the object at a height of 2 m is 60
 J. That is the potential energy of the object at a height of 2 m is 60 J.
-130
 For free distribution
 Since work is done against gravitational attraction, this potential energy is
 known as gravitational potential energy.
@@ -4370,17 +3859,12 @@ time it falls.
 ² Each time observe the depth of the depression on the clay surface.
 You will observe that the depth of the depression increases as the original height
 of releasing the weight increases. The energy required to form a depression on the
-131
 For free distribution
 clay surface was given by the falling weight. Your observations will confirm that
 the energy of the weight increases as the height of the fall increases.
 It will be clear to you from this activity that the potential energy stored in an object
 increases in proportion to the height it is positioned.
 Activity 18.2
-²
-²
-²
-²
 Fill about
 th of the height of a plastic bottle with sand and allow it to fall
 from a height of about 1 m onto the clay surface.
@@ -4397,14 +3881,12 @@ applying a force, its shape changes and the work done by the displacement of the
 force is stored in the rubber band or the spring. This potential energy is known as
 elastic potential energy.
 Figure 18.7 - Stretching a spring
-132
 For free distribution
 Suppose that the bicycle riding fast along a horizontal road had to climb up a
 hill as shown in the figure 18.8. Even though the rider might not try to pedal the
 bicycle now, it is possible for the bicycle to reach the hilltop due to the velocity he
 had at first. However, his velocity would decrease as the bicycle moves upward.
 Therefore, the kinetic energy of the bicycle would gradually decrease as it moves
-up.
 If he was able reach the hilltop in this manner, the rider would be able reach the
 bottom of the hill without pedaling the bicycle. As he moves down the hill, his
 velocity would increase gradually. In turn, the kinetic energy of the bicycle would
@@ -4417,12 +3899,9 @@ a maximum value. When the bicycle started its decent after reaching the hilltop,
 its potential energy begins to decrease while the kinetic energy begins to increase.
 From this example, it would be clear to you that kinetic energy can transform into
 potential energy and potential energy can transform back into kinetic energy.
-B
-A
 Figure 18.9 - Movement of a swing
 You have seen swings in motion. When the child in the swing shown Figure 18.9,
 moves from the lowest point A to the highest point B, the kinetic energy decreases
-133
 For free distribution
 gradually. However, as she reaches a higher vertical level at B, the potential energy
 increases gradually. Therefore, as the child moves from point A to B, the kinetic
@@ -4438,19 +3917,16 @@ Potential energy = mgh
 = 300 J
 Example 2
 200 g
-4 m
 A fruit on a tree has a mass of 200 g. The vertical height to the fruit from the ground
 level is 4 m. Find the gravitational potential energy of the fruit.
 Gravitational potential energy = mgh
 = 200 kg « 10 m s-2 « 4 m
-1000
 = 8 J
 Instances where potential energy is used in daily life
 1. Water stored in high reservoirs is allowed to fall down to a lower level,
 transforming the initial potential energy of the water into kinetic energy and
 this kinetic energy of the falling water is used to rotate a turbine to generate
 electricity.
-134
 For free distribution
 reservoir
 Figure 18.10 - Potential energy is used to generate electricity.
@@ -4458,7 +3934,6 @@ Figure 18.10 - Potential energy is used to generate electricity.
 Pile is used to tighten the loose soil in construction sites before laying the foundation
 of buildings. This is done by lifting the pile to some height and releasing it to fall
 down onto the ground below.
-Pile
 Tower
 Crane
 Figure 18.11 - Pile and tower.
@@ -4470,7 +3945,6 @@ sledge-hammer at the point of release transforms into kinetic energy whereby
 it collides on the wedge with a large velocity. The kinetic energy of the sledge-
 hammer gets transferred to the wedge which passes through the piece of wood,
 separating it into pieces.
-135
 For free distribution
 Figure 18.12 - Using sledge hammer
 18.3 Power
@@ -4478,28 +3952,20 @@ The amount of work done in a unit time or the rate of doing work is known as
 power.
 If 600 Joules of work is done in 10 s,
 rate of doing work or power = 600 J
-10 S
 = 60 J s-1
 One Joule per second (1JS-1) is defined as a Watt (1W). Hence the power indicated
 above is 60W. That is the unit of power is Watt (W) .The following equation is used
 to calculate the power.
 Power =
-work
-time
-done
 spent
-(J)
-(s)
 Example 1
 The time taken to lift a mass of 5 kg to a height of 8 m is 10 s. Calculate the rate
 of doing work (power).
 Mass of object
 Weight of object
 = 5 kg
-= mg
 = 5 kg × 10 m s-2
 = 50 N
-136
 For free distribution
 Therefore, force exerted to lift the object = 50 N
 Height lifted = 8 m
@@ -4507,7 +3973,6 @@ Work done = 50 N × 8 m
 = 400 J
 Power =
 400 J
-10 s
 = 40 W
 Example 2
 What is the work done in a minute by a machine operating with a power output of
@@ -4515,11 +3980,8 @@ What is the work done in a minute by a machine operating with a power output of
 Power = 100 W
 = 100 J s
 Time = 1 minute
--1
 = 60 s
 Power =
-work
-time
 Work done during 10 s = power × time
 = 100 W × 60 s
 = 100 J s-1 × 60 s
@@ -4534,7 +3996,6 @@ work (power)?
 (ii) How long will it take to reach the maximum height?
 (iii) What is the maximum height it would reach?
 (iv) What is its potential energy at the maximum height?
-137
 For free distribution
 (3) A child of mass 35 kg climbs up a stair case to a vertical height of 4 m.
 (i) What is the amount of work he does?
@@ -4546,7 +4007,6 @@ force and the displacement along the direction of the force.
 That is, work = Magnitude of the × distance moved in the direction
 force
 of the force
-²
 If there is no energy loss, the work done is equal to the energy expended.
 ² The unit of measuring work and energy is the Joule (J).
 ² The two forms of mechanical energy are the potential energy and the kinetic
@@ -4554,18 +4014,12 @@ energy.
 ² The kinetic energy of an object depends on its mass and the velocity.
 Kinetic energy is calculated using the following equation:
 Kinetic energy } 1
-2
-mv2
 m } mass (kg)
 v } velocity (m s-1)
 There are three factors that affect the gravitational potential energy.
-1.
-2.
-3.
 Mass (m)
 Gravitational acceleration (g)
 Height (h)
-138
 For free distribution
 The following equation is used to calculate the gravitational potential energy.
 Gravitational potential energy } m g h
@@ -4573,14 +4027,9 @@ Gravitational potential energy } m g h
 ² When an object moves upwards under gravity, there is a loss in its kinetic
 energy and this lost kinetic energy is transformed into potential energy.
 Technical Terms
-Work
 Energy
 - ld¾hh
 - Yla;sh
--
--
-÷Áø»
-\Uv
 Mechanical energy
 - hdka;%sl Yla;sh -
 ö£õÔ•øÓ \Uv
@@ -4590,13 +4039,8 @@ Potential energy
 - úNj Yla;sh
 Power
 - cjh
--
--
--
 öÁ¨£\Uv
 AÊzu \Uv
-Á¾
-139
 For free distribution
 Current electricity
 19.1 Static electricity and current electricity
@@ -4635,7 +4079,6 @@ rod that was not rubbed with hair. You
 will observe that the rigifoam pieces do not get attracted to it.
 Figure 19.2 – Tiny pieces of rigifoam
 attracted to a comb charged by rubbing
-140
 For free distribution
 When some objects are rubbed, they acquire a force to attract little pieces of paper,
 dust and other light materials. Such objects acquire this attractive power through
@@ -4667,7 +4110,6 @@ When such accumulated electrostatic charges begin to move, they give rise to an
 electric current.
 In order to find out how to generate an electric current from electrostatic charges let
 us engage in Activity 1.
-141
 For free distribution
 Activity 19.1
 Items required: A piece of a PVC tube, a piece of polythene, a neon bulb,
@@ -4692,7 +4134,6 @@ When static electric charges begin to flow in this manner, it is known as an ele
 current.
 A current of electric charges flowing through a conductor is known as an electric
 current.
-142
 For free distribution
 19.2 Electricity flowing through conductors
 ² Conductors
@@ -4726,7 +4167,6 @@ Direction of flow of electrons
 Figure 19.7 - Flow of electrons through a conductor
 The negative terminal of a cell has the ability to repel electrons. Its positive terminal
 has the ability to attract electrons. Therefore, whenever the positive and negative
-143
 For free distribution
 terminals of a cell are connected by a conductor, electrons begin to flow from the
 negative terminal of the cell to the positive terminal via the conductor. This flow of
@@ -4743,38 +4183,15 @@ terminal. The directions of the electric current flow and the electron flow are
 illustrated in Figures 19.8 and 19.9.
 metallic ions
 end of the conductor
-the
 connected
 negative terminal of the
-cell
-to
 end of the conductor
-the
 connected
 positive
 terminal of
 the cell
-to
 free electron current
 Figure 19.8 – Flow of electric current through a conductor
-t
-n
-e
-r
-r
-u
-n c
-o
-t r
-c
-e
-l
-f e
-n o
-o
-t i
-c
-e
 D i r
 Direction of conventional
 current
@@ -4782,21 +4199,15 @@ Figure 19.9 – Directions of the conventional electric current
 and the free electron current
 The SI unit used to measure the electric current is known as the Ampere (A) and the
 instrument used to measure electric current is known as the ammeter
-144
 For free distribution
-(a)
-(b)
 Figure 19'10 - (a) An ammeter
 (b) Digital multimeter as an ammeter
 If we need to measure the current flowing through a conductor, it is necessary to
 connect the ammeter to the circuit in such a way that the entire current passing
 through the conductor passes through the ammeter as well.
-Cell
 Switch
-Bulb
 Ammeter
 Figure 19'11 - Connecting an ammeter to a circuit
-145
 For free distribution
 Exercise 19.1
 Mark the currents flowing through the circuits given below by arrow heads.
@@ -4821,7 +4232,6 @@ cell itself. The cell too has an electric resistance. Then a potential differenc
 across the resistance of the cell. When this potential difference is subtracted from
 the electromotive force of the cell, the potential difference that provides an electric
 current to the external circuit can be obtained.
-146
 For free distribution
 Since the potential difference between two points in a circuit is measured in Volts,
 it is also known as the voltage.
@@ -4829,14 +4239,11 @@ Figure 19'12 - A voltmeter
 The instrument used to measure the voltage is the voltmeter. In order to measure
 the potential difference between two points in a circuit, the two terminals of the
 voltmeter should be connected across the two points as shown in the figure 19.13.
-Cell
-Bulb
 Swich
 Figure 19.13 - Connecting a voltmeter to a circuit
 Voltmeter
 In order to verify that there should be a potential difference between the terminals
 of a cell for a current to flow, let us engage in the following activity.
-147
 For free distribution
 Activity 19.2
 Items required: two dry cells, conducting wires, a voltmeter, an ammeter, a bulb
@@ -4859,35 +4266,15 @@ Connection 1
 Connection 2
 Figure 19.14 (a) Circuit connections for Activity 19.2
 Connection 3
-V
-+
-+
---
-A
-V
-+
-+
--
--
-A
-V
-+ +
--
--
-A
 Circuit 1
 Circuit 2
 Circuit 3
 Figure 19.14 (b) Circuit diagrams for each of the connections of 19.14 (a)
-148
 For free distribution
 ² Tabulate your results in the table given below.
 Connection Current
 Potential difference
 Bulb lights up/does not light up
-1
-2
-3
 In the first instance, the positive terminals of the two cells are connected to the two
 terminals of the bulb. Therefore there is no potential difference across the bulb. As
 there is no potential difference, there won’t be a current flow through the bulb. This
@@ -4907,7 +4294,6 @@ conductor
 When a potential difference is applied across a conductor, a current flows through it.
 Let us now investigate whether there is a relationship between the current passing
 through a conductor and the potential difference across the conductor.
-149
 For free distribution
 Activity 19. 3
 Items required: a nichrome wire coil, a voltmeter, an ammeter, a rheostat, two
@@ -4923,11 +4309,7 @@ The circuit symbol used for the rheostat is
 Figure 19.15 - Rheostat
 ² Connect the circuit shown in Figure 19.16
 using the items above.
-V
 Nichrome wire coil
-6V
-s
-A
 Figure 19'16 - Circuit diagram for the activity
 ² Close the switch (s) and quickly obtain the readings of the voltmeter and the
 ammeter and turn off the switch. The reason for quickly turning off the switch
@@ -4939,16 +4321,9 @@ readings.
 By changing the current through the circuit using the rheostat, obtain readings for
 the potential difference across the nichrome coil and the current and tabulate the
 results in the table given below.
-150
 For free distribution
 Voltage difference (V)
 Current (A)
-V/A
-1
-2
-3
-4
-5
 Find the ratio Voltage (V)/Current (I) for each data set. You will observe a constant
 value for the above ratio if the temperature of the coil was maintained at a constant
 value.
@@ -4964,24 +4339,19 @@ This constant is known as the electrical resistance of the
 conductor.
 The unit for measuring the resistance is the Ohm (Ω).
 That is" V
-I
 conductor"
 = Where R is the resistance of the
-R
 Figure 19.17 – George Simon
-Ohm
 The unit for measuring the resistance is the Ohm (Ω).
 If a current of one Ampere (1A) passes through a conductor for a potential difference
 of one Volt (1V) across it, then its resistance is defined to be one Ohm (1Ω).
 Ohm’s law can be expressed in the form of an equation as V=IR, where V is the
 potential difference, I is the current and R is the resistance.
 The instrument used to measure the resistance is known as the Ohm meter.
-151
 For free distribution
 If a graph is plotted using your data, with the voltage difference in the y axis and the
 current in x axis it will take the form shown by Figure 19.18 .
 V (V)
-o
 I (A)
 Figure 19'18 - The way that current varies with the potential
 difference
@@ -5006,7 +4376,6 @@ The resistance of a segment of a conductor depends on the following factors.
 (iii) Material composition of the conductor
 Let us do Activity 4 in order to investigate the influence of each of the above factors
 on resistance.
-152
 For free distribution
 Activity 19.4
 Items required: three segments of nichrome wire of length 1 m having different
@@ -5019,7 +4388,6 @@ board of wood with a length of about 1 m and a breadth of about
 Connect the circuit shown in Figure 19.19 using the items above.
 Connect the terminal X to the end of each conductor and record the current passing
 through each conductor.
-X
 Figure 19.19 - Circuit for studying the factors that affect the
 resistance of a conductor
 In the above figure, the numbers indicate the following segments:
@@ -5029,18 +4397,10 @@ In the above figure, the numbers indicate the following segments:
 4 – thin copper wire
 5 – thin iron wire
 6 and 7 – iron wires with unequal lengths
-153
 For free distribution
 (wires used in 4,5,6 and 7 above should have equal cross-sectional areas)
 Ammeter reading (current) A
 Conductor
-1
-2
-3
-4
-5
-6
-7
 (a) What conclusion can you draw from the readings obtained for the wires 1, 2
 and 3?
 (b) What can you conclude from the readings for the wires 3, 4 and 5?
@@ -5067,7 +4427,6 @@ through a conductor can also be controlled in a similar manner. You may have
 already understood what could be done in the case of a conductor. By increasing
 the resistance of a circuit, the current flow through the circuit can be decreased. In
 order to change the resistance of a circuit, many circuit components with various
-154
 For free distribution
 resistances that could be connected to the circuit have been found. They are known
 as resistors.
@@ -5082,19 +4441,13 @@ Activity 19.5
 Items required: A small torch bulb, a switch, resistors having resistances 5 Ω,
 10 Ω, 20 Ω, connecting wires, two dry cells, an ammeter
 ² Connect the circuit shown in Figure 19.22.
-A
-B
 Figure 19.22 – Circuit diagram for Activity 5
 ² Observe the brightness of the bulb by connecting each of the resistors between
 A and B. Record your observations in the table given below.
 Brightness of the bulb
 Resistor value
-5 Ω
-10 Ω
-20 Ω
 In this activity you will observe that the brightness of the bulb decreases as the
 resistor value increases.
-155
 For free distribution
 It will be clear that the current through a circuit decreases with the increase
 of resistance.
@@ -5122,11 +4475,9 @@ Figure 19.24 – Symbols used for resistors
 Often, the value of a resistor is indicated in coded form by colour bands marked on
 its body. The coding system of marking the resistor value using colored bands is
 known as the colour code method.
-156
 For free distribution
 Figure 19.25 – Resistor values marked on the body of resistors using the
 color code method
-(i)
 Resistors with four color bands
 In this method, four color bands are marked on the resistor as shown in Figure
 19.25. Three of them are marked close together while the fourth one is marked
@@ -5151,34 +4502,17 @@ for decimal valued resistances, gold and silver bands are used. The fourth band
 marked apart from the other three indicates the range that the resistor value can
 vary (tolerance interval). Table 19.2 shows the values assigned to the tolerance
 color codes.
-157
 For free distribution
 Table 19.1 – Resistor color codes
 Number
 Colour
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
--1
--2
 Black
 Brown
-Red
 Orange
 Tellow
 Green
-Blue
 Purple
-Gray
 White
-Gold
 Silver
 Number to be
 multiplied by
@@ -5199,12 +4533,9 @@ the third or fourth band
 Table 19.2 – Color codes to resistor tolerance
 Color
 brown
-red
-gold
 silver No fourth color band
 Tolerance
 value
-± 1%
 ± 2% ± 5% ± 10% ± 20%
 Example 1
 The figure below shows a permanent resistor purchased from the market.
@@ -5212,12 +4543,9 @@ Silver
 (i) Find its resistance value.
 (ii) What is the tolerance value of this resistor?
 (iii) What is the true range of values that this resistor could have?
-158
 For free distribution
 Solutions
-(i)
 1st digit 2nd digit
-1
 Value of resistor brown black red
 0 102
 = 1000 Ω
@@ -5225,8 +4553,6 @@ Value of resistor brown black red
 Tolerance = 10]
 (iii)
 Amount of variation = 1000«
-10
-100
 = 100 Ω
 Range of the true value of resistor = (1000-100) Ω - (1000 +100) Ω
 = 900 Ω - 1100 Ω
@@ -5243,7 +4569,6 @@ a screw in an by appropriate direction. There are many types of variable resisto
 such as pre adjustment resistors, rheostats and volume control resistors.
 Figure 19.27 (a) shows several variable resistors and Figure 19.27 (b) shows
 symbols used for variable resistors.
-159
 For free distribution
 Rheostat
 Pre-adjustment resistor
@@ -5262,10 +4587,7 @@ In the dark when the light intensity is low, these resistors have a high resista
 the presence of light, their resistance decreases. Light dependent resistors are used
 in control circuits of instruments that need to operate based on the amount of light
 falling on them.
-160
 For free distribution
-(a)
-(b)
 Figure 19.28 (a) Symbols used for light dependent resistors (b) Appearance
 19.7 Combination of resistors
 Resistors are used to control the current passing through a circuit as desired. When
@@ -5279,17 +4601,11 @@ When the resistors are connected in such a way that the same current flows throu
 each of the resistors as shown in Figure 19.29, it is known as a series combination
 of resistors. Figure 19.29 shows three resistors R1, R2 and R3 connected in a series
 combination.
-R1
-R2
-R3
-A
-I
 Figure 19.29 – A series combination of resistors in a circuit
 If the current passing through the circuit is I, using V=IR,
 Potential difference across the resistor V1 = I. R1
 Potential difference across the resistor V2 = I. R2
 Potential difference across the resistor V3 = I. R3
-161
 For free distribution
 When resistors are connected in series, the sum of the potential differences across
 the resistors is equal to the supply voltage difference.
@@ -5301,9 +4617,6 @@ in place of all three resistors. In a series combination of resistors, the equiv
 resistance is equal to the sum of all the resistors.
 Example 1
 The figure shows a 10 Ω resistor and a 2 Ω resistor connected to a 6 V power supply.
-10 Ω
-2 Ω
-6 V
 1. Find the equivalent resistance of the system.
 2. What is the current passing through the circuit?
 Solution
@@ -5311,54 +4624,18 @@ Solution
 = 10 Ω + 2 Ω
 = 12 Ω
 (ii) Apply V= IR in order to find the current passing through the circuit.
-162
 For free distribution
 Parallel combination of resistors
 A combination of resistors in which the total current is divided among the resistors
 as shown in Figure 19.30 is known as a parallel combination of resistors.
-R1
-R2
-R3
-I1
-I2
-I3
-I
-I
-V
 Figure 19.30 – A parallel combination of resistors in a circuit
 In this circuit, the total current is divided among each of the resistors. That is, the
 total current in the circuit is the sum of the currents passing through each of the
 constituent resistors.
 I = I1+I2+I3
 Substituting for I in terms of V and R according to Ohm’s law,
-V
-R
-1
 where R is the equivalent resistance. It is clear from this that the equivalent
 resistance of a parallel combination of resistors can be expressed by,
-= +
-V
-R
-1
-V
-R
-1
-V
-R
-+
-1
-R
-= +
-+
-1
-R
-2
-1
-R
-3
-1
-R
-1
 The reciprocal of the equivalent resistance of a parallel combination of resistors is
 equal to the sum of the reciprocals of each of the constituent resistors.
 Example 1
@@ -5367,62 +4644,18 @@ circuit.
 (i) Find the equivalent resistance of the circuit.
 (ii) Find the current flowing through the circuit.
 (iii) What is the current passing through each resistor?
-163
 For free distribution
-12 Ω
-6 Ω
-6 V
-1
-R
-2
-1
-6
-+
-+
-1
-R
-1
-1
-12
-+
-1 2
-12
-3
-12
-(i)
-1
-R
-=
-=
-=
-=
-1
-R
-R
-Ω
-= 4
 (ii) By applying V=IR for the current passing through the circuit,
-=
-=
-6
-4
 = 1.5 A
 (iii) Let us find the current passing through the 12 Ω resistor.
 Since the potential difference across the 12 Ω resistor is 6 V,
 I = V
-R
-= 6
-12
 = 0.5 A
-164
 For free distribution
 Now let us find the current passing through the 6 Ω resistor. Since the potential
 difference across the 6 Ω resistor is 6 V, apply V=IR.
 V = IR
 I = V
-R
-= 6
-6
 I =1 A
 Exercise 19.4
 (1) Ruvan needs a resistor of 3 Ω and another one with 40 Ω. But he could only
@@ -5434,19 +4667,6 @@ of resistors having a resistance of 40 Ω.
 (2) The figure below shows a circuit connected with three bulbs having different
 filament resistances. A 12 V potential difference is supplied to the two ends.
 The resistance of connecting wires can be neglected.
-P
-Q
-20Ω
-B1
-6Ω
-B2
-B3
-12Ω
-A1
-A2
-R
-A3
-12V
 (i) What is the equivalent resistance between Q and R?
 (ii) Find the equivalent resistance between P and R.
 (iii) Which ammeter shows the total current passing through the circuit?
@@ -5456,7 +4676,6 @@ A3
 (vii) What is the current passing through the bulb B1?
 (viii)
 If the bulb B2 burns out, find the current passing through the circuit.
-165
 For free distribution
 For extra knowledge
 Electric Shock
@@ -5491,15 +4710,11 @@ understand about shock hazards than this simple adage.If voltage presented no
 danger, why do they display signs saying: DANGER -- HIGH VOLTAGE !?
 The principle that " current kills" is essentially correct. However, electric current
 doesn't just occur on its own, there must be voltage available to motivate electrons
-166
 For free distribution
 to flow through a victim. A person's body also presents resistance to current,
 which must be taken into account. Taking ohm's Law for voltage, current,and
 resistance, and expressing it in terms of current for a given voltage and resistance,
 we have this equation:
-I =
-V
-R
 Current =
 Voltage
 resistance
@@ -5516,7 +4731,6 @@ Body resistance is not a fixed quantity. It varies from person to person and fro
 time to time. There are so many variables in the human body affecting body
 resistance. It varies depending on how contact is made with the skin: is it from
 hand-to-hand, hand-to-foot, foot-to-foot, hand-to-elbow, etc.
-167
 For free distribution
 Summary
 • By rubbing certain materials on one another, electrons are exchanged
@@ -5546,15 +4760,6 @@ Ammeter
 Potential difference
 Electromotive force
 Equivalent resistance
--
--
--
--
--
--
--
--
--
 iaÓ;s úoHq;h
 - {ø»ªßÛ¯À
 Odrd úoHq;h
@@ -5571,13 +4776,11 @@ weógrh
 - AÊzu Âzv¯õ\®
 úoHq;a .dul n,h - ªßÛ¯UP Âø\
 iul m%;sfrdaOh - \©Á¾z uøh
-168
 For free distribution
 Inheritance
 20.1 Diversity among organisms
 Ôj úoHdj
 Biology
-20
 You know that there are large numbers of plant and animal species in the biosphere.
 One species can be identified separately from another species by observing their
 external features. We get this ability as these species possess inherited features.
@@ -5590,9 +4793,7 @@ Figure 20.1 - Diversity of human living in
 different areas in the world
 You can identify differences within species like cats and parrots (Fig 20.2).
 Figure 20.2 - Diversity of cats and parrots
-169
 For free distribution
-y
 Rose and Orchid plants that grow in your home garden also produce flowers
 with different colours and sizes (Fig-20.3).
 Figure 20.3 - Roses and Orchids of different colours & sizes
@@ -5600,9 +4801,7 @@ You can observe Tomato and Brinjal plants that grow in your home garden
 with fruits of different shapes (Fig-20.4).
 Figure 20.4 - Different varieties of Tomatoes and Brinjals
 We will consider few common inherited characteristics of human species.
-170
 For free distribution
-²
 Common inherited characteristics in human population
 We will identify different common inherited characteristics observed in
 human in the pictures below.
@@ -5613,7 +4812,6 @@ Figure 20.8 - Ability to fold the tongue
 Figure 20.9 - Position of the thumb
 when the fingers are crossed
 Figure 20.10 - Dimpled and normal cheeks
-171
 For free distribution
 Figure 20.11- Straight and curved thumb
 Figure 20.12 - Widow's peak on forehead
@@ -5631,7 +4829,6 @@ which is not found in any relative. If you further study previous generations yo
 may find that particular characteristic in them. It is clear that inherited characteristics
 may pass evading from one generation to the next.
 There are some rare inherited characteristics. Identify them using the pictures below.
-172
 For free distribution
 Figure 20.13 - - Syndactyly
 Figure 20.14 - -Polydactyly
@@ -5653,7 +4850,6 @@ For extra knowledge
 For extra knowledge
 Figure 20.17 - Growth of
 muscles due to exercises
-173
 For free distribution
 The first person to study about the transmission
 of inherited characteristics is an Austrian
@@ -5664,12 +4860,6 @@ Figure 20.18 - Gregor Mendel
 He used the garden pea (Pisum sativum) plant for his experiments in 1865. He has
 used that partcular plant for his experiment because of its special features.
 The reasons to select the garden pea plant for his experiment are as follows.
-y
-y
-y
-y
-y
-y
 Can be easily grown
 Can obtain the yield within a short time period
 Can obtain pure breeding plants. (The selected characteristics are not
@@ -5688,7 +4878,6 @@ generation. All plants were tall and they are referred to as F1 generation
  Allow self-pollination to take place within F1 generation
  The resultant seeds were planted to obtain the F2 generation. The tall to short
 plant ratio was 3 : 1.
-174
 For free distribution
 It was a question to Mendel that, what has happened to short character in F1
 generation. According to Mendel’s opinion, the tall character was dominant and
@@ -5706,7 +4895,6 @@ characters are given in the table below.
 Table 20.1- The results of the experements of Mendel
 Character
 Cross
-F1
 generation
 F2 generation
 Dominant
@@ -5716,13 +4904,9 @@ ratio
 Colour of the
 flower
 Colour of the
-seed
 Shape of the
-seed
 Shape of the
-Pod
 Colour of the
-Pod
 Position of
 flower
 Height of the
@@ -5745,9 +4929,7 @@ Inflated
 Inflated 882
 Green
 Green 428
-1850
 Constricted
-299
 Yellow 152
 3 : 1
 3 : 1
@@ -5758,11 +4940,9 @@ Axial 652
 Terminal 207
 3 : 1
 Tall x Short
-Tall
 Tall 787
 Short 277
 3 : 1
-175
 For free distribution
 It is clear that all above characters, are inherited in the same manner. One feature
 is completely hidden in F1 generation and it reappears in F2 generation. This is the
@@ -5772,15 +4952,10 @@ it was because two different factors determine a single characteristic. In genet
 symbols are used to denote those factors. The standard is that the dominant factor
 is denoted by a capital letter and the recessive by a simple letter.
 Accordingly,
-»
-»
 For tall feature T,
 For Short feature t is used
 Pure breeding Tall plants TT
 For each inherited feature 2 factors are involved.
-y
-y
-y
 Pure breeding short plants tt.
 The tall plants with recessive short feature Tt.
 When two factors are similar, they are known as homozygous, (TT, tt) when the
@@ -5789,44 +4964,17 @@ of pea plant, considering tall and short character can be expressed using symbol
 below. (Fig - 20.19 (a))
 Punnett square (Fig - 20.19 (b) )which was introduced by a scientist called Punnett
 can be used to show the occurrence of F2 generation.
-P
 Generation
-TT
-tt
 P Generation
-TT
-x
-tt
-Gametes
-T
-t
-F1 Generation
-Tt
-x
-Tt
-Gametes
-T
-t
-T
-F2 Generation
-TT
-Tt
-Tt
-t
-tt
 Gametes
 F1 Generation
 Gametes
-Tt
 F2 Generation
-TT
-(a)
-Tt
-(b)
+Gametes
+F1 Generation
+Gametes
+F2 Generation
 Figure 20.19 - Monohybrid cross of Pisum sativum
-Tt
-tt
-176
 For free distribution
 Assignment 20.3
 y Select another pair of contrasting feature of pea plant using 20.1 table.
@@ -5853,7 +5001,6 @@ Then the probability is 1/2 × 1/2 = 1/4
 When the same incident takes place in two ways (Eg. getting Head – Tail
 and Tail – Head) is the total of separately taken probabilities.
 That is 1/4 + 1/4 = 1/2
-177
 For free distribution
 Activity 20.2
 Identification of probability patterns obtained by a bead experiment
@@ -5869,18 +5016,6 @@ y Present the results to the class.
 1 st Group
 2 nd Group
 Total
-RR
-RW
-WR
-WW
-'''
-'''
-'''
-'''
-'''
-'''
-'''
-'''
 Fill the above table using results obtained by the above practical using tally
 marks
 Calculate,
@@ -5891,13 +5026,8 @@ iv. Times of White – White and probability of getting White – White beads.
 Using those probability values, find out the ratio of RR: RW: WR:WW.
 Let’s analyse the Mendel’s results using the probability results obtained by the bead
 experiment.
-178
 For free distribution
 From 1st & 2nd vessels.
-i)
-ii)
-iii)
-iv)
 The probability of getting Red – Red
 The probability of getting White - White
 The probability of getting Red – White
@@ -5907,11 +5037,7 @@ The probability of getting White – Red
 = 1/4
 = 1/4
 In (iii)rd & (iv)th instances, both show the same incidence, both vessels,
-i)
-ii)
-iii)
 The probability of getting Red – Red
-=1/4
 The probability of getting White – White
 = 1/4
 The probability of getting Red – White
@@ -5936,25 +5062,17 @@ If two genes are not similar then that organism is heterozygous, or else that
 organism possesses heterozygous genes.
 Example :-
 Gene for round seed is R, Gene for wrinkled seed is r
-y
-y
 Homozygous situations, RR or rr
 Heterozygous situations Rr
-179
 For free distribution
 Gene expression
-y
 The combination of a gene pair for a particular character is known as gene expression
 of that organism.
 Example :- Rr, rr, Rr
-y
 Phenotype & Genotype
 The feature that externally appears is known as phenotype. The gene composition
 to determine that feature is known as genotype.
 Examples :-
-y
-y
-y
 The phenotype of round seed heterozygote is round. The genotype is Rr
 The phenotype of round seed homozygote is round. The genotype is RR
 The phenotype of wrinkled seed homozygote is wrinkled. The genotype is rr
@@ -5972,11 +5090,9 @@ character. In other way, gene is a specific segment of DNA for a particular char
 The genes that determine large number of features in an organism and transmit
 them from generation to the next are present in chromosomes. Each gene has a
 particular location in a chromosome.
-180
 For free distribution
 ksfrda.
 msßñhd
-jdyl
 .eyeKsh
 For extra kowledge
 For extra kowledge
@@ -6013,7 +5129,6 @@ phenotypic ratios, and found out that, the genes do not segregate always
 independently. The genes that present in the same chromosome which are not
 segregated independently are known as linked genes. Morgon discovered the gene
 linkage.
-181
 For free distribution
 20.4 Heredity of human
 Transmission of inherited characters to next generation is known as heredity. The
@@ -6029,64 +5144,26 @@ Below are the number of chromosomes present in nuclei of different organisms.
 Organism
 Pine apple
 Garden
-Pea
 Onion
 Maize
 Table - 20.2
 Number of
 chromosomes
-50
-14
-16
-20
 Paddy
 Tomato
 Horse
 Mouse
 Human
 Chimpanzee
-Carp
-24
-24
-33
-40
-46
-48
-104
 20.5 Sex determination of human
 You may prefer to know how your gender is determined. This incidence is known
 as sex determination. We will look at how the sex is determined.
 There are 46 chromosomes, or 23 pairs of chromosomes, in a human cell. Out of
 those 23 pairs, 22 pairs are autosomal chromosomes and the remaining pair is the
 sex chromosomes.
-182
 For free distribution
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
 Figure 20.21 - 22 pairs of Autosomal chromosomes
 and sex chromosome pair of a female
-19
-20
-21
-22
-X
-Y
 Figure 20.21 - 22 pairs of Autosomal chromosomes
 and sex chromosome pair of a male
 Two sex chromosomes of a female are similar in structure and shape. They are
@@ -6103,34 +5180,14 @@ A zygote with two X chromosomes produces a girl. X and Y chromosome produces
 a boy. Accordingly the factor that needs to determine a boy is received from the
 father and not the mother. The sex determination is shown in the diagram 20.23.
 The probability of getting a girl or a boy is 50% .
-183
 For free distribution
 Egg mother
-cell
 Sperm mother
-cell
-x
-x
-x y
-Eggs
 Sperms
-x
-x
-x
-y
-x x
-x x
 Female
 Female
-x y
-Male
-x y
-Male
-50]
-50]
 Figure 20.23 -Sex determination of human
 20.6 Human inherited disorders
-y
 Genetic disorders due to sex linked inheritance
 Even though X and Y chromosomes determine the human sex, all the genes present
 on those sex chromosomes, are not used in determination of sex. Most of the genes
@@ -6138,7 +5195,6 @@ on X and Y chromosomes, determine other features as autosomal chromosomes. As
 Y chromosome is shorter than X chromosome, most of the genes complementary
 for X are absent in Y. Accordingly, in males for most of the X linked genes, there
 are no complementary genes in Y.
-184
 For free distribution
 Therefore most of the genes in X, whether they are dominant or recessive, they are
 phenotypically expressed in males. But as females possess a pair of X chromosomes,
@@ -6147,10 +5203,8 @@ when they are present as double recessive genes. We will consider several geneti
 disorders, occur due to sex linked recessive genes.
 y Haemophilia
 Carrier
-uj
 mother
 Healthy
-mshd
 father
 h - -
 -Recessive gene for Haemophilia
@@ -6159,12 +5213,10 @@ for Haemophilia
 Healthy
 daughter
 Healthy
-son
 Carrier
 daughter
 Diseased
 frda.S
-son
 Figure 20.24 - Inheritance of Haemophilia
 Haemophilia which occurs due to a X linked recessive gene only present in males
 in the population. When a wound or cut occurs, it is essential to clot blood. At that
@@ -6181,13 +5233,10 @@ The chance to show the sex linked inherited diseases in females is low, the chan
 of getting those diseases in female children is high if they are married to blood
 relatives. The reason for that is the female that joined the family is most probably
 a carrier.
-185
 For free distribution
 Diseased
 mother
-uj
 Healthy
-mshd
 father
 c - Recessive gene for colour blindness
 C - Dominant gene of the recessive gene
@@ -6195,13 +5244,10 @@ for colour blindness
 Carrier
 daughter
 Diseased
-son
 Carrier
 daughter
 Diseased
-son
 Figure 20.25 - Inheritence of colour blindness
-y
 Gene mutations & related inherited disorders
 Due to a change in DNA of a chromosome, the mutations occur in a single gene, are
 known as gene mutation. When a naturally active gene is mutated, it gets inherited,
@@ -6209,9 +5255,6 @@ we will look at few genetic disorders that occur due to a mutated gene.
 Do you know ?
 Occurence of gene mutations takes place due to several
 reasons. They are
-y
-y
-y
 Spontaneous without any external effects
 Due to chemicals
 Due to radiations
@@ -6222,7 +5265,6 @@ pigment present in an autosomal chromosome.
 The features of this disorder are the abnormal white colour of skin, hair and eye
 lashes. Albinism occurs when gene is present as recessive homozygous condition.
 Not only human but also animals become albino. (Fig - 20.26)
-186
 For free distribution
 Figure 20.26 - Albone child & Albone peacock
 y Thalassemia
@@ -6243,7 +5285,6 @@ produce higher volume of milk, hens that produce large number of eggs, chicken
 with higher growth rate, crops with high yield or pest resistant, fleshy seedless
 fruits (Fig-20.27) are examples of genetic applications to improve quality of animal
 or plant products.
-187
 For free distribution
 Figure 20.27 - Improved seedless oranges
 When principles of genetics were identified, production of hybrid plants and
@@ -6265,7 +5306,6 @@ The genotype of an organism can be altered by removing or adding extra DNA
 fragments into genome.
 We will look at the application of gene technology in food and agriculture, medical
 and industrial fields.
-188
 For free distribution
 Food and Agricultural field
 Examples for plants and animals with better qualities that has produced using
@@ -6282,8 +5322,6 @@ Production of enzymes such as Amylase.
 Industrial field
 Below are some instances where bacteria produced by gene technology are being
 used in industrial field.
-y
-y
 Production of some amino acids. (To produce MSG - Monosodium
 Glutamate.)
 Production of vitamins by (Cyanobacteria e.g :- vitamin B12 and E)
@@ -6291,16 +5329,8 @@ As a remedy to the pollution by fossil fuel combustion and other waste
 material'
 Medical field
 Gene technology is used in different sections of medical field.
-y
 Production of Insulin - Human gene related to Insulin production is inserted
 into E coli bacteria.
-y
-y
-y
-y
-y
-y
-y
 Production of proteins including growth hormones – By inserting relevant
 gene into a bacterium.
 Use of developed bacteria and fungi in production of antibiotics.
@@ -6313,12 +5343,10 @@ medicine. For the identification of a criminal blood sample, semen, hair or
 DNA of any other part of the body obtained from a site of crime are used.
 Identification of the criminal by checking the compatibility of the DNA of
 those samples with the suspects, DNA.
-189
 For free distribution
 Summary
 • The diversity among organisms in the biosphere is because of the
 inherited features of each species.
-•
 Inherited features are the characters that transmit from generation to
 generation.
 • Within the same species too the organisms possess differences.
@@ -6346,7 +5374,6 @@ DNA in chromosomes.
 centromere is known as the homologous chromosome.
 • The pair of genes responsible for a particular character present in
 complementary locations of the homologous chromosomes.
-190
 For free distribution
 • The genes that are present in the same chromosome and that cannot be
 segregated independently are known as linked genes.
@@ -6376,8 +5403,6 @@ x bb cross is done ?
 3) 50%
 4) 0%
 3. Parents with normal complexion, got a child with white skin.
-i)
-ii)
 Is it possible to happen?
 Explain your answer with the knowledge of genetics.
 4. An improved organism by recombinant DNA technology has,
@@ -6385,9 +5410,7 @@ Explain your answer with the knowledge of genetics.
 2. Changed its phenotype only
 3. Changed its genotype and phenotype both
 4. No effect on genotype and phenotype both
-191
 For free distribution
-5.
 If you are given with a homozygous yellow seed plant where the green
 colour (G) is dominant and yellow colour (g) is recessive. How do you
 find out the genotype of the green coloured seed plant? Explain your
@@ -6406,7 +5429,6 @@ Inheritance
 Heredity
 Genetics
 Chromosome
-Gene
 Gene expression
 Technical terms
 - m%fõ‚h-
@@ -6431,8 +5453,4 @@ Genetical disorders
 -- C¼[P {ºn¯®
 -- ©µ¦›ø©
 -- ©µ¦ ÁÈzöuõhº¦
-192
 For free distribution
--
--
--

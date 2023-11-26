@@ -5,21 +5,6 @@ Programming
 Use of Microcontrollers
 Computer Networks
 ICT and Society
-1
-2
-3
-4
-5
-6
-1
-22
-29
-47
-66
-75
-ix
-x
-1
 Preparation of Computer
 Specifications
 This chapter will cover the following:
@@ -39,7 +24,6 @@ to my teacher. It will help
 me to study from anywhere
 anytime.
 For free distribution
-1
 Are there any computers
 to suit the requirements
 of both of us?
@@ -49,7 +33,6 @@ We can either buy a computer or
 we can get a computer assembled
 to suit our requirements. Let’s go
 in and take a look around!
-1.1
 Identifying the user
 The one who uses a computer is generally referred to as a user. Different
 users working in different areas in Information and Communication Technologies
@@ -63,7 +46,6 @@ Software Engineer
 Computer Application
 Assistant
 Web Developer
-Task
 Develops computer programs
 Manages and maintains computer networks
 Designs information systems
@@ -72,12 +54,10 @@ Uses office application packages for office
 related tasks
 Develops and maintains websites
 The sixth chapter presents you a further study on the user.
-2
 For free distribution
 Note - Users can be classified into mainly two categories: system
 users and end users. End user uses the software maintained by the
 Systems User.
-1.2
 Selection of a computer to suit user requirements
 User requirements relate to tasks that are carried out by using a computer.
 The following Figure 1.1 provides examples for user requirements.
@@ -107,7 +87,6 @@ Laptops, notebooks, tablet computers and a smart phones can be considered
 for mobile use. They operated with re-chargeable batteries. Therefore, they can be
 used when traveling in buses, trains, aeroplanes or from any convenient place.
 For free distribution
-3
 Server computer
 Desktop computer
 All-in-one computer
@@ -120,7 +99,6 @@ Tablet computer
 Notebook computer
 Figure 1.2 : Examples for types of computers that are available in the market
 Refer to workbook for Activity 1.1.
-4
 For free distribution
 Important - The following are useful in learning more about
 computers.
@@ -129,7 +107,6 @@ computers.
 ² Websites providing information on computers
 ² Obtaining information from an expert in computers
 ² Visiting the computer shops and gathering information
-1.3
 Computer peripheral devices
 What are peripheral devices?
 Input devices are used to feed data and instructions into a computer. Storage
@@ -148,7 +125,6 @@ Keyboard
 Mouse
 Figure 1.3 : Computer peripheral devices
 For free distribution
-5
 The peripheral devices shown in Figure 1.3 above are classified in Table 1.2
 as input, output and storage.
 Table 1.2 : Peripheral devices
@@ -170,7 +146,6 @@ Note - The touch screen can be used to input data as
 well as to display information. Hence, it can be used
 as an input an output device.
 Refer to workbook for Activity 1.2.
-1.4
 Computer specifications
 What are computer specifications?
 Before purchasing an item, it is important to be aware of the value and the
@@ -185,10 +160,8 @@ Length
 Width
 Number of pages : 40
 Thickness of paper : 60 GSM
-Type
 : Single ruled
 Similar to the specification of a book, a computer also has its specification.
-6
 For free distribution
 Specifications to suit different user requirements
 Consider a situation where two students use two types of books for different
@@ -201,7 +174,6 @@ Length
 Width
 Number of pages
 Thickness of paper : 60 GSM
-Type
 : 210 mm
 : 148 mm
 : 200
@@ -212,14 +184,12 @@ Length
 Width
 Number of pages : 20
 Thickness of paper : 70 GSM
-Type
 : Blank
 Different specifications for different purposes may result in price differences
 as well.
 The specifications change according to user requirements in the above
 example. Similarly depending on the use of a computer its specifications also
 differs.
-1.5
 Specifications of computers and peripheral
 devices
 The following shows some important factors of computer specifications;
@@ -232,7 +202,6 @@ man to make decisions for actions taken. The brain
 also has the ability to swiftly respond to all sensations.
 Figure 1.4 : the human brain
 For free distribution
-7
 Much as the brain is most important for humans, the processor (Central
 Processing Unit) (Figure 1.5) is the most important part of a computer. The
 processor processes data swiftly. As such, the processor is considered the "Brain"
@@ -249,7 +218,6 @@ these machines during a unit time differs.
 Blender working at slower speed
 Figure 1.6 : Preparation of fruit juice using blenders with different speeds
 Blender working at higher speed
-8
 For free distribution
 Figure 1.6 shows two blenders working simultaneously. The blender
 working at higher speed processes a larger quantity of fruit juice per unit time. A
@@ -277,20 +245,13 @@ classify the Central Processing Unit. The following table shows examples of some
 Intel Central Processing Units with multiple processor units.
 Table 1.3 : Types of processors
 No. of CPUs
-1
-2
-4
-Type
 Single Core
 Dual Core
 Quad Core
 For free distribution
-9
 When the number of processors in a central processing unit increases its
 capacity also increases. Table 1.4 shows examples for Intel processors.
 Table 1.4 : Different processors and their names
-Type
-Name
 Examples
 Single Core
 Pentium I, II, III, IV
@@ -307,7 +268,6 @@ than a book with 40 pages. Similarly, more data can be stored in a hard disk wit
 greater storage capacity. (see figure 1.8).
 Exercise Book
 40 page exercise
-book
 1 TB hard disk
 1 6 0 p a g e s
 160 pages
@@ -315,7 +275,6 @@ book
 160 page
 exercise book
 Figure 1.8 : An analogy for hard disk capacities
-10
 For free distribution
 Refer to workbook for Activity 1.4.
 1.5.3 The monitor display
@@ -335,7 +294,6 @@ technology used by them:
 ² LCD (Liquid Crystal Display) Monitor
 ² LED (Light Emitting Diode) Monitor
 For free distribution
-11
 CRT monitor
 LCD /LED monitor
 Fig.1.10 : CRT and LCD /LED monitor
@@ -356,7 +314,6 @@ main memory capacity is better.
 Figure 1.11 : Rack for school bags
 Figure 1.12 : Random Access Memory
 (RAM) card act as the main memory
-12
 For free distribution
 Important - The capacity of the main memory is measured in
 units of bits. (Mega Bite (MB) or Giga Bite (GB) etc).
@@ -382,7 +339,6 @@ multi media projector, both sound and video signals are transmitted. When a VGA
 is used for the same purpose, only images are transmitted and a separate cable is
 required for sound.
 For free distribution
-13
 1.5.6 Sound cards
 Many computer are widely used for entertainment today. A sound card is
 required for listening to music and recording audio. A microphone connected to the
@@ -403,18 +359,15 @@ Light pink
 - Mic in (to connect microphone)
 Light blue
 - Line in (to feed sound with external devices)
-14
 For free distribution
 1.5.7 Pre-Installed software
 An operating system provides the interface between the user and the
 hardware. The operating system is essential to run application software. Once the
 operating system is installed in a computer, the necessary application software can
 be installed.
-User
 Application software
 Operating system
 Hardware
-User
 Application software
 Operating system
 Hardware
@@ -429,8 +382,6 @@ whether an operating system has been pre-installed. Most often only DOS or LINUX
 computer systems are pre-installed. A computer with licensed software installed is
 more expensive than a computer with a free and open source operating system.
 For free distribution
-15
-1.6
 Non-technical features to be considered in
 purchasing a computer
 Non-technical specifications such as manufacturer, type of book and price
@@ -461,12 +412,10 @@ but, the warranty for the parts of the computer may differ from the
 standard.
 For instance, a laptop computer with standard warranty for 3 years, may
 have only one year warranty for the battery.
-16
 For free distribution
 1.6.2
 Price
 The price of a computer can vary according to the customer requirements.
-e.g.
 1. The price of a computer is rather high with a high speed processor.
 2. A computer with a large monitor is comparatively high in price.
 3. Price is low of a computer with a lesser memory capacity.
@@ -488,7 +437,6 @@ be bought from a vendor with a reputed name and must be from a recognized
 manufacturer.
 Refer to workbook for Activity 1.8
 For free distribution
-17
 1.6.4 Ports and network connections
 Ports are used to connect the peripheral devices to a computer. A user may
 select peripheral devices to suit one’s requirements. However, the computer should
@@ -513,7 +461,6 @@ b. Network ports/RJ45 connector
 The computer uses RJ45 connector to connect to a network. (See Figure 1.18)
 Network port
 USB Port
-18
 For free distribution
 Figure 1.18
 c. Bluetooth and Wi-Fi facilities
@@ -521,13 +468,10 @@ Bluetooth and Wi-Fi facilities provide cable free (i.e. wireless) network
 connections to computers. (See Figure 1.19)
 Given below are a few basic specifications in purchasing a computer;
 Processor speed
-e.g.
 2.8 GHz
 Technical
 Hard disk capacity
-8 TB
 Memory capacity
-4 GB
 Screen size
 19 Inches
 Computer price
@@ -543,7 +487,6 @@ Figure 1.19 : Technical and non-technical specifications to be considered in pur
 computer
 Refer to workbook for Activity 1.10
 For free distribution
-19
 Important factors of technical specifications
 Central processing Unit
 Main memory
@@ -551,15 +494,10 @@ Hard disk
 Monitor
 Video Graphic Adapter
 Sound card
-Type
 Speed
 Capacity
 Generation
 Capacity
-Size
-Type
-Type
-Type
 Single Core/ Dual Core/ Quad Core
 2.8/ 3.0/ 3.2/ 3.4 GHz
 512 MB/ 1GB/ 2GB/ 4GB/ 8GB
@@ -573,35 +511,28 @@ Refer to workbook for Activity 1.11
 Summary
 ² Several types of computers are available to suit user requirements;
 Server
-◦
 ◦ Workstation
 ◦ Desktop
 ◦ All-in-one
 ◦ Laptop
 ◦ Notebook
 ◦ Tablet
-◦
 Smart phone
 ² Computer peripheral devices are input, output and storage devices.
 ² Specification is a detailed description of a material with respect to its quality
 or quantity.
-20
 For free distribution
 ² Basic specifications for a computer and peripheral devices are:
 Processor type and speed
-◦
 ◦ Random Access Memory (RAM) capacity
 ◦ Hard disk capacity
 ◦ Monitor size and technology
 ◦ Video Graphic Adapter and sound
 ² Other non-technical factors to be considered in purchasing a computer;
 ◦ Warranty
-◦
 ◦ After-sales services
 Pre-installed software
 For free distribution
-21
-2
 Electronic Spreadsheets
 This chapter will cover the following:
 ² What spreadsheets are
@@ -611,7 +542,6 @@ This chapter will cover the following:
 ² Functions, formulas
 ² Data selection
 ² Graphs
-2.1
 What are spreadsheets?
 A spreadsheet means an electronic version of the paper based accounting
 sheets used by accountants in the past.
@@ -621,36 +551,25 @@ of a table and the spreadsheet provides the facility of functions, formulas, sor
 and charting.
 In electronic spreadsheets, workbooks can be used for document creation. A
 workbook may contain multiple worksheets.
-22
 For free distribution
-2.2
 Spreadsheet features
 Let us learn about the functions provided in spreadsheet package.
 Common tools
-New
 To create a new workbook
-Open
 To open a saved document
 Print
 To print document
-Save
 To save a document
 Print Preview
 To see how a document will look like if
 printed
-Undo
 To cancel a performed
 action
-Copy
 To copy letters, images,
-etc.
 Paste
 To paste a copied or cut
-item
-Redo
 To do any undo action
 again
-Cut
 To remove an item from
 a current location
 Spelling
@@ -658,7 +577,6 @@ To check the accuracy
 of spelling and
 grammar
 For free distribution
-23
 Special features of a spreadsheet
 Name box
 (displays the currently
@@ -670,14 +588,12 @@ English alphabet)
 Formula Bar
 (shows what is being
 typed in a cell)
-Row
 (has a label
 starting with
 Number1)
 Cell range
 (range of selected cells in
 close proximity)
-Cell
 (Intersection between a
 raw and a column is the
 cell. The row letter and
@@ -686,15 +602,12 @@ collectively called the
 cell Address e.g. the
 highlighted cell's address
 is G7)
-24
 For free distribution
 Cell formatting tools
-Size
 (changes size of letters)
 heading,
 sub-heading and
 normal letters)
-Bold
 To make letters
 darker than normal
 Color
@@ -703,7 +616,6 @@ Italic
 To make letters slanted
 Borders
 To apply boarders
-Font
 Times New Roman
 Nirmala UI
 Cambria
@@ -730,11 +642,8 @@ Merge and Center
 adjacent cells to
 single larger cell and
 align center.)
-b
-a
 Centre align
 (aligns to middle)
-Top
 (top align)
 Bottom
 (bottom align)
@@ -742,7 +651,6 @@ Wrap Text
 (To make all content
 visible within a cell)
 For free distribution
-25
 Number tools
 Currency
 Percentage
@@ -761,26 +669,18 @@ Time - e.g. 1:30 p.m., 10:00 a.m.
 Percentage - e.g. 23% , 45%, 75%
 As fractions - e.g. 2/9, 4/5
 In scientific notation - e.g. 5677=5.68E+03
-26
 For free distribution
 Symbols used in spreadsheet formula
 Used before a
 formula or function
 Subtract
 Divide
-=
-+
-Add
--
 Function
-/
-*
 Multiply
 To find the total of a range
 of cells
 To find the highest value
 in cell range
-Sum
 Average Max Min
 To find the average of cell
 range
@@ -796,7 +696,6 @@ Line chart
 Bar chart
 Scatter chart
 For free distribution
-27
 Refer to workbook for Activities from 2.1 to 2.10.
 Summary
 ² A spreadsheet is a document containing rows and columns where functions
@@ -812,9 +711,7 @@ check are common tools used in spreadsheets.
 available.
 ² Bar charts, column charts, line charts, pie-charts, etc. could be used for
 analysis of data.
-28
 For free distribution
-3
 Programming
 This chapter will cover the following:
 ² Multi-condition selection control structures
@@ -833,7 +730,6 @@ But it’s better to
 develop your own
 games.
 For free distribution
-29
 How can I ?
 There are enough software
 available to develop computer
@@ -841,7 +737,6 @@ games. You will get a chance
 to improve your knowledge
 while having the opportunity
 for playing.
-3.1
 Simple selection
 You learnt in programming chapter of Grade
 8, ICT textbook that a simple selection is selecting
@@ -852,21 +747,16 @@ Head and tail of a coin
 Start
 Toss the coin
 Is it head?
-No
 Show it is 'tails'
-End
-Yes
 Show it is
 'head'
 Flowchart 1 : Getting “head” or “tail” of a coin
 Scratch program 1
-30
 For free distribution
 Simple selection has one condition with two options. A selection is made
 out of the two conditions. If the condition is true, one option is selected and if not,
 the other option gets selected.
 Refer to workbook for Activity 3.1.
-3.2
 Selection out of many options
 Selection out of many options is about selecting one out of more than two
 options.
@@ -875,22 +765,11 @@ Start
 Toss the dice
 Get the value
 Is value 1?
-No
 Is value 2?
-No
 Is value 3?
-No
 Is value 4?
-No
 Is value 5?
-No
 Show value as 6
-End
-Yes
-Yes
-Yes
-Yes
-Yes
 Show value
 as ''1''
 Show value
@@ -904,10 +783,8 @@ as ''5''
 Flowchart 2 : Getting value from a tossed dice
 Scratch program 2
 For free distribution
-31
 In the above, a number will be displayed if one of the five conditions is
 satisfied or if non of the five conditions is satisfied.
-3.3
 Control structure with repetition
 Repetition is about an action getting
 repeated again and again.
@@ -919,10 +796,7 @@ Number = 1
 Is the
 number 5 or
 less than 5?
-Yes
 Show number
-No
-End
 Add 1 to number
 Flowchart 3 : Display numbers 1 - 5
 In this flowchart the condition
@@ -940,19 +814,14 @@ condition is not satisfied and
 the repetition ends.
 Example 2 Consider a water pump filling water into a tank. The pump is
 operated until the tank becomes fill.
-32
 For free distribution
 Begin
 Instruct to operate the
 water pump
 Water flows into the tank
-No
 Is the tank
 full?
-Yes
 Instruct to stop the water
-pump
-End
 Figure 3.1 : A water pump filling a tank
 Flowchart 4 : Filling a tank with water
 Example 3 Consider marking attendance of students. If the student is present,
@@ -961,19 +830,12 @@ Begin
 Call out student’s name
 Is the student
 present?
-Yes
 Mark 1 for presence
-Yes
 Any more names to
 be called?
-No
-End
 Flowchart 5 : Marking attendance register
-No
 Mark 0 for absence
 For free distribution
-33
-3.4
 Scratch repetition control structures
 Three repetition control structures are available to build Scratch
 programming. They are shown below;
@@ -1001,9 +863,7 @@ Scratch program 4
 Displaying all positive integers 1 - 5
 Scratch program 5
 Displaying all positive integers from 1
-34
 For free distribution
-3.5
 Developing visual programs involving repetition
 Example 1 Showing the first multiples of 12 of any number.
 Note - For example, for number 2, the first 12 multiples are 2, 4, 6, 8,
@@ -1012,11 +872,8 @@ are 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36
 Begin
 Get number
 Number of times = 1
-No
-End
 Number of
 times <= 12
-Yes
 Multiple = number × number of times
 Show Multiple
 Number of times = number of times +1
@@ -1028,14 +885,10 @@ Begin
 Generate random
 number from 1 – 100
 Display number
-Yes
 Is number > 0 ?
 Scratch program 7
-No
-End
 Flowchart 7 : Displaying random numbers between 1 -100
 For free distribution
-35
 Condition in the above flowchart always remains true. It never changes to
 false. Therefore, continuous repetition takes place.
 Example 3 Display the first multiples up to 12 of given number.
@@ -1045,9 +898,7 @@ earlier.
 Example 4 Creating a multi-coloured circle using coloured lines
 Scratch program 9
 Figure 3.2 : The multi-coloured circle
-36
 For free distribution
-3.6
 Programming with nested repetition
 Here, there are repetitions within repetitions.
 Example 1 Repetition within a repetition
@@ -1056,48 +907,11 @@ Figure 3.3
 Scratch program 10
 It shows repetition within repetition.
 Example 2 Repetitions with selection
-36
-35
-34
-33
-32
 The flowchart and the Scratch program for a
 complete Snakes and ladders game is shown
 below. It includes repetitions with selections.
-31
-30
-25
-26
-27
-28
-29
-24
-13
-23
-22
-14
-15
-12
-11
-10
-1
-2
-3
-21
-16
-9
-4
-20
-19
-17
-18
-8
-5
-7
-6
 Figure 3.4 : Snakes and Ladders
 For free distribution
-37
 Begin
 Toss the dice
 Get value
@@ -1105,32 +919,23 @@ Take the counter forward by a number of squares
 equivalent to the dice value
 Reached bottom of
 a ladder?
-No
 Reached a square with
 a cobra head?
-No
-Yes
 Take the counter to
 the top of the ladder
 square
-Yes
 Take the counter
 down to the
 square where the
 cobra's tail ends
-No
 Is the number of the square
 = 36?
 Show end of game
-End
 Flowchart 8 : Snakes and ladders game
-38
 For free distribution
 Scratch program 11
 Refer to workbook for Activities 3.2 and 3.3.
 For free distribution
-39
-3.7
 Programming with arrays
 What is an array?
 In Grade 7, we learnt that to store values in programming, variables are
@@ -1142,11 +947,6 @@ Five variables are required to store marks for the five question papers.
 Name the variable as marks _ 1, marks _ 2, marks _ 3. marks _ 4 and marks
 _ 5. Marks earned by a student can be stored in these variables. Consider 78, 85, 69,
 93, 87 to be the marks scored.
-78
-85
-69
-93
-87
 marks_1
 marks_2
 marks_3
@@ -1166,14 +966,12 @@ e.g. - Using arrays to enter names of animals:
 2. Give array a name
 3. Select ‘For this sprite only’
 4. Click 'OK'
-40
 For free distribution
 Figure 3.4 : Building up an array in Scratch
 After following the steps above, instructions blocks for Animal array appear as
 shown below;
 Scratch program 12
 For free distribution
-41
 Assigning items into arrays
 For example, after building an array named 'Country' to enter the names of
 five countries, the following code can be used to enter items to it.
@@ -1186,7 +984,6 @@ In the above program, v_con is a variable and ''Country'' is the name of the arr
 Let us consider an example where two Scratch programs to store the names
 and the marks of five students are processed. The first one uses multiple variables
 whereas the second one uses two arrays.
-42
 For free distribution
 Scratch program 16 : Program with
 repetition
@@ -1207,16 +1004,13 @@ Five students are to face the interview. In the code shown below, using two arra
 named 'Name' and 'Marks' the names of students having marks greater than 75 are
 shown.
 For free distribution
-43
 Scratch program 17
-3.8
 Programming with problem analysis
 Dividing a problem into sections makes it easier to solve.
 For example, Let us consider finding the average of ten numbers. This
 problem can be divided into sections as shown below;
 1. Input ten numbers.
 Scratch program 18
-44
 For free distribution
 2. Find the total of the ten numbers
 3. Divide the total by ten to find the average
@@ -1228,7 +1022,6 @@ Based on the sections written, it is possible to develop a Scratch program easil
 the entire problem as follows;
 Scratch program 22
 For free distribution
-45
 Refer to workbook for Activity 3.4.
 Summary
 ² Repetition is about repeating a statement or a set of statements.
@@ -1251,17 +1044,12 @@ condition
 ² An array is a data structure to store many items using a single name.
 ² Dividing a problem into smaller selections makes problem development
 easier.
-46
 For free distribution
-4
 Use of Microcontrollers
 This chapter will cover the following:
-²
-²
 Identifying devices that use sensors
 Introducing the control of processing and output of data collected from
 sensors and developing codes for the purpose.
-4.1
 Microcontrollers
 The sun is up. Yet, the
 street lights are on.
@@ -1279,7 +1067,6 @@ such light sensors.
 How are they
 controlled?
 For free distribution
-47
 There are sensors to measure
 things like soil conditions,
 temperature and environmental
@@ -1292,7 +1079,6 @@ information, they must be connected to a computer.
 The basic functions of a computer are to input or collect data, process data
 according the given instructions and to output necessary information.
 Input or collect
-data
 Process data
 Output necessary
 information
@@ -1305,14 +1091,12 @@ controller
 Input
 Process
 Output
-48
 For free distribution
 The microcontroller processes data gathered by the light sensors to light
 the bulb or to put it off. For this purpose, the microcontroller needs to be fed with
 program instructions in a program.
 program instructions in a program.
 Refer to workbook for the Activity 4.1
-\\
 Note - Microcontroller
 A micro controller
 is actually a chip design to
@@ -1321,7 +1105,6 @@ perform
 according
 the given
 instructions.
-to
 Components of microcontroller
 A microcontroller consists of four basic components;
 1. Central Processing Unit - CPU
@@ -1341,7 +1124,6 @@ work. Data and instructions for the CPU are also held here.
 The system clock is an electronic device. It synchronizes all
 components.
 For free distribution
-49
 4. Peripheral devices
 Small pins used to input data or output information belong to this
 category. Data is collected in both in analog and digital forms. Output is
@@ -1372,9 +1154,7 @@ Single Chip Computer (SCC)
 Central processing unit, input, output and memory are all built into
 a single integrated circuit. (IC)
 e.g. - Arduino clip
-50
 For free distribution
-4.2
 Use of microcontrollers
 A microcontroller based kit can be used to obtain the required outputs. A
 few such microcontroller based kits are shown below:
@@ -1392,17 +1172,8 @@ process them and produce outputs. This contains a memory too. Hence this board h
 the basic features of a computer. Further, it contains sensors also. The architecture
 of the micro:bit module is as follows;
 Front view of the micro:bit module
-4 cm
-1
-A
-2
-B
-3
-4
-5
 Figure 4.1 : Front view of micro:bit module
 For free distribution
-51
 1 Two programmable buttons as A and B
 2 Digital and analog input/output pins
 3 Individually programmable LED bulbs. The LED bulbs are built into the
@@ -1410,16 +1181,7 @@ module so additional LED bulbs are not necessary.
 4 Port to connect power
 5 Ground back port
 Rear view of the micro:bit microcontroller module
-7
-8
-6
-A
-9
-B
-10
-11
 Figure 4.2 : Rear view of micro:bit microcontroller module
-52
 For free distribution
 6 Bluetooth smart antenna to connect devices using bluetooth and to transmit
 radio waves
@@ -1445,7 +1207,6 @@ Local Disk (E:)
 MICRO BIT (G:)
 Figure 4.4 : Micro:bit shown as a storage unit
 For free distribution
-53
 Coding the micro:bit module
 Coding micro: bit module is done online. To code micro: bit module, access
 micro:bit code in the website www.makecode.com. This features a drag-and-drop
@@ -1453,9 +1214,7 @@ facility to speed up programming.
 Figure 4.5 : Micro:bit coding
 Therefore, it is possible for even a beginner to follow the process. A specialty
 in this connection is the ability to access even in Sinhala as shown below;
-More
 Figure 4.6 : Micro:bit code in Sinhala
-54
 For free distribution
 To do this, the steps More → Language → Sinhala have to be followed.
 Once the coding is done, it can be displayed in micro:bit model in Block Editor.
@@ -1469,18 +1228,14 @@ Java scripts, Python C++, etc. can be used for programming.
 When starting a new project, the block editor shows two blocks as shown in
 Figure 4.8.
 For free distribution
-55
 Initial action
 included
-here
 Repetitive
 work is
 included
-here
 Figure 4.8 : Blocks inside the code editor
 To get more block types, click on the menu in block editor (Figure 4.9).
 Figure 4.9 : Block editor menu
-56
 For free distribution
 The basic menu above provides the following:
 To display a number
@@ -1494,7 +1249,6 @@ To erase displayed data
 To display an array
 Figure 4.10 : Features in basic menu
 For free distribution
-57
 The input menu above provides the following blocks:
 To specify actions for
 buttons A and B
@@ -1503,16 +1257,13 @@ shaking or motion
 To specify actions for pins
 PO, P1 and P2
 To display accelerometer
-data
 To display light sensor
-data
 Displays compass
 direction data
 Displays temperature
 sensor data
 Figure 4.11 : Features in input menu
 Other types available in block editor and other menus are used in the activity.
-58
 For free distribution
 Refer to workbook for Activities 4.2 and 4.3
 Arduino
@@ -1521,25 +1272,15 @@ the components shown below (Figure 4.12). It can receive input, process it and
 release output. It contains a memory as well. Therefore, this board is similar to a
 basic computer.
 Digital pins
-7
-Mini
-USB
-1
 Power
 regulator
-2
-3
 DC power
 ATMEGA328p
 microcontroller
-6
-4
 Power pins
-5
 Analog pins
 Figure 4.12 : Arduino board
 For free distribution
-59
 Table 4.1 : Components on the Arduino board
 Mini USB
 Can be used to connect to a computer.
@@ -1563,14 +1304,6 @@ This is a micro controller chip in the Arduino
 Uno board. It is produced by Atmel company.
 Can be used to get digital inputs and to provide
 digital outputs.
-1
-2
-3
-4
-5
-6
-7
-60
 For free distribution
 A few Arduino boards used today are shown below;
 Arduino Uno board
@@ -1580,7 +1313,6 @@ Arduino Micro board
 Out of the above Arduino boards, we use the Arduino Uno board for the
 activities in this unit.
 For free distribution
-61
 Other peripherals connected to microcontrollers
 1. Bread-board
 - pins
@@ -1604,15 +1336,10 @@ direction.
 Figure 4.14 : A Light Emitting Diode
 A sensor is a device which detects or measures a physical property and
 records, indicates or otherwise responds to it.
-62
 For free distribution
 (i) Passive Infrared Sensor (PIR) Sensor
 This is an electronic sensor that measures infrared objects (e.g. humans) in
 its field of view and gives an output voltage accordingly (Figure 4.15).
-VCC
-OUT
-GND
-GND
 OUT VCC (+5V)
 Sensitivity adjust
 (up to 7m)
@@ -1631,16 +1358,13 @@ signals (Figure 4.16).
 Object
 Figure 4.16 : How an ultrasonic sensor works
 For free distribution
-63
 This sensor functions in a way similar to that of a bat finding its route. (Figure
 4.17).
 Ultrasonic waves
-Echo
 Figure 4.17 : An example similar to the ultrasonic sensor functions
 The pins on the Ultrasonic sensor are as shown below.
 VCC (5V)
 TRIGGER (5V)
-GND
 Echo Pin
 Figure 4.18 : Pins on the ultrasonic sensor
 ² GND : the negative terminal
@@ -1648,7 +1372,6 @@ Figure 4.18 : Pins on the ultrasonic sensor
 ² TRIGGER : for input
 ² ECHO provides output : for output
 Refer to workbook for Activities 4.4, 4.5 and 4.6
-64
 For free distribution
 Summary
 ² Components of a microcontroller:
@@ -1670,14 +1393,11 @@ Remote controllers
 ² To code the above controllers must be connected to a computer. In using
 micro:bit, block editor helps with easy coding.
 For free distribution
-65
-5
 Computer Networks
 This chapter will cover the following:
 ² Computer networks and their basic devices
 ² Communication using computer networks
 ² How resources can be shared in computer networks
-5.1
 Computer networks
 I would like to show you
 the soft copy of this article
@@ -1692,7 +1412,6 @@ Don’t you know that the computers in
 this laboratory are networked? We can
 easily share the soft copies and we can
 also get hard copies from any computer.
-66
 For free distribution
 A collection of computers in a school computer laboratory or an organization,
 etc. connected together is called a computer network.
@@ -1730,7 +1449,6 @@ network storage
 device
 Figure 5.1 : Advantages of using computer networks
 For free distribution
-67
 Types of network connections
 Wired Wireless
 Figure 5.2 : Types of network connections
@@ -1743,13 +1461,11 @@ Bluetooth
 Wi-fi waves
 Radio waves
 Figure 5.4 : Wireless media examples
-68
 For free distribution
 Table 5.1 : Basic device requirements for computer networks
 Basic devices of a Network
 the software,
 The server manages
-the
 hardware, the files and communication in
 the network. Any ordinary computer with the
 necessary software installed can be used as a
@@ -1771,7 +1487,6 @@ RJ45 connector cables
 Network Interface Card
 RJ45 cables
 For free distribution
-69
 Note: The router is used to connect one network to
 another network or to the Internet.
 The router connects your computer or the network to
@@ -1789,10 +1504,8 @@ Server
 Switch
 Computer 1
 Figure 5.6 : An example of a computer network
-70
 For free distribution
 Refer to workbook for Activities 5.1 and 5.2
-5.2
 Use of a computer network to share resources
 and for communication
 Let us consider the basic objectives of computer networks.
@@ -1809,7 +1522,6 @@ Data and
 information
 5.2.1 Communication using a computer network
 A computer network helps with easy
-by
 among
 communication
 messaging.
@@ -1825,7 +1537,6 @@ using cables or wireless, every one in the
 network can use it when arrangements are
 made as such.
 For free distribution
-71
 Some other devices shared in a network.
 Scanner
 Fax machine
@@ -1846,7 +1557,6 @@ the folder can be accessed by the users in the network.
 This provides an opportunity to share images, photos,
 songs and videos, etc. among friends.
 Refer to workbook for Activities 5.3 to 5.8
-72
 For free distribution
 Note - Command Line Interface (CLI)
 The command Line Interface is an
@@ -1872,12 +1582,10 @@ Wired media examples;
 ² Twisted pair cables
 Wireless media examples;
 Infrared waves
-²
 ² Bluetooth
 ² Wi-Fi
 ² Radio waves
 For free distribution
-73
 Basic device requirements for computer networking;
 ² Computers with Network Interface Card – NIC
 ² Switch
@@ -1907,14 +1615,11 @@ use by the users in the network.
 Communication in a computer network
 ² Command Line Interface (CLI) can be used for communication
 among network users.
-74
 For free distribution
-6
 ICT and Society
 This chapter will cover the following:
 ² Changes to the society brought about by Information Communication
 Technology.
-6.1
 Impact of ICT on society
 The methods of teaching in our
 class has changed a lot. Today we
@@ -1933,7 +1638,6 @@ complete tasks more efficient
 and quickly. Let’s look at
 some such services we get.
 For free distribution
-75
 School e-learning
 ² Clearer explanation with pictures
 and video clips
@@ -1959,14 +1663,12 @@ information
 universities through the Internet
 ² To obtain circulars, legal
 services
-²
 Information in Gazette
 ² The map of Sri Lanka
 e-commerce
 ² Exchange of goods through the
 Internet
 ² Online shopping and purchasing
-76
 For free distribution
 Refer to workbook for Activity 6.1.
 Most countries in the world
@@ -1987,7 +1689,6 @@ Some societies in the world have ready access to computers and the Internet
 while some others do not. This gap between those who have and those who have
 not is known as the digital divide.
 For free distribution
-77
 Refer to workbook for Activity 6.2.
 Look! There’s garbage
 everywhere. The whole
@@ -2009,7 +1710,6 @@ Cables
 CFL bulbs
 Electric cells
 Figure 6.1: e-waste
-78
 For free distribution
 Keyboard and mouse
 Toxic poisons released from e-waste likely to harm
@@ -2034,7 +1734,6 @@ Cadmium
 Kidney weaknesses
 affects bone density,
 causes cancer
-Lead
 defects in brain,
 stomach and blood
 circulation
@@ -2062,7 +1761,6 @@ nerves, cancer
 Figure 6.2 : Harmful effects of e-waste
 Source: ewise.co.nz/the impact of e-waste
 For free distribution
-79
 Minimizing e-waste through the 3R technique
 ² Minimize purchase or collection of unnecessary
 goods - Reduce
@@ -2071,7 +1769,6 @@ possible - Reuse
 ² Handover to suitable agencies for recycling
 purposes - Recycle
 Refer to workbook for Activities 6.3, 6.4 and 6.5.
-6.2
 Computer related job opportunities
 Will learning about ICT
 help us get into a job easily?
@@ -2083,7 +1780,6 @@ related subjects have ample
 job opportunities. Let's find
 out such job opportunities
 and their responsibilities.
-80
 For free distribution
 Software Quality Assurance Engineer
 Database Administrator
@@ -2118,22 +1814,18 @@ Advises organizations on the matters
 related to information technology
 Refer to workbook for Activities 6.6 and 6.7.
 For free distribution
-81
 Summary
 ² The use of ICT in education, health services, commerce and the public
 service has resulted in increased efficiency.
 ² There is a "digital divide" between societies having and not having access
 to ICT sources.
-²
 Improper disposal of e-waste is a threat to all living beings and environment.
 ² The 3R concept: Reduce, Reuse, Recycle can be used for proper disposal
 of e-waste.
 ² Many job opportunities are available in the field of ICT for qualified
 individuals.
-82
 For free distribution
 English-Sinhala-Tamil Glossary
-No
 English
 Sinhala
 Tamil
@@ -2181,12 +1873,8 @@ fl;likg;G
 13. arithmetic and logical
 unit (ALU)
 අාව ගණිත හො තොරකිව
-ඒවවය
 vz;fzpj kw;Wk; ju;f;f
-myF
 14. array
-අරොව
-mzp
 15. artificial intelligence
 වෘතිම ෙුද්ධිය
 nraw;if Ez;zwpT
@@ -2214,8 +1902,6 @@ Machine (ATM)
 jhdpaq;fpg; gzk;
 ifahs;;; ,ae;jpuk;
 For free distribution
-115
-83
 22. autonomous
 23. axiom
 24. backups
@@ -2298,14 +1984,11 @@ gpujpepjpj;Jtr; rhtp
 vz;zsit
 44. cathode ray tube (CRT) වැතතෝය කිරණ නකය
 fNjhl;Lf; fjpu; Foha;
-84
 For free distribution
-116
 45. central processing unit
 මධ්‍ය සැවසුේ ඒවවය
 (CPU)
 kj;jpa nraw;ghl;L
-myF
 46. characteristics
 ගති කක්ෂණ / ස්වකක්ෂණ
 rpwg;gpay;Gfs;
@@ -2349,7 +2032,6 @@ Xspapay; tl;L
 නියතය
 nghUe;Jif
 njhFg;ghd;
-$W
 $l;Lr; rhtp
 khwpyp
 61. content management
@@ -2370,22 +2052,17 @@ fl;Lg;ghl;Lf; fl;likg;G
 65. control unit (CU)
 පොකන ඒවවය
 66. credit card
-ණයපත
 fl;Lg;ghl;lyF
 fldl;il
 67. customization
 අභිරුචිවරණය
 jdpg;gadhf;fy;
 68. data
-දත්ත
-juT
 69. data and control bus
 දත්ත සහ පොකන පථ
 juTk; fl;Lg;ghl;Lg;
 ghl;ilAk;
-117
 For free distribution
-85
 70. database management
 system (DBMS)
 දත්ත සමුදාය කළමනාකරණ
@@ -2434,7 +2111,6 @@ jPu;khd cjT Kiwik
 language ( DML)
 77. data migration
 78. debugging
-79.
 decision support
 system (DSS)
 80. declarative
@@ -2457,7 +2133,6 @@ gz;gpwf;fk;
 rhjdk;
 උපාංග ධාවක මෘ�කාංග
 rhjdr;; nrYj;jp
-අං�ත
 ,yf;f Kiw
 අං�ත කැමරාව
 ,yf;fKiwg; glf;fUtp
@@ -2479,17 +2154,13 @@ jpupG
 111. expert system
 �ෙ�්ෂඥ පද්ධත�ය
 epGzj;Jt Kiwik
-86
 For free distribution
-118
-119
 93. distributive law
 ��ටන න�ාය
 94. document flow
 diagram
 ෙල්ඛන ගැල�� සටහන
 95. domain
-වසම
 96. domain name server
 වස� නාම ෙස්වාදායකය
 (DNS)
@@ -2514,7 +2185,6 @@ mbg;gilr; nra;Kiw
 103. e-market place
 ඉ-ෙවළඳ ෙපාළ
 ,yj;jpudpay; re;ij
-,lk;
 104. encryption
 ග�ප්ත ෙ�තනය
 kiwFwpahf;fk;
@@ -2552,7 +2222,6 @@ Kiwik
 diagram
 ෙල්ඛන ගැල�� සටහන
 95. domain
-වසම
 96. domain name server
 වස� නාම ෙස්වාදායකය
 (DNS)
@@ -2590,7 +2259,6 @@ rhj;jpag;ghL
 mbg;gilr; nra;Kiw
 tpgupg;G
 ,yj;jpudpay; re;ij
-,lk;
 104. encryption
 ග�ප්ත ෙ�තනය
 kiwFwpahf;fk;
@@ -2626,8 +2294,6 @@ Kiwik
 �ෙ�්ෂඥ පද්ධත�ය
 epGzj;Jt Kiwik
 For free distribution
-119
-87
 112. extended binary coded
 �ස්තෘත ද්�මය ෙ�තක දශම
 ePbj;j Jtpj FwpKiw
@@ -2710,15 +2376,11 @@ mjpu;ntz; gz;Ngw;wy;
 159. icon
 නි�පකය
 rpW glk;
-88
 For free distribution
-120
-121
 135. full adder
 136. function
 ප��ණාකලකය
 KOikf; $l;b
-ශ�
 ිතය / කා�යය
 rhu;G
 137. functional dependency කා�ය බද්ධ පරායත්තතාව
@@ -2871,7 +2533,6 @@ rl;lfk;
 136. function
 ප��ණාකලකය
 KOikf; $l;b
-ශ�
 ිතය / කා�යය
 rhu;G
 137. functional dependency කා�ය බද්ධ පරායත්තතාව
@@ -2948,16 +2609,12 @@ mjpu;ntz; gz;Ngw;wy;
 159. icon
 නි�පකය
 rpW glk;
-120
 For free distribution
-121
-89
 160. identity
 161. image
 162. imperative
 163. incremental
 ස�වසාම�
-�පය
 �ධානාත්මක
 ව�ධනාත්මක
 milahsk;
@@ -3043,7 +2700,6 @@ jpiu / xsp ckpOk;
 සන්ධාරකය
 ,izg;gp
 187. linker
-LCD)
 189. list
 190. liveware
 192. local area network
@@ -3053,7 +2709,6 @@ LCD)
 Modeling( LDM)
 ලැයිස්ත�ව
 �වා��
-jpiu
 gl;bay;
 capu; nghUs;
 191. local publishing
@@ -3071,7 +2726,6 @@ ju;f;fj; juT
 තා��ක සැලසු� ෙමවල�
 ju;f;f tbtikg;Gf;
 197. looping
-�පනය
 198. machine code
 යන්ත� ෙ�තය
 199. machine-machine
@@ -3087,7 +2741,6 @@ fhe;jg;gl;b thrpg;ghd;
 khjpupAUthf;fy;
 ju;;f;fj; juTf;
 fl;likg;G
-fUtp
 tisa tuy;
 ,ae;jpuf; FwpaPL
 ,ae;jpu- ,ae;jpu
@@ -3099,16 +2752,12 @@ jPk;;nghUs;
 ����ක ප�ය
 203. malware
 අනිශ්ඨ මා�කා��
-123
 179. knowledge
 management system(
-KMS)
 Kiwik
 ghupa msT
 xUq;fpizg;G
-90
 For free distribution
-122
 180. large scale integration
 ��ාල ප�මාණෙය් අණ�කලනය
 දැනු� කළමනාකරණ පද්ධත�ය mwpT Kfhikj;Jt
@@ -3140,13 +2789,11 @@ jpiu / xsp ckpOk;
 ,izg;gp
 188. liquid crystal display(
 �වස්��ක සන්ද�ශකය
-LCD)
 189. list
 190. liveware
 ලැයිස්ත�ව
 �වා��
 jputg;gspq;Ff; fzpdpj;
-jpiu
 gl;bay;
 capu; nghUs;
 191. local publishing
@@ -3167,7 +2814,6 @@ ju;f;fg; gliy
 196. logical design tools
 තා��ක සැලසු� ෙමවල�
 197. looping
-�පනය
 198. machine code
 යන්ත� ෙ�තය
 199. machine-machine
@@ -3178,7 +2824,6 @@ khjpupAUthf;fy;
 ju;;f;fj; juTf;
 fl;likg;G
 ju;f;f tbtikg;Gf;
-fUtp
 tisa tuy;
 ,ae;jpuf; FwpaPL
 ,ae;jpu- ,ae;jpu
@@ -3198,8 +2843,6 @@ fhe;jg;gl;b thrpg;ghd;
 fhe;j ehlh
 jPk;;nghUs;
 For free distribution
-123
-91
 �නිස්-යන්ත� සහපැවැත්ම
 kdpjd; - ,ae;jpuk;
 xUq;fpUj;jy;;
@@ -3288,7 +2931,6 @@ nrayp tif
 unit( MMU)
 මතක කළමනාකරණ ඒකකය
 epidtf Kfhikj;Jt
-myF
 208. mesh topology
 බැඳ� ස්ථලකය
 fz;zp ,lj;jpay;
@@ -3356,9 +2998,7 @@ gy; nray;$W
 ප�කෘත� ෙප�
 ්�ත ප�ගණනය/
 ,aw;if cs;sPu;g;Gf;
-92
 For free distribution
-124
 248. operator precedence
 කාරක ප�මුඛතා
 nrayp Kd;Dupik
@@ -3367,7 +3007,6 @@ nrayp Kd;Dupik
 xspapay; vOj;JU
 thrpg;ghd;;
 (OCR)
-125
 204. management
 information system
 පද්ධත�ය
@@ -3406,7 +3045,6 @@ kdpjd; - ,ae;jpuk;
 xUq;fpUj;jy;;
 Clf mZfy;
 fl;Lg;ghL
-myF
 Ez;nrayp
 Ez;ziy
 rpW tl;L
@@ -3532,10 +3170,7 @@ nrayp tif
 nrayp Kd;Dupik
 xspapay; vOj;JU
 thrpg;ghd;;
-124
-125
 For free distribution
-93
 (OMR)
 251. output
 250. optical mark reader
@@ -3601,7 +3236,6 @@ ngsjPf epidtfk;
 Kd;Ndhb mKyhf;fy;
 269. piracy
 ෙචෟරත්වය/ ���නය
-fsT
 270. pirated software
 ෙචෟර/���ත ම��කාංග
 jpUl;L nkd;nghUs;
@@ -3613,9 +3247,7 @@ fUj;Jj; jpUl;L
 ඍජ� ල��� ස�බන්ධතාව
 Xd;Wlndhd;W
 ,izg;G
-94
 For free distribution
-126
 273. pointing device
 දැ�ව�� උපාංගය
 Rl;b rhjdk;
@@ -3624,14 +3256,12 @@ thapy;> Jiw
 275. portable external hard
 ජංගම/සුවහනීය බාහිර දෘඪ
 fhtj;jF Gw td;jl;L
-තැ�ය
 ද්වාරය/ ආමුඛද්වාරය
 tiythry;
 277. Point of sale (POS)
 �ක�ණ�� ෙපාල යන්ත�
 tpw;gid ,l ,ae;jpuk;
 274. port
-disk
 276. portal
 machine
 278. postulate
@@ -3688,7 +3318,6 @@ $l;Lj;njhifapd;
 295. protocol
 හි�ක� සහිත
 නියමාවල�ය
-127
 ngUf;fk;
 nra;epuy;
 nkhopngau;g;ghd;
@@ -3759,7 +3388,6 @@ Kd;Ndhb mKyhf;fy;
 �යාත්මක ��ම
 269. piracy
 ෙචෟරත්වය/ ���නය
-fsT
 270. pirated software
 ෙචෟර/���ත ම��කාංග
 jpUl;L nkd;nghUs;
@@ -3778,10 +3406,8 @@ Rl;b rhjdk;
 ෙකෙවනිය
 thapy;> Jiw
 275. portable external hard
-disk
 276. portal
 ජංගම/සුවහනීය බාහිර දෘඪ
-තැ�ය
 fhtj;jF Gw td;jl;L
 ද්වාරය/ ආමුඛද්වාරය
 tiythry;
@@ -3849,10 +3475,7 @@ nra;epuy;
 nkhopngau;g;ghd;
 jdpAupik
 elg;nghOq;F
-126
 For free distribution
-127
-95
 296. prototyping
 297. proxy server
 298. pseudo code
@@ -3910,7 +3533,6 @@ development (RAD)
 thrpg;G kl;Lk;
 epidtfk;
 epfo;Neuk;
-gjpT
 kPsr; nra;
 kpifik
 tiyaikg;gpd;
@@ -3932,10 +3554,7 @@ cwTepiy juTj;jsk;
 ස��න්ධතා නිද��නය
 njhlu;G Kiw
 vLj;Jf;fhl;L
-96
 For free distribution
-128
-129
 319. relational schema
 ස�බන්ධතා ප�පා�ක සටහන
 njhlu;G Kiwj; jpl;lk;
@@ -3977,7 +3596,6 @@ jpUk;gy; ngWkhdk;
 නියමකරණය
 �මසුම
 ෙත්�ම
-වරකය
 සංෙ�දකය
 අනු�මය
 njhlu;GKiw
@@ -3994,7 +3612,6 @@ EZF Nehf;fp
 xOq;FgLj;jp
 tpdty;
 njupT
-czup
 njhlu;
 Nju;tp> Nju;e;njLg;gp
 334. scope of variable
@@ -4074,7 +3691,6 @@ development (RAD)
 thrpg;G kl;Lk;
 epidtfk;
 epfo;Neuk;
-gjpT
 kPsr; nra;
 kpifik
 tiyaikg;gpd;
@@ -4152,13 +3768,11 @@ khwp nraw;gug;G
 339. sequence
 �මසුම
 ෙත්�ම
-වරකය
 සංෙ�දකය
 අනු�මය
 tpdty;
 njupT
 Nju;tp> Nju;e;njLg;gp
-czup
 njhlu;
 340. sequential circuit
 අනු��ක ප�පථය
@@ -4177,10 +3791,7 @@ mku;T mLf;F
 gfpujF nghJ ,lk;
 345. sign-magnitude
 ලක�ණ�වත් ප�මාණය / සංල���ත FwpAila tPr;rsT
-128
-129
 For free distribution
-97
 ප�මාණනය / �ං�ත
 ප�මාණනය
 370. sub-program
@@ -4205,7 +3816,6 @@ jdpg;gadu;-jdpg;gzp
 සමාජ ජාලකරණය
 352. software
 මෘ�කාං�
-r%f
 tiyaikg;ghf;fy;
 nkd;nghUs;
 353. software agent
@@ -4217,12 +3827,9 @@ nkd;nghUs; Kftu;
 357. spooling
 358. Star topology
 ෙත්�ම
-ප�භව
 tupirg;gLj;J
-%yk;
 ස�ප�ල ආකෘත�ය
 RUsp khjpup
-�ත�ම
 Rw;Wjy;
 තාරකා ස්ථලකය
 tpd;kPd; ,lj;jpay;
@@ -4248,7 +3855,6 @@ management
 376. system development
 life cycle(SDLC)
 377. table
-වග�ව
 379. tag
 උසුලනය
 380. Technical feasibility
@@ -4265,12 +3871,10 @@ $l;Lj;njhif
 rq;fpypj;njhlu;
 Kfhikj;Jtk;
 ,lkhw;wy;
-Msp
 njhlupay;
 tho;f;if tl;lk;
 ml;ltiz
 fl;Lg;ghL
-Xl;L
 njhopDl;gr; rhj;jpaf;
 fw;if
 njhiynray;
@@ -4308,7 +3912,6 @@ NkypUe;J fPohd
 tbtikg;G
 362. stored program concept ආ�ත �මෙල්ඛ සංකල්පය
 363. structure
-ව�හය
 364. structure chart
 ව�හ සටහන
 365. structured
@@ -4333,10 +3936,7 @@ language( SQL)
 368. subnet mask
 369. sub-netting
 ව�හ�ත �මසු� බස
-98
 For free distribution
-130
-131
 ප�මාණනය / �ං�ත
 ප�මාණනය
 370. sub-program
@@ -4361,19 +3961,16 @@ tpepNahf
 rq;fpypj;njhlu;
 Kfhikj;Jtk;
 ,lkhw;wy;
-Msp
 njhlupay;
 ස�ප�ල ආකෘත�ය
 RUsp khjpup
 379. tag
 උසුලනය
-Xl;L
 376. system development
 life cycle(SDLC)
 පද්ධත� සංව�ධන �වන ��ය Kiwik tpUj;jp
 tho;f;if tl;lk;
 377. table
-වග�ව
 ml;ltiz
 378. table check constraint
 වග� ප���ා සංෙර�ධකය
@@ -4419,10 +4016,7 @@ Neug;gfpu;T
 Neuf;fzpg;G
 NkypUe;J fPohd
 tbtikg;G
-130
 For free distribution
-99
-131
 347. single user-single task ඒක ප��ීලක-ඒක කා�යය
 jdpg;gadu;-jdpg;gzp
 348. smart card
@@ -4436,7 +4030,6 @@ jdpg;gadu;-jdpg;gzp
 #l;bif Kiwik
 351. social networking
 සමාජ ජාලකරණය
-r%f
 352. software
 මෘ�කාං�
 353. software agent
@@ -4445,7 +4038,6 @@ nkd;nghUs; Kftu;
 tiyaikg;ghf;fy;
 nkd;nghUs;
 tupirg;gLj;J
-%yk;
 Rw;Wjy;
 vz;zf;fU
 fl;likg;G
@@ -4457,8 +4049,6 @@ fl;likg;Gila
 357. spooling
 358. Star topology
 ෙත්�ම
-ප�භව
-�ත�ම
 තාරකා ස්ථලකය
 tpd;kPd; ,lj;jpay;
 359. stepwise refinement
@@ -4474,7 +4064,6 @@ Nrkpg;G xJf;fy;
 Nrkpf;fg;gl;
 ;l nra;epuy;;;
 363. structure
-ව�හය
 364. structure chart
 ව�හ සටහන
 365. structured
@@ -4554,7 +4143,6 @@ topgLj;jg;glhj Clfk;
 406. uni-casting
 407. unicode
 ස��� ස�ෙප�
-්ෂණය
 jdpg;gug;gy;
 යුනිෙක��/ ඒකෙ�ත
 Xw;iwf;Fwp Kiw
@@ -4571,7 +4159,6 @@ jdpj;Jtf; fl;Lg;ghL
 ඒකක ප��ෂණය
 myFr; Nrhjid
 සා�වත�
-nghJ
 යාවත්කාල�න ��ම
 jw;fhyg;gLj;jy;
 ප��ීලක
@@ -4581,16 +4168,13 @@ gadu; tiuaiw
 වලංග� ��ම
 ��ල�ය
 nry;Ygbahf;fy;
-khwp
 416. very large scale
 integration (VLSI)
 ඉතා ��ාල ප�මාණෙය්
 අනුකල�ත
 kpfg; ngupastpyhd
 xUq;fpizg;G
-100
 For free distribution
-132
 421. waterfall model
 ද�යඇල� ආකෘත�ය
 ePu; tPo;r;rp khjpup
@@ -4624,7 +4208,6 @@ rPu;ik ts
 �කාකා� ස�පත් හ�න්වනය
 rPu;ik ts
 milahsq;fhl;b
-133
 392. touch pad
 393. touch screen
 ස්ප��ක උපධානය / පාදකය
@@ -4690,8 +4273,6 @@ rPu;ik ts
 milahsq;fhl;b
 This glossary is still being developed.
 For free distribution
-101
-133
 397. transport protocol
 ප�වාහන නියමාවල�ය
 Nghf;Ftuj;J
@@ -4721,7 +4302,6 @@ nray;jtpu;
 නියමු ෙනාවන මාධ�
 topgLj;jg;glhj Clfk;
 ස��� ස�ෙප�
-්ෂණය
 jdpg;gug;gy;
 යුනිෙක��/ ඒකෙ�ත
 Xw;iwf;Fwp Kiw
@@ -4734,15 +4314,12 @@ myFr; Nrhjid
 jw;fhyg;gLj;jy;
 ප��ිලක නි�වා�ත
 gadu; tiuaiw
-nghJ
 gadu;
 nry;Ygbahf;fy;
-khwp
 සා�වත�
 ප��ීලක
 වලංග� ��ම
 ��ල�ය
-132
 416. very large scale
 ඉතා ��ාල ප�මාණෙය්
 integration (VLSI)

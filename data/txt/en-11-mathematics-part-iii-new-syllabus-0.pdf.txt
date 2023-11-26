@@ -2,7 +2,6 @@ Contents
 17. Pythagoras' Theorem
 18. Trigonometry
 19. Matrices
-20.
 Inequalities
 21. Cyclic Quadrilaterals
 22. Tangents
@@ -10,21 +9,9 @@ Inequalities
 24. Sets
 25. Probability
 Revision Exercises
-Page
-1
-12
-42
-57
-63
-79
-101
-117
-128
-144
 Logarithm Tables 149
 Glossary 155
 Sequence of the Lessons 158
-vii
 Message of the Board of Compilers
 This textbook has been compiled in accordance with the new syllabus to be
 implemented from 2015.
@@ -49,23 +36,12 @@ in the classroom.
 We hope that studying mathematics will be an interesting, joyful and productive
 experience.
 Board of Compilers
-viii
-17
 Pythagoras’ Theorem
 By studying this lesson you will be able to
 ² identify Pythagoras’ Theorem
 ² use Pythagoras’ Theorem in calculations and to prove riders
 ² identify Pythagorean triples.
 Introduction
-A
-P
-K
-B
-C
-Q
-R
-L
-M
 The triangles ABC, PQR and KLM in the above figure are respectively an acute
 angled triangle, a right angled triangle and an obtuse angled triangle. These triangles
 have been thus named, by considering the largest (one or more) of the interior
@@ -74,7 +50,6 @@ is the largest interior angle of the triangle
 PQR. The side PR which is directly opposite this angle is the longest side of the
 triangle. This side is called the hypotenuse, and the remaining sides, namely PQ and
 QR, are known as the sides that include the right angle.
->
 There is evidence to show that from ancient times, man knew about the geometrical
 properties of triangles. The marvel of the pyramids made in Egypt around 3000
 B.C. is accepted by us all. For such creations, knowledge of geometry, especially on
@@ -88,17 +63,7 @@ to be the first to offer a geometrical proof of this relationship. Later on in 3
 the mathematician named Euclid included this result as a theorem, together with its
 proof, in his historical book called THE ELEMENTS.
 for free distribution.
-1
 17.1 Pythagoras’ Theorem
-E
-F
-R
-P
-Q
-B
-A
-C
-D
 A part of a floor on which tiles of the same shape and size have been placed is
 depicted in the above figure. The shape of each tile is an isosceles right angled
 triangle. Let us consider the isosceles right angled triangle PQR. The square PQAB
@@ -110,7 +75,6 @@ drawn on the hypotenuse PR has an area equal to that covered by four tiles.
 Accordingly, for the squares lying on the three sides of the isosceles right angled
 triangle PQR, it is clear that the following relationship holds.
 Area of square PQAB + Area of square RCDQ = Area of square
-PREF
 This relationship can be established further by doing the activity given below.
 Activity
 Using a square ruled paper, cut out 3 square shaped laminas and 1 triangular shaped
@@ -123,13 +87,6 @@ angle are of lengths equal to the length of 3 small squares and 4 small squares
 respectively.
 Paste the right triangular shaped lamina on a white paper. Paste the squares on the
 three sides of the triangle as shown in the figure given below.
-2
-A
-A
-B
-C
-B
-C
 The area of the square on the side AB of the right angled = 16 small squares
 triangle ABC
 The area of the square on the side BC = 9 small squares
@@ -137,13 +94,10 @@ The area of the square on the side AC = 25 small squares
 Accordingly, the sum of the areas of the squares on
 the sides which include the right angle of the
 = 16 + 9 small squares
-=
-+
 triangle ABC
 The area of the square on the hypotenuse AC
 of the right angled triangle ABC
 = 25 small squares
-=
 25 small squares
 Therefore, in the right angled triangle ABC, the sum of the areas of the squares
 on the sides which include the right angle is equal to the area of the square on the
@@ -153,60 +107,42 @@ from ancient days, can be expressed as a theorem as follows.
 Pythagoras’ Theorem: In a right angled triangle, the area of the square drawn
 on the hypotenuse is equal to the sum of the areas of the squares drawn on the
 remaining sides of the triangle, which include the right angle.
-3
 In the right angled triangle KLM shown in the figure, KM is the hypotenuse while
 KL and LM are the remaining sides which include the right angle.
 Area of the square drawn on the side KL = KL2
 Area of the square drawn on the side LM = LM 2
 Area of the square drawn on the hypotenuse KM = KM 2
-K
 Therefore, according to Pythagoras’ Theorem,
-L
-M
 KL2 + LM 2 = KM 2
 Let us now consider how calculations are performed using Pythagoras’ Theorem.
 Example 1
 In the right angled triangle ABC, B = 90x
 length of the side AC.
->
 , AB = 5 cm and BC = 12 cm. Find the
 According to Pythagoras’ Theorem,
-A
-5 cm
-C
 12 cm
-B
 AC 2 = AB 2 + BC 2
 = 52 + 122
 = 25 + 144
 = 169
 ... AC = 169
-= 13
 ... the length of side AC is 13cm.
-4
 Example 2
 Find the length of CD based on the information given in the figure.
 According to the figure, Pythagoras’ Theorem can be applied to the right angled
 triangle ABC.
 ... BC 2 = AB 2 + AC 2
-A
 12 cm
-B
 = 122 + 92
 = 144 + 81
 = 225
 ... BC = 225
-=15
-9 cm
-C
 17 cm
-D
 Applying Pythagoras’ Theorem to the right angled triangle BCD,
 CD 2 + BC 2 = BD 2
 CD 2 + 152 = 172
 CD 2 + 225 = 289
 ... CD 2 = 289 – 225
-= 64
 ... CD = 8
 ... the length of CD is 8 cm.
 Now let us consider how Pythagoras’ Theorem can be used to solve practical
@@ -222,15 +158,6 @@ horizontal ground. Therefore PQS
 Since QRS is a right angled triangle, according to
 Pythagoras’ Theorem,
 = 90x.
->
-P
-R
-1 m
-10 m
-Q
-8 m
-S
-5
 QR 2 + QS 2 = RS 2
 QR 2 + 82 = 102
 QR 2 + 64 = 100
@@ -239,33 +166,12 @@ QR2 = 36
 ... QR = 6
 ... Height of the pole = QR + PR
 = 6 + 1
-= 7
 ... Height of the pole is 7 m.
 Now do the following exercise using Pythagoras’ Theorem.
 Exercise 17.1
 1. Fill in the blanks using the information in the figure.
-(i)
-M
-(ii)
-N
-B
-O
 MO2 = .... + ....
-A
-C
 (iii)
-P
-Q
-(iv)
-D
-S
-T
-R
-B
-A
-C
-E
-D
 BD2 = .... + ....
 .... = AC2 + CD2
 AB2 = AC2 + ....
@@ -274,42 +180,13 @@ PQ2 = .... + .... AB2 = .... + AC2
 QR2 = .... + ....
 AD2 = AC2 + ....
 2. Find the value of x in each of the right angled triangles given below.
-(i)
-A
-(ii)
-x
-6 cm
-B
-8 cm
-C
-P
-x
-R
 13 cm
 12 cm
-Q
 (iii)
-K
-x
-cm5
-N
-1 cm
-M
-cm2
-(iv)
-4 cm
-R
-O
-3 cm
-P
-x
 1 2 c m
-L
-Q
 3. In the equilateral triangle ABC, D is the foot of the perpendicular drawn from
 the vertex A to the side BC. If the length of a side of the triangle is 2 cm, find the
 length of AD (Express the answer as a surd.)
-6
 4. The location Q is reached from the location P on the horizontal ground, by
 travelling 15m to the North from P and then 8m to the East.
 (i) Draw a sketch based on the above information.
@@ -322,21 +199,6 @@ angled triangles in the figure, find the lengths
 a, b, c, d, e, f and g, using the given
 measurements. (Express the answers in surd
 form)
-1 cm
-1 cm
-1 cm
-1 cm
-e
-d
-c
-f
-g
-1 cm
-1 cm
-b
-a
-1 cm
-1 cm
 17.2 Further applications of Pythagoras’ Theorem
 Now let us consider how riders related to Pythagoras’ Theorem are proved.
 Example 1
@@ -347,104 +209,50 @@ Applying Pythagoras’ Theorem to the triangle ABC,
 AC 2 = AB 2 + BC 2
 AC 2 = AB 2 + AB 2 ^AB = BC, sides of a square&
 ∴ AC 2 = 2AB 2
->
 Example 2
-A
-D
-B
-C
 In the rhombus ABCD, the diagonals AC and BD intersect at O. Prove that
 AC 2 + BD 2 = 4 AB 2 .
 Proof: Since ABCD is a rhombus, the diagonals bisect each other perpendicularly.
 (See figure)
 ... AOB
->
 = 90x , AO = OC and BO = OD'
-7
 According to Pythagoras’ Theorem; in the right angled triangle AOB,
 AO 2 + OB 2 = AB 2
-1
-(
-2
-1
-4
 BD 2 = AB 2
 BD)2 = AB 2
-1
 AC)2 + (
-2
 AC 2 + 1
-4
-1
-4
 (AC 2 + BD 2) = AB 2
 ... AC 2 + BD 2 = 4 AB 2
-A
-=
->>
->
-O
-=
-B
->>
-D
->
-C
 Example 3
 In the triangle ABC, BAC
-A
 AX is drawn from A,
 perpendicular to BC. Prove that AB 2 – AC 2 = BX 2 – CX 2
 is an obtuse angle.
->
-B
-X
-C
 Proof:
 In the right angled triangle AXB, according to Pythagoras’ Theorem
-1
 AB2 = AX 2 + BX 2
 In the right angled triangle AXC, according to Pythagoras’ Theorem,
 AC 2 = AX 2 + CX 2
 1 – 2 ; AB 2– AC 2 = AX 2 + BX 2 – (AX 2 + CX 2)
-2
 = AX 2 + BX 2– AX 2 – CX 2
 = BX 2 – CX 2
 Prove the riders in the exercise given below as illustrated in the above examples.
 Exercise 17.2
-A
 1. AD is perpendicular to BC in the triangle ABC .
 (See figure)
 If AD = DC, prove that AB2 = BD2 + DC 2.
 2. AD is perpendicular to BC in the triangle ABC . Prove that
 AB2 + CD2 = AC 2 + BD2.
-B
-D
-C
 3. AD is perpendicular to BC in the equilateral triangle ABC. Prove that
 4 AD2 = 3 BC 2.
-8
-A
-4.
 AD is perpendicular to BC in the equilateral triangle ABC
 in the figure. BC has been produced to E such that
 DC = CE. Prove that AE 2 = 7 EC 2.
-B
-D
-C
-E
 5. The diagonals of the quadrilateral ABCD bisect each other perpendicularly at O.
 Prove that AB2 + CD2 = AD 2+ BC 2 .
 6. O is a point within the rectangle ABCD. Prove that AO 2 + CO 2 = BO 2 + DO 2
 (Hint: Draw a parallel line through O to any side of ABCD.)
-A
-P
-E
-D
-C
-7.
-F
-B
 P is a point within the triangle ABC. The perpendiculars
 drawn from the point P to the sides BC, AC and AB
 meet these sides at D, E and F respectively.
@@ -454,12 +262,6 @@ Prove that,
 8. The two squares ABXY and BCPQ lie on the same side of the straight line ABC.
 Prove that PX 2 + CY 2 = 3 (AB2 + BC 2)
 17.3 Pythagorean triples
-A
-a
-B
-c
-b
-C
 In the right angled triangle ABC in the figure, if the lengths of the sides which
 include the right angle are a and b units, and the length of the hypotenuse is c units,
 then we know that a2 + b2 = c2 according to Pythagoras’ Theorem. Values of a, b
@@ -469,11 +271,9 @@ Since 32 + 42 = 52, we obtain that (3, 4, 5) is a Pythagorean triple. Any multip
 the triple (3, 4, 5) is also a Pythagorean triple.
 Eg: Multiplying each value of the triple (3, 4, 5) by 2 we obtain (6, 8, 10).
 Since 62 + 82 = 102, (6, 8, 10) is a Pythagorean triple.
-9
 Multiplying each value of the triple (3, 4, 5) by 3 we obtain (9, 12, 15). Since
 92 + 122 = 152, (9, 12, 15) is also a Pythagorean triple.
 There are Pythagorean triples apart from the multiples of (3, 4, 5).
-Eg:
 Since 52 + 122 = 132, (5, 12, 13) is a Pythagorean triple.
 Since 82 + 152 = 172, (8, 15, 17) is a Pythagorean triple.
 A mathematician named Euclid introduced “parametric equations” to find
@@ -484,59 +284,22 @@ b = 2xy = 2 6 5 = 60
 c = x2 + y2 = 62 + 52 = 61 '
 Therefore (11, 60, 61) is a Pythagorean triple.
 Exercise 17.3
-a
-c
-b
 1. The following triples are the lengths of the sides of two triangles. Select the
 triangle which is a right angled triangle and write down the corresponding
 Pythagorean triple.
 (i) (8, 15, 17)
 (ii) (14, 18, 25)
 2. Based on the measurements given in figures (i) and (ii), show that BAC
-is a
->
 right angle in each figure.
 12 cm
-B
 17 cm
-D
-9 cm
-A
-8 cm
-A
 10 cm
-6 cm
 7.5 cm
-C
-(i)
-B
-D
-(ii)
-C
-10
 3. By completing the table given below, find the Pythagorean triples corresponding
 to the given pairs of values. Verify your answers.
-x2
-y2
-a
 x2 – y2
-b
-2xy
-c
 x2 + y2
 Pythagorean triple
-x
-2
-5
-4
-6
-7
-y
-1
-4
-3
-5
-5
 Miscellaneous Exercise
 1. The chord AB of the circle with centre O, which lies at a distance of 9 cm from
 O, is of length 24 cm. Find the radius of the circle.
@@ -544,23 +307,15 @@ O, is of length 24 cm. Find the radius of the circle.
 is a right angle.
 Using the triangle you constructed, find the value of 13 to the first decimal
 place.
->
 3. Construct straight line segments of the lengths given below.
 (i) 8 cm (ii) 10 cm
 (iii) 41 cm
 4. ABC is an equilateral triangle. D is the midpoint of AB and E is the midpoint of
 CD. Prove that 16 AE 2 = 7 AB 2.
->
 5. In the triangle ABC, B
 is an acute angle. The foot of the
 perpendicular dropped from A to BC is X. Prove that
 AC 2 = AB2 + BC 2 – 2 BC.BX
-B
-A
-X
-C
-11
-18
 Trigonometry
 By studying this lesson you will be able to,
 ² identify the trigonometric ratios sine, cosine and tangent,
@@ -576,111 +331,45 @@ Pythagoras’ relationship cannot be used to find the lengths of the remaining s
 of a triangle when the length of one side of a right triangle and the magnitude of an
 angle other than the right angle are given. To identify a method to do this, let us first
 see how the sides of a right angled triangle are named.
-A
-B
-C
->
->
->
 The angle B
 of the right angled triangle ABC is a right angle. Therefore A
 are acute angles. The side AC which is opposite the right angle B
-C
 the hypotenuse of the triangle. When the angle C
 is directly opposite C
 is one of the arms of the angle C
 “adjacent side”.
-and
 is defined as
 is considered, then AB which
 is called the “opposite side”. Moreover, the side BC which
 , the other being the hypotenuse, is called the
->
->
->
->
 Accordingly, when A
 side” and AB is the “adjacent side”.
 is considered, as above, we have that BC is the “opposite
->
-12
 Thus, for the triangle PQR in the figure,
-P
->
 when QRP
 is considered, the opposite side = PQ
 the hypotenuse = PR
 the adjacent side = QR
->
 when QPR
 is considered, the opposite side = QR
 the adjacent side = PQ.
-Q
-R
 Exercise 18.1
 1. Complete the following table using the given figures.
-K
-Q
-U
-N
-(ii)
-L
-(i)
-M
-O
-P
-R
-T
 (iii)
-S
-V
-W
-(iv)
-X
 Right angled
 triangle
 Hypotenuse
 Angle
 considered
 Opposite
-side
 Adjacent
-side
-(i)
-KLM
-KM
-(ii)
-PNO
 (iii)
-QRT
-(iv)
-QTS
-UVX
-UVW
->
-LKM
->
-LMK
->
-NOP
->
-OPN
->
-RQT
->
-TQS
->
-VUX
->
-UWV
-13
 18.2 Trigonometric Ratios
 Do the following exercise to investigate the relationship between two sides of a
 right angled triangle and an angle of the triangle.
 Activity
 ² Draw the angle XOY
 length 11 cm each.
->
 (= 30x) such that the arms XO and OY of this angle are of
 ² Mark the points A, B and C on the side OY at distances of 2 cm, 4 cm and 7 cm
 respectively from O.
@@ -688,54 +377,30 @@ respectively from O.
 through the points A, B and C and name the points that these perpendiculars meet
 OX as P, Q and R respectively.
 ² Then you will obtain a figure similar to the one given below.
-Y
-C
-B
-A
-O
-P
-R
 ² Measure the lengths of the sides of each of the right angled triangles that are
 obtained and complete the following table. (Write down all measured values and
 calculated values to the nearest first decimal place).
-Q
-X
 Right angled
 triangle
 Hypot-
 enuse
-Side
 opposite
-30x
-Side
 adjacent to
-30x
 Opposite side
 Adjacent side
 Opposite side
 Hypotenuse
 Hypotenuse
 Adjacent side
-2
-1
-1.7
-1
-2
 = 0.5
-1.7
 2 = 0.9
-1
 1.7 = 0.6
-AOP
-BOQ
-COR
 According to the above table which was prepared based on the measurements that
 were obtained from the activity,
 for the angle 30x, from all three triangles we obtain
 opposite side
 hypotenuse
 = 0.5
-14
 opposite side
 adjacent side
 = 0.6
@@ -751,158 +416,75 @@ connected with them. “sin” is used for sine, “tan” is used for tangent a
 is used for cosine. Accordingly, the sine of the angle 30x is written as sin 30x, the
 tangent of the angle 30x is written as tan 30x and the cosine of the angle 30x is written
 as cos 30x.
-P
 Now let us write the trigonometric ratios for the triangle PQR in
 the figure using the notation given above.
-Q
-x
-R
 In terms of x; sin x =
 opposite side
 hypotenuse
-=
-PQ
-PR
 cos x =
 adjacent side
 hypotenuse
-=
-QR
-PR
 opposite side
 tan x =
 adjacent side
-=
-PQ
-QR
 Now let us see how calculations are done using these three trigonometric ratios by
 considering some examples.
 Example 1
->
 In the triangle PQR in the figure, P
-PQR
-= θ'
->
 is a right angle. PQ = 5 cm and PR = 12 cm'
-15
 (i) Find the length of the side QR.
 (ii) Find the following values.
 (a) sin θ (b) cos θ
 (c) tan θ
-R
 12 cm
-P
-5 cm
-θ
-Q
 (i) According to Pythagoras’ relationship,
 QR2 = PQ2 + PR2
 ... QR
 = 52 + 122
 = 25 + 144
 = 169
-= 13
 ... the length of the side QR is 13 cm.
 (ii) (a) sin θ =
 (b) cos θ =
 (c) tan θ =
-PR
-QR
-12
-13
-PQ
-QR
-5
-13
-=
-=
 = 0.9230
 = 0.3846
 Example 2
 If tan θ =
-1
-2
 , find the values of sin θ and cos θ.
-PR
-PQ
-12
-5
 = 2.4
-=
 If tan θ =
-1
-2
 , the side opposite θ is of length 1 unit and the side adjacent to θ is of
 length 2 units.
 Let us represent this information in a figure.
-A
-1
-B
-2
-θ
-C
-16
 Then, according to Pythagoras’ relationship,
 AC 2 = AB2 + BC 2
 = 12 + 22
-= 5
 ... AC = 5
 Then, sin θ =
 opposite side
 hypotenuse
-=
-1
-5
 Exercise 18.2
 cos θ =
 adjacent side
 hypotenuse
-=
-2
-5
 1. Fill in the blanks under each figure, based on the information given in each of
 the following figures.
-(i)
-A
-θ
-3 cm
-5 cm
-B
-4 cm
-C
 sin θ = ............
 cos θ = ............
 tan θ = ............
-(ii)
-3 cm
-A
-B
 (iii)
-5 cm
-4 cm
-8
-C
 sin α = ............
 cos α = ............
 tan α = ............
-5
-cm2
-5 cm
-x
-5 cm
 sin x = ............
 cos x = ............
 tan x = ............
 2. If sin θ =
-5
 13 , find the value of (i) tan θ
 (ii) cos θ .
 3. In the triangle ABC in the figure, B
 is a right angle and C
-= θ.
->
->
->
 in terms of θ.
 (i) Express BAC
 (ii) Show that sin θ = cos (90x – θ)'
@@ -910,35 +492,15 @@ sin θ
 cos θ
 (iii) Show that
 = tan θ'
-A
-B
-θ
-C
-17
 18.3 The trigonometric ratios of the angles of magnitude 30x, 45x
 and 60x
 By considering an equilateral triangle of side length 2a, the trigonometric ratios for
 the angles 30x and 60x can be found.
-A
-30x
-30x
-2a
-2a
-60x
-B
-a
-D
-a
-60x
-C
 The figure depicts an equilateral triangle ABC. Its vertex angles are each of
 magnitude 60x. We know that when the perpendicular AD from the vertex A to
 the side BC is drawn, D is the midpoint of BC and BAC
 is bisected by AD. Then
-BAD
 = 30x .
->
->
 Let us find the length of the side AD of the right angled triangle ABD in terms of a.
 According to Pythagoras’ theorem;
 BD2 + AD2 = AB2
@@ -948,225 +510,61 @@ AD2 = 4a2 – a2
 AD = 3a
 sin 60x =
 If we consider the right triangle ABD,
-AD
-AB
-3a
-2a
-=
-=
 cos 60x =
-=
-3
-2
-=
-18
-BD
-AB
-a
-2a
-1
-2
 tan 60x =
-AD
-BD
-3a
-a
-=
-= 3
 If we consider the right angled triangle ABD,
 sin 30x =
 cos 30x =
-=
-=
-=
-1
-2
-=
-3
-2
-BD
-AB
-a
-2a
-AD
-AB
-3a
-2a
 tan 30x =
-=
-=
-BD
-AD
-a
-3a
-1
-3
 Let us now use the isosceles right angled triangle PQR in the given figure to obtain
 the trigonometric ratios for the angle 45x. Let us take the length of the sides of the
 triangle that include the right angle to be x.
 Then, according to Pythagoras’ theorem,
-P
 PR2 = x2 + x2
 = 2x2
 PR = 2x
-...
-45x
-x
-2 x
-Q
-45x
-x
-R
 Accordingly,
 sin 45x =
-=
-=
-PQ
-PR
-x
-2x
-1
-2
 cos 45x =
-QR
-PR
-x
-2x
-1
-2
-=
-=
 tan 45x =
-PQ
-QR
-x
-x
-= 1
-=
 The trigonometric ratios obtained for the angles of magnitude 30x, 60x and 45x are
 given in the following table.
-sin
-cos
-tan
-30x
-1
-2
-3
-2
-1
-3
-45x
-1
-2
-1
-2
-1
-60x
-3
-2
-1
-2
-3
-19
 Example 1
 In the right angled triangle ABC, B
 lengths of AB and BC.
 According to the figure,
-A
 = 90x , ACB
->
->
 = 30x and AC = 10 cm' Find the
 sin 30x =
-AB
-AC
 10 cm
-1
-2 =
-AB
-10
-B
-30x
-C
 AB = 5
 ... the length of the side AB is 5 cm.
 cos 30x =
-BC
-AC
-BC
-10
 ... BC = 5 3
 ... the length of the side BC is 5 3 cm'
-3
-2 =
 Example 2
 Find the length of the hypotenuse of the right angled triangle PQR.
-P
-QR
-PR
 cos 45x =
-1
-2
-= 5
-PR
 ... PR =
-5 2
 ... the length of the hypotenuse is 5 2 cm'
-Q
-5 cm
-45x
-R
 Example 3
 A 5 m long ladder is kept leaning against a vertical wall such that the angle between
 the ladder and the horizontal is 60x. At what height above the horizontal ground
 does the top of the ladder touch the wall?
-20
 Since the angle between the vertical wall and the horizontal
 = 90x in the figure.
 ground is 90x, ABC
->
 In the right angled triangle ABC,
 sin 60x =
-AB
-AC
-= AB
-5
 ... 3
-2
-A
-5 m
-60x
-C
-B
 ... AB =
-5 3
-2
 = 4.325 ( By taking 3 = 1.73&
 ... the top of the ladder touches the wall at a height of 4.33 m above the ground.
 Now do the following exercise by using the values in the table in section 18.3.
 Exercise 18'3
 1. Find the length x in each of the triangles given below using the information given
 in the triangle.
-(i)
-A
-x
-B
-(ii)
-D
-x
-E
 (iii)
-G
-2 cm
-30x
-C
-2 cm
-45x
-F
-x
-I
-H
-60x
 5 c m
 2. Find the value of each of the following expressions using the information in the
 table in section 18.3.
@@ -1179,27 +577,14 @@ d. cos 60x + sin 30x + tan 60x
 (ii) cos 60x cos 30x – sin 60x sin 30x = 0
 (iii) tan 30x = tan 60x – tan 30x
 1 + tan 60x tan 30x
-21
 4. Based on the information in the figure,
 (i) find the length of AX.
 (ii) find the length of AC.
 ^ Take 3 = 1.7&
-A
-45x
-B
-5 cm
-X
-60x
-C
 5. Find the length of the diagonal of the rectangle
 ABCD in the figure if the length of the side BC is
 12 cm.
-D
-A
-30x
-C
 12 cm
-B
 6. To keep an antenna post vertical, one end of a stretched wire has been attached
 to a point which is 50 cm below the top of the post, while the other end has been
 attached to a wedge which is firmly fixed to the horizontal ground, 5 m away
@@ -1217,7 +602,6 @@ to 60 minutes. i.e., 1x = 60'. Trigonometric ratio values for angles in degrees 
 minutes are provided in the trigonometric tables.
 In all three tables, the sines, the cosines and the tangents, the first column has the
 angles from 0 to 90x. The following is a part of the Tangents Table.
-22
 In the trigonometric ratios tables, the first column has the angles from 0x to 90x
 (Since only a portion of the table is given here, only the angles from 0x to 4x are
 shown). The parts of a degree which are minutes are given in the first row of the
@@ -1234,7 +618,6 @@ Let us first find the value of tan 43x. The value corresponding to tan 43x appea
 in the row which contains 43x and the column which contains 0'. Accordingly,
 tan 43x = 0.9325.
 Now let us find the value of tan 48x 20'
-23
 We need to move along the row containing 48x until we arrive at the column
 containing 20'. Take the value.1237 which is in this position. Since the whole
 number part of the number 1.0117 at the top of the column containing 20' is 1, all
@@ -1261,7 +644,6 @@ When it is required to find an angle using the tables when a trigonometric ratio
 the angle is known, a procedure similar to that followed in finding the antilog of a
 value using the logarithms table is used.
 Let us find θ such that tan θ = 1.1054
-24
 Find the value in the table which is closest to 1.1054 but less than it. This value
 is 1.1041. From the table it can be seen that the angle corresponding to this value
 is 47x 50'. We need to add 0.0013 to 1.1041 to obtain the value 1.1054. Therefore,
@@ -1287,7 +669,6 @@ Note: Although the values in the Tangents Table start from 0 and increase to ver
 great values, the Sines Table contains only values from 0 to 1. The reason for this
 is because the sine value of an angle in a triangle always takes a value from 0 to 1.
 Let us find the value of sin 33x 27' using the table.
-25
 First note that sin 33x20' = 0.5495. To obtain the value corresponding to the
 remaining7' , move along the row containing 33x and find the value corresponding
 to 7' from the Mean Differences column. This value is 0.0017. Add this value to
@@ -1314,52 +695,30 @@ the Mean Differences column is 1'. ∴ The angle of which the sine value is 0.52
 is 31x 51' .
 That is, if sin θ = 0.5277, then θ = 31x 51' .
 Example 4
-(i)
 If sin θ = 0.5831
 then θ = 35x 40'
 (ii) If sin θ = 0.7036 (iii) If sin θ = 0.9691
 then θ = 75x 43'
 then θ = 44x 43'
-26
 Cosines
 Consider the following triangle.
-C
 90 – θ
-A
-B
 The above triangle is a right angled triangle with ABC
 Then, since the sum of the angles of a triangle is 180x, ACB
->
 = 90x Let us take BAC
 = 90x – θ.
->
->
-θ
-= θ.
 The sum of the angles ACB
 pairs of angles are called complementary angles.
 and BAC
->
->
 is 90x' You have learnt previously that such
 If we consider the triangle ABC,
 cos θ =
->
 side adjacent to A
 hypotenuse
-=
-AB
-AC
-'
 This can also be written as,
 sin (90x – θ) =
->
 side opposite to C
 hypotenuse
-=
-AB
-AC
-'
 Accordingly, cos θ = sin (90 – θ).
 This relationship can be used to find the cosine value of an angle in a triangle.
 Example 1
@@ -1367,7 +726,6 @@ Find the value of cos 58x .
 =cos 58x = sin (90x – 58x) (according to the relationship that was obtained)
 = sin 32x
 = 0.5299 (according to the part of the table given above)
-27
 Example 2
 Find the value of cos 56x 18'.
 First let us find the value of 90 – 56x 18' . It is 33x 42' .
@@ -1394,7 +752,6 @@ column. However, in this case, the values in the Mean Differences column need to
 be subtracted instead of added.
 Now let us consider how to use the table in relation to cosine values.
 Let us find the value of cos 4x 20' using the table.
-28
 Example 4
 We need to consider the row corresponding to 4x in the “degrees” column on the
 right hand side and the column corresponding to 20' in the “minutes” column at
@@ -1411,7 +768,6 @@ cos 9x 26' = 0.9868 – 0.0003
 = 0.9865
 Example 6
 Now let us find the angle θ such that cos θ = 0.4374.
-29
 The value in the table closest to 0.4374 and less than it is 0.4358. The angle which
 has this value as its cosine is 64x 10' according to the table. The value 0.0016 which
 is the difference between 0.4374 and 0.4358 is found in the column corresponding
@@ -1441,34 +797,23 @@ following into consideration when solving problems related to trigonometry.
 1' Consider a suitable right angled triangle.
 2' Select a suitable angle in the triangle.
 3' Use a suitable trigonometric ratio corresponding to the selected angle.
-30
 Now let us consider some examples.
 Example 1
 Find the length of the side AC by using the information in
 the triangle ABC in the figure.
-A
 10 cm
 The angle in the triangle that is given is C. The length that
 is given is of the side opposite this angle. The length of
 the hypotenuse needs to be found. ∴The trigonometric ratio which involves these
 two sides, namely the sine ratio needs to be used.
-C
-B
 57x 32'
 sin 57x 32' =
 0.8437 =
 ... AC =
-AB
-AC
-10
-AC
-10
 0.8437
 Let us Find this value using the logarithms table.
 Let AC =
-10
 0.8437 .
-10
 0.8437
 Then, log AC = log
 = log 10 – log 0.8437
@@ -1482,136 +827,49 @@ AD has been drawn perpendicular to the side BC of the
 using the
 triangle ABC. Find the magnitude of ACB
 information in the figure.
->
 C 5 cm
-D
-A
 12 cm
 46x 58'
-B
-31
 Here, the right angled triangle that needs to be considered to find the angle ACB
 is the triangle ADC. If the lengths of two sides of this triangle are known, then the
 required angle can be found. The length of one of its side, CD has been given as 5
 cm. We need to find the length of one more side. Note that we can find the length of
 AD by considering the triangle ABD. Therefore, let us first find the length of AD by
 considering the triangle ABD and using the sine ratio.
->
 sin 46x 58' =
 0.7310 =
-AD
-AB
-AD
-12
 12 0.7310 =AD
 ... AD = 8.7720 cm
 Now, considering the right triangle ACD, tan ACD
-=
->
-AD
-CD
->
 ... tan ACD
 ... ACD
->
-=
 8.7720
-5
 = 1.7544
 = 60x 18'
 Exercise 18'5
 1. Find the length denoted by an algebraic symbol in each of the following triangles.
-(ii)
-b
 10 cm
-x
-27'
-33
 (iii)
-40
-x
-08'
-6 cm
-e
 12 cm
-30
-x
-10'
-(v)
 x 15'
-27
 20 cm
-8 cm
-c
-58
-x
-05'
-(vi)
-f
-m
-5 c
-1
-x 4
-3
-2
-8 '
-(i)
-a
-(iv)
-d
-32
 2. Find the angle denoted by an algebraic symbol in each of the following triangles.
-(i)
-5 cm
-(ii)
-7 cm
 (iii)
-p
-8 cm
 10 cm
-q
 3. Based on the information in the given figure, find
 (i) the perimeter of the triangle ABC.
 (ii) the area of the triangle ABC.
 12 cm
-r
-5 cm
-A
-40x
 32x 22'
-B
-D
-5 cm
-C
-4.
-45x
-B
-8 cm
-C
-P
-5.
 12 cm
-55x
-S
->
->
 Show using the information provided in the figure that
 of the triangle ABC, is
 the magnitude of the angle ABC
-30
-x
 58' .
->
-A
 12 cm
-D
-Q
 15 cm
 In the trapezium PQRS, SR > PQ. If PS = 12 cm
-.
 and QR = 15 cm, find the magnitude of QRS
->
-R
 18.6 Angles in a vertical plane
 A plane which is parallel to the earth (flat ground) is a horizontal plane. A plane
 which is perpendicular to a horizontal plane is a vertical plane. A post which is
@@ -1619,7 +877,6 @@ fixed perpendicular to the earth is a vertical post. Such a post is depicted in 
 figure.
 Vertical post
 Horizontal ground
-33
 You learnt in grade 10 to determine locations using scale diagrams involving
 angles of elevation and angles of depression. Now let us learn how to find using the
 trigonometric ratios.
@@ -1633,25 +890,13 @@ pillar to another point, and again observes the top of the pillar.
 (ii) Find the height of the pillar to the nearest metre.
 (iii) Find the angle of elevation of the top of the pillar from the second
 location.
-(i)
-A
-x
 30x 22
 B 20 m
-θ
-15 m
-C
-D
 (ii) Let us take the height of the pillar to be x metres.
 Then, considering the right angled triangle ABC we obtain,
-x
 tan 30
 22' =
-AB
-BC
 tan 30x 22' =
-x
-20
 x = 20 tan 30x 22'
 = 20 0.5859
 = 11.718
@@ -1659,12 +904,7 @@ Therefore, the height of the pillar is approximately 12 m.
 (iii) Let us take the angle of elevation of the top of the pillar from D to be θ.
 Then, considering the right angled triangle ABD we obtain,
 tan θ =
-AB
-BD
-34
 tan θ =
-12
-35
 tan θ = 0.3428
 ... θ = 18x 55'
 ... the angle of elevation of the pillar from the second position is 18x 55''
@@ -1680,57 +920,31 @@ when observed from this window is 59x 50' .
 (ii) How far from the building is the motorcycle parked?
 (iii) Calculate the height of the window in the topmost storey of the building
 from the flat ground, to the nearest second decimal place.
-(i)
-B
-C
 59x 50'
->
-X
->
-Y
 48x 23'
-10 m
-A
-x
-D
 (ii) ACD in the figure is a right angled triangle. Let us take the distance from the
 building to the motorcycle to be x m.
 = 48x 23' , ADC
 Since YCD
 Therefore, by considering the right angled triangle ADC .
 = 48x 23' ^alternate angles&
->
->
-AC
-AD
-10
-x
 tan 48x 23' =
 tan 48x 23' =
-...
-10
 tan 48x 23'
-= x
 Finding the value of x using the logarithms
 table
 lg x = lg10 – lg 1.1257
 = 1 – 0.0515
 ... x = antilog 0.9485
 = 8.883
-35
 That is" x =
-10
 1.1257
 = 8.883
 ... the distance from the building to the motorcycle is 8.883 m.
 (iii) In the right angled triangle ABD, ADB
->
 = 59x 50' .
 tan 59x 50' =
 tan 59x 50' =
-AB
-AD
-AB
 8.883
 AB = 8.883 1.7205
 = 15.28
@@ -1755,7 +969,6 @@ of the lighthouse is 41x 15' .
 child stands is 30x. The child travels a distance of 25 m along a straight path
 towards the utility post. The angle of elevation of the top of the utility post
 from this position is 50x. (Nelect the height of the child).
-36
 2. A security guard looking out from a window at the top of a lighthouse of height
 20 m observes a ship travelling in the sea. The angle of depression of the ship
 from the top window is 30x 15'. Calculate the distance of the ship from the
@@ -1789,12 +1002,7 @@ North and moving in a clockwise direction. Bearings are given using three digits
 In modern measuring instruments the distance is also given with the bearing.
 The point A which lies to the East of P, is located at a distance of 225 m from P on
 a bearing of 090x. This can be represented in a figure as follows.
-37
-N
-090x
-P
 225 m
-A
 Let us see how calculations involving bearings are performed using trigonometric
 ratios by considering the following example.
 Example 1
@@ -1805,47 +1013,27 @@ of 300x .
 (i) Represent the above information in a sketch.
 (ii) Find the distance from C to the straight road.
 (iii) Find the distance AB.
-(i)
 250 m
-C
-220x
-A
-40x
-D
-60x
-B
-300x
 (ii) Since the bearing of C from A is 220x, DAC
 = 220x – 180x
->
 = 40x
 Then by considering the right triangle ACD we obtain, sin 40x =
 AC sin 40x = CD
 CD = 250 sin 40x
-CD
-AC .
 ... the shortest distance from C to the straight road AB is 160.7 m.
 = 250 0.6428
 = 160.7000
 (iii)
 The length of AB = AD + DB
 By considering the right triangle ACD, we obtain cos 40x =
-AD
-AC
-38
 AD = AC cos 40x
 = 250 0.7660
 = 191.5000
 = 191.5 m
 By considering the right triangle BDC, we obtain tan 60x =
-DB =
-=
-CD
 tan 60x
 160.7
 1.732
-CD
-DB
 = 92.78 m
 ... the length of AB = 191.5 + 92.78 m
 = 284.28 m
@@ -1859,7 +1047,6 @@ at a distance of 100 m from Y on a bearing of 200x and A is located at a
 distance of 50 m from Z on a bearing of 080x.
 2. A motorcyclist who starts a journey from a location A, travels 8 km to the East
 and then turns to the North and travels a further 6 km till he reaches the location
-B.
 (i) Represent this information in a sketch.
 (ii) Find the bearing of A from B.
 (iii) Find the shortest distance between A and B.
@@ -1874,7 +1061,6 @@ tree from the boy being perpendicular to the river banks. When the boy travels
 a distance of 75 m along the bank, he observes that the bearing of the tree from
 this location is 210x. Represent this information in a sketch and find the breadth
 of the river to the nearest metre using trigonometric ratios.
-39
 5. A group of forest conservationists observes from a distance that a fire has
 commenced in a forest. Using information they received on the location of the
 fire, starting from their camp C, they travel 2.5 km along a main road A on a
@@ -1898,20 +1084,7 @@ obtain the following values.
 (ii) sin 35x
 (i) tan 35x ON
 (ii) sin 35x
-ON
 (iii) cos 35x ON
-tan
-sin
-cos
-3
-3
-3
-5
-5
-5
-=
-=
-=
 0.7002
 0.5736
 0.8192
@@ -1926,34 +1099,9 @@ SHIFT
 SHIFT
 (iii) ON
 SHIFT
-tan
-sin
-cos
-1
-0
-0
-.
-.
-.
-2
-7
-5
-1
-5
-9
-3
-0
-4
-1
-9
-8
-=
-=
-=
 50.5x
 48.66x
 53.5x
-40
 Note: Observe that the value of each angle is obtained only in degrees.
 For example 50.5x = 50x 30'
 Exercise 18.8
@@ -1987,7 +1135,6 @@ from the foot of the taller building is 42x 20' If the shorter building is of he
 (ii) The angle of elevation of the top of the taller building from the foot of the
 shorter building.
 3. AB = 10 cm, BC = 7cm and ABC
->
 = 30x 26'. The perpendicular drawn from A to
 BC is AX. Find the area of the triangle ABC.
 4. Two flagpoles have been fixed on flat ground. Two points A and B are located
@@ -1996,8 +1143,6 @@ of the two flagpoles from A are 30x and 60x , and from B are 60x and 45x. The
 distance between A and B is 10 m.
 (i) Find the heights of the two flagpoles.
 (ii) Find the distance between the two flagpoles.
-41
-19
 Matrices
 By studying this lesson you will be able to,
 ² identify a matrix
@@ -2016,12 +1161,6 @@ Science
 Wimal
 Farook
 Radha
-75
-72
-63
-66
-70
-81
 The numbers in the table given above can be represented in a matrix as follows.
 75 66
 72 70
@@ -2031,35 +1170,15 @@ information can also be represented in a matrix as follows.
 75 72 63
 66 70 81
 Here the columns indicate the students while the rows indicate the subjects.
-42
 An array of numbers organized in rows and columns is known as a matrix.
 Given below are several examples of matrices.
 (i) 3
-1
-2
-2
-1
-1
 (ii) 3
-2
-1
 (iii) 4
-3
-2
 (iv) – 2 3
-2 0
 (v) 1
-2
-5
-4
-6
-2
-3
-1
-2
 (vi) – 5 4
 9 – 1
-0 4
 The numbers in a matrix are called the elements of the matrix. The elements of a
 matrix, apart from being numbers may also be algebraic symbols or expressions
 which stand for numbers.
@@ -2068,218 +1187,70 @@ elements are expressed in terms of algebraic symbols, simple letters of the Engl
 alphabet are used.
 Example 1
 Three matrices which are named are shown below.
-A =
-5
-2
-1
-4
-1
-1
-3
-2
-2
-B =
-3
-0
-5
-P =
-2
-a
-c
-b
 Example 2
 In a Cartesian plane, the coordinates of the points A and B are (0, 5) and (4, 3)
 respectively. Represent this information in a matrix. Name it P.
 In a table,
-A
-0
-5
-B
-4
-3
-x
-y
 As a matrix,
-4
-0
-3
-5
-P =
-43
 Order of a Matrix
 Consider the matrix
-A =
-3
-2
-1
-2
-4
-0
 The number of rows in A is 2 and the number of columns is 3. Using the number of
 rows and number of columns, we write the order of the matrix as 2 × 3. A is known
 as a “two by three” matrix.
 Accordingly, A is sometimes written as,
-A =
-3
-2
-1
-2
-4
 0 2 × 3.
 Example 1
 Write the order of each of the matrices given below.
 (i) 3
-2
-1
-2
-1
-3
 Number of rows in the matrix
-= 3
 Number of columns in the matrix = 2
 Order of the matrix
 = 3 × 2
 (ii) 3
-2
-4
 Number of rows
 Number of columns
 Order of the matrix = 1 × 3
-= 1
-= 3
 (iii)
-2
-4
-(iv)
-a
-b
-c
-d
 Number of rows
 Number of columns
 Order of the matrix = 2 × 1
-= 2
-= 1
 Number of rows
-= 2
 Number of columns = 2
 Order of the matrix = 2 × 2
 Row Matrices, Column Matrices and Square Matrices
 Matrices with only one row are known as row matrices, matrices with only one
 column are known as column matrices and matrices which have an equal number
 of rows and columns are known as square matrices. Since the number of columns
-44
 and the number of rows of a square matrix are equal, the order of a square matrix
 with two rows and two columns is known as a square matrix of order 2 and a matrix
 with three rows and three columns is known as a square matrix of order 3 etc.
 For example,
 A = 3
-2
 5 is a row matrix.
-B =
-C =
-5
-2
-1
-5
-3
-0
 is a column matrix.
-2
-1
-4
-1
-3
-0
 is a square matrix.
 Identity Matrices and Symmetric Matrices
-P =
-3
-6
-2
-2
-5
-1
-4
-1
-0
 In the square matrix given above, the main diagonal is highlighted. The string of
 elements from the top leftmost corner to the bottom rightmost corner is the main
 diagonal.
 Note: The main diagonal is defined only for square matrices. Most often, the
 main diagonal is known simply as the diagonal.
 The main diagonal of a square matrix of order two is highlighted below.
-Q =
-2
-1
-4
-3
 Given below is a special square matrix.
-A =
-1
-0
-0
-0
-1
-0
-0
-0
-1
-45
 The main diagonal of A consists of only the number 1. Apart from the diagonal
 elements, all the other elements are 0. This type of matrix is known as an identity
 matrix. The matrix A is the identity matrix of order 3 × 3. Given below is the
 identity matrix of order 2 × 2.
-B =
-1
-0
-0
-1
 When naming identity matrices, the letter I is used. The identity matrix with n rows
 and n columns is written as I n × n . Accordingly,
 I 3 × 3 =
-1
-0
-0
-0
-1
-0
-0
-0
-1
 , I 2 × 2 =
-1
-0
-0
-1 '
 Can you identify the special feature in the matrix given below?
-X =
-3
-2
-1
-2
-0
-4
-1
-4
-5
 Consider the elements around the main diagonal of X. The elements around the
 main diagonal which are equal to each other are placed symmetrically about the
 main diagonal. Such matrices are called symmetric matrices.
-Y =
-1
-5
-5
-3
-Z =
-,
-1
-0
-0
-1
 The elements around the main diagonals of Y and Z which are equal are placed
 symmetrically about the main diagonal. Therefore these are symmetric matrices
-too.
 Note: Symmetric matrices are defined only for square matrices.
 Exercise 19.1
 1. Sarath bought 2 oranges and 3 mangoes, Kamal bought 4 oranges and 1 mango
@@ -2289,186 +1260,39 @@ and Raju bought 1 orange and 5 mangoes from a certain fruit stall.
 (iii) Express the amount of fruits bought by Raju as a row matrix.
 (iv) Construct a matrix with quantities of fruits Sarath, Kamal and Raju
 bought respectively as its rows.
-46
 2. Write the order of each of the following matrices.
-(i)
-A =
-(iv)
-D =
-3
-5
-4
-0
-2
-1
-3
-4
-(ii)
-B =
-2
-1
-3
-2
-(v)
-E =
-5
-8
-0
-2
-3
 (iii)
-C =
 (vi) F =
-2
-1
-5
-a
-c
-b
-d
 3. From the matrices given below, select the row matrices and the column matrices.
-2
-3
 (iii)
-(ii)
-(i)
-Q =
-R =
-P =
-3
-4
-0
-3
-2
-(iv)
-S =
-2
-0
-1
-(v)
-T =
-1
-1
-1
-(vi)
-U =
-3
-1
-0
-0
 4. From the following matrices, select and write down the
 (i) square matrices
 (ii) symmetric matrices
 (iii) identity matrices
 Highlight the diagonals of the square matrices.
-A =
-E =
-1
-2
-1
-0
-0
-2
-0
-0
-1
-0
-,
-B =
-1
-2
-3
-2
-3
-1
 , C =
-2
-4
-2
-2
-0
-2
-1
-4
-1
-,
-D =
 1 0 0
 0 0 0
 0 0 1
-0
-0
-1 ,
-F =
-0
-0
-1
-0
-1
-0
-1
-0
-0 ,
-G =
-1
-1
-0
-1
 19.2 Addition and Subtraction of Matrices
 We have learnt how to add, subtract and multiply numbers. We have seen how easily
 we can solve problems by using these mathematical operations. We can similarly
 define mathematical operations on matrices too. Let us first consider how to add
 matrices.
 Consider the two matrices A and B given below.
-A =
-4
-2
-9
-1
-0
-5
-B =
-1
-3
-2
-6
-9
-8
-47
 Both these matrices have the same order, 3 × 2. The addition of A and B is defined
 as the matrix which is obtained when the corresponding elements of A and B are
 added together.
 Accordingly,
 A + B =
-4
-2
-9
-1
-0
-5
-+
-1
-3
-2
-6
-9
-8
-=
-5 7
-5
-9
 11 13
 By corresponding elements we mean the elements which are in the same position
 of the matrix. For example, the element in the first row and second column of the
 matrix A is 1. The corresponding element in matrix B is 6; that is the number in the
 first row and second column of B.
 Now let us consider an example with algebraic symbols.
-If
-X =
 x1 x2
 x3 x4
-and
-Y =
 y1 y2
 y3 y4
 then"
@@ -2486,36 +1310,18 @@ Example 1
 Praveen and Tharindu are two bowlers in the school cricket team. The number of
 wickets they took in the years 2014 and 2015 in one day and two day matches are
 shown in the tables given below.
-2014
-2015
-2014
-2015
 Praveen
 Tharindu
-21
-15
-23
-16
 Praveen
 Tharindu
-14
-9
-16
-19
 Wickets taken in one day matches
 Wickets taken in two day matches
-48
 Let us name the matrix which has the information on the one day matches as A and
 the one with the information on the two day matches as B.
 Then we can write
-A =
 21 23
 15 16
-and
-B =
 14 16
-19
-9
 In these matrices the columns represent years while the rows represent wickets. Let
 us find A + B.
 A + B =
@@ -2524,272 +1330,65 @@ A + B =
 Think about what the matrix A + B represents. It shows the total number of wickets
 Praveen and Tharindu took in 2014 and 2015 in both one day and two day matches.
 It can be represented in a table as shown below.
-2014
-2015
 Praveen
 Tharindu
-35
-24
-39
-35
 Total wickets taken
 The subtraction of one matrix from another is also defined similarly. Here, the
 corresponding numbers are subtracted. For subtraction too, the orders of the two
 matrices should be equal. As an example,
-A =
-5
-2
-9
-3
-and
-B =
-1
-6
-4
-0
 then"
 A – B =
-4 5
 – 4 3
-'
 Let us consider another example.
 If X is the 3 × 3 matrix with all the elements equal to 2 and Y is the 3 × 3 identity
 matrix, then find the matrix X – Y.
-X =
-2
-2
-2
-2
-2
-2
-2
-2
-2
-and
-Y =
-1
-0
-0
-0
-1
-0
-0
-0
-1
-'
-49
 Therefore,
 X – Y =
-2
-2
-2
-2
-2
-2
-2
-2
-2
-–
-1
-0
-0
-0
-1
-0
-0
-0
-1
-=
-1
-2
-2
-2
-1
-2
-2
-2
-1
 Equality of two matrices
 Let us consider what it means when we say that two matrices are equal.
-A =
-2
-3
-10 9
-B =
-a
-c
-b
-d
 For A and B to be equal matrices a = 2, b = 3, c = 10 and d = 9.
 That is, for two matrices to be equal, their orders should be equal and the
 corresponding elements of the two matrices should be equal.
 Exercise 19.2
 1. Simplify the following matrices.
 (i) 2
-1
 (iii) 6
-4
-3
-4
-+
-+
-2
-3
-4
-5
 (ii) 3 – 2 3 + 2 – 2 – 4
-2
-– 4
-(iv)
-– 2
-0
-3
-+
-3
-1
-– 2
-(v)
-2
-3
-3
-– 2
-2
-4
-+
 3 – 1
 – 2 1
 2 – 2
 (vi) 3 – 2
-0
-1
-+
 – 2 2
 – 1 1
 (vii) 2
-3
-2
 5 – 1
-4 6
-4 1
-+
 0 – 4 4
 – 4 0 1
 1 3 0
 2. Simplify the following matrices.
 (viii) 5
-2
-2
-4
 3 – 3
-+
-2
-5
-3
-3
-5
-10
 (i) 4
-2
-6
-3
-5
-7
-–
-2
-1
-2
-2
-2
-1
 (ii) – 3
-5
-8
-–
-3
-8
-2
 (iii) 3 2
-–1 4
-–
 – 2 3
-5 2
-50
 (iv) 5
 – 3 – 2
-–
-2
 – 4 – 2
 (v) 5 3
 – 2 4
-–
-4 3
 – 2 1
-3
 (vi) 6
-4
-3
 3 – 2
-2
-5
-1
-–
-2
-3
-2
-0
 1 – 5
-– 2
-2
-– 4
 3. If 2
-3
-1
-+
 2 –1 3
-=
-a b
-c
 find the values of a, b and c.
 4. If 3 2
-1
-4
-–
-5 4
-3 2
-=
-a b
-c d
 , find the values of a, b, c and d.
 5. If 5
-4
-3
-1
-2
-2
-+
-x
-y
-2
-1
-–1
-z
-=
-8
-2
-5
-2
-1
-3
 find the values of x, y and z.
 6. If 2 – 3
-2
-1
-–
-x 3
-y 1
-=
-1 0
-0 1
 find the values of x and y.
 19.3 Multiplication of a matrix by a number
 Now let us consider what it means to multiply a matrix by a number. Multiplying a
@@ -2798,118 +1397,45 @@ The matrix obtained by multiplying matrix A by the number k is written as kA. Le
 us only consider multiplying by an integer. For example, let
 3 1 0
 – 2 8 1
-A =
 When A is multiplied by 5 the matrix obtained is,
-5A =
 5 × 3
 5 × 1 5 × 0
 5 × (– 2) 5 × 8 5 × 1
-=
 15 5 0
 –10 40 5
-.
 When A is multiplied by – 3 the matrix obtained is,
 – 3A =
 – 3 × 3
 – 3 × 1 – 3 × 0
 – 3 × – 2 – 3 × 8 – 3 × 1
-=
 – 9 – 3 0
 6 – 24 – 3
-.
 Note: The matrix obtained by multiplying matrix A by a number k has the same
 order as A.
 Example: If
-X =
-2
-1
-4
-0
-and
-Y =
-5
-2
-– 2
-1
 , then find the matrix
 3X – 2Y .
-51
-3X
-– 2
 Y = 3
-2
-1
-4
-0
-+
 (– 2)
-5
-2
-– 2
-1
-=
-6
-3
-12
-0
-+
 –10 4
 – 4 – 2
-=
 – 4 16
 – 1 – 2
 Exercise 19.3
 1. Simplify the following matrices.
-(i)
-3
-3 1
-2 4
-(ii)
-4
-2
-3
 (iii)
-3
 2 –1 3
 –3 1 2
-(iv)
-2
-2
-0
-3
-(v)
-3
 1 0 – 2
 3 – 1 2
 – 3 2 0
-(vi)
-– 2
 3 – 2
 – 4 1
 2. Find a, b, c and d if 3 4 – 1
-2 3
-=
-a c
-b d
 3. Find the values of x, y and z if
-4
-x
-y
-z
-=
-8
-–12
-2
 4. Find the values of x , y, a and b if 2
-5 x
 – 2 9
-– 3
 y – 5
-4
-a
-=
-5 5
-b 0
 19.4 Multiplication of Matrices
 From the above definitions you may have realized that addition and subtraction of
 matrices as well as multiplication of a matrix by a number are carried out as for
@@ -2919,26 +1445,12 @@ Initially let us look at how to multiply a row matrix and a column matrix. If A 
 row matrix of order 1 × m and B is a column matrix of order m × 1, then the matrix
 AB is defined and is of order 1 × 1 . To describe how matrix multiplication is done
 in this case, let us consider an example.
-52
 Let us assume that
-A =
 a1 a2
-and
-B =
-b1
-b2
 Accordingly, the order of A is 1 × 2 while the order of B is 2 × 1. Then AB is defined
-as,
 AB = (a1b1 + a2b2) 1 × 1
 Example 1
 Find AB if
-A =
-5
-2
-and
-B =
-3
-1
 AB = (5 × 3 + 2 × 1) = (17)
 We learnt earlier that any matrix can be multiplied by a number. We also learnt that
 addition and subtraction of matrices however can be done only if the matrices are
@@ -2950,30 +1462,14 @@ to the number of rows of B. In this case we get a matrix of order m × p, which 
 number of rows of A into the number of columns of B. Let us now consider how
 such products of matrices are found.
 As an example, let us see how to find AB if
-A =
-2 4
-3 5
-and
-B =
-1 8
-6 7
 2 × 2
 2 × 2
 When multiplying the above two matrices, multiply each row of A by each column
 of B, in the same way that we multiplied a row matrix by a column matrix.
-=
 (2 4)
 (3 5)
-1
-6
-1
-6
 (2 4)
 (3 5)
-8
-7
-8
-7
 2 × 1 + 4 × 6
 2 × 8 + 4 × 7
 3 × 1 + 5 × 6
@@ -2981,9 +1477,6 @@ of B, in the same way that we multiplied a row matrix by a column matrix.
 26 44
 33 59
 (by finding each product)
-=
-=
-53
 The way the above matrix AB was obtained can be explained as below.
 ² The element in the first row and first column of AB is obtained by multiplying
 the first row of A (row matrix) by the first column of B (column matrix).
@@ -2998,129 +1491,46 @@ Any two matrices for which the product is defined (that is, the number of column
 of A is equal to the number of rows of B), can be multiplied as above. Let us look
 at a few more examples.
 Example 2
-If
-=X
 defined?
-4 6
-2 3
-and
-Y =
-1
-7
 then show that XY is defined and find it. Is YX
 Number of columns in X = 2 and the number of rows in Y = 2. As the number of
 columns in X and the number of rows in Y are equal, XY is defined.
-Now,
-=XY
-4 6
-2 3
-1
-7
 By multiplying each row of X by each column of Y we obtain,
 (4 6)
 (2 3)
-1
-7
-1
-7
-46
-23
-=
-=
-=
 4 × 1 + 6 × 7
 2 × 1 + 3 × 7
-54
 Now let us see whether YX is defined.
 The number of columns in Y is 1 while the number of rows in X is 2. As the number
 of the columns in Y is not equal to the number of rows in X, YX is not defined.
-Let
-=P
-2
-–1
 and Q =
 6 3 . Under this section on matrix multiplication
 we first defined the product of matrices of the form QP. This product can be found
 by using the above definition too. That is, by multiplying each row in Q by each
 column in P.
-QP
-=
-6 3
 = (9).
-2
-–1
 This is a matrix with just one element. A matrix with only one element can be
 considered as a number. Therefore we write QP = 9.
 Furthermore PQ is also defined. The product of the matrices P and Q, namely PQ,
 is a 2 × 2 matrix.
-PQ
-=
-2
-–1
-6 3
-=
 2 × 6 2 × 3
 (–1) × 6 (–1) × 3
-=
-12 6
 – 6 – 3
 Exercise 19.4
 1. Simplify the following matrices.
-3
-2
-2
-1
 (i) 3 2
-×
 (iii) 2 – 1
 0 – 2
-(v)
-2
-4
-1 1
-×
-×
 (ii) 3 2
-×
 (iv) 1 5
-×
-2
-4
-2
-1
-2 0
-(vi)
-3
-2
-3 2
 – 2 1
-×
-1 –2
-2 1
 (vii)
-2 0
-0 2
-×
-1 0
-0 1
 (viii) 1 0
-0 1
-×
-3 1
-2 2
 (ix) 2 2
-×
-1 2
-2 1
 (x) 2 –3
-×
 3 – 2
 – 2 3
-55
 2. Find a and b if 2 3
-×
-3 0
-1 2
 = a b
 3. A, B and C are three matrices. A × B = C. Fill in the blanks in the following table.
 Order of matrix A Order of matrix B Order of matrix C
@@ -3139,44 +1549,20 @@ Order of matrix A Order of matrix B Order of matrix C
 1 × 1
 2 × 2
 1 × .....
-P =
 4. If
 find,
-2 –1
 , Q =
-2 –1
-1 2
 and R =
-2
-1
-.
 (i) P × Q
 (ii) P × R
 (iii) Q × R'
 5. If A =
-2
-0
-0 2
 , B =
-3
-2
-1 1
 (i) Find AB '
 (ii) Find BA '
 (iii) What is the relationship between AB and BA?
-2
-3
-6. ,
-1 4
-C =
-D =
-3
-4
-2 5
 (i) Find CD .
 (ii) Find DC .
-56
-20
 Inequalities
 By studying this lesson you will be able to
 ² solve inequalities of the form ax + b
@@ -3184,19 +1570,12 @@ a number line,
 cx + d and represent the solutions on
 ² express problems related to day to day activities as inequalities and solve them.
 Do the review exercise given below to recall what was learnt in grade 10 about
-c
 solving inequalities of the form ax + b
 Review Exercise
 1. Solve each of the inequalities given below.
 a. 3x – 2 > 4
-x
-d.
 – 2 + 3 ≤ 5
-b.
-e.
-x
 2 + 5 ≤ 7
-5x
 6 + 4 ≥ 14
 c. 5 – 2x > 11
 f. 3 – 2x ≥ 9
@@ -3214,17 +1593,10 @@ the numerical terms should be carried to the other side (as in solving equations
 3x > 2x + 3
 3x – 2x > 2x + 3 – 2x (subtracting 2x from both sides.)
 x > 3
-57
 This is the solution of the inequality. In words we can say that the solutions of the
 inequality are all real numbers greater than 3. This can be represented on a number
 line as shown below.
 – 2 – 1
-0
-1
-2
-3
-4
-5
 To represent the fact that 3 is not a solution, a small un-shaded circle is drawn
 around the point denoting 3.
 Example 2
@@ -3234,11 +1606,6 @@ line.
 5x + 3 – 3 ≤ 3x + 1 – 3 (subtracting 3 from both sides)
 5x ≤ 3x – 2
 5x – 3x ≤ 3x – 2 – 3x (subtracting 3x from both sides)
-2x
-2
-≤
-– 2
-2
 x ≤ – 1
 (dividing both sides by 2)
 Accordingly, the solutions of the inequality are all real numbers less than or equal
@@ -3246,9 +1613,6 @@ to –1. The integral solutions of the inequality are all integers which are les
 or equal to –1. That is –1, –2, –3 etc. This can be represented on a number line as
 shown below.
 – 4 – 3 – 2 – 1
-0
-1
-2
 Note: If the integral solutions of the inequality are not asked for specifically, then
 all real numbers satisfying the inequality should be given as the solution.
 Example 3
@@ -3259,20 +1623,8 @@ line.
 2x ≥ 4x + 1
 2x – 4x ≥ 4x + 1 – 4x (subtracting 4x from both sides)
 – 2x ≥ 1
-– 2x
-– 2
-x
-1
-≤ –
-2
-– 1
-2≤
-58
 (dividing both sides by –2)
 – 4 – 3 – 2 – 1
-0
-1
-2
 Note: Remember that when you divide by a negative number the inequality sign
 changes. Consider how to solve this problem without having to divide by a
 negative number.
@@ -3287,40 +1639,25 @@ d. 8 – 3x > x
 f. 12 – x > 3x
 2. Solve each of the inequalities given below, and for each inequality, represent all
 the solutions on a number line.
-a.
 2x – 4 > x + 3
-c.
 3x + 8 ≥ 3 – 2x
-b.
-d.
 3x + 5 < x + 1
 5x + 7 ≥ x – 5
-e.
 3x – 8 ≤ 5x + 2
-f.
 2x + 3 ≥ 5x – 6
-g.
 x – 9 > 6x + 1
-h.
 5x – 12 ≤ 9x + 4
-i.
 3x + 2
-2
 > x + 3
-j.
 2x – 5 ≤ 3x – 4
-– 2
 20.2 Solving problems using inequalities
 Example 1
 Eight tea packets of the same mass and three 1kg packets of sugar are in a shopping
 bag. The maximum mass the bag can hold is 5kg.
 (i) Taking the mass of one tea packet as x grammes, write an inequality in
 terms of x.
-59
 (ii) Solve the inequality and find the maximum mass that a tea packet could
-be.
 It is easier to work this problem out if all the masses are converted to grammes.
-(i)
 Mass of a tea packet in grammes = x
 Mass of 8 tea packets in grammes = 8x
 Mass of sugar in grammes
@@ -3332,12 +1669,7 @@ According to the information given, 8x + 3000 ≤ 5000
 This is the required inequality.
 (ii) 8x + 3000 ≤ 5000
 8x + 3000 – 3000 ≤ 5000 – 3000
-8x
-8
 x ≤ 250
-2000
-8
-≤
 ∴ the maximum mass of a tea packet is 250g.
 Example 2
 Sarath bought 5 exercise books and 3 pens while Kamani bought 3 exercise books
@@ -3351,19 +1683,13 @@ Amount Sarath spent
 Similarly, the amount Kamani spent
 = Rs 5x + 30
 = Rs 3x + 110
-60
 According to the information given,
 5x + 30 ≥ 3x + 110
 This is the required inequality.
-(ii)
 5x + 30 ≥ 3x + 110
 5x + 30 – 30 ≥ 3x + 110 – 30
 5x ≥ 3x + 80
 5x – 3x ≥ 3x + 80 – 3x
-≥ 80
-2
-2x
-2
 x ≥ 40
 ∴ the minimum price of an exercise book is Rs 40.
 Exercise 20.2
@@ -3387,7 +1713,6 @@ spent on the daily wages of 7 trained employees and 4 untrained employees.
 an inequality using the information given above.
 (ii) Solve the inequality and find the minimum daily wage of an
 untrained employee.
-61
 4. 5 packets of tea of equal mass and 3 kg of sugar are packed in a polythene
 bag. The mass that the polythene bag is greater than or equal to the mass of
 25 packets of tea. Using this information, construct an inequality and find the
@@ -3403,8 +1728,6 @@ the small bucket 4 times (assuming that both buckets are filled to the brim).
 When the tank was filled using the large bucket 9 times and the small bucket 9
 times, the tank did not overflow. Using an inequality, find the maximum capacity
 of the small bucket.
-62
-21
 Cyclic Quadrilaterals
 By studying this lesson you will be able to,
 • identify cyclic quadrilaterals and identify the theorem that “the opposite
@@ -3415,29 +1738,7 @@ quadrilateral”.
 21.1 Cyclic quadrilaterals
 A quadrilateral which has all four vertices on the same circle is known as a cyclic
 quadrilateral.
-N
-D
-A
-O
-C
-R
-Q
-O
-S
-P
-K
-L
-O
-S
-M
-B
-(i)
-(ii)
 (iii)
-U
-V
-O
-T
 (iii)
 It is clear that the quadrilaterals in figures (i) and (ii) are cyclic quadrilaterals
 while the quadrilaterals in figures (iii) and (iv) are not cyclic quadrilaterals.
@@ -3446,25 +1747,9 @@ angle”. For example, in the quadrilateral shown below, R
 is the opposite angle of P
 and S
 is the opposite angle of Q
->
->
->
->
-.
-Q
-P
-R
-S
 To understand the relationship between opposite angles in a cyclic quadrilateral let
 us do the following activity.
-63
 Activity
-A s
-D
-r
-p
-B
-Cq
 ² Draw a cyclic quadrilateral as shown in the figure.
 ² Cut and separate out the angles in the cyclic quadrilateral.
 ² From the angles that were cut out, take the angles p and r and paste them on a
@@ -3477,14 +1762,8 @@ You would have observed the p + r = 180x and q + s = 180x. This relationship can
 be written as a theorem in the following form.
 Theorem: The opposite angles of a cyclic quadrilateral are supplementary.
 According to this theorem, in the above figure,
->
->
-ABC
-DCB
 + CDA
 + DAB
->
->
 = 180x
 = 180x
 Let us now see how calculations are performed using the above theorem.
@@ -3492,18 +1771,9 @@ Example 1
 Find the values of x and y in the cyclic quadrilateral ABCD shown in the figure.
 Since the opposite angles of a cyclic quadrilateral are
 supplementary,
-70x
-D
 70x + y = 180x
 ∴ y = 180x – 70x
 y = 110x
-A
-x
-2x
-C
-y
-B
-64
 Since the opposite angles of a cyclic quadrilateral are supplementary,
 x + 2x = 180x
 3x = 180x
@@ -3511,37 +1781,17 @@ x + 2x = 180x
 Example 2
 O is the centre of the circle shown in the figure and AB//DC. Find the magnitudes
 of the angles denoted by symbols.
-D
-t
-C
-75x
-O
-50x
-r
-A
-p
-B
->
->
-OAB
 = OBA
 (OA and OB are equal as they are radii of the same circle)
 ... p + p + 50x = 180x (interior angles of the triangle OAB)
 ... p = 180x – 50x
 = 65x
-2
 As the opposite angles of a cyclic quadrilateral add up to 180x,
->
 75x + DAB
-DAB
->
 = 180x
 = 180x – 75x
 = 105x
->
->
 = 105x
-BAO
 + OAD
 ... 65x + r = 105x
 r = 105x – 65x
@@ -3550,160 +1800,42 @@ As allied angles add up to 180x,
 t + 105x = 180x
 ... t = 180x – 105x
 t = 75x
-65
 Exercise 21.1
 1. (i) Write down all the cyclic quadrilaterals in the figure.
 (ii) For each of the cyclic quadrilaterals written above,
-A
 write down the pairs of opposite angles.
-B
-C
-F
-D
-E
 2. Find the magnitude of each of the angle denoted by a symbol, based on the
 information in the figure. O denotes the centre of each circle.
-(i)
-(ii)
 (iii)
-U
-x
-130
-O
-T
-x
-80
-V
 y + 10
 x + 10
-S
-(vi)
-D
-C
-45x
-73x
-S
-x
-y
-R
-P
-2y
-O
-5x
-Q
-(v)
-D
-V
-U
-x
-27
-z
-D
-x
-123
-x
-A
-y
-B
-A
-x
-C
-x
-50
-O
-(iv)
-x
-230
-O
-y
-C
-B
-x
-x
-34
-y
-R
-O
-S
-O
-y
-T
-A
 3. O is the centre of the circle shown in the figure.
->
->
 a. If P
-R
 = 60x and S
-.
 and Q
->
->
 = 125x, then find the magnitudes of
->
->
->
->
 b. If P
 c. If Q
 d. If 2P
 e. If P
-: R
-– S
 = 2 : 3, then find the magnitudes of P
 = 120x, then find the magnitudes of S
 >, then find the magnitude of P
-.
 = 60x and S
-= R
 = 2x + y, Q
 = x + y, R
->
->
->
->
->
->
->
->
->
 and R.
 and Q.
->
-P
-O
-Q
-R
 = 90x then find the values of x and y.
-66
-x
-B
-S
 4. The points denoted by A, B, C, D, E and F lie on the circumference of the circle
 with centre O. Find the value of FAB
 + BCD
 + DEF
-.
->
->
->
 5. Using the information in the figure, find the magnitude
-A
 of each of the angles given below.
->
 a. BAE
->
 b. CBA
->
 c. CBE
-B
-C
-E
-32x
-27x
-x
-105
-D
 Now let us see how to prove the theorem, “the opposite angles of a cyclic quadrilateral
 are supplementary.”
 Data: ABCD is a cyclic quadrilateral with its vertices
@@ -3711,29 +1843,14 @@ on the circle with centre O.
 To be proved: ABC
 + ADC
 =180x and
->
->
->
-DAB
->
 + DCB
 =180x.
-D
-O
 Construction: Join OA and OC.
-A
-C
 (the angle subtended at the centre is twice the
->
->
->
->
-B
 = 2 ADC
 Proof: AOC
 (the angle subtended at the centre is twice the angle
 subtended at the circumference)
-AOC
 (reflex) = 2 ABC
 angle subtended at the circumference)
 ... AOC
@@ -3753,83 +1870,40 @@ We can join OB and OD, and similarly prove that DAB
 + AOC
 + ABC
 + DCB
->
->
->
->
->
->
->
->
->
->
->
->
 ... The opposite angles of a cyclic quadrilateral are supplementary.
 The converse of this theorem is also true. That is, if the sum of the opposite angles
 of a quadrilateral is 180x, then its vertices lie on a circle. We can write this as a
 theorem as below.
-67
 Theorem: If the opposite angles of a quadrilateral are supplementary, then
 the vertices of the quadrilateral are on the circle.
 Now let us consider how riders are proved using the above theorem.
 Example 1
-A
-C
-D
 In the cyclic quadrilateral shown in the figure, AB = AD
 and CB = CD.
 (i) Show that
 (ii) Deduce that AC is a diameter.
-ABC
-ACD
-B
-B
-A
-C
-D
 (i) When we consider the triangles ABC and ADC,
 AB = AD (given)
 BC = DC (given)
 AC is the common side
 ACD (SSS)
-ABC
-...
->
->
 (ii) ABC
 = ADC
 (corresponding angles of congruent triangles are equal)
 + ADC
 = 180x (opposite angles of a cyclic quadrilateral are supplementary)
->
->
 But, ABC
 ... ABC
->
->
->
 + ABC
 ... 2 ABC
 ... ABC
->
 = 180x
 = 180x
 = 90x
 ... AC is a diameter (angle in a semicircle is 90x).
-68
 Example 2
 In the parallelogram ABCD, AB is produced to E such that CB = CE. Show that
 AECD is a cyclic quadrilateral.
-D
-d
-C
-A
-a
-c
-B
-b
-E
 a = b (since CE = CB)
 c = 180x – a (angles on a straight line)
 c = 180x – b (since a = b)
@@ -3837,113 +1911,39 @@ c = d (opposite angles of the parallelogram ABCD)
 From 1 and 2 ,
 d = 180x – b
 ∴ b + d = 180x
-1
-2
 As the opposite angles of the quadrilateral AECD add up to 180x, this is a cyclic
 quadrilateral.
 Exercise 21.2
 1. State with reasons whether each of the following quadrilaterals is a cyclic
 quadrilateral or not.
-(a)
-B
-A
-52x
-128x
-C
-(b)
-S
-35x
-P
-R
-110x
-Q
 Quadrilateral ABCD
 Quadrilateral PQRS
-69
-(c)
-A
-70x
-40x
-B
-F
-G
-E
-30x
-C
-D
-40x
 Quadrilateral FGDE
-(d)
-Q
-P
-L
->
-M
->
-R
 Quadrilateral QRML if PQ = PR
 2. Show that PQRS is a cyclic quadrilateral if P
-= Q
->
->
->
->
 and R
-= S
-.
 3. In the cyclic quadrilateral ABCD, AC is joined. Show that BAC
 4. Show that A,B,C and D are points on the same circle if ABD
->
->
->
 = ADC
->
->
 – ACB.
-in
 = DCB
->
 + ADB
 the quadrilateral ABCD.
 5. Using the information in the figure, prove that CDFE is a C
 cyclic quadrilateral.
->
-E
-F
->
-C
-B
-E
 6. If AB is a diameter of the circle in the figure,
 = CAB
 show that APB
 + ABC
->
->
->
-.
-D
-P
-A
-B
-70
-D
-A
 7. In the triangle PQR, PQ is produced to S and PR is produced to T. The bisectors
->
 of SQR
->
 and QRT
 meet at X and the bisectors of PQR
->
->
 and PRQ
 meet at Y.
 (i) Show that QXRY is a cyclic quadrilateral with XY as a diameter of the
 corresponding circle.
 (ii) Find the magnitude of QXR
->
->
 if QPR
 = 40x.
 8. The two circles in the figure
@@ -3953,171 +1953,58 @@ two circles at A and B. If D and
 C are marked on the circles such
 that AD//BC, show that DYC is a
 straight line.
-A
-D
-X
-Y
-B
-C
 21.3 The relationship between the exterior angle and the interior
 opposite angle
 In the cyclic quadrilateral ABCD shown in the figure, AB is produced to E.
-C
-B
-E
-D
-A
->
 Then, CBE
 interior opposite angle is ADC
->
 is an exterior angle of the cyclic quadrilateral. The corresponding
-.
-71
-E
-R
-S
-F
-D
-Q
-P
-C
 The following table has been filled by considering the cyclic quadrilateral PQRS in
 the figure.
 Produced side Exterior angle
 Interior opposite
 angle
-PQ
-QR
-RS
-SP
->
-DQR
->
-ERS
->
-FSP
->
-QPC
->
-PSR
->
-QPS
->
-PQR
->
-QRS
 The relationship between an exterior angle and the interior opposite angle of a
 cyclic quadrilateral is given in the theorem below.
 Theorem: If one side of a cyclic quadrilateral is produced, the exterior angle
 so formed is equal to the interior opposite angle of the quadrilateral.
-72
-C
-M
-B
-L
-N
-D
-A
-K
 For the above figure, the following are true according to the theorem.
->
-DAK
->
 = BCD
->
->
-ABL
 = CDA
->
-BCM
->
 = BAD
->
-CDN
->
 = ABC
 Let us consider why this theorem is true. Let us for example consider why
 are equal. Since ABCD is a cyclic quadrilateral,
 the angles DAB
-DAB
 and BCM
->
->
->
->
->
 = 180x. Furthermore, since DCM is a straight line,
 + BCD
 + BCD
 = BCD
 = BCM
-.
 Cancelling BCD
 + BCM.
->
->
->
->
 from both sides, we obtain
->
-DAB
-DAB
->
 Example 1
 Find the values of a and b based on the information in the given figure.
-A
-a
-b
-B
-D
-x
-100
-C
-E
 As the exterior angle of the cyclic quadrilateral is
 equal to the interior opposite angle,
 a = 100x.
->
 = b ( since AB = AD)
-ADB
 a + b + b = 180x ( interior angles of a triangle)
 100x + 2b = 180x
 b = 40x
-73
 Example 2
 Find the values of x, y, z, m and n based on the information in the given figure.
-D
-n
-y
-A
-65x
-z
-m
-x
-80x
-S
-B
-120x
-C
-T
 x = 65x (angles in the same segment)
 As an exterior angle of a cyclic quadrilateral is equal to the interior opposite angle,
->
->
->
 = DCT
-BAD
 = 120x
-BAD
 z + 65x = 120x
 z = 55x
 z = y ^angles in the same segment&
 ... y = 55x
 As an exterior angle of a cyclic quadrilateral is equal to the interior opposite angle,
->
-ADC
->
 = 80x
 = ABS
 ... n + y = 80x
@@ -4128,252 +2015,79 @@ n = 80x – 55x
 ... 80x + m + 65x = 180x
 m = 180x – 145x
 m = 35x
-74
 Example 3
 The two circles in the given figure intersect at A and B. Moreover, PA = PB.
 If APB
->
 = 70x"
 (i) find the magnitude of ARQ
 (ii) Is AB//RQ ?
-.
->
-R
-P
-=
-=
-A
-B
 (i) In the triangle APB,
-Q
->
-PAB
 ... PAB
->
->
 = PBA
->
 = PBA
 (since PA = PB)
 180x – 70x
-2
-=
 = 55x
->
->
 = ARQ
 Moreover, ABP
 ABQR = the interior opposite angle)
 ... ARQ
 ^ exterior angle of the cyclic quadrilateral
 = 55x
->
 (ii) PAB
->
->
 = 55x .
 = ARQ
 ... AB//RQ. (since corresponding angles are equal&
 Exercise 21.3
 1. By considering the figure, name an angle equal to each of the angles given below.
-R
-S
-E
-D
->
 (i) CBP
->
 (ii) DCQ
->
 (iii) REA
->
 (iv) SEA
->
 (v) EAT
-T
-A
-Q
-C
-P
-B
-75
 2. In each of the circles given below, the centre is O. Find the magnitude of each of
 the angles denoted by an algebraic symbols.
-(a)
-y
-70x
-t
-x
-30x
-84x
-y
-O
-(ii)
 (iii)
-O
-x
-y
-O
-(v)
-x
-=
-40x
-=
->
-O
-x
->
-63x
-(vi)
-62x
-60x
-O
-30x
-O
-x
-80x
-x
 (viii)
-105x
-(ix)
-130x
-=
-=
-p
-120x
-O
-q
-O
-x
-70x
-(xi)
-70x
-r
 (xii)
-O
-100x
-x
-(i)
-=
-=
-30x
-O
-x
-(iv)
-30x
-O
-42x
-x
-33x
->
 (vii)
-O
->
-(x)
-87x
-x
-76
 3. The points D, E and F are on the sides BC,
 CA and AB respectively of the triangle
 ABC such that BDGF and DCEG are
 cyclic
 quadrilaterals. Furthermore,
-GDC
 = 80x.
->
-F
-E
-A
-G
-80x
-B
-D
-C
 (i) Find the magnitudes of AFG
 and AEG
-.
->
->
 (ii) Show that AFGE is a cyclic quadrilateral.
 4. The circles given in the figure intersect at P and Q. The straight lines APB and
 CQD meet the circles at L, P, M and X, Q, Y respectively.
-A
-L
-C
-X
-P
-Q
-M
-B
-Y
-D
 (i) Find the magnitude of BMY
 if ALX
 (ii) Show that LX and MY are parallel.
->
->
 = 105x.
 5. The centre of the given circle is O. The
 diameter AB and the chord PR intersect
 perpendicularly at L. The line segments QR
 and AB intersects at T.
-Q
-A
-O
-T
->
 a. If QTA
 = x, write in terms of x,
 (i) the magnitude of LRT
-,
 (ii) the magnitude of OPQ
->
-.
->
 b. Show that QTOP is a cyclic quadrilateral.
-P
-L
-R
-B
-77
 6. In the figure, PQ = QR and
->
->
 PR = PS. If PRS
-that
 = 2 QRP,
-show
 (i) PSRQ is a cyclic quadrilateral,
 (ii) QPT
 = 3 : 2 .
 : PRS
->
->
-Q
-R
-=
-S
-=
-S
-T
-T
-P
 7. PQ = QR in the cyclic quadrilateral
 PQRS. Moreover, PS is produced to
 = 32x,
 T such that RS = ST ' If SRT
->
-P
 (i) find the magnitude of QRP
-,
->
 (ii) show that QS and RT are parallel.
-=
-Q
-=
-R
-78
-22
 Tangents
 By studying this lesson you will be able to,
 ² identify the tangent which is drawn through a point on a circle and its
@@ -4394,16 +2108,10 @@ In Figure (iii), the circle and the straight line have one point in common. Here
 the straight line touches the circle and therefore the straight line is known as a
 “tangent” of the circle. The point which is common to the tangent and the circle is
 known as the tangential point.
-79
 Line drawn through a point on a circle, perpendicular to the
 radius
 To learn about the line drawn through a point on a circle which is perpendicular to
 the radius, consider the facts given below.
-O
-B
-A
-C
->
 O is the centre of the circle in the figure. The radius drawn through the point A
 which is on the circle is OA. The line drawn perpendicular to the radius OA through
 A is BC. It is clear that OAC
@@ -4421,21 +2129,9 @@ passes through that point and the said tangent are perpendicular to each other.
 This result too can be written as a theorem as follows.
 Converse of the theorem: The tangent through a point on a circle is perpendicular
 to the radius drawn to the point of contact.
-80
 Example 1
 The tangent drawn to the circle with centre A through the point B is CD. If
-BAD
 = 35o, then find the value of x.
->
-A
-x
-35
-B
-x
-D
-C
->
-ABD
 = 90o ^the tangent through a point on a circle is perpendicular to the radius
 drawn to the point of contact &
 As the sum of the interior angles of a triangle is equal to180o,
@@ -4443,279 +2139,105 @@ As the sum of the interior angles of a triangle is equal to180o,
 x = 180o – 35o – 90o
 x = 55o
 Example 2
-O
-P
-A
-30o
-B
 In the figure, the tangent drawn to the circle with centre O through P is AB. If
 OP = AP and OBP
 = 30o, find the magnitude of AOB
-.
->
->
->
-OPA
 = 90o (the tangent through a point on a circle is perpendicular to the
 radius drawn to the point of contact)
 OP = AP (given)
->
 ... POA
->
 = PAO
 (in an isosceles triangle, the angles opposite equal sides are equal)
-81
 = 180o (the sum of the interior angles of a triangle is180o )
 = 180o – 90o
 = 90o
 = 90o ( since PAO
->
->
 = POA
-)
->
 + PBO
 = 180o ( the sum of the interior angles of a triangle is 180o)
->
->
 In the triangle APO,
 + POA
-PAO
 + OPA
 ... PAO
 + POA
->
->
->
 + 90o = 180o
->
->
-PAO
-PAO
->
->
 + POA
 + POA
 ... 2 PAO
-PAO
->
->
-=
-90o
-2
 = 45o
 In the triangle AOB,
->
->
 + PAO
-AOB
-AOB
->
->
 + 45o + 30o = 180o
-AOB
 + 75o = 180o
-AOB
 = 105o
->
 = 180o – 75o
 Example 3
-A
-B
-P
-O
-Q
-C
 PQ is a diameter of the circle with centre O. The tangents drawn to the circle through
 P and Q, are AB and CD respectively. Show that PBQ
 = BQD
-D
->
->
-.
 Since the tangent drawn to the circle through a point on the circle is perpendicular
 to the radius drawn to the tangential point,
-QPB
 = 90o and
->
->
->
->
 = 90o .
 = 90o + 90o
-PQD
 ... QPB
 + PQD
 = 180o
 ... AB // CD (allied angles)
 ... PBQ
 = BQD
-82
->
->
 (AB // CD and alternate angles)
 Exercise 22.1
 1. In each circle given below, the centre is O and AB is the tangent drawn to the
 circle through the point C. Find the value of each algebraic symbol based on the
 data in the figure.
-O
-x
-C
-(i)
-A
-30x
-B
-A
-O
-2a
-C
-(ii)
-O
-x
-y
-C
-(iv)
-D
-x
-A
-a
-O
-b
-A
-a
-C
-(vi)
-3a
-B
-B
-B
-83
-B
-c
-a
-30o
-O
-b
-C
 (iii)
-A
-x
-B
-100x
-O
-yx
-C
-A
-(v)
 2. In the circle with centre O in the figure, AB
 is the tangent to the circle through the
 point X. If the radius of the circle is 6 cm
 and YB = 4 cm, find the length of XB.
-O
-Y
-A
-X
-B
 3.The tangent drawn to the circle with centre O
 through the point P is AB. Find the radius of the
 circle if BOP
 = 45x and PB = 6 cm.
->
 4.The tangent drawn to the circle with centre O
-then
 through the point B is AC. If OAB
 show that AOB
 = BCO
 = BOC
->
->
->
->
-.
 5.The tangent drawn to the circle with centre O
 though the point P is AB. Q is on the circle such
 . Show that OQ and PO are
 that OQP
 = QPB
 perpendicular to each other.
->
->
-84
-O
-45x
-A
-P
-B
-O
-B
-A
-C
-O
-Q
-A
-P
-B
 6. The tangents drawn to the circle with
 centre O through the points A and B
 intersect at point C. Show that AOBC is
 a cyclic quadrilateral.
-C
-A
-O
-B
-Y
 7. Two circles with equal radii and with centres
 A and B are shown in the figure. Y is situated
 such that AY = YB. Show that YX is a common
 tangent to the two circles.
-A
-X
-B
 8. In the given figure, AB is a diameter of the circle
 and PQ touches the circle at the point B. Prove
 that,
-A
->
 (i) QRB =
 (ii) ABR =
->
 90x and
-RQB
->
-R
-Q
-B
-P
-85
 22.2 Tangents drawn to a circle from an external point
 Let us consider a point P which is external to the circle with centre O.
-O
-P
 Two tangents to the circle that pass through the point P can be drawn. These two
 tangents are shown in the following figure.
-O
-A
-B
-P
 These two tangents are known as the tangents drawn to the circle from the external
 point P.
 Understand that there are two tangents that can be drawn to a circle from an external
 point P irrespective of where the point is located. In the figure below are three
 points P, Q and R through which two tangents each are drawn.
-Q
-O
-P
-R
-B
-86
 Now let us consider the characteristics of the two tangents drawn from an external
 point to a circle.
 Let us mark A and B as the tangential points and OA and OB as the respective radii.
 Let us also draw the straight line segment OP.
-O
-A
-B
-P
 As learnt in section 22.1 above, tangents are perpendicular to the radii drawn
 through the tangential points. This is indicated in the above figure.
 Observing the triangles OAP and OBP, we might guess that they are congruent,
@@ -4727,8 +2249,6 @@ they are congruent under the RHS (Hyp.S) case. In both triangles, the hypotenuse
 the common side OP. Furthermore, since OA and OB are both radii, they are equal
 in length. Accordingly, these two triangles are congruent under the RHS case. As
 they are congruent,
->
->
 (i) AP = BP; that is, the tangents are equal in length.
 (ii) APO
 (iii) AOP
@@ -4737,35 +2257,22 @@ circle.
 = BOP
 ; that is, the angle between the two tangents is bisected by OP.
 ; that is, both tangents subtend equal angles at the centre of the
->
->
 The above considered facts are expressed as a theorem as follows.
 Theorem: If two tangents are drawn to a circle from an external point, then,
 (i) the two tangents are equal in length.
 (ii) the angle between the tangents is bisected by the straight line joining the
 external point to the centre.
 (iii) the tangents subtend equal angles at the centre.
-87
 Let us now consider how this theorem is proved formally.
-O
-A
-B
-P
 Data : The tangents drawn from the external point P through the points A and
 B on the circle with centre O are AP and BP respectively.
 To prove :
->
 (i) AP = BP
 (ii) APO
 (iii) POA
 = BPO
 = POB
->
->
->
 Proof : OAP
->
->
 = OBP
 = 90o ( tangents are perpendicular to the
 ... POA and POB are right angled triangles.
@@ -4774,30 +2281,16 @@ Now, in the triangles POA and POB,
 OA = OB (radii of the same circle)
 OP is the common side
 POB (Hyp.S)
-POA
-...
 In congruent triangles, corresponding sides and corresponding angles are equal.
 ... (i) AP = BP
 ... (ii) APO
 ... (iii) POA
->
->
 = BPO
 = POB
->
->
-88
 Example 1
-A
-P
-R
-B
-Q
-C
 As shown in the figure, the circle touches the triangle ABC at the points P, Q and R.
 If AB = 11cm and CR = 4 cm, find the perimeter of the triangle ABC.
 Tangents drawn from an external point to a circle are equal in length.
-...
 AP = AR
 BP = BQ
 CR = CQ
@@ -4810,14 +2303,7 @@ ABC = AB + BC + CA
 = 19 + AB
 ... The perimeter of the triangle ABC is 30 cm.
 = 19 + 11
-= 30
 Example 2
-A
-D
-C
-O
-B
-89
 As shown in the figure, the two tangents drawn from the external point C to the
 circle with centre O touches the circle at A and B. The line drawn from the centre O
 to C intersects the circle at D.
@@ -4826,127 +2312,45 @@ We can obtain the required result by proving that the two triangles ACD and BCD
 are congruent.
 In the triangles ACD and BCD,
 AC = BC
-ACO
 = BCO
->
->
 ( tangents drawn to a circle from an external point are equal in length)
 ( the angle between the tangents is bisected by the straight line joining
 the external point to the centre)
 CD is the common side
-...
 ... AD = BD (corresponding sides of two congruent triangles)
 BCD (SAS)
-ACD
 Exercise 22.2
-A
 12 cm
 1. The tangents through the points A and C on the
 circle with centre O in the figure, meet at B. If the
 radius of the circle is 5 cm and AB = 12 cm, then
 find the perimeter of the quadrilateral ABCO.
-m
-c
-5
-O
-B
-C
-C
-A
-4 cm
-Q
-R
-6 cm
-B
-70o
-A
-C
 2. The tangents drawn to the circle through the
 points P, Q and R on the circle are AB, AC and
 BC respectively. Find the perimeter of the
 triangle ABC if RC = 6 cm, BP = 5 cm and
 AQ = 4 cm.
-5 cm
-B
-P
 3. The tangents drawn to the circle in the figure through the
 = 70o , find the magnitude
->
 points B and C meet at A. If BAC
 of ABC
-.
->
-90
 4. The centre of each of the circles shown below is O. The tangents drawn to the
 circle through the points A and C meet at B. Based on the given data, find the
 values represented by the algebraic symbols.
-(i)
-A
-O
-xo
-55o
-C
 (iii)
-A
-O
-a
->
-C
-ABC
 = 70 o
-(ii)
-A
-O
-co
-ao
-30o
-bo
-B
-C
-(iv)
-B
-xo
-A
-C
-yo
-O
-yo
-B
-b
-70 o
-B
->
-AOC
 = 110 o
 5. O is the centre of the circle shown in the figure. The
 tangents drawn to the circle through the points P and R
 meet at Q. If QR = OR, show that PQRO is a square.
-P
-Q
 6. A, B and C are points on the larger circle with centre O shown
 in the figure. AB and AC touch the smaller circle at the points
 P and Q. Show that,
 (i) APQ is an isosceles triangle,
 (ii) BC // PQ.
-O
-R
-A
-P
-Q
-O
-B
-C
-91
 7. According to the information in the figure, show that
 XC = CY. Also, AC and BC are the tangents drawn
 to the given circle at A and B respectively.
-A
-X
-C
-Z
-Y
-B
-P
 8. The tangents drawn from the external
 point P to the circle in the figure, touch
 the circle at X and Y. The line QR which
@@ -4955,47 +2359,19 @@ XQ = YR. Show that,
 (i) PR = PQ,
 (ii) QR = XQ + YR,
 (iii) XY // QR.
-Q
-X
-Y
-Z
-R
 9. The tangents drawn through the points A and C on the circle with centre O
 shown in the figure meet at the point B. Show that,
-,
 (i) OAX
 (ii) OB is the perpendicular bisector of AC,
-.
 (iii) AOC
 = 2 ACB
-OCX
->
->
-O
 10. The tangents drawn from the external
 point Q to the circle with centre O
 shown in the figure are PQ and QR. QO
 produced meets the circle at S. Show
 that,
-S
-O
-PQS
-(i)
 (ii) 2 OPX
-QRS
 = PQR
-.
->
->
-92
-A
-X
-C
-P
-X
-R
-B
-Q
 11. As shown in the figure, Q is a point on both
 circles and QS is a tangent to both circles. The
 other tangents drawn from S to the two circles
@@ -5003,22 +2379,10 @@ touch the circles at P and R. Show that,
 (i) PS = SR,
 (ii) PQR
 = SPQ
->
->
->
 + SRQ
-.
-P
-S
-Q
-R
 22.3 Angles in the alternate segment
 First let us see what an alternate segment is. To do this let us consider the following
 figure.
-D
-B
-A
-C
 As shown in the figure, the straight line AB touches the circle at the point C. In the
 figure, CD is a chord. The circle is divided into two segments by the chord CD.
 One segment is the portion which is shaded light blue. The other segment is the
@@ -5031,40 +2395,16 @@ the alternate segment corresponding to the angle ACD
 is the portion of the circle
 which is not shaded.
 . The other is BCD
->
->
->
->
 In the figure given below, the alternate segment corresponding to ACD
 light blue.
 is shaded
->
-D
-B
-A
-C
-93
 Theorems related to angles in the alternate segment
 Consider the figure given below. CPD
 blue. Therefore the angle CPD
 is in the alternate segment of ACD
->
->
-.
->
 is in the larger segment which is shaded light
 is in the alternate segment of DCB
->
 . Similarly CYD
->
-P
-A
-C
-D
-Y
-B
->
->
 There is a special relationship involving tangents of a circle. For the above figure,
 are equal, and also that the angles ACD
 it means that the angles DCB
@@ -5074,45 +2414,26 @@ with a chord drawn from the point of contact are respectively equal to the angle
 the alternate segments of the circle”. This is a very important result. Therefore let
 us write it as a theorem and remember it.
 and CPD
->
->
 Theorem: The angles which a tangent to a circle makes with a chord drawn from
 the point of contact are respectively equal to the angles in the alternate segments
 of the circle.
 To check the validity of the above theorem let us do some activities.
 Activity 1
-B
-Y
-X
-Z
-C
-A
 ² Draw a circle and mark a point X on it.
 ² Draw a line touching the circle at X (draw a radius from X and draw a line
-94
 perpendicular to it.) Name it AB.
 ² Mark two other points on the circle and name them Y and Z.
 ² As shown in the figure, join the points X, Y and Z.
 ² Using the protractor, measure the magnitude of BXY
->
->
 and also the magnitude
 , which is the corresponding angle in the alternate segment, and check
 of XZY
 whether they are equal.
->
->
 ² Similarly, find the magnitude of AXZ
 , which is the
 corresponding angle in the alternate segment, and check whether they are equal
 and the magnitude of XYZ
 Activity 2
-R
-Q
-S
-B
-A
-P
 ² Draw a circle and mark a point on it and name it P. Draw a line touching the
 circle at P (this can be done by drawing a radius from P and drawing a line
 perpendicular to it through P). Name it AB.
@@ -5123,56 +2444,26 @@ and S.
 ² Using the protractor, measure the magnitude of BPQ
 and the magnitude of
 , which is the angle in the alternate segment, and check whether they are
->
->
 ² Similarly measure the magnitude of APQ
->
 and the magnitude of PSQ
 , which
->
 is the angle in the alternate segment, and check whether they are equal.
 From the above activities you would have understood that the angles which a tangent
 to a circle makes with a chord drawn from the point of contact are respectively
 equal to the angles in the alternate segments of the circle.
-95
-PRQ
 equal.
 Example 1
-C
-B
-P
-55o
-A
-120o
-D
-Q
 In the above figure, the line PQ touches the circle at A. Furthermore, B, C and D
 are also on the circle. PAB
 = 120o. Find the magnitude of BAC
-.
 = 55o and ADC
->
->
->
-.
 Initially let us find the magnitude of the angle PAC
->
->
->
-PAC
->
 = ADC
 (the angles which a tangent to a circle makes with a chord drawn
 from the point of contact are respectively equal to the angles in the
 alternate segments of the circle)
->
->
 + BAC
-PAB
 55o + BAC
-BAC
->
->
 = 120o
 = 120o
 = 120o – 55o
@@ -5181,197 +2472,61 @@ Example 2
 The straight line AB touches the circle at point P, Q and R are points on the circle.
 The bisector of the angle PQR
 meets the circle at S. Show that PS is the bisector of
-.
 the angle BPR
->
->
-Q
-R
-S
-B
-P
-A
->
->
-BPS
 = PQS
 (the angles which a tangent to a circle makes with a chord drawn
 from the point of contact are respectively equal to the angles in
 the alternate segments of the circle)
->
 = RQS
 (angles in the same segment are equal)
->
-RPS
-96
-)
 (data, because QS bisects the angle PQR
->
->
->
->
 = RQS
-PQS
 ... BPS
 ... PS, is the angle bisector of BPR
 = RPS
->
->
 Exercise 22.3
 1' PQ is a tangent to the circle through the point A. The points B, C, D and E lie on
 the circle.
-C
-D
-B
-E
-P
-A
-Q
 Angle between
 the tangent and
 the chord
->
->
->
-BAQ
-PAB
-PAD
-EAQ
 '''''''''''''''''
 '''''''''''''''''
->
 Angle in the alternate
 segment
 ''''''''''''''''''''
 ''''''''''''''''''''
 ''''''''''''''''''''
 ''''''''''''''''''''
-DBA
-DCA
->
->
 2' In each of the following figures, AB is the tangent to the circle drawn through the
 point X. Find the values represented by the algebraic symbols.
-D
-x
-D
-a
-C
-b
-C
-D
-45x
-E
-a
-40x
-B
-A
-A
-X
-(i)
-55x
-35x
-X
-(ii)
-B
-A
-b
-X
 (iii)
-C
-B
-97
-D
-y
-E
-C
-x
-50x
-60x
-B
-X
-A
-(iv)
-D
-p
-D
-40x
-25x
-E
-q
-s
-r
-C
-A
-35x
-30x
-X
-(v)
-B
-A
-E
-C
-c
-a
-b
-X
-(vi)
-B
 3. PQ is the tangent to the circle through A. If AC = AB C
 show that,
-B
->
->
 (i) CAP
 (ii) PQ // CB.
 = BAQ
-,
 4. AB is a tangent drawn to the circle through
 X. The points C and E are on the circle
 = AXE
 such that BXC
 . D is another
 point on the circle. Show that,
->
->
-,
 (i) XD is the bisector of EDC
 (ii) EX = CX,
 (iii) AB // EC.
->
-P
-A
-Q
-D
-E
-C
-A
-X
-B
 5. The straight line AB touches the circle at X. The chord PQ
 is drawn such that PQ // AB. Prove that,
->
->
 (i) BXQ
 (ii) AXQP is a parallelogram if PX = PA.
 = AXP
-,
-98
-Q
-P
-B
-X
-A
 6. Two circles touch each other externally at X. YZ is
 the common tangent. AB is a chord of one circle. AX
 produced and BX produced meet the other circle at P
 and Q respectively. Show that,
->
->
 (i) BXZ
 (ii) AB // PQ.
 = XPQ
-,
 Miscellaneous Exercise
 1. The tangents drawn to a circle with centre O
 from an external point A meet the circle at B
@@ -5387,40 +2542,11 @@ figure are P and Q. The two tangents
 drawn to the larger circle through A and B
 touch the smaller circle at X and Y
 respectively. Moreover,
-two
 these
 tangents intersect at Z. Show that,
 (i) AX = BY,
->
 (ii) APZ
->
 = YQZ
-.
-A
-Y
-Q
-X
-P
-Z
-A
-B
-B
-C
-O
-O
-C
-4 cm
-A
-8 cm
-B
-P
-A
-B
-Y
-Z
-Q
-X
-99
 4. As shown in the figure, the tangents PX
 and QX touch the circles at P, R, Q and
 S. The centres of the circles are A and
@@ -5429,15 +2555,6 @@ B. Show that,
 (ii) PQ // RS,
 (iii) A,B and X are on the same
 straight line.
-P
-Q
-A
-R
-B
-S
-X
-100
-23
 Constructions
 By studying this lesson you will be able to,
 • do constructions related to straight lines and angles,
@@ -5451,8 +2568,6 @@ constructions.
 The perpendicular bisector of a straight line segment is the line drawn
 perpendicular to the straight line segment through its midpoint.
 Let us consider a straight line segment AB.
-A
-B
 Step 1: Take a length of a little more than half the length of AB onto the pair
 of compasses. Taking A as the centre, draw two arcs above and below
 the straight line segment.
@@ -5462,12 +2577,6 @@ two arcs drawn earlier.
 Step 3: Name the two points of intersection as C and D. Draw a straight line
 segment joining C to D.
 Step 4: Name the point where this straight line segment intersects AB as X.
-101
-C
-A
-X
-B
-D
 CD is the perpendicular bisector of the straight line segment AB. Using a protractor,
 measure the magnitudes of the angles AXC
 , and using a
@@ -5476,19 +2585,10 @@ is the perpendicular bisector of AB.
 and BXD
 , AXD
 , BXC
->
->
->
->
 2. Construction of an angle bisector
 Consider the angle AOB
->
-A
-B
-O
 Step 1: Take a length which is less than OA and OB onto the pair of compasses.
 Taking O as the centre, draw an arc such that it intersects both OA and
-OB.
 Step 2: Name the two points of intersection of the arc with OA and OB as C
 and D.
 Step 3: Taking a suitable length onto the pair of compasses, and taking C and D
@@ -5496,27 +2596,13 @@ as the centres, draw two arcs which intersect each other. Name the point
 of intersection of the two arcs as E.
 Step 4:
 Join O and E.
-102
-A
-E
-B
-C
-O
-D
->
 OE is the angle bisector of AOB
 of the angles AOE
 and BOE
->
->
-.
 . Establish this fact by measuring the magnitudes
 3. Construction of a perpendicular to a line through a given point on the line.
 Let us assume that we want to draw a perpendicular to AB through the point C
 which is on AB.
-A
-C
-B
 Step 1: Take a suitable length onto the pair of compasses and taking C as the
 centre, draw two arcs that intersect the straight line segment AB on the
 two sides of C.
@@ -5525,24 +2611,11 @@ Step 3: Taking P and Q as the centres and using a fixed radius, draw two arcs
 above or below the line AB such that they intersect each other.
 Step 4: Name the point of intersection of the two arcs as R, and join CR with a
 straight line.
-A
-P
-R
-C
-BQ
-103
 CR is the perpendicular drawn to AB through C. Measure the angles ACR
-BCR
 and establish this fact.
->
-and
->
 4. Construction of a perpendicular to a straight line segment from an external
 point
 Let AB be a straight line segment and C an external point.
-C
-A
-B
 Step 1: Take a length which is a little more than the distance from C to AB onto
 the pair of compasses. Taking C as the centre, draw two arcs which
 intersect AB.
@@ -5552,34 +2625,20 @@ arcs taking D and E as the centres, on the side of AB opposite to that on
 which C lies.
 Step 4: Name the point of intersection of the two arcs as P and join CP. Name
 the point of intersection of CP and AB as Q.
-A
-D
-Q
-C
-P
-B
-E
 CP is the perpendicular drawn to AB from the point C. This can be established by
 measuring the magnitudes of the angles CQA
 using the protractor.
 and CQB
->
->
-104
 Exercise 23.1
 1. Construct the perpendicular bisector of the straight line segment AB where
 AB = 5.2 cm.
 2. Construct an angle of 90o and construct its bisector.
 3. Construct the triangle ABC where AB = 6 cm, ABC
 = 60o and BC = 5 cm.
->
 Construct the perpendicular bisector of AB.
 4. (i) Construct the triangle PQR where PQ = 7cm, QR = 6.5 cm and PR = 5 cm.
 (ii) Construct the bisectors of QPR
 and PQR
->
->
-.
 5. (i) Draw the straight line segment XY of length 5.5 cm.
 (ii) Construct a perpendicular to XY through X.
 (iii) Mark a point 4 cm from X on the perpendicular and name it Z. Join YZ.
@@ -5595,30 +2654,17 @@ cases, using only a straight edge and a pair of compasses.
 Construction of the circumcircle (circumscribed circle) of a
 triangle
 Draw a triangle and name it ABC.
-C
-A
-B
-105
 Step 1: Using the pair of compasses, draw the perpendicular bisectors of any two
 of the three sides AB, BC and CA of the triangle ABC.
 Step 2: Name the point of intersection of these perpendicular bisectors as O.
-C
-O
-A
-B
 Step 3: Taking O as the centre and the distance from any vertex of the triangle to
 O as the radius, draw a circle.
-C
-O
-A
-B
 Observe that the constructed circle passes through all the vertices of the triangle
 ABC. This circle is known as the circumcircle of the triangle ABC. The centre of
 this circle is known as the circumcentre of the triangle.
 Draw a right angled triangle and an obtuse angled triangle and construct the
 circumcircle of each triangle.
 Using the above constructions, fill in the table given below.
-106
 Location of the circumcentre
 On a side of
 the triangle
@@ -5632,76 +2678,24 @@ Right angled triangle
 Obtuse angled triangle
 Construction of the incircle (inscribed circle) of a triangle
 Draw a triangle and name it ABC.
-C
-A
-B
 Step 1: Using the pair of compasses construct the angle bisectors of any two
 interior angles of the triangle ABC.
 Step 2: Name the point at which the angle bisectors meet as X.
-C
-X
-A
-B
 Step 3: Construct a perpendicular from X to any one of the three sides of the
 triangle. Name the foot of that perpendicular as P.
-107
-C
-X
-A
-P
-B
 Step 4: Taking XP as the radius and X as the centre, draw a circle.
-C
-X
-A
-P
-B
 You can see that the circle which was constructed touches the three sides AB, BC
 and CA internally. Therefore it is called the incircle of the triangle ABC. The centre
 of this circle is known as the incentre of the triangle.
-108
 Construction of the excircle (escribed circle) of a triangle
 Let us consider the triangle ABC.
-C
-A
-B
 Step 1: Produce the side AB to D and the side AC to E.
-E
-C
-A
-B
-D
 Step 2: Using the pair of compasses, construct the angle bisectors of the angles
->
-CBD
->
 and BCE
-.
 Step 3: Name the point of intersection of the two bisectors as P.
-E
-C
-P
-A
-B
-D
 Step 4: Construct a perpendicular from P to BC (or to CE or BD). Name the foot
 of the perpendicular as Q.
-109
-E
-C
-P
-Q
-A
-B
-D
 Step 5: Taking P as the centre, draw the circle with radius PQ.
-E
-C
-P
-Q
-A
-B
-D
 Observe that the circle touches the side BC and the sides AC and AB produced
 externally. Therefore it is named the excircle of the triangle ABC. Its centre is
 known as the excentre of the triangle.
@@ -5709,7 +2703,6 @@ Note: The excircle that touches the side AB and the sides CB and CA produced,
 as well as the excircle that touches the side CA and the sides BA and BC
 produced can also be constructed similarly. It is clear therefore that each
 triangle has three excircles.
-110
 Exercise 23.2
 1. (i) Construct the triangle ABC where AB = 5 cm, BC = 4.5 cm and AC = 4 cm.
 (ii) Construct the perpendicular bisectors of the sides BC and AC. Name the
@@ -5717,25 +2710,18 @@ point where they meet as O.
 (iii) Construct the circumcircle of the triangle ABC.
 2. (i) Construct the triangle PQR where PQ = 6 cm, PQR
 (ii) Construct the circumcircle of PQR.
->
 = 90o and QR = 4 cm.
 3. (i) Construct the triangle XYZ where XY = 4.2cm YXZ
 (ii) Construct the circumcircle of XYZ.
 (iii) Measure the radius of the circumcircle and write it down.
->
->
 = 120o and XYZ
 = 30o.
 4. (i) Construct the triangle ABC where AB = 7 cm, BC = 6 cm and AC = 5.5 cm.
 (ii) Construct the angle bisectors of the angles ABC
->
->
 and BAC
-.
 (iii) Name the point of intersection of the two angle bisectors as P.
 (iv) Draw the incircle of the triangle ABC.
 5. (i) Construct the triangle KLM where KL = 6 cm, LKM
->
 = 105o and
 KM = 9 cm.
 (ii) Construct the incircle of the triangle KLM and measure and write down its
@@ -5747,20 +2733,15 @@ DE = 4 cm.
 (iii) Construct the bisectors of EDP
 and DEQ
 = 60o and
->
->
->
 intersect as X.
 (iv) Construct a perpendicular from X to DE and name the point where it meets
 DE as K.
 (v) Taking X as the centre, draw a circle with radius XK.
 7. (i) Construct the parallelogram ABCD where AB = 6.2 cm, ABC
->
 = 120o and
 BC = 4.5 cm.
 (ii) Produce the sides AB and AC and draw an excircle of the triangle ABC.
 (iii) Measure and write down the radius of this circle.
-111
 23.3 Construction of a tangent to a circle
 Let us recall two theorems we learnt in the lesson on tangents.
 1. The straight line drawn through a point on a circle and perpendicular to the radius
@@ -5773,28 +2754,15 @@ To construct this, let us use the theorem, “The straight line drawn through a 
 on a circle and perpendicular to the radius through the point of contact is a tangent
 to the circle.”
 Let the centre of the given circle be O and X be a point on it.
-O
-X
 Step 1: Draw the line OX and mark a point P on OX produced.
-O
-X
-P
-112
 Step 2: Using the pair of compasses, construct a perpendicular to OP
 through X.
 To do this, use the knowledge on constructing a perpendicular to a
 straight line segment through a point on it.
 Step 3: Name that perpendicular as RQ.
-O
-R
-X
-P
-Q
 RQ is the tangent drawn to the circle through X.
 Construction of a tangent to a circle from an external point
 Let O be the centre of the circle and A a point external to the circle.
-A
-O
 To construct this, let us use the theorem, “The tangents drawn to a circle from an
 external point (exterior) are equal in length.”
 Step 1:
@@ -5802,27 +2770,13 @@ Join OA. Construct the perpendicular bisector of the straight line segment
 OA. Name the point of intersection of OA and its perpendicular bisector
 as B. To do this construction, use the knowledge on constructing the
 perpendicular bisector of a straight line segment.
-113
-A
-B
-O
 Step 2: Taking B as the centre and BO (or BA) as the radius, draw two arcs which
 intersect the circle.
 Step 3: Name the two points of intersection as P and Q.
 Step 4: Draw the lines AP and AQ.
-P
-A
-B
-O
-Q
 AP and AQ are the tangents drawn to the circle with centre O from the point A.
 Using the protractor we can establish this by showing that the angles APO
-and
-AQO
->
->
 are 90o.
-114
 Exercise 23.3
 1. Construct a circle of radius 3 cm. Mark a point on the circle and name it A.
 Construct a tangent to the circle through the point A.
@@ -5844,46 +2798,33 @@ such that OB = 5 cm.
 (ii) Construct the circumcircle of ABC.
 (iii) Construct a tangent to the circle through the point A.
 (iv) Name the point of intersection of the tangent drawn through A and BC
->
 = 90o.
 produced as P.
 (v) Construct another tangent to the circle from the point P.
->
 6. (i) Construct a triangle KLM such that KL = 9 cm, KLM
 (ii) Construct the angle bisector of KML
->
 . Name the point where it meets KL as
 = 90o and LM = 4 cm.
-O.
 (iii) Construct a circle taking O as the centre and OL as the radius.
 (iv) Mark a point T on KM such that ML = MT.
 (v) Find the magnitude of OTM
 (vi) Draw another tangent to the circle from the point K.
->
-.
-115
 Miscellaneous Exercise
 1. (i) Construct the triangle ABC such that AB = 6cm, ABC
 (ii) Construct a line through A parallel to BC.
 (iii) Construct the circle which has its centre on this parallel line and which passes
 through the points A and B.
 = 45o and BC = 4 cm.
->
 2. (i) Construct the triangle PQR where PQ = 7cm, PQR
 = 120o and
->
 QR = 4.5 cm.
 (ii) Locate the point S such that PQRS is a parallelogram.
 (iii) Draw the diagonal QS.
 (iv) Construct the circumcircle of triangle PQS.
 (v) Construct the incircle of triangle QRS.
 3. Construct the triangle PQR such that PQ = 4.8 cm, PQR
->
 = 90o and
 QR = 6.5 cm. Construct a circle which touches PQ at P and also touches QR.
-116
-24
-Sets
 By studying this lesson you will be able to
 • identify the regions in a Venn diagram,
 • express the regions in a Venn diagram using set notation,
@@ -5896,102 +2837,32 @@ consider how this is done.
 The following are different ways in which three nonempty subsets of a universal
 set can be represented in a Venn diagram.The first figure illustrates the most general
 form.
-(i)
-(iv)
-(ii)
-ε
 (iii)
-ε
-(v)
-ε
-ε
-(vi)
-ε
-ε
-117
 (vii)
 (viii)
-ε
-(ix)
-ε
-ε
 24.1 Expressing a subset denoted by a shaded region in a Venn
 diagram using set notation
 Let A,B and C be three nonempty subsets of a universal set. Several cases of shaded
 regions in a Venn diagram which have been expressed using set notation are given
 below.
-ε
-ε
-A
-A
-A
-B
-A
-C
 A∩B∩C
-A∩B
-ε
-B
-A
-ε
-ε
-ε
 (A∩B) ∩ C'
-B
-A
-C
-B
-A
-C
 A∩(B∩C)'
-ε
-C
-B
-C
-A
 A∩B∩C
 (A∩B∩C)'
-ε
-B
-C
 (A∩B)∩C'
 (A∩B)∩(B∩C)∩(C∩A)
 Example 1
 For each of the following cases, shade the region
 representing the given set in a copy of the Venn
 diagram provided here.
-P
 (i) P∩Q
 (iv) (P∩Q∩R)'
 (ii) (P∩Q)'∩R (iii) (P∩R)'∩Q
-ε
-Q
-118
-B
-C
-B
-C
-R
 (i) P∩Q
 (ii) (P∩Q)'∩R
-P
 (iii) (P∩R)'∩Q
-P
-ε
-ε
-Q
-Q
-P
-R
 (iv) (P∩Q∩R)'
-P
-R
-ε
-ε
-R
-R
-Q
-Q
 Next we will consider how to describe the nature of the elements that belong to a
 particular region in a Venn diagram in words. It is easier to understand this if we
 consider an example.
@@ -5999,15 +2870,6 @@ The following Venn diagram provides information on what a group of students like
 to drink.
 Those who
 like tea
-ε
-E
-C
-H
-F
-D
-B
-A
-G
 Those who like milk
 Those who like coffee
 The regions denoted by the capital letters of the English alphabet in the above Venn
@@ -6020,7 +2882,6 @@ D - Those who like to drink only milk and coffee
 E - Those who like to drink only tea
 F - Those who like to drink only milk
 G - Those who like to drink only coffee
-119
 H - Those who do not like to drink any of these three
 Moreover, regions that are obtained by combining two or more of the above regions
 can also be described in words, most often in a simple way.
@@ -6037,14 +2898,6 @@ capital letters as well as the subsets denoted by the following composite region
 (ii) C and D
 (iii) A and D and E
 Paddy
-D
-B
-C
-E
-A
-F
-ε
-Corn
 Sesame
 A – Farmers who cultivate only paddy
 B – Farmers who cultivate only paddy and corn
@@ -6060,22 +2913,9 @@ Let ε = {Families living in a Housing Scheme}
 C = {Families that own a car}
 M = {Families that own a motorcycle}
 F = {Families that own a bicycle}
-120
 These sets have been represented in the following Venn diagram. The numbers
 represent the number of elements in each subset.
 Answer the following questions by considering the Venn diagram.
-ε
-C
-34
-11
-20
-15
-8
-10
-12
-2
-M
-F
 (i) How many families own a car?
 (ii) How many families own a motorcycle but neither
 a car nor a bicycle?
@@ -6104,37 +2944,16 @@ either two types of vehicles or all three types of vehicles. This number is
 15 + 8 + 11 + 10 = 44.
 (vi) The households which have only one type of vehicle are those which have only
 cars or only motorcycles or only bicycles. This number is 20 + 34 + 12 = 66.
-121
 Exercise 24.1
 1. A Venn diagram prepared based on the types of sports that each student in a
 group likes is given below.
-ε
-C
 C = {Those who like cricket}
 F = {Those who like football}
 B = {Those who like volleyball}
-F
-B
 By using the above Venn diagram model, shade the region that denotes each of the
 following sets expressed in set notation and describe it in words. Use a different
 Venn diagram for each of the parts (i), (ii), (iii) and (iv).
 (i) B∩C∩F (ii) (C∩F)∩B' (iii) (B∩C)'∩F (iv) (B∩C∩F)'
-2.
-A
-3.
-P
-ε
-B
-C
-ε
-4
-1
-9
-5
-2
-3
-6
-10
 By using the given Venn diagram model, shade the
 region that denotes each of the following sets
 expressed in set notation and describe it in words.
@@ -6142,8 +2961,6 @@ Use a different Venn diagram for each of the parts
 (i), (ii), (iii) and (iv).
 (i) A∩B∩C (ii) B∩C'
 (iii) A∩(B∩C)' (iv) (A∩B∩C)'
-Q
-R
 Determine the following based on the given Venn
 diagram.
 (i) n (P∩Q∩R)
@@ -6159,39 +2976,19 @@ From a group of 120 students, 41 learn agriculture, 47 learn music and 42 learn
 health science. 14 students learn agriculture and music, 19 learn music and health
 science, 25 learn agriculture and health science and 8 learn all three subjects.
 Represent this information in a Venn diagram and thereby determine the following.
-122
 (i) The number of students who learn only agriculture
 (ii) The number of students who learn only one of these subjects
 (iii) The number of students who learn at least two of these subjects
 (iv) The number of students who do not learn any one of these three subjects
 Agriculture
-ε
-41
-25
-42
-14
-8
-47
-19
 Music
 Health Science
 Let us find the number of elements in the remaining regions using the given
 information.
 Those who learn
 Agriculture
-47
-22
-11
-41
-10
-17
-42
-6
-8
-6
 Those who learn
 Music
-40
 Those who learn
 Health Science
 (i) 10
@@ -6205,13 +3002,8 @@ lentils and 43 bought sugar. Moreover, everyone who bought lentils also bought
 rice. The given Venn diagram provides this and additional information.
 Those who
 bought rice
-ε
-50
-21
 Those who bought lentils
-43
 Those who bought sugar
-123
 (i) Twenty three customers bought rice and sugar. How many bought only sugar?
 (ii) Twelve customers bought all three items. How many bought only rice and
 lentils?
@@ -6221,44 +3013,24 @@ buy other items?
 Answers
 Let us find the number of elements belonging to each region using the given
 information.
-(i)
-ε
 Those who bought rice
 Those who bought lentils
-43
-23
 Those who bought sugar
 The number of customers who bought only sugar is = 43 – 23 = 20.
-(ii)
 Those who bought rice
-ε
 Those who bought lentils
-21
-12
-20
 Those who bought sugar
 The number of customers who bought only rice and lentils is 21 – 12 = 9.
 (iii)
 Those who bought rice
-50
-9
-12
-11
-ε
 Those who bought lentils
-20
 Those who bought sugar
 The number of customers who bought only rice is 50 – 9 – 12 – 11 = 18.
-(iv)
 Those who bought rice
-50
 Those who bought lentils
-ε
-20
 Those who bought sugar
 The number of customers who bought items other than rice, lentils and sugar
 = 90 – 70 = 20.
-124
 Exercise 24.2
 1. Information on 20 customers who bought items from a certain stationary shop is
 as follows. There were 8 who bought pencils, 11 who bought pens and 13 who
@@ -6279,13 +3051,6 @@ diagram and determine the following.
 3. The following Venn diagram has been drawn with the information that was noted
 down on the languages that a group of tourists who visited Sigiriya could speak.
 Speaks English
-ε
-10
-5
-2
-4
-3
-2
 Speaks French
 Speaks German
 (i) How many can speak English?
@@ -6298,14 +3063,8 @@ fluent in both French and German. How many went with this guide?
 4. All the students who receive training at a certain sports academy participate in at
 least one of the three sports cricket, football and volley ball. The Venn diagram
 provides information on these students.
-125
 A :Those who play cricket
-ε
-18
-32
-14
 B : Those who play football
-6
 C : Those who play volleyball
 (i) How many students participate in all three sports?
 (ii) How many students play only cricket?
@@ -6319,7 +3078,6 @@ taught there are taught in both, Sinhala and English mediums.
 the correct region.
 Science
 English
-ε
 Mathematics
 (i) There are 140 students who study the subject science. 100 of these students
 study in the Sinhala medium.
@@ -6332,15 +3090,11 @@ study in the Sinhala medium.
 (iv) Find the probability of a student selected at random from those who enrolled
 that year being a student who studies physical education in the Sinhala
 medium.
-126
 6. Information on the types of fruits that were purchased by the customers who
 arrived at a grocery store one day is given in the following Venn diagram. On
 that day, all who bought either pineapples or papaws also purchased bananas.
-ε
 Those who bought
 pineapples
-8
-5
 Those who bought bananas
 Those who bought papaws
 (i) How many bought pineapples?
@@ -6353,8 +3107,6 @@ to buy fruits?
 (vi) If a person was selected at random from those who came to buy fruits,
 what is the probability that the person purchased all three of the given
 types of fruits?
-127
-25
 Probability
 By studying this lesson you will be able to,
 ² solve problems involving the events of a random experiment occurring in
@@ -6385,14 +3137,6 @@ the subsets relevant to two events of a random experiment.
 (iv) P (A∩B) (v) P (A∩B) (vi) P (A∩B')
 (vii) P (A'∩B) (viii) P (A∩B)'
 (iii) P (B)
-A
-12
-3
-7
-ε
-B
-5
-128
 4. Three identical cards numbered from 1 to 3 are in a bag. One card is drawn out
 at random and the number on it is checked to see if it is odd or even, and then the
 card is replaced in the bag. A card is drawn out again at random from the bag and
@@ -6425,7 +3169,6 @@ examples.
 a. The probability of a team winning a cricket match depends on whether the best
 bowler of the team plays in the match or not. Therefore the two events of the
 best bowler playing and the team winning are dependent events.
-129
 b. An animal is selected at random from a cattle pound in which there are cows
 and bulls. If the selected animal is a cow, milk can be obtained from it and if it
 is a bull, then milk definitely cannot be obtained from it. Therefore the event of
@@ -6439,12 +3182,7 @@ is drawn, the number of balls in the bag when the second one is drawn out is not
 the first ball is drawn depends on the colour of the first ball that is drawn.
 The probability of the second ball being a white ball if the first ball
 was white
-= 6
-9
-= 2
-3
 The probability of the second ball being a white ball if the first = 7
-9
 ball was not white
 As these two probabilities are not equal, the probability of the second ball being
 white is dependent on the probability of the first ball being white.
@@ -6464,59 +3202,13 @@ drawn out again and its colour is also noted.
 (c) Both balls being red
 (d) Both balls being the same colour
 (e) At least one ball being red
-130
 (i) We have learnt earlier that a grid can be used to solve problems on probability
 only if all the outcomes of the random experiment are equally likely. Since all
 the balls are equal in size and shape, the probability of a ball being drawn out
 is the same for all the balls. Therefore the sample space can be represented on a
 grid and the required probabilities can be found. Let us name the three blue balls
 B1, B2 and B3 and the two red balls R1 and R2.
-R2
-R1
-B3
-B2
-B1
-w
-a
-r
-d
-d
-n
-o
-c
-e
-S
-C
-B
-A
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
 B1 B2 B3
-R1
-R2
 First draw
 The sample space consists of all the points that are marked by taking the horizontal
 axis to represent the outcomes of the first draw and the vertical axis to represent the
@@ -6532,44 +3224,26 @@ of 25 points.
 number of points in A
 number of points in the sample space
 (b) The event of the second ball being red is denoted by B on the grid.
-= 10
-25
-=
-2
-5
 Accordingly,
 the probability of the second ball being red =
 number of points in B
 number of points in the sample space
-= 10
-25
-=
-2
-5
-131
 (c) The event of both balls being red is the set of points which are common to both
 A and B. There are 4 points in this set.
 ... the probability of both balls being red =
 number of points common to
 both A and B
 number of points in the sample space
-= 4
-25
 (d) For both balls to be the same colour, they should both be blue or both be red.
 The set of points relevant to this event is denoted by C. There are 13 points in
 this set.
 ... the probability of both balls being
 the same colour
-}
-=
 number of points in C
 number of points in the sample space
-= 13
-25
 (e) At least one ball being red means that one ball is red or both balls are red. This
 means all the points in both A and B. There are 16 points in total.
 ... the probability of at least one ball being red = 16
-25
 Now let us consider an example of a random experiment consisting of two stages,
 where the events are dependent.
 Example 2
@@ -6585,89 +3259,24 @@ Then Sithija randomly draws another pencil out for himself.
 (i) Let us name the three blue pencils B1, B2, B3 and the two red pencils R1, R2.The
 pencil given to Thamilini is one of R1, R2, B1, B2, B3 and the pencil Sithija drew for
 himself is also one of these. However since Sithija cannot have the pencil which
-132
 was given to Thamilini, the events (R1, R1), (R2, R2), (B1, B1), (B2, B2) and (B3, B3)
 cannot occur. Apart from these 5 points, the remaining 20 belong to the sample
 space. Therefore the sample space is the set
-}
 (R1, R2), (R1, B1), (R1, B2), (R1, B3), (R2, R1), (R2, B1)... . This sample space can be
 represented on a grid as follows.
-}
-B3
-B2
-B1
-R2
-R1
-l
-i
-c
-n
-e
-p
-s
-’
-a
-j
-i
-h
-t
-i
-S
-A
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-C
-B
 R1 R2 B1
 Thamilini’s pencil
-B2
-B3
 (a) The 8 points corresponding to Thamilini receiving a red pencil is marked as A .
 ... probability of Thamilini receiving a red pencil = 8
-20
-=
-2
-5
 (b) The 8 points corresponding to Sithija getting a red pencil is marked as B.
 ... probability of Sithija getting a red pencil = 8
-20
-=
-2
-5
 (c) The set of points corresponding to both getting pencils of the same colour is
 marked as C. This is the event of either both getting red pencils or both getting
 blue pencils. C also has 8 points.
 ... probability of both getting pencils of the same colour = 8
-20
-=
-2
-5
 (d) For only Thamilini to get a red pencil, Sithija has to get a blue pencil while
 Thamilini gets a red pencil. There are 6 points corresponding to this.
 ... probability of only Thamilini getting a red pencil = 6
-20
-=
-3
-10
-133
 Exercise 25.1
 1. In a box, there are 2 white balls and 4 red balls of the same shape and size. One
 ball is drawn out randomly from this box and its colour is noted.
@@ -6683,61 +3292,10 @@ probability of the two balls taken out being of the same colour.
 shape. Saman randomly takes one mango from this bag and gives it to his friend
 Rajendra. After that Saman randomly takes out a mango for himself. A grid with
 the sample space prepared by Saman is given below.
-t
-o
-g
-n
-a
-m
-a
-S
-o
-g
-n
-a
-M
-Raw1
 Ripe4
 Ripe3
 Ripe2
 Ripe1
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Ripe
-Ripe
-Ripe
-1
-2
-3
-Rip
-e
-4
-Ra
-w
-1
 Mango Rajendra got
 (a) There is an error in the above sample space. Draw the correct sample space
 on another grid.
@@ -6748,7 +3306,6 @@ events.
 (iii) Only one person getting a ripe mango
 (c) Rajendra says that at least one person is sure to get a ripe mango. Explain
 with reasons whether this is true or not.
-134
 3. Sarath who was preparing for a journey, randomly took out two shirts (one after
 the other) from a box containing 4 white shirts and 3 black shirts.
 (a) Represent the sample space on a grid by denoting the white shirts in the box
@@ -6784,31 +3341,15 @@ randomly drawn out again and its colour is also noted.
 (b) Drawing a white ball on the first occasion
 (c) Drawing only one white ball
 (d) Drawing at least one white ball
-135
 (i) Let us denote the event of drawing a white ball by W and drawing a black ball
 by B. As the outcomes are equally likely, the probability of drawing a white ball
-1
-3
-2
-3
 out the first time is
 . In that part of the
 and a back ball out the first time is
 tree diagram which represents the first draw, let us indicate the probability of
 each of these two events on the relevant branches.
 First draw
-2
-3
-1
-3
-W
-B
 The sum of the probabilities on the two branches = 2
-3
-= 1
-+
-1
-3
 Note: The sum of the probabilities on the branches which originate from a single
 point is 1. This occurs at every stage.
 Now let us extend the above tree diagram to indicate the probabilities of the second
@@ -6824,26 +3365,7 @@ are marked on the appropriate branches.
 Notice that the sum of the probabilities on the
 branches that originate from a point, all add up to
 Second draw
-2
-3
-1
-3
-2
-3
-1
-3
-W
-B
-W
-B
 First draw
-W
-B
-2
-3
-1
-3
-136
 (ii) When both occasions are considered there are 4 possible outcomes.
 Probability
 Outcome
@@ -6851,37 +3373,6 @@ Outcome
 (W, B)
 (B, W)
 (B, B)
-2
-3
-2
-3
-1
-3
-1
-3
-2
-3
-1
-3
-2
-3
-1
-3
-4
-9
-2
-9
-2
-9
-1
-9
-=
-2
-3
-4
-9
-2
-3
 As an example, (W,W ) represents the event of both balls drawn being white. Its
 ' The reason why these two can be multiplied together
 probability is
@@ -6892,41 +3383,12 @@ as follows.
 (a)Probability of drawing a white ball on the first occasion and a white ball on the
 second occasion too
 = P (W, W)
-= 4
-9
 ^from the table&
 (b) Probability of drawing a white ball on the first occasion = P (W, W) + P (W, B)
-2
-9
 (c) Probability of drawing only one white ball = P (W, B) + P (B, W)
-= 4
-9
-+
-= 6
-9
-= 2
-3
-= 2
-9
-+
-2
-9
-= 4
-9
 (d) Probability of drawing at least one white ball = P (W, W) + P (W, B) + P (B, W)
-= 4
-9
-+
-+
-2
-9
-2
-2
-= 8
-9
 Note: The answer in (d) can be obtained from 1 – P (B, B) too.
 Now let us consider an example where the events are dependent.
-137
 Example 2
 In a bag there are 3 red balls and 2 blue balls of the same size and shape. One ball
 is randomly drawn out and its colour is noted. Without replacing the first ball, a
@@ -6938,35 +3400,13 @@ second ball is randomly drawn out and its colour too is noted.
 (c) Drawing at least one red ball
 (i) The initial part of the tree diagram is shown below.
 First draw
-3
-5
-2
-5
-R
-B
 Here R represents the event of drawing a red ball while B represents the event of
 drawing a blue ball. As there are 3 red balls and 2 blue balls in the bag,
 P (R) =
-3
-5
 , P (B) =
-2
-5
-.
 Now let us extend the above tree diagram and include the second draw also.
 Second draw
 First draw
-3
-5
-2
-5
-R
-B
-R
-B
-R
-B
-138
 How the probabilities relevant to the second draw were found can be described as
 follows.
 The probabilities on the branches in the second stage are different to those on the
@@ -6975,68 +3415,21 @@ have to be found after considering the first stage.
 If the first ball drawn is red, then the bag will have 2 red balls and 2 blue balls
 remaining.
 ... the probability of the second ball drawn being red = 2
-4
 The probability of the second ball drawn being blue = 2
-4
 If the first ball drawn is blue, the bag will have 3 red balls and 1 blue ball remaining.
 ... the probability of the second ball drawn being red = 3
-4
 The probability of the second ball drawn being blue = 1
-4
 Let us write these probabilities on the relevant branches of the tree diagram, and
 complete the given outcomes table. Establish that the sum of the probabilities along
 the four branches is 1.
 First draw
-3
-5
-2
-5
-R
-B
 Second draw
-2
-4
-2
-4
-3
-4
-R
-B
-R
-1
-4
-B
-139
 Outcome
 Probability
 (R, R)
 (R, B)
 (B, R)
 (B, B)
-3
-5
-3
-5
-2
-5
-2
-5
-2
-4
-2
-4
-3
-4
-1
-4
-6
-20
-6
-20
-6
-20
-2
-20
 In the table, the probability of the outcome (R, R) (drawing two red balls) has been
 found by multiplying the relevant probabilities. But these two probabilities are not
 independent. This is because the probability of drawing a red ball on the second
@@ -7049,31 +3442,11 @@ Therefore to find the probability of a certain event using the tree diagram, we 
 to select the outcomes relevant to the event from the table and add the probabilities
 of these outcomes.
 (a) Probability of drawing two red balls = P (R, R)
-= 3
-10
-= 6
-20
 (b) Probability of drawing only one red ball = P (R, B) + P (B, R)
 20 = 3
-5
-6
 20 = 12
-6
-20 +
-=
 (c) Probability of drawing at least one red ball = P (R, B) + P (B, R) + P (R, R)
-= 6
-20
-+ 6
-20
-+ 6
-20
-= 18
-20
-= 9
-10
 Note: the answer in (c) can be obtained by using 1 – P (B, B) too.
-140
 Exercise 25.2
 1. In a box with 10 bulbs of the same type, 3 are known to be faulty. Nimal randomly
 draws out one bulb from the box and checks whether it is faulty. Without replacing
@@ -7087,8 +3460,6 @@ statement is true or false.
 (b) Exactly one bulb being faulty
 (c) At least one bulb being faulty
 2. The probability of the football player A of a certain team playing in a match is
-5
-3
 4 . If A plays in the match, then the probability of his team winning is
 8 and if
 he doesn’t play, then his team winning or losing is equally likely. This match is
@@ -7111,7 +3482,6 @@ ones are true.
 independent events”
 (b) “The first fruit being unripe and the second fruit being unripe are two
 dependent events”
-141
 (iii) Find the probability of each of the following events using the tree diagram.
 (a) Both fruits being ripe
 (b) Second fruit being ripe
@@ -7142,23 +3512,12 @@ is done.
 6. Information on the clerks and labourers who work in an institute is given in the
 following table.
 Position
-Male
 Female
 Total
 Gender
 Clerk
 Labourer
 Total
-5
-2
-7
-8
-1
-9
-13
-3
-16
-142
 (i) Find the probability of a person taken randomly from this institute being,
 (a) a labourer
 (b) a clerk
@@ -7184,129 +3543,41 @@ children in the class taught by C will pass the forthcoming examination.”
 (i) Find the probability of a randomly chosen child from grade 11 passing the
 examination, based on the above statement.
 (ii) Using the above answer, evaluate the percentage of students who will pass.
-143
 Revision Exercise – Term 3
 Part I
 1. Solve the following inequality and represent the solutions on a number line.
 2x + 5 ≤ 15
-2.
-P
-Q
-ε
 Express the shaded region in the Venn diagram using
 set notation.
-R
 3. The area of the square drawn on the hypotenuse of a right angled isosceles
 triangle is 64 cm2. Find the area of a square drawn on one of the other sides.
 4. Find p and q if – 3 2
 0 – 5
-p
-2
-=
-'
-– 5
-q
-D
-5.
-S
-R
-O
-C
-A
-P
-B
-Q
 The tangents drawn to the circle with centre O, at the points
 A, B, C and D which lie on the circle, meet at the points P,
 Q, R and S as shown in the figure. If PQ + SR = 20 cm, find
 the perimeter of the quadrilateral PQRS.
 6. A and B are two events of a random experiment such that P (A) = 0.4 and
 P (A∩B) = 0.7' If A and B are independent events, find the value of P (B).
-7.
-B
-A
-100x
-O
-x
-70x
-C
-8. A
-D
-G
-F
-B
-C
-144
 In the circle with centre O shown in the figure, COD
-CBA
 = 100x' Find the magnitude of ODA
->
->
-'
->
 = 70x
 ABCG and FCDE
 the figure are squares.
 If AC 2 = 12 cm2 and CE 2 = 6cm2, find the area of the
 whole figure.
-in
-E
-D
-D
-m
-3 c
-1
 The triangles ABC and ECD in the figure are
 right angled triangles. Find the area of the whole
 figure.
-9.
-A
-6 cm
-=
-E
-=
-B
-8 cm
-C
 10. Write down the matrix – 2 A if A =
-– 1
-2
-– 1
-– 2
-11.
-P
-B
-Q
-C
-R
-A
 The tangents drawn from the point A to the
 circle in the figure are AB and AC. The tangent
 drawn to the circle at the point Q meets AB and
 AC at P and R respectively. If the perimeter of
 the triangle APR is 18 cm, find the length of
-AB.
-12.
-A
-7 cm
-6 cm
-P
-6 cm
-X
 10 cm
-B
-8 cm
-(i)
-C
-Q
-8 cm
-R
 (iii)
 Write down the number of the figure suitable for the blank space.
-(ii)
-120x
-Y
-Z
 (a) The circum-centre of the triangle lies on a side of the triangle, in triangles of the
 form ……………………
 (b) The circum-centre of the triangle lies in the exterior of the triangle, in triangles
@@ -7314,24 +3585,10 @@ of the form ……………………
 (c) The circum-centre of the triangle lies in the interior of the triangle, in triangles
 of the form ……………………
 13. Find the values of x and y in the given equiangular traingles.
-A
-3
-B
-P
-5
-6
-y
-x
-C
-Q
-10
-R
-145
 14. Represent the integral solutions of the inequality 4x + 3 > 8 on a number line.
 15. Write down the coordinates of the turning point of the graph of the function
 y = x2 + 5x + 9 without drawing the graph.
 Part II
->
 = 90x in the right angled triangle ABC.
 1. ABC
 (i) If P is the midpoint of the side BC, then show that 4 (AP2 – AB2) = BC2'
@@ -7339,24 +3596,18 @@ Part II
 (iii) Using
 in (i) and (ii) above, deduce
 the results obtained
-that
 4 (AP2 + CQ2) = 5 AC 2 '
 (iv) Show using the result obtained in (iii) above, that when the above triangle is
 an isosceles right angled triangle, then AP:QP = 5 : 2 '
 2. (a)
-A
-E
 30 cm
 35x 36'
-B
 40 cm
 ABCD is a rectangle. Using the trigonometric
 tables
 (i) find the length of AE.
 (ii) Calculate the perimeter of the trapezium
 BCDE '
-D
-C
 (b) The three cities A,B and C are located such that city B is 50 km from city A,
 on a bearing of 040o from city A, and city C is directly to the North of city A
 and on a bearing of 270o from city B.
@@ -7369,17 +3620,10 @@ that carry water from the tank to each of the three cities is the same, and
 mark this location as T in the sketch.
 3. Information on some of the students who were involved in a pageant in which
 160 students participated is given below.
-ε
 Dancing
-(D)
 Singing
-(S)
-146
 Playing an instrument
-(P)
 of all those who participated in the pageant were involved in at least one of the
-1
-4
 three activities, dancing, singing and playing an instrument. From the 16 students
 who were involved in playing an instrument and dancing, 6 students also sang.
 Twice the number of those who were involved in playing an instrument only was
@@ -7403,51 +3647,24 @@ vessel B. He then randomly draws out a ball from vessel B.
 marked on the branches.
 (ii) Using the tree diagram, find the probability of drawing out balls of the same
 colour on both occasions.
-5.
-E
-A
-D
-F>
-C
-G
->
-o
-H
-B
 As indicated in the figure, AB is a diameter of the circle
 with centre O. The tangent EF drawn to the circle at the
 point D is parallel to AB.
 (i) Write down two angles which are equal to ABD
-.
 (ii) Find the magnitude of EDO
-.
 (iii) Show that OBCG is a cyclic quadrilateral.
->
->
-147
 6. Do the following constructions using a pair of compasses and a straight edge
 with a mm/cm scale and showing the construction lines clearly.
 (i) Construct the triangle ABC such that AB = 8 cm, ABC
 = 90x and
->
 BC = 4 cm.
 (ii) Construct the trapezium ABCD such that DC = 2 cm and DC is parallel to
-AB.
 (iii) Construct the circle that externally touches CB produced at G, CA produced
 at E and AB produced at F.
-148
-149
-150
-151
-152
-153
-154
-A
 Glossary
 Adjacent side
 Angles in the same segment taldka;r jD;a; LKavfha fldaK J÷µxshU ÷Põn[PÒ
 noaO mdoh A¯Ø £UP®
-C
 Centre
 Chord
 Circle
@@ -7455,17 +3672,12 @@ Circumcircle
 Column matrix
 Cosine
 Cyclic quadrilateral
-D
 flakaøh
-cHdh
 jD;a;h
 mßjD;a;h
 ;Sr kHdih
 fldaihskh
 jD;a; p;=ri%
-ø©¯®
-|õs
-Ámh®
 _ØÖ Ámh®
 {µØ uõ¯®
 ÷Põø\ß
@@ -7473,10 +3685,8 @@ _ØÖ Ámh®
 Dependent Events
 mrdh;a; isoaê
 \õº {PÌa]
-E
 Element
 Elements of a matrix
-wjhj
 kHdihl wjhj
 Exterior angle
 Exterior point
@@ -7484,21 +3694,15 @@ Excircle/Escribed circle
 ndysr fldaKh
 ndysr ,laIHh
 ndys¾ jD;a;h
-‰»P®
 uõ¯ö©õßÔß
 ‰»P[PÒ
 ¦ÓU÷Põn®
 ¦Ó¨¦ÒÎ
 öÁÎ Ámh®
-G
-Grid
-H
 fldgq oe,
 ö|´¯›
 Hypotenuse
-l¾Kh
 ö\®£UP®
-I
 Independent events
 Inequalities
 Inscribed circle/ Incircle
@@ -7516,24 +3720,15 @@ EÒÁmh®
 APzöuvº ÷Põn®
 öuõøhPÎß
 CøhöÁmk
-155
-L
 Locus
-M
 Matrices
-O
 Opposite angles
 Opposite side
 Order of a matrix
-P
 Perpendicular
 Point
 Pythagoras' theorem
 Pythagoras' triple
-R
-m:h
-kHdi
-JÊUS
 uõ¯[PÒ
 iïuqL fldaK
 iïuqL mdoh
@@ -7546,12 +3741,10 @@ uõ¯zvß Á›ø\
 mhs;.ria m%fïhh
 mhs;.ria ;s%l
 ö\[Szx
-¦ÒÎ
 ø£uPµ]ß ÷uØÓ®
 ø£uPµ]ß •®ø©
 Radius
 Random Experiments
-wrh
 iiïNdù mÍlaIK
 Riders
 Right angled triangles
@@ -7559,24 +3752,18 @@ wkqfïhhka
 RcqfldaKsl ;s%fldaK
 Row matrix
 fma<s kHdih
-Bøµ
 GÊ©õØÖ¨
 £›÷\õuøÚ
-HÔPÒ
 ö\[÷Põn
 •U÷Põn®
 {øµz uõ¯®
-S
 Sample space
 Segment of a circle
-Set
-Sine
 Solution set
 Square matrix
 Subtended
 Supplementary
 Symmetric matrix
-156
 ksheÈ wjldYh
 jD;a; LKavh
 l=,lh
@@ -7589,13 +3776,11 @@ iuñ;s kHdih
 ©õv›öÁÎ
 Ámhzxzxsh®
 öuõøh
-ø\ß
 wºÄz öuõøh
 \xµz uõ¯®
 Gvµø©
 ªøP {µ¨¦QßÓ
 \©a^ºz uõ¯®
-T
 Tangent
 Tree diagram
 Trigonometric ratios
@@ -7609,10 +3794,8 @@ Trignometry
 v›÷Põn
 Pou ÂQu[PÒ
 v›÷Põn Pou®
-U
 Union of sets
 Unit matrix
-V
 l=,l fï,h
 tall kHdih
 öuõøhPÎß JßÔ¨¦
@@ -7620,7 +3803,6 @@ A»Sz uõ¯®
 Venn diagram
 fjka rEmh
 öÁß Á›¨£h®
-157
 Sequence of the Lessons
 Chapter of Textbook
 No.of Periods
@@ -7653,29 +3835,3 @@ Lines
 23. Constructions
 24. Sets
 25. Probability
-158
-10
-08
-06
-05
-05
-04
-04
-12
-06
-05
-05
-12
-10
-12
-12
-06
-04
-12
-08
-06
-10
-10
-05
-06
-07

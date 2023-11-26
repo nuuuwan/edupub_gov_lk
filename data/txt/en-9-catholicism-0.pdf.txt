@@ -1,5 +1,4 @@
 CONTENTS
-Page
 The Holy Bible
 1. Classification of the Old Testament Books
 2. Classification of the New Testament Books
@@ -30,34 +29,6 @@ Life of Prayer
 23. The Canticles
 24. Types of Prayer
 25. AsIPA
-vii
-1
-5
-7
-12
-15
-18
-23
-27
-33
-38
-44
-49
-53
-58
-62
-68
-72
-78
-81
-83
-87
-91
-93
-97
-100
-viii
-1
 Classification of the
 Old Testament Books
 Teacher : Our first lesson is the “Classification of the Old Testament Books.”
@@ -85,8 +56,6 @@ into five sections. They are:
 3. The Wisdom Literature
 4. The Prophetic Literature
 5. The Apocalyptic Literature
-1
-PB
 The first five books of the Holy Bible are called, “Pentateuch.”
 The Pentateuch
 1. Genesis
@@ -94,9 +63,7 @@ The Pentateuch
 3. Leviticus
 4. Numbers
 5. Deuteronomy
-5
 The second section is the “Historical Books.” There are 16 of them.
-16
 The Historical Books
 1. Joshua
 2. Judges
@@ -114,10 +81,7 @@ The Historical Books
 14. Esther
 15. 1 Maccabees
 16. 2 Maccabees
-2
-3
 The third group is the “Wisdom Literature. There are 7 of them.
-7
 The Wisdom Literature
 1. Job
 2. Psalms
@@ -127,7 +91,6 @@ The Wisdom Literature
 6. Wisdom
 7. Sirach
 The fourth group is the “Prophetic Literature.” There are 17 of them.
-17
 The Prophetic Literature
 1. Isaiah
 2. Jeremiah
@@ -146,11 +109,8 @@ The Prophetic Literature
 15. Haggai
 16. Zechariah
 17. Malachi
-3
-2
 The fifth group is the “Apocalyptic Literature.” Only one book belongs to this
 group.
-1
 The Apocalyptic
 Literature
 1. Daniel
@@ -166,9 +126,6 @@ Literature of the Old Testament.
 For Life
 ³ Buy a Holy Bible to your house.
 ³ Study the order of the books.
-4
-PB
-2
 Classification of the
 New Testament Books
 There are 27 books in the New Testament. They can be divided into three groups:
@@ -204,8 +161,6 @@ There are 21 Epistles:
 8. 1 Thessalonians
 10. 1 Timothy
 12. Titus
-5
-PB
 13. Philemon
 15. James
 17. 2 Peter
@@ -235,9 +190,6 @@ them daily. Let us strengthen our faith. Let us also
 respect and love for the Word of God. Let us have a good
 understanding of the books of the New Testament. As a
 result, we may be able to use the New Testament easily.
-6
-PB
-3
 The Book of Psalms
 I lift up my eyes to the hills
 from where will my help come?
@@ -268,8 +220,6 @@ The authorship of the Psalter is attributed to King David. However, all do not
 agree about King David’s authorship due to different language styles, its contents
 and time. The background of the book is the worship and homage, paid to God
 by the Israelites.
-7
-PB
 The Psalter has five books. (The Pentateuch also has five books.)
 - Psalms 1-41
 First Book
@@ -280,7 +230,6 @@ Fourth Book - Psalms 90-106
 Fifth Book
 - Psalms 107-150
 The last verse of each book is prayerful. Each book ends with praise to God.
-Ex.
 Psalm 41:13
 Psalm 72:19
 Psalm 89:52
@@ -299,10 +248,8 @@ heavens.
 2. Lament Psalms
 These hymns are called by this name, because they were sung during times of
 difficulties and distress, asking God’s help. These hymns can be divided into two:
-8
 i. Personal Lament Psalms (Psalm 3, 5, 6, 7, 13, 140)
 ii. Communal Lament Psalms (Psalm 44, 74, 79, 80, 83)
-9
 I said unto the LORD,
 Thou art my God:
 hear the voice of my supplications,
@@ -323,7 +270,6 @@ love endures
 (Psalm 136:1)
 4. Wisdom Psalms
 These psalms encourage the people to lead a righteous life. E.g. Psalms 1, 73 and
-133
 Happy are those
 who do not follow the advice of the wicked,
 or take the path that sinners tread,
@@ -334,11 +280,8 @@ and on his law they meditate day and night.
 5. Royal Psalms
 These psalms were sung during the consecration or weddings of kings. E.g.
 Psalms 2, 45 and 72
-9
-8
 Give the king your justice, O' God,
 and your righteousness to a king’s
-son.
 (Psalm 72:1)
 6. Psalms of Zion
 Zion is Jerusalem. These Psalms speak of the greatness of Jerusalem. They were
@@ -360,8 +303,6 @@ they comfort me.
 (Psalm 23:4)
 Psalter is a treasure of prayer. It is the best proof that the Israelites experienced
 God in their ordinary life. They brought all their life experience to God in prayer.
-10
-11
 Lord Jesus has quoted from Psalms. He used psalms in the Sermon on the Mount.
 E.g. Psalm 6:9 (Matthew 7:23), Psalm 24:3-4 (Matthew 5:8), Psalm 37:11
 (Matthew 5:5). Lord Jesus used Psalm 22:1 on the cross.
@@ -381,9 +322,6 @@ book.”
 4. Compose a hymn, praising God.
 For Life
 Make use of the Psalter for your prayer.
-10
-11
-4
 Synoptic Gospels
 Sandali : Mother, Rebecca of our class has written a beautiful poem about
 Lord Jesus and it is in the Children’s corner of the Catholic
@@ -404,10 +342,8 @@ There are three synoptic Gospels. They are:
 2. The Gospel of St. Mark
 3. The Gospel of St. Luke
 St. Mark
-12
 St. Matthew
 St. Luke
-13
 These Gospels are called by that name, because there are many similarities among
 them. These three evangelists present information about Lord Jesus in a more or
 less similar manner.
@@ -418,9 +354,9 @@ I am well pleased.”
 (Matthew 3:17)
 And a voice came from heaven, “You are my Son, the Beloved; with you
 I am well pleased.”
-(Mark 1:11)
 And a voice came from heaven, “You are my Son, the Beloved; with you
 I am well pleased.”
+(Mark 1:11)
 (Luke 3:22)
 We lernt about the Gospel of St. Luke in grade eight. From this lesson, let's learn
 about another two Gospels, St. Matthews and St. Mark.
@@ -433,11 +369,8 @@ Purpose :
 Jesus is the New Moses and the
 New Messianic Teacher.
 Other Names: The Gospel of the Kingdom of
-God.
 The Gospel of the Church.
 Picture 4.1 - St. Matthew
-13
-12
 The Gospel of St. Mark
 Author :
 St. Mark.
@@ -459,12 +392,9 @@ Activity
 1. Name the synoptic Gospels.
 2. Write two other names, used to the Gospel of St. Matthew.
 3. Write the purpose of writing the Gospel of St. Mark.
-14
 For Life
 Let us witness to Lord Jesus Christ in
 the face of challenges.
-PB
-5
 The Gospel of St. John
 Author :
 St. John, the apostle.
@@ -487,8 +417,6 @@ be the children of light.
 3. “I am the gate for the sheep.” (John 10:7)
 We are the sheep of Lord Jesus, the shepherd. We have to enter the Eternal Life
 through Lord Jesus, the gate for the sheep.
-15
-PB
 4. “I am the good shepherd.” (John 10:11)
 The shepherd goes in front of the sheep and leads them. He does so in order to
 give the necessary protection and to lead in the necessary direction. As a good
@@ -504,8 +432,6 @@ One who knows the way, knows the truth and has life can show the way, tell the
 truth and gives life to others. Lord Jesus knows the way which leads to God. He
 is the truth. If we believe in Him, we can attain Eternal Life. By going on the way
 (the doctrine), showed by Him, we can witness to the truth.
-16
-17
 7. “I am the true vine.” (John 15:1)
 If the branches of the vine to bear fruit, they have to get water and nourishment
 from the vine. Lord Jesus is the true vine. If we are to bear fruit, we have to be
@@ -518,9 +444,6 @@ shepherd.”
 For Life
 Let us try to be the good sheep of the good
 shepherd.
-16
-17
-6
 Fall of Man to Sin
 Basuru is a good student in Grade 9, who loves God, the Father. He was being
 praised by all, because of his good qualities. They often advised others, saying:
@@ -545,8 +468,6 @@ shall die.
 This shows that He is a loving father and He gives us advice to lead a good life.
 He speaks to us especially through our conscience. Therefore, we should listen to
 the divine voice within us.
-18
-19
 Picture 6.1 - Falling of Adam and Eve into sin
 Man and woman lived in the Garden. They had enough food. They lived happily
 because they were in friendship with God. The serpent was cunning more than
@@ -563,8 +484,6 @@ This shows how Adam and Eve fell into sin. Even if we are not close to God, the
 Satan may tempt us as he tempted Adam and Eve. Especially we must listen to the
 conscience when we are tempted. We have to overcome temptations. We have to
 follow Lord Jesus, who overcame temptations.
-18
-19
 To the Serpent
 To Eve
 1. Curse
@@ -575,7 +494,6 @@ To Eve
 he will rule over her
 Punishments as
 consequences of
-sin
 (Genesis 3:14-19
 To Adam
 1. Cursing of the ground
@@ -588,8 +506,6 @@ taken; he was dust, and to dust he would
 return.
 God punished the first parents not out of anger but out of love. We have to
 understand that when we do a wrong, even our parents punish us out of love.
-20
-21
 Even though Adam and Eve were disobedient to God, God was merciful to them
 and gave a promise of salvation. God, who loved the fallen man unceasingly,
 promised to send a saviour to save man from sin. That promise is found in
@@ -609,8 +525,6 @@ for the man and for his wife, and clothed them.
 Making of garments of skin shows the love and protection of God. In the face of
 human weaknesses, God shows His mercy towards us. Therefore, we too should
 be merciful to others.
-20
-21
 Activity
 1. Write three guidelines that you give to your friend in the
 school, who has gone astray.
@@ -624,9 +538,6 @@ For Life
 ² Let us always listen to God’s voice.
 ² Let us overcome temptations.
 ² Let us share divine mercy with others.
-22
-PB
-7
 Cain and Abel
 Picture 7.1 - Cain’s and Abel’s Offerings
 Adam and Eve had two sons, namely Cain and Abel. Abel was a shepherd. Cain
@@ -644,8 +555,6 @@ When Cain learnt that God was pleased with his brother, Abel, he was jealous and
 furious. When God learnt that Cain was full of evil and going astray, He advised
 Cain and instructed to do away his evil intentions and become a good person. If
 he tried to be good, God promised that He too would help him.
-23
-PB
 When we do wrong, God advises us through various persons. Such persons are
 religious leaders, parents, teachers and elders. We must listen to those who guide
 us in the correct path.
@@ -663,10 +572,8 @@ God questioned Cain who fell into sin in spite of His advice:
 God : Where is your brother Abel?
 Cain :
 I do not know; am I my brother’s keeper?
-24
 God : What have you done? Listen; your brother’s blood is crying out to me
 from the ground!
-25
 These are the punishments and the consequences of sin that Cain received:
 1. He became a cursed person
 2. Dispelled from the ground
@@ -692,8 +599,6 @@ take a life of an offender. We cannot judge others. The sign, put on Cain, was a
 sign of protection, but not of a punishment. This shows that the sinner, who prays
 to God, will receive God’s mercy. We should keep away from sin, i.e. jealousy,
 envy, murder, etc. We must live with fraternal love.
-24
-25
 Activity
 1. Write three guidelines that you get from the story of Cain
 and Abel.
@@ -703,9 +608,6 @@ For Life
 ³ Do not be jealous of others.
 ³ Listen to those who guide us on the correct path.
 ³ Always live in fraternal love.
-26
-PB
-8
 Flood and the Covenant
 with Noah
 8.1 Picture - Noah’s Ark
@@ -723,8 +625,6 @@ an end of all flesh; for the earth is filled with violence
 through them; behold, I will destroy them with the
 earth.
 (Genesis 6:13)
-27
-PB
 The above quotation shows that the purpose of the flood is not to destroy man, but
 to destroy the sin, spread on earth by man.
 Murder
@@ -738,17 +638,13 @@ Child Abuse
 Vengeance
 Revenge
 Unsuitable Affairs
-War
 Drugs
 Sinful
-acts
 in the
 present society
 The above diagram shows the sinful acts in the present society. All these have a
 destructive repercussion on the whole of the creation. Think, what can be done to
 eliminate these sinful acts. We have to shun away from sinful acts.
-28
-29
 8.2 Picture - Noah with his sons
 But Noah found favor in the eyes of the LORD.
 … Noah was a righteous man, blameless in his
@@ -762,8 +658,6 @@ the representatives of the animals shows His mercy. Thus, Noah is selected as a
 beginner of a new creation. He was chosen because of his goodness.
 Just as Noah, we must live as righteous people. We must be sincere. Just as Noah,
 we have to live a righteous life. Then we will be at the disposal of God’s mercy.
-29
-28
 8.3 Picture - Flood
 In the six hundredth year of Noah’s life, in the second
 month, on the seventeenth day of the month, on that
@@ -782,8 +676,6 @@ ground because of man, for the imagination of man’s
 heart is evil from his youth; neither will I ever again
 destroy every living creature as I have done.
 (Genesis 8:21)
-30
-31
 God decided not to destroy the whole world once again by flood and gave a
 promise. It is evident from the Bible quotation, below. The mercy of God is also
 evident. It is an affirmation that divine protection and providence will be available
@@ -800,10 +692,8 @@ that is with you, for all future generations: I set my
 bow in the cloud, and it shall be a sign of the covenant
 between me and the earth.
 (Genesis 9:12-13)
-30
 God made a covenant with the whole creation. Sign of affirming the covenant
 was the “rainbow” (bow). It was a unilateral covenant.
-31
 Rainbow is a sign of the end of flood. So it is a sign of divine providence. In the
 Old Testament, rainbow was a sign of divine sympathy, mercy and love. God
 rebuilds the relationship with man by the promise of not destroying the world
@@ -833,9 +723,6 @@ For Life
 ³ Refuse sin.
 ³ Fulfil the promises, given to others.
 ³ Be honest.
-32
-PB
-9
 The Judges
 After the redemption from slavery in Egypt, Israelites came to the Promised Land.
 After they settled there, they had to face many difficulties and oppression, brought
@@ -860,11 +747,9 @@ their ancestors, following other gods, worshipping them
 and bowing down to them. They would not drop any of
 their practices or their stubborn ways.
 (Judges 2:18-19)
-PB
 Thus it is clear that they were appointed not only to protect Israelites but also to be
 with Israelites and to work for their salvation. There are twelve such war heroes
 in the Holy Bible. They are:
-33
 1. Othniel
 2. Ehud
 3. Shamgar
@@ -880,7 +765,6 @@ in the Holy Bible. They are:
 Deborah, the heroine
 She was an intelligent woman. During
 time, a Canaanite king harassed
-her
 the Israelites. Therefore,
 the Israelites
 prayed to God. According to the advice
@@ -901,9 +785,7 @@ their sins. Since they prayed to God for
 deliverance, Gideon was called.
 9.1 Picture - Deborah, the heroine
 Gideon, the Hero
-34
 9.2 Picture - Gideon, the Hero
-35
 The angel of the LORD appeared to him and said to him,
 “The LORD is with you, you mighty warrior.”
 Then the LORD turned to him and said, “Go in this might
@@ -917,8 +799,6 @@ went to the Midian camp, and broke the jars, holding in their left hands the
 torches, and in their right hands the trumpets to blow. The God set every man’s
 sword against his fellow and all killed each other.
 Samuel, the Judge
-34
-35
 9.3 Picture - Samuel, the Judge
 Samuel judged Israel all the days of his life. He
 went on a circuit year by year to Bethel, Gilgal, and
@@ -934,8 +814,6 @@ Samuel was
 ³ the one who consecrated Saul and David as kings
 9.4 Picture - Samuel consecrates Saul
 9.5 Picture - Samuel consecrates David
-36
-37
 The heroes give the following examples to our lives:
 ³ Work for the betterment of others
 ³ Help when others are in need
@@ -947,9 +825,6 @@ Activity
 3. Write three things that you can do for the betterment of others.
 For Life
 Work for the betterment of others
-36
-37
-10
 The Kings
 When Israelites had to face various challenges, they felt that they had to organize
 themselves under a powerful king. They also felt that there was a need of a leader,
@@ -973,8 +848,6 @@ Now then, listen to their voice; only you shall solemnly
 warn them, and show them the ways of the king who
 shall reign over them.”
 (1 Samuel 8:4-9)
-38
-39
 King Saul
 The first king of Israel was Saul. He was the
 son of Kish of the tribe of Benjamin. He had
@@ -1001,8 +874,6 @@ great army.
 As the first king, he defeated the enemies of Israelites. He pioneered in building a
 powerful kingdom by uniting the Israelites. Having fought with Philistines, Soul
 lost his life.
-39
-38
 King David
 Since Saul disobeyed God, God ordered Samuel
 to appoint a new king. As guided by God, Samuel
@@ -1026,8 +897,6 @@ of the Philistines was Goliath, a giant. He challenged that one of the Israelite
 should fight with him. Only David accepted the challenge. In the name of God,
 he came forward to fight against this giant. He took only his staff and five smooth
 stones.
-40
-41
 David said to the Philistine, “You come to me with sword and
 spear and javelin; but I come to you in the name of the LORD
 of hosts, the God of the armies of Israel, whom you have defied.
@@ -1053,8 +922,6 @@ David said to Nathan, “I have sinned against the
 LORD.” Nathan said to David, “Now the LORD has
 put away your sin; you shall not die.
 (2 Samuel 12:13)
-40
-41
 David accepted his sin immediately, and said: “I have sinned against the LORD.”
 This shows that he understood his sin and had contrition for his sins. He was
 humble enough to ask pardon for his sin. Having a contrite heart, he composed
@@ -1070,10 +937,7 @@ my ordinances, and keep all my commandments by walking in them,
 then I will establish my promise with you, which I made to your
 father David. I will dwell among the children of Israel, and will not
 forsake my people Israel.” So Solomon built the house, and finished
-it.
 (1 Kings 6:11-14)
-42
-43
 Jerusalem Temple was magnificent. It took seven years to build. After it was over,
 the king consecrated it solemnly.
 Kings, Saul, David and Solomon united Israel. They ruled the country as its lead-
@@ -1087,9 +951,6 @@ Activity
 David.
 For Life
 ³ Be exemplary leaders.
-42
-43
-11
 Righteous Life
 11.1 Picture - Well rooted fruitful tree
 Just like a tree which is well rooted to the ground, we too should be well rooted to
@@ -1104,9 +965,7 @@ Original Sin
 Original sin is the guilt we inherit from our
 first parents.
 (Catholic Family Catechism 217)
-44
 Original sin is remitted by the Sacrament of Baptism.
-45
 Actual Sin
 Actual sin is disobeying God’s command by
 thought, word, action or omission, with full knowl-
@@ -1138,8 +997,6 @@ mortal sins
 3. Deprives the soul of sanctifying
 on earth or in purgatory
 grace
-45
-44
 One must avoid even venial sins. If one ignores fever, it may cause pneumonia
 and he may die. In the same way, if we take venial sins for granted, we may end
 up in a mortal sin, and as a result, our spiritual life may die. Sins are a result of
@@ -1154,7 +1011,6 @@ and ambition)
 1. Humility (not boasting of one’s
 capabilities and being humble)
 2. Avarice (excessive craving
-and
 goods
 for worldly
 money)
@@ -1169,7 +1025,6 @@ passion of dis ple asure )
 others)
 5. Gluttony
 (intemperance
-in
 5. Temperance (getting rid of greed)
 eating or drinking)
 6. Envy
@@ -1186,12 +1041,10 @@ neglect of duty)
 e a g e r l y
 w h a t h a s t o b e d o n e )
 The Four Sins that cry to heaven for vengeance
-46
 1. Wilful murder (including abortion)
 2. Sodomy
 3. Oppression of the poor
 4. Defrauding labourers of their wages
-47
 The Six Sins against the Holy Spirit
 1. Presumption of God’s mercy
 2. Despair of salvation
@@ -1210,10 +1063,7 @@ Because of Divine Grace
 ³ The person gets graces to get rid of cravings.
 There are two kinds of grace:
 Divine Grace
-46
-³ is
 Sanctifying grace
-that
 the gift of God
 sanctifies our souls making us
 children of God and entitling
@@ -1224,7 +1074,6 @@ Actual grace
 to us each time to avoid evil
 or to do good
 (Catholic Family Catechism129)
-47
 To receive divine grace, we have to live a holy life. To live a holy life, we must
 be free from sin. For that the following can be done:
 1. Prayer
@@ -1241,9 +1090,6 @@ For Life
 your sins like mist; return to me, for I have redeemed
 you.”
 (Isaiah 44:22)
-48
-PB
-12
 Conversion
 Parable of the Lost Son
 12.1 Picture - Lost Son, hugged by the Father
@@ -1262,8 +1108,6 @@ was put; and sandals were worn. Once again he was given the status of a prince.
 This parable illustrates the love and mercy of God. It also invites us to be aware
 of sinful states; have a conversion; come back to God; get forgiveness and
 experience the divine love, mercy and wellbeing.
-49
-PB
 The Parable of the Lost Coin
 What woman having ten silver coins, if she loses one of
 them, does not light a lamp, sweep the house, and search
@@ -1284,10 +1128,8 @@ not allow us to suffer by falling into sin and keeping
 away from divine love, but instead He comes in search
 of us.
 The Woman Caught in Adultery
-50
 12.2 Picture - Lord Jesus forgave the woman caught
 in adultery
-51
 Read: John 8:1-11
 According to the Law of Moses, one who commits adultery was to be stoned to
 death. Lord Jesus forgave even such a woman. Moreover, He said to her: “from
@@ -1318,8 +1160,6 @@ Evil always leads us to wrong path. There are so many ways that lead us to
 temptations. Even the modern technology tempts us. We have to overcome
 temptations and free others also from temptations. For that, we must pray to the
 Holy Spirit. Let us follow the example, set by St. Monica.
-51
-50
 Activity
 1. Write a hymn, used at the “Penitential Rite” of the Holy
 Mass, and memorize it.
@@ -1331,9 +1171,6 @@ For Life
 ³ Memorize: “Jesus said, ‘Father, forgive them; for
 they do not know what they are doing.’ ”
 (Luke 23:34)
-52
-PB
-13
 Sacrament of Reconciliation
 13.1 Picture - Receiving the Sacrament of Reconciliation
 Discipline yourselves, keep alert. Like a roaring lion your
@@ -1345,13 +1182,11 @@ while, the God of all grace, who has called you to his eternal
 glory in Christ, will himself restore, support, strengthen, and
 establish you. To him be the power forever and ever. Amen.
 (1 Peter 5:8-11)
-PB
 According to this Sacred Scripture passage, our enemy is the devil. Because of
 him, there is hardship. He can be overcome, if we live in firm faith. If we are to
 live in such a faith, we have to shun away from sin. For that, we have to receive
 the Sacrament of Confession, when we fall into sin. If not, we lose sanctifying
 grace. i.e. we will lose the right to enter the kingdom of God.
-53
 There are two kinds of punishments for our sins:
 1. Eternal Punishment
 2. Temporal Punishment
@@ -1380,8 +1215,6 @@ One should not be slow to ask pardon from God for the wrongs that he has
 done. One should be contrite for his sins and get rid of the sinfulness. Only then
 everyone can enter the Kingdom of Heaven. The above Biblical quotation shows
 that God has given time to repent for one’s sins.
-54
-55
 To get rid of Eternal Punishment
 The one who has committed a mortal sin has only one means to get rid of Eternal
 Punishment, i.e. the Confession (Sacrament of Reconciliation). Thus says the
@@ -1408,8 +1241,6 @@ If we commit a mortal sin, we should immediately
 makes an act of contrition and confess our sins
 to a priest at the earliest.
 (Catholic Family Catechism 248)
-54
-55
 Even though we have not committed a mortal sin, it is good to make confession
 now and then. Thereby we receive absolution for our sins and get the strength to
 keep away from sins.
@@ -1434,13 +1265,9 @@ by him.
 ³ When the priest says the prayer of absolution, say the “Act of Contrition”
 ³ The sign of the cross
 ³ “God bless you!”
-56
-57
 Do not delay
 punishments, given by the priest
 fulfilling
-in
-the
 Your duty towards others
 Having understood the necessity of confession and received it whenever necessary,
 we have to lead others also to receive the Sacrament. Make others realize the
@@ -1454,9 +1281,6 @@ For Life
 Let us go to confession occasionally for venial
 sins though we have not committed mortal sins.
 Let us direct others also to do the same.
-56
-57
-14
 Sacrament of the
 Anointing of the sick
 14.1 Picture - The Anointing of the Sick
@@ -1471,11 +1295,9 @@ The prayer of faith will save the sick, and the Lord
 will raise them up; and anyone who has committed
 sins will be forgiven.
 (James 5:14-15)
-58
 According to the teachings of the apostles, the anointing of the sick is done by the
 priests. With regard to the Anointing of the sick, “Catholic Family Catechism”
 says:
-59
 The Sacrament which confers spiritual strength and
 physical strength to a person who is seriously sick is
 the Sacrament of the Anointing of the Sick.
@@ -1497,8 +1319,6 @@ Each time a Christian falls seriously ill, he may
 receive the Anointing of the Sick, and also when,
 after he has received it, the illness worsens.
 (CCC1529)
-58
-59
 The Special Graces and Effects of the Sacrament of the Anointing
 of the Sick (CCC 1532)
 ¡ The uniting of the sick person to the passion of Christ, for his own good and
@@ -1527,8 +1347,6 @@ Anointing of the Sick grants many graces. As children of God, let us prepare the
 sick in advance to receive the Sacrament without waiting till the last moment.
 Let us recognize those in need of this Sacrament and make it known to the parish
 priest.
-60
-61
 Activity
 1. Name three graces of the Sacrament of the Anointing of the
 Sick.
@@ -1536,9 +1354,6 @@ Sick.
 3. Write a prayer that can be said when a sick person is visited.
 For Life
 Let us pray for the sick at the daily prayers.
-60
-61
-15
 The Rite of the Anointing
 of the Sick
 15.1 Picture - The Anointing of the Sick
@@ -1551,7 +1366,6 @@ priest sprinkles the sick person and those present with holy water, saying: “L
 this water call to mind our baptism into Christ, who by his death and resurrection
 has redeemed us.” Then he addresses those present in these or similar words:
 Priest :
-62
 My dear friends, we are gathered here in the name of our Lord
 Jesus Christ who is present among us. As the gospels relate, the
 sick came to him for healing; moreover, he loves us so much
@@ -1561,7 +1375,6 @@ them send for the priests of the Church, and let the priests pray
 over them, anointing them with oil in the name of the Lord; and
 the prayer of faith will save the sick persons, and the Lord will
 raise them up; and if they have committed any sins, their sins will
-63
 be forgiven them.” Let us therefore commend our sick brother/
 sister (Name of the person) to the grace and power of Christ, that
 he may save him/her and raise him/her up.
@@ -1597,8 +1410,6 @@ My brothers and sisters, in our prayer of faith let us appeal to
 God for our brother/sister (Name of the person).
 Come and strengthen him/her through this holy anointing: Lord,
 have mercy.
-63
-62
 Response :
 Lord, have mercy.
 Priest :
@@ -1636,11 +1447,9 @@ Praise to you, God the only-begotten Son. You humbled yourself
 to share in our humanity and you heal our infirmities,
 Response :
 Blessed be God who heals us in Christ.
-64
 Priest :
 Praise to you God, the Holy Spirit, the Consoler. Your unfailing
 power gives us strength in our bodily weakness.
-65
 Response :
 Blessed be God who heals us in Christ.
 Priest :
@@ -1674,11 +1483,9 @@ you are Lord for ever and ever.
 Response :
 Amen.
 Viaticum
-64
 After the Lord’s Prayer, the priest shows the Eucharistic Bread to those present,
 saying: “This is the Lamb of God, who takes away the sins of the world. Come to
 me all you that labour and are burdened and I will refresh you.” The people give
-65
 the respective response. The sick person and all who are to receive communion
 say do so.
 The priest says the concluding prayer.
@@ -1710,8 +1517,6 @@ the last day." The sacrament of Christ once dead and now risen, the
 Eucharist is here the sacrament of passing over from death to life,
 from this world to the Father.
 (CCC 1524)
-66
-67
 Thus, just as the sacraments of Baptism, Confirmation, and
 the Eucharist form a unity called "the sacraments of Christian
 initiation, " so too it can be said that Penance, the Anointing
@@ -1726,32 +1531,16 @@ For Life
 Having found out those in need of the Sacrament of
 the Anointing of the Sick, inform to the Parish
 Priest.
-66
-67
-16
 Protect One’s life
 Man is created to the image of God
-s
-i
-f e
 H u m a n L i
 s a c r e d
-i
-l
 O u r
-s
-i
-f e
 i n v a l u a b l e
 H u m a n
-f e
-i
-l
 R e s p e c t
 f e b e l o n g s
 t o G o d
-i
-l
 O u r
 Protect life from danger
 Protect Life
@@ -1765,8 +1554,6 @@ One, who is alive today,
 may die tomorrow.
 No one can prolong his life by his
 own effort.
-68
-69
 Human life is sacred because from its beginning it
 involves the creative action of God and it remains forever
 in a special relationship with the Creator, who is its sole
@@ -1778,7 +1565,6 @@ human being.
 “Our lives are Temples of the Holy Spirit.” Therefore, we must take care to live
 a life in keeping with its sacredness. We must live a life, pleasing to God and we
 must be careful about our health. It is because our life is a gift and it belongs to
-God.
 Since it belongs to God, we must pay a just attention to it.
 The use of drugs inflicts very grave damage on human
 health and life. Their use, except on strictly therapeutic
@@ -1792,8 +1578,6 @@ Because of liquor and smoke, one gets sick. Diseases, such as cancer is a result
 of them.
 Life is a gift of God
 Let us use our talents in the service of people.
-68
-69
 Suicide
 Everyone is responsible for his life before God who has given
 it to him. It is God who remains the sovereign Master of life.
@@ -1803,7 +1587,6 @@ not owners, of the life God has entrusted to us. It is not ours
 to dispose of.
 (CCC 2280)
 If one tries to commit suicide, it is an effort to grab a right of God. It is a mortal
-sin.
 The one who gave me life is
 God. My life depends on him.
 So let us pray to Him so that He
@@ -1815,8 +1598,6 @@ of sugar, salt or fat, he may get sicknesses, such as blood pressure, diabetics,
 attacks and he may die soon. We have to protect the precious life, given by God.
 We need exercise for our body. If we maintain our health, we can protect the life,
 given by God.
-70
-71
 Activity
 1. Write an article to a Catholic Newspaper on the topic,
 “Life is a precious gift of God.”
@@ -1824,9 +1605,6 @@ Activity
 For Life
 Respect and protect the precious life, given
 by God.
-70
-71
-17
 Protecting the Lives of
 Others
 Chorus:
@@ -1855,8 +1633,6 @@ the course of time Cain brought to the LORD an offering of the
 fruit of the ground, and Abel for his part brought of the firstlings
 of his flock, their fat portions. And the LORD had regard for
 Abel and his offering, but for Cain and his offering he had no
-72
-73
 regard. So Abel was a keeper of sheep, and Cain a tiller of
 the ground. In the course of time Cain brought to the LORD
 an offering of the fruit of the ground, and Abel for his part
@@ -1886,8 +1662,6 @@ shun away from revenge. Even Lord Jesus taught that we have to love all without
 taking revenge.
 If we live according to the hymn, found at the beginning of the lesson, we
 can respect the lives of others.
-72
-73
 Abortion
 Picture 17.1: A child in mother’s womb
 Picture 17.2 - A child at its birth
@@ -1896,8 +1670,6 @@ a mother gives birth to a child. Therefore, you have to be grateful to your moth
 and father. They have been looking after you since your conception to this moment.
 Life begins not at birth but at the conception. The following Holy Bible passages
 show that the life belong to God from the moment of conception:
-74
-75
 Before I formed you in the womb I knew you,
 and before you were born I consecrated you;
 (Jeremiah 1:5)
@@ -1910,7 +1682,6 @@ done by the one who aborts. In abortion, the child in mother’s womb is more
 innocent and helpless than Abel. It is a murder of a person who cannot protect
 himself. About this, thus says the Catechism of the Catholic Church:
 Abortion is gravely contrary to the moral
-law:
 (CCC 2271)
 Do Not Murder
 The Holy Church teaches that we should not only abort but also should not kill
@@ -1923,8 +1694,6 @@ rule, and to the holiness of the Creator. The law forbidding
 it is universally valid: it obliges each and everyone, always
 and everywhere.
 (CCC 2261)
-74
-75
 From the words, said to Cain, it is clear that not only the innocent, but also the
 offenders cannot be killed:
 Then the LORD said to him, “Not so! Whoever kills
@@ -1950,8 +1719,6 @@ As children of God, our behaviour should be great. As children of divine Father,
 must love our neighbours. Fraternal love is one of the characteristic of Christian
 life. Thereby, the lives of others are protected. Since all are created in the image
 and likeness of God, all of us are children of God.
-76
-77
 Activity
 1. Write three things that you can do to protect the lives of
 others.
@@ -1959,9 +1726,6 @@ others.
 For Life
 Since every life is a creation of God, let us commit
 ourselves to protect the lives of others.
-76
-77
-18
 Do Not Commit Adultery
 Picture 18.1 - The Sinful Woman
 The sacredness of the man, created in the image and likeness of God, rests on
@@ -1979,8 +1743,6 @@ Therefore, there should not be any illegal affairs before or after marriage.
 We should be holy in our word, deed and the way we look at others. We should
 avoid pornography, i.e. reading pornographic books, looking at pornographic
 pictures and films.
-78
-79
 I say to you that everyone who looks at a woman with
 lust has already committed adultery with her in his
 heart.
@@ -2005,8 +1767,6 @@ the Lord:
 The body is meant not for fornication but for the
 Lord.
 (1 Corinthians 6:13)
-78
-79
 Activity
 1. Write an article to a magazine on “Let us live a holy life and
 lead a pure life.”
@@ -2016,9 +1776,6 @@ avoid those sins.
 For Life
 Let us treat all in fraternal love. Respect and
 appreciate all.
-80
-PB
-19
 You shall not Covet
 Your Neighbour’s Wife
 Man is created with body and soul. There is a constant struggle between body and
@@ -2049,8 +1806,6 @@ King David sinned against this commandment by having an illegal affair with
 Bathsheba, the wife of Uriah. Since it displeased God, King David was punished.
 Herod Antipas committed the same sin by marrying his brother’s wife. St. John
 the Baptist showed his fault.
-81
-PB
 Let us respect others
 Let us protect the rights of others
 Be sensitive to others with good intention
@@ -2069,9 +1824,6 @@ Activity
 2. Write three suggestions to make the society pure.
 For Life
 Create in me a clean heart, O God.
-82
-PB
-20
 Exemplary Lives
 St. Maria Goretti
 She was born on the 16th of October 1890.
@@ -2098,8 +1850,6 @@ on the 6th of July.
 Just like St. Maria Goretti, we have to protect our character. We must pray that
 God may help us to protect our divine life and we may live faithfully to Him. Let
 us ask the mediation of St. Maria Goretti to live like her.
-PB
-83
 St. Agnes
 She had a deep faith in God and lived a
 chaste life from her childhood. On the day
@@ -2126,8 +1876,6 @@ Picture 20.2 - St. Agnes
 She was beheaded. She was faithful to Lord Jesus till her last moment. She
 was buried in the family tomb outside Rome. Today that tomb bears her name.
 The Church celebrates her feast on the 21st of January.
-84
-85
 St. Dominic Savio
 He was born on the 02nd of April 1842 in the village of Riva, northern Italy. His
 parents were Charles and Bridget Savio. He spent his early life at home. He was
@@ -2157,8 +1905,6 @@ Saint Dominic is the patron saint of choirboys, the falsely accused, and juvenil
 delinquents. His green scapular has helped many pregnant women to give birth
 to children without pain. The feast of St. Dominic Savio is celebrated on the
 10th of March.
-84
-85
 Activity
 1. Write an article to a newspaper on “Exemplary Lives.”
 2. Write three things that you can do to live a saintly life.
@@ -2166,10 +1912,6 @@ For Life
 Let us dedicate our
 betterment of others.
 lives for
-the
-86
-PB
-21
 What is Asked in Prayer
 will be given
 (Anthony is a good carpenter)
@@ -2200,11 +1942,9 @@ I want to make 500 desks and 500 chairs. I know that you are the
 best carpenter in Moratuwa. Can you do the work for me?
 Anthony :
 Why not? I’ll definitely do it for you as soon as possible.
-PB
 Sumanasiri : Very good, I will give you five hundred thousand rupees for the
 job. Here, take this two hundred thousand rupees as an advance.
 I will give the rest as the work progresses. What do you say?
-87
 Anthony :
 Sir, I’ll do it for you.
 (Sumanasiri gave the two hundred thousand rupees to Anthony
@@ -2236,8 +1976,6 @@ At the end of the offering on the Mount Carmel, the drought was over and it
 started to rain. God protects those who believe in Him. In addition to that, He
 helps them in their needs. Therefore, we also should pray with faith in times of
 difficulties.
-88
-89
 Rain as a Result of Prayers of St. Joseph Vaz
 Picture 21.1 - St. Joseph Vaz prayed in Kandy
 St. Joseph was a prisoner during the reign of King, Vimaladharmasooriya II.
@@ -2251,8 +1989,6 @@ of water fell on St. Joseph Vaz and the altar.
 If we pray fervently, miracles do happen. Therefore, we should pray daily in
 deep faith. By the experience we get through prayer, we can lead others also to
 pray in the same manner.
-88
-89
 Activity
 1. Write two guidelines that you get through the prayer of
 Prophet Elijah on the Mount Carmel.
@@ -2262,9 +1998,6 @@ through prayer.
 in faith.
 For Life
 Ask your needs in faith.
-90
-PB
-22
 Ask Good Things in Prayer
 We who become Catholics by Baptism inherit two lives, namely Worldly Life and
 Eternal Life. Although Worldly life is short, Eternal Life has no end. We have to
@@ -2290,8 +2023,6 @@ good and evil. In the same way, this
 stresses that we will have to pay if we
 go away from God. This teaches that if
 Picture 22.1 - King Solomon
-PB
-91
 one keeps away from sin, God will fulfill our necessities.
 Ask, and it will be given you; search, and you will find; knock,
 and the door will be opened for you. For everyone who asks
@@ -2317,16 +2048,12 @@ Solomon.
 3. Write in 50 words how you explain the need of prayer to your
 friend who says, “God does not give even good things even if we
 ask them in prayer.”
-92
 For Life
 Pray for only what is good.
-PB
-23
 The Canticles
 My soul doth magnify the Lord,
 And my spirit has rejoiced in God my Saviour
 For He who is mighty has done great things for
-me
 And holy is his name
 Chorus:
 My soul doth magnify the Lord
@@ -2350,8 +2077,6 @@ To the Spirit of God be all glory,
 For holy is his name!
 1. What is the background of this hymn?
 2. What does this hymn speak of?
-93
-PB
 There are three Canticles in the New Testament, sung by various people in praise
 of the graces they received from God.
 1. The Canticle of the Blessed Virgin Mary (Magnificat) (Luke
@@ -2380,10 +2105,8 @@ according to the promise he made to our ancestors,
 to Abraham and to his descendants forever.
 (Luke 1:46-55)
 2. The Canticle of Zachary (Luke 1:68-79)
-94
 Zachary was dumb till the birth of St. John the Baptist and once he got the
 ability to talk; he praised God in this manner:
-95
 Blessed be the Lord God of Israel,
 for he has looked favourably on his people and redeemed them.
 He has raised up a mighty saviour for us
@@ -2410,8 +2133,6 @@ to guide our feet into the way of peace.
 When the time came for the purification according to the Law of Moses, the
 parents of Lord Jesus brought him up to Jerusalem to present him to God.
 Then Simeon took him in his arms and praised God, saying:
-94
-95
 Master, now you are dismissing your servant in peace,
 according to your word;
 for my eyes have seen your salvation,
@@ -2428,9 +2149,6 @@ Activity
 praise God when we are happy.”
 For Life
 Praise God When you are happy.
-96
-PB
-24
 Types of Prayer
 24.1 Picture - Praying to God
 Prayer is a dialogue that carries the needs of the people to God and that helps man
@@ -2446,8 +2164,6 @@ their Master's silent prayer, Jesus teaches a vocal prayer, the Our
 Father. Vocal prayer is the form of prayer most readily accessible
 to groups.
 (CCC 2700-2704)
-PB
-97
 2. MEDITATION
 Meditation is above all a quest. In that quest, the mind seeks to understand two
 things:
@@ -2478,9 +2194,7 @@ Contemplation is a gaze of faith, fixed on Jesus. Contemplative prayer
 is hearing the Word of God. Contemplative prayer is a silent love.
 Contemplative prayer is a union with the prayer of Christ insofar as it
 makes us participate in his mystery.
-98
 (CCC 2709-2719)
-99
 These types of prayer are useful for us to grow in our Christian spiritual life. We
 should pay attention to that. We must take part in all the prayer services, organized
 in the parish.
@@ -2512,16 +2226,9 @@ life.
 For Life
 Participate in all the prayer services,
 conducted in your parish.
-99
-98
-25
 AsIPA
-A
-si
-a
 n Intergral Past o r a l
 p roach
-A p
 AsIPA stands for “Asian Integral Pastoral Approach.”
 History and Background
 In 1990 more than 400 Bishops of Asia gathered at Bandung in Indonesia for the
@@ -2531,11 +2238,9 @@ It aims to implement the vision of the new way of being Church, to train lay
 people to take leadership and carry out their mission in the Church and in the
 world. It also aims to make laity to read the Word of God in the Small Christian
 Communities and to act accordingly.
-100
 It also was revealed that this can be implemented in the parishes by establishing
 Small Christian Communities. Therefore, it is very essential to form Small
 Christian Communities, based on the Word of God.
-101
 Preparing the Place for AsIPA Meeting
 ² Select a place suitable for the AsIPA meeting
 ² Place a table in that place and cover the table with a white cloth
@@ -2546,7 +2251,6 @@ Seven Steps
 Step One: WE INVITE THE LORD
 The facilitator asks a few people in the group to invite Lord Jesus in a personal
 and friendly manner in short prayers.
-E.g.
 ² Lord Jesus, as you came to the house of Martha and Maria, come to
 our midst.
 ² Lord Jesus, as you came to the house of Zacchaeus, come to our
@@ -2562,8 +2266,6 @@ Step Three: WE PICK OUT WORDS AND MEDITATE ON THEM
 in between.
 Step Four: WE LET GOD SPEAK TO US IN SILENCE
 ² We keep silence for three minutes and allow God to speak to us.
-100
-101
 Step Five: WE SHARE WHAT WE HAVE HEARD IN OUR HEARTS
 ² Share the experience that you have in relation to the words or short phrases that
 you picked up.
@@ -2580,6 +2282,4 @@ Activity
 3. Why was AsIPA started?
 For Life
 Organize AsIPA meeting in your school.
-102
 ² All the Pictures were obtained from the internet.
-PB

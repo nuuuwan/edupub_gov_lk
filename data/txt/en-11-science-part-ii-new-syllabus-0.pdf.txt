@@ -1,24 +1,10 @@
 Contents
 9. Heat
-9.1
-9.2
-9.3
-9.4
-9.5
 Temperature
-Heat
 Change of state of matter
 Thermal expansion
 Heat transfer
 10. Power and Energy of Electric Appliances
-Page
-1
-1
-6
-12
-17
-21
-32
 10.1 Power output of an electric appliance
 10.2 Electric energy consumed by electric appliances
 10.3 Efficiency of electric appliances and conserving power
@@ -28,62 +14,29 @@ Page
 Introduction
 p – n Junction
 p-n Junction diode
-11.1
-11.2
-11.3
 11.4 Rectification of Alternating Currents
 11.5 Transistors
 12. Electrochemistry
 12.1 Electrochemical cells
 12.2 Electrolysis
 12.3 Corrosion of metals
-33
-34
-35
-36
-46
-50
-50
-53
-57
-57
-66
-79
-79
-86
-100
 13. Electromagnetism and Electromagnetic Induction 115
 13.1 Magnetism
 13.2 Magnetic effect of a current
 13.3 Electromagnetic induction
-115
-117
-131
-ix
 14. Hydrocarbons and Their Derivatives
-151
 14.1 Hydrocarbons
 14.2 Derivatives of ethene
 14.3 Polymers
 15. Biosphere
-151
-157
-158
-167
-167
 15.1 Organizational levels and interactions of biosphere
 15.2 Mechanisms involve in maintaining the equilibrium of ecosystems 172
 15.3 Different environmental pollutants and their effects 180
 15.4 The factors that affect the life style of human and problems created 196
-201
 15.5 Sustainable development and environmental management
-x
 Physics
-Heat
-Heat
 9.1 Temperature
 Physics
-09
 Daily weather report transmitted through television channels may be familiar to you.
 Do you remember hearing that the lowest temperature was reported from Nuwaraeliya
 while the highest temperature was reported from Trincomalee on a particular day?
@@ -102,12 +55,9 @@ the object.
 Temperature is measure of the mean kinetic energy possessed by the particles
 that form an object.
 For free distribution
-PB
-1
 For free distribution
 Physics
 9.1.1 Measuring temperature
-Heat
 By touching various objects we can get a rough idea about their temperature.
 However, since the temperature felt by touching is not so accurate and cannot be
 expressed as a numerical value, it is not a suitable method for measuring temperature.
@@ -131,11 +81,8 @@ length of the mercury column rises up by a clearly visible amount as the diamete
 the narrow tube containing mercury is very small. A glass – mercury thermometer
 is shown in Figure 9.4.
 For free distribution
-2
-3
 For free distribution
 Physics
-Heat
 Glass bulb with thin walls
 Mercury Glass body with capillary tube
 Figure 9.4 – A glass-mercury thermometer
@@ -170,12 +117,9 @@ melts into liquid water under the pressure of one atmosphere as the zero tempera
 (0 oC) and the temperature at which water vaporizes into steam under the same
 pressure as 100 oC.
 These two temperatures have been chosen for the Celsius scale as the temperature
-3
 For free distribution
 For free distribution
-2
 Physics
-Heat
 at which ice melts into water and the temperature at which water boils can be easily
 obtained and as these temperatures have fixed values apart from the variation with
 pressure.
@@ -209,29 +153,16 @@ of water is 373.15 K. These temperatures are approximately taken as 273 K and 37
 respectively.
 The international unit of measuring temperatures is the Kelvin (K).
 For free distribution
-4
-5
 For free distribution
 Physics
 For extra knowledge
-Heat
 ² Celsius scale was introduced by Anderse Celsius (1701 – 1744).
 ² Fahrenheit scale was introduced by Gabriel Fahrenheit (1686 – 1736).
 ² Kelvin scale was introduced by Lord Kelvin (1824 – 1907).
 ² Clinical thermometer was constructed by Clifford Olbert (1836 - 1925).
 9.1.3 Relationship between Celsius and Kelvin scales
 Celsius
--273
-0
 Kelvin
--100
-0
-100
-200
-173
-273
-373
-473
 Figure 9.7 - Celsius and Kelvin scales
 Since the difference between the Kelvin and Celsius scales lies only in the temperature
 chosen for their zero values, in order to convert a temperature measured in Celsius
@@ -246,7 +177,6 @@ into Kelvin?
 (iv) What has to be done in order to convert a temperature value given in Kelvin
 into a value in Celsius?
 Indicate the temperature 373 K in degrees Celsius.
-(v)
 Solution
 (i) 100 Celsius divisions = 100 Kelvin divisions
 1 Celsius division = 1 Kelvin division
@@ -257,12 +187,9 @@ Solution
 (v) 373 K = 373 - 273 oC
 = 100 oC
 For free distribution
-4
-5
 For free distribution
 Physics
 Exercise 9.1
-Heat
 (1) Convert the temperatures given in degrees Celsius below into Kelvin.
 (i) 10 oC
 (ii) 27 oC
@@ -286,8 +213,6 @@ Thermometer
 bunson burner
 lighted bunson
 burner
-(a)
-(b)
 Figure 9.8
 The temperature of the water in Figure 9.8(a) remains unchanged. The temperature
 of the water in Figure 9.8(b) can be seen to increase gradually.
@@ -298,17 +223,13 @@ has risen as a result of it. Here, heat has transferred to the water.
 Therefore, the energy transfers from one object to another as a result of the
 temperature difference existing between the two objects is known as the heat.
 For free distribution
-6
-7
 For free distribution
 Physics
 For extra knowledge
-Heat
 American national Benjemin Thompson (Count Ramford) (1753 – 1814)has
 first described heat as a form of energy. In 1798, he experimentally showed
 that heat is a form of energy and thereafter it was a scientist named James
 Joule, who experimentally investigated about heat in 1840.
-r
 9.2.1 Heat Transfer
 Let us investigate what happens when we put a heated piece of iron into a cold
 water vessel.
@@ -335,11 +256,8 @@ from the iron block or to the iron block from the water. This state is known as
 thermal equilibrium. Just as water flows from a higher level to a lower level, heat
 also flows from a body at a higher temperature to a body at a lower temperature.
 For free distribution
-6
-7
 For free distribution
 Physics
-Heat
 Therefore,
 ² Heat transfers from a body at a higher temperature to a body at a lower
 temperature.
@@ -372,11 +290,8 @@ You will understand from this activity that when the same amount of heat is supp
 to different quantities of the same substance or the same quantities of different
 substances, their temperatures rise in different amounts.
 For free distribution
-8
-9
 For free distribution
 Physics
-Heat
 Since the temperature rise in the three beakers of the above activity were not equal
 although the same amount of heat was supplied to all three beakers, we can conclude
 that the heat capacities of the substances in the three beakers are different.
@@ -408,16 +323,12 @@ Units of specific heat capacity is J kg-1 K-1 (Joules per kilogramme per Kelvin)
 J kg-1 oC-1 (Joules per kilogramme per degree Celsius).
 The specific heat capacity of a substance is indicated by the symbol c.
 For free distribution
-8
-9
 For free distribution
 Physics
-Heat
 Specific heat capacities of some substances are given in table 9.1.
 Table 9.1 - Specific heat capacities of some substances.
 Substance
 Water
-Ice
 Kerosene oil
 Coconut oil
 Alcohol
@@ -425,31 +336,14 @@ Rubber
 Aluminium
 Specific heat capacity
 J kg-1 K-1
-4200
-2100
-2140
-2200
-2500
-1700
-900
 ² Finding the Quantity of Heat
 Substance
 Concrete
-Iron
 Asbestos
 Copper
-Zinc
 Mercury
-Lead
 Specific heat capacity
 J kg-1 K-1
-3000
-460
-820
-400
-380
-140
-130
 When a substance absorbs or releases heat its temperature changes. In order to find
 the quantity of heat flow, the following relation can be established.
 If the specific heat capacity of a substance is c,
@@ -459,7 +353,6 @@ If the specific heat capacity of a substance is c,
 If the quantity of heat is Q,
 Quantity of heat (Q) = mass (m) × specific heat
 capacity (c)
-×
 temperature
 change (θ)
 Q = mcθ
@@ -476,14 +369,11 @@ Kelvin, without making any change in the value.
 Let us find the amount of heat required to increase the temperature of 6 kg of copper
 by 20 K. Specific heat capacity of copper is 400 J kg-1 K-1.
 For free distribution
-10
-11
 For free distribution
 Physics
 Heat required to increase the temperature of 1 kg of copper by 1 K = 400 J
 Heat required to increase the temperature of 6 kg of copper by 1 K = 6 × 400 J
 Heat required to increase the temperature of 6 kg of copper by 20 K = 6 × 400 × 20 J
-Heat
 = 48 000 J
 Example 1
 Find the amount of heat required to increase the temperature of 2 kg of water by
@@ -504,10 +394,8 @@ the final temperature? (Specific heat capacity of copper is 400 J kg-1 K-1).
 If the change of temperature is θ,
 Q = mcθ
 20 000 = 2 × 400 × θ
-θ =
 20 000
 2 × 400
-oC
 θ = 25 oC
 ∴ Final temperature of copper = 30 oC + 25 oC
 = 55 oC
@@ -518,11 +406,8 @@ water until it boils.
 (Specific heat capacity of water is 4200 J kg-1 K-1; specific heat capacity of copper
 is 400 J kg-1 K-1.)
 For free distribution
-10
-11
 For free distribution
 Physics
-Heat
 Since both the vessel and the water heats up in this case,
 Required total quantity of heat = heat absorbed by the vessel + heat absorbed by
 water
@@ -557,11 +442,8 @@ heating
 cooling
 For free distribution
 Figure 9.11
-12
-13
 For free distribution
 Physics
-Heat
 The conversion of the state of a substance from solid, liquid or gas into another
 state is known as a change of state. Condensation of a gas, melting of a solid,
 solidification of a liquid, boiling of a liquid are examples of changes of state.
@@ -578,30 +460,13 @@ have the same value.
 Melting points of some solids are given in table 9.2.
 Table 9.2 - Melting points of some solids (under the pressure of 1 atmosphere)
 Substance
-Ice
 Paraffin
 Naphthalene
 Sulphur
-Lead
 Melting point
-oC
-0
-54
-80
-114
-330
 Substance Melting point
-oC
-Zinc
 Aluminium
-Gold
 Tungsten
-Iron
-410
-660
-1063
-5385
-1535
 Boiling Point
 The temperature at which a liquid starts to boil (i.e. the temperature at which the
 liquid turns to vapour by forming bubbles inside the liquid) is known as its boiling
@@ -610,24 +475,14 @@ The temperature at which changes of states of matter occur depend on the pressur
 Normally, the boiling points and melting points of materials are specified as the
 temperatures at which boiling or melting occur under the pressure of 1 atmosphere.
 For free distribution
-12
-13
 For free distribution
 Physics
-Heat
 Boiling points of some solids are given in table 9.3.
 Table 9.3 - Boiling points of some solids (under the pressure of 1 atmosphere)
 Substance
 Boiling point (oC)
 Water Ethanol Mercury Zinc Copper
-2310
-357
-100
-907
-78
 Iron Oxygen
-2750
--183
 9.3.1 Latent Heat
 The change of state of a substance takes place as a result of supplying heat to the
 substance or removing heat from it. Atoms of substances that exist as solids at room
@@ -645,9 +500,7 @@ The heat absorbed by the system without changing its temperature while the chang
 of state is taking place is known as the latent heat.
 Consider an instance when heat is being supplied to a block of ice at a temperature
 slightly below 0 oC.
-0 oC
 latent heat
-0 oC
 solid ice
 liquid water
 Figure 9.12
@@ -658,11 +511,8 @@ the intermolecular attractive forces between the water molecules and the ice at
 completely melted into water, then the heat supplied will be spent on increasing the
 temperature of the water again.
 For free distribution
-14
-15
 For free distribution
 Physics
-Heat
 Conversion of a solid into a liquid is known as fusion and the heat absorbed in the
 conversion of ice at 0 oC into water at 0 oC is known as the latent heat of fusion.
 Any solid substance that undergoes fusion absorbs latent heat, not only ice. If the
@@ -686,24 +536,16 @@ vaporization.
 Any liquid that vaporizes absorbs latent heat while this vapor releases the same
 amount of latent heat upon condensation back into the liquid.
 ² Specific Latent Heat of Fusion
-0 oC
-0 oC
 3.36 × 105 J
-0 oC
 solid ice
-1 kg
 liquid water
-1 kg
 Figure 9.14
 The amount of latent heat that has to be supplied in order to convert 1 kg of ice at
 0 oC into liquid water at the same temperature is 3.36 × 105 J. This quantity of heat
 is known as the specific latent heat of fusion of ice.
-15
 For free distribution
 For free distribution
-14
 Physics
-Heat
 The amount of heat required to change the state of a unit mass of a solid substance
 at its melting point into the liquid state is known as the specific latent heat of
 fusion of the substance.
@@ -744,8 +586,6 @@ vaporization has a fairly large value, in the evaporation of water through the p
 of perspiration taking place from our skin, a large amount of heat is removed from
 our body.
 For free distribution
-16
-17
 For free distribution
 Physics
 9.4 Thermal Expansion
@@ -754,9 +594,6 @@ inside the other (A inside B) are found to be stuck together when you
 examine them after a few days. At such an instance the two glasses
 can be separated by pouring cold water into the inner glass and
 inserting the outer glass in a vessel containing warm water.
-Heat
-B
-A
 In this case it becomes possible to separate the two glasses because
 the glass inserted in warm water expands slightly while the glass into
 which cold water was poured contracts slightly.
@@ -776,24 +613,17 @@ ball just passes.
 ² Also observe that the iron ball passes through the ring again after being
 cooled.
 holder
-ring
 metal ball
-(a)
-(b)
 Before heating up the iron
 ball passes through the ring.
 After heating up the iron ball
 cannot pass through the ring.
 Figure 9.17 - Modelling expansion of solids
 For free distribution
-16
-17
 For free distribution
 Physics
-Heat
 It will be clear from this activity that solids expand when they are heated up and
 they contract upon being cooled.
-²
 Influences and Applications of Expansion of Solids
 ² When fitting iron rims to wooden cart wheels, the diameter of the iron rim is
 chosen to be slightly less than that of the wooden wheel. Then the iron rim
@@ -813,11 +643,8 @@ expand slightly.
 The reason for this is that the expansion of metals is larger than that of glass
 making the lid slightly larger than the bottle when they are heated up.
 For free distribution
-18
-19
 For free distribution
 Physics
-Heat
 ² In electrical appliances such as electric irons and rice cookers, bimetallic
 strips consisting of two different metals that have different expansions for a
 given temperature difference are used to regulate the temperature.
@@ -826,32 +653,23 @@ inequal expansions rigidly riveted together. One of its ends is rigidly fixed to
 of metal while the other end remains free. When the temperature of the bipolar strip
 is increased, one of the strips expands more than the other. Then the two strips bend
 as shown in figure 9.20(b).
-(a)
-(b)
 Figure 9.20 –The operation of a bi-metallic strip
 By connecting the bipolar strip to an electric circuit as shown in the figure 9.21,
 power can be disconnected from the circuit when the temperature is increased by
 supplying power to the heater.
 metal strip that expands
-less
 piece of metal
 metal strip that expands
-more
 heater
-(a)
 battery
 Figure 9.21 – Connecting a bimetallic strip to an electric circuit
-(b)
 Assignment 9.1
 Explore other instances where expansion of solids are utilized and record
 your data.
 For free distribution
-18
-19
 For free distribution
 Physics
 9.4.2 Expansion of Liquids
-Heat
 Let us engage in activity 9.4 to illustrate the expansion of liquids.
 Activity 9.4
 Apparatus required: A test tube, Colored water
@@ -861,18 +679,13 @@ to the test tube as shown in the figure 9.22(a).
 ² Insert the glass tube in a warm water vessel for a few minutes and examine it.
 ² When heating up, the test tube expands and the liquid level goes down to B
 and when the liquid expands, the liquid level rises upto C.
-A
 liquid level
-C
-A B
 water level drops slightly
 down to B and rises up to C
 back again
 colored water
 warm water
-(a)
 Figure 9.22 - Illustrating expansion of liquids
-(b)
 In this experiment, first the test tube expands when the temperature of the water
 increases. Then the liquid level drops down slightly. However when the liquid
 inside the test tubes heats up, the liquid also begins to expand. When the expansion
@@ -881,23 +694,15 @@ thermometers, thermal expansion of liquids is commonly used. In mercury and
 alcohol thermometers, the expansion of liquid volume is used for measuring
 temperature.
 For free distribution
-20
-21
 For free distribution
 Physics
 9.4.3 Expansion of Gases
 Let us engage in activity 9.5 to illustrate the expansion of gases.
 Activity 9.5
 Apparatus required: Ice, An empty plastic bottle, A balloon.
-Heat
 balloon
 Inflated balloon
-air
-ice
-air
 warm water
-(a)
-(b)
 Figure 9.23 - Illustration of expansion of gases
 ² Place an empty plastic bottle without a lid vertically in a vessel containing ice
 and water for a short while.
@@ -922,11 +727,8 @@ that heat has transferred along the spoon in the first case and upwards away fro
 the flame in the second. Heat passing from one place to another in this manner is
 known as heat transfer.
 For free distribution
-20
-21
 For free distribution
 Physics
-Heat
 metal spoon
 hot cup of tea
 Figure 9.24
@@ -958,11 +760,8 @@ as kinetic energy of freely moving electrons (free electrons) in addition to thi
 Conduction is the spreading of the kinetic energy of atoms and electrons throughout
 the substance due to collisions among these particles.
 For free distribution
-22
-23
 For free distribution
 Physics
-Heat
 Substances that conduct heat efficiently are known as good conductors and
 substances that do not conduct heat efficiently are known as insulators.
 good conductors – silver, copper, iron, mercury, aluminium
@@ -984,9 +783,6 @@ conduction by a very thick layer of fat (blubber) which surrounds their body.
 The Figure 9.27 illustrates how heat is conducted through a metal rod that is heated
 from one end.
 metal bar
-heat
-A
-B
 free electrons in motion
 Figure 9.27 – Metal rod heated at one end
 vibrating atoms
@@ -1000,13 +796,10 @@ of vibrations. This process continues through the atoms in the rod from A to B
 in succession, transferring thermal energy along the rod. Thermal energy is also
 transferred by the free electrons in random motion in the rod by receiving thermal
 energy from the flame.
-23
 For free distribution
 For free distribution
-22
 Physics
 9.5.2 Convection
-Heat
 The water is heated just under the purple crystal - the crystal colours
 the water as it dissolves. The heated water expands and becomes
 less dense than the colder surrounding water, so it floats up to the
@@ -1035,12 +828,9 @@ move upwards and the water particles that are not heated up move down as their
 density is higher. When heated up they too move upwards. This process takes place
 continually heating up the whole jug of water.
 For free distribution
-24
-25
 For free distribution
 Physics
 ² Formation of Sea breeze and Land breeze
-Heat
 Motion of cold air
 near the sea towards
 the landside
@@ -1058,9 +848,6 @@ and the air moves upwards.
 This reduces the pressure near the ground. Then an air mass flows from the sea to
 the land side. This is known as sea breeze.
 Figure 9.31 - Sea breeze
-Land
-Sea
-Land
 Motion of cold air near
 the land towards the
 seaside
@@ -1077,9 +864,7 @@ to a low pressure region
 just above the sea. Then wind blows from the land side towards the sea in order to
 equalize the pressure difference. This is known as land breeze.
 Figure 9.32 - Land breeze
-land
 warmer
-Sea
 Think……..
 How does a warm cup of tea cool down upon blowing on it?
 9'5'3 Thermal Radiation
@@ -1093,11 +878,8 @@ through space in the form of rays (waves)
 from the flame and reach our bodies.
 Figure 9.33
 For free distribution
-24
-25
 For free distribution
 Physics
-Heat
 The propagation of heat in the form of electromagnetic radiation from a warm
 body without the aid of matter is known as thermal radiation. For heat transfer
 by radiation, a material medium is not required. However, for heat transfer by
@@ -1131,16 +913,9 @@ The inner surfaces of thermos flasks are silvered to make them highly reflective
 These surfaces reflect heat radiated by the contents inside the bottle or heat radiation
 coming from outside.
 For free distribution
-26
-27
 For free distribution
 Physics
-Heat
 Summary
-²
-²
-²
-²
 Temperature is a measure of the mean kinetic energy of the atoms forming
 an object.
 The instrument that is used to measure temperature is the thermometer.
@@ -1149,8 +924,6 @@ Fahrenheit (oF) and Kelvin (K).
 The international unit of measuring temperature is the Kelvin.
 ² Heat is the energy transferred from one object to another object due to the
 temperature difference between them.
-²
-²
 If energy is absorbed by an object where no change of state occurs, then its
 temperature will definitely rise.
 If energy is released by an object where no change of state occurs, then its
@@ -1158,28 +931,19 @@ temperature will definitely drop.
 ² Heat capacity (C) of an object is the amount of heat required to increase its
 temperature by one temperature unit.
 ² Units of heat capacity are J K-1 or J oC-1.
-²
 Specific heat capacity (c) of an object is the amount of heat required (or
 released) to increase (or decrease) the temperature of a unit mass of the
 object by one temperature unit.
 ² Units for measuring the specific heat capacity are J kg-1 K-1 or J kg-1 oC-1.
 ² Heat capacity C = mc
 ² Quantity of heat Q = mcθ
-²
 Latent heat is the amount of heat absorbed or released in a change of state
 of a substance without changing its temperature.
-²
 Specific latent heat capacity of fusion is the heat required to convert a unit
 mass of a solid at its melting point into a liquid at the same temperature.
 For free distribution
-26
-27
 For free distribution
 Physics
-Heat
-²
-²
-²
 Specific latent heat capacity of vaporization is the heat required to
 convert a unit mass of a liquid at its boiling point into a vapor at the same
 temperature.
@@ -1188,7 +952,6 @@ The increase in length, area or volume taking place when an object is
 heated up is known as thermal expansion.
 ² Heat transfer is the flow of heat from a point at a higher temperature to a
 point at a lower temperature.
-²
 The three methods of heat transfer are conduction, convection and
 radiation.
 ² Conduction is the forward flow of heat through any material by heating
@@ -1211,34 +974,16 @@ heat while the …………………………………. changes.
 …………….., bodies with high specific heat capacities increase their
 temperature …………………..
 For free distribution
-28
-29
 For free distribution
 Physics
-Heat
 (2) Two cups of the same size and shape made out of two different materials are
 filled with equal amounts of hot tea and are allowed to cool down. Cooling
 curves plotted by measuring the temperatures of the two cups at definite time
 intervals are shown below.
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
 temperature (oC)
 cup A
 cup B
 room temperature
-5
-10
-15
-20
 time (min)
 (i) What is the temperature of the tea in cup A after five minutes?
 (ii) What is the time taken for the temperature of the tea in cup B to drop by
@@ -1249,7 +994,6 @@ time (min)
 (v) What is the reason for your answer above?
 (vi) What is the ultimate temperature of the tea in the two cups?
 (3) The figure below shows the cross-section of a thermos flask.
-lid
 vacuum
 silver colored inner wall
 hot water
@@ -1260,11 +1004,8 @@ Figure 9.34
 order to keep the water at this temperature, heat loss has to be prevented.
 What are the techniques used here for this purpose?
 For free distribution
-28
-29
 For free distribution
 Physics
-Heat
 (iii) Calculate the amount of heat loss occurring when 500 ml of water at
 100 oC cools down to the room temperature of 25 oC. (Specific heat
 capacity of water is 4200 J kg-1 K-1)
@@ -1278,13 +1019,6 @@ it when the temperature is gradually increased and temperature measurements
 were plotted against time, the following graph was obtained. Answer the
 questions given below using the graph.
 temperature (oC)
-70
-55
-25
-1
-2
-3
-4
 time (min)
 (i) What is the room temperature?
 (ii) What is the melting point of paraffin?
@@ -1294,11 +1028,8 @@ interval between 2 min to 3 min?
 (v) If supplying heat to paraffin was stopped at time 4 min, give a rough sketch
 to show the variation of the temperature of paraffin with time thereafter.
 For free distribution
-30
-31
 For free distribution
 Physics
-Heat
 Technical terms
 Temperature
 - WIaK;ajh - öÁ¨£{ø»
@@ -1326,15 +1057,12 @@ Evaporation
 Thermal Expansion
 - ;dm m%idrKh - öÁ¨£Â›Ä
 For free distribution
-30
-31
 For free distribution
 Physics
 Power and Energy of Electric Appliances
 Power and Energy of
 Electric Appliances
 Physics
-10
 We use electric energy to do various jobs in our daily lives conveniently. On all
 these occasions we convert electric energy into another form of energy to suit our
 requirements. This energy conversion takes place in various electric appliances.
@@ -1348,14 +1076,10 @@ Electric oven
 Light
 Light, sound
 sound
-Heat
 Microwave oven
 Induction cooker
 Electric heater
 Electric motor
-Heat
-Heat
-Heat
 kinetic energy
 Figure 10.1 - The main form of energy conversion in some electric appliances
 For extra knowledge
@@ -1365,8 +1089,6 @@ bulb, electric energy is initially converted into heat which increases the tempe
 of the filament resulting in the emission of light. In fluorescent lights electric energy
 is first converted into ultraviolet radiation which is next converted into visible light.
 For free distribution
-32
-33
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1375,9 +1097,7 @@ We know that power is the work done in a unit time.
 Just like in mechanical work, power is the rate of doing work in work done by
 electricity too. That is, power is the work done in a unit time or the energy
 consumed in a unit time.
-I
 Electrical Source
-V
 Electric appliance
 Energy
 Figure 10.2 - An electric appliance operating with a potential difference V and
@@ -1401,12 +1121,9 @@ An electric oven operates under a 230 V power supply. If it has a power output o
 P = VI
 ∴ 2000 = 230 × I
 ∴ I = 2000
-230
 = 8.69 A
 The current drawn by the oven is 8.69 A.
 For free distribution
-32
-33
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1432,15 +1149,12 @@ can also be used.
 Example 1
 The power of the head light of a motor car is 50 W. Find the energy consumed
 when this lamp is operated for 11
-2
 hours.
 E = Pt
 E = 50 × 1.5 × 60 × 60 J
 E = 270 000 J
 The amount of energy consumed is 270 000 J.
 For free distribution
-34
-35
 For free distribution
 Physics
 Example 2
@@ -1464,8 +1178,6 @@ Fluorescent tubes
 CFL bulbs
 LED lights
 Power
-60 W
-22 W
 11 ~ 13 W
 6 ~ 8 W
 Life time
@@ -1486,8 +1198,6 @@ food items. In addition to these, induction cookers with high efficiencies are n
 available in the market. In these devices, the variable magnetic field emitted by the
 cooker generates heat only at the bottom of the cooking utensil.
 For free distribution
-34
-35
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1521,8 +1231,6 @@ are lowered to voltages such as 33 kV or 11 kV and ultimately they are lowered
 down to 230 V before supplying to households. Electricity provided to houses is in
 the form of an alternating current with a frequency of 50 Hz.
 For free distribution
-36
-37
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1545,14 +1253,11 @@ circuit
 breaker
 electric meter
 consumer
-unit
 isolator
 RCCB MCB
 Figure 10.4
-37
 For free distribution
 For free distribution
-36
 Physics
 Power and Energy of Electric Appliances
 Figure 10.5 shows a diagram of a domestic electric circuit.
@@ -1560,38 +1265,17 @@ electric meter
 Overload
 circuit
 breaker
-L
-N
-N5
-N4
-N3
-N2
-N1
 RCCB (trip swich)
 Isolator
-N1
 Consumer
-unit
-MCB
 distribution
-box
-L1
 L4L3L2
-L5
-E
-E
 earth
-wire
-Bulb
 one way
 switches
-E
-L
-N
 socket
 Two way
 switches
-L1
 Figure 10.5 – Arrangement of a domestic electric circuit
 10.4.1 Components of a Domestic Electric Circuit
 ² Overload circuit breaker (or Service fuse)
@@ -1607,13 +1291,9 @@ Only the live wire is disconnected by the overload circuit breaker or the servic
 Figure 10.6(a) shows a overload circuit breaker and Figure 10.6(b) shows a service
 fuse.
 For free distribution
-38
-39
 For free distribution
 Physics
 Power and Energy of Electric Appliances
-(a)
-(b)
 Figure 10.6 - (a) Overload circuit breaker (b) Service fuse
 ² Electricity Meter
 Consumers are billed according to the amount of electricity they consume. The
@@ -1627,7 +1307,6 @@ board or electricity company) and any problem with
 these items should be solved by informing the service
 provider.
 Figure 10.7 - An electricity meter
-²
 Isolator (or Main Switch with Main Fuse)
 All items in the domestic circuit beyond the isolator belong to the consumer. After
 passing through the electric meter, the live wire passes through an isolator that
@@ -1640,22 +1319,14 @@ disconnecting both the live and the neutral wires. Such switches are known as du
 pole switches. Disconnecting the domestic circuit for any repair purpose can be
 done by turning off the isolator. Figure 10.8(a) shows the outward appearance of an
 isolator and Figure 10.8(b) shows the circuit diagram of a main switch.
-39
 For free distribution
 For free distribution
-38
 Physics
 Power and Energy of Electric Appliances
 Into the
 house
-N
-L
-30 A
-fuse
 dual-pole
 switch
-L
-N
 Into the
 house
 dual-pole
@@ -1670,25 +1341,11 @@ electric shocks. When there is a current leak to the metal caring of an applianc
 to the ground the circuit is automatically disconnect by the RCCB. The RCCB too
 is a dual pole switch. Outward appearance of a RCCB is shown in Figure 10.9(a)
 and circuit diagram of a RCCB is shown in Figure 10.9(b).
-N
-N
-L
-L
-R
-R
 Test button
-(a)
 Figure 10.9 – (a) Outward appearance of a RCCB (b) circuit diagram of a RCCB
-L
-L
-(b)
-N
-N
 In a normal switch the switch is on when the lever is turned down. But in this switch
 it become on when the lever arm is raised.
 For free distribution
-40
-41
 For free distribution
 Physics
 ² Distribution Box
@@ -1700,40 +1357,14 @@ circuits. The maximum current supplied to a lighting circuit is limited to 6 A. 
 circuits are connected to places such as the kitchen that have devices like electric
 heaters and electric ovens that consume a large amount of electricity. Plug circuits
 allow the consumption of current upto about 13 A.
-L1
-L2
-L3
-L4
-L5
 Bus Bars
-L
-N
-N5
-N4
-N3
-N2
-N1
-L1
 L2 L3
 L4 L5
-fuse
 Switch levers
-MCB
 from RCCB
 or trip switch
-L
-N
-N1
-N2
-(a)
 Figure 10.10 – (a) Circuit diagram of a distribution box with MCBs
 (b) Circuit diagram of a distribution box with fuses
-Bus
-Bars
-N4
-N5
-N3
-(b)
 ² Miniature circuit breakers (MCB) and fuses
 Miniature circuit breakers (MCB) supplying electricity are connected to each circuit
 inside the distribution box. When a current larger than the maximum current that
@@ -1746,8 +1377,6 @@ While bulbs and two 6 A plugs can be connected to a lighting circuit, only plugs
 be connected to plug circuits. Figure 10.11 shows the outward appearance of a fuse
 mount and a miniature circuit breaker.
 For free distribution
-40
-41
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1776,8 +1405,6 @@ step down transformer that distributes electricity to the house. Then a potentia
 difference of 230 V is established between the other cable and the earth. Earthed
 cable maintains a zero potential (Earth is assumed to be at a zero potential).
 For free distribution
-42
-43
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1822,8 +1449,6 @@ by turning off the trip switch. For some of the modern
 Figure 10.14 – A plug
 socket with switch
 For free distribution
-42
-43
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1852,26 +1477,9 @@ Sometimes plug circuits are connected as ring circuits. Such a ring circuit is s
 in Figure 10.16. Cables with smaller diameters can be used in such circuits since
 each plug receives current through two wires.
 For free distribution
-44
-45
 For free distribution
 Physics
 Power and Energy of Electric Appliances
-N
-L
-E
-E
-N
-L
-E
-N
-L
-E
-N
-L
-E
-L
-N
 10.4.3 Protective Measures in Domestic Circuits
 Figure 10.16 – A loop circuit
 Basically there are two protective measures in domestic electric circuits. These are
@@ -1898,8 +1506,6 @@ plug socket should not be connected to the plug socket through a multi-plug.
 ² Only plugs suitable for a plug socket should be inserted into a plug socket.
 Wires should not be inserted into a plug socket.
 For free distribution
-44
-45
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1910,7 +1516,6 @@ refrigerator for safety.
 turning off the overload circuit breaker or the main switch.
 ² When electric appliances are not in use, their plugs should be disconnected
 from the socket.
-²
 If there are strong lightning strikes, radio receivers and television sets should
 be unplugged as much as possible. In such cases it is advisable to refrain from
 using any unessential electric devices. (RCCBs do not protect the domestic
@@ -1918,7 +1523,6 @@ circuit from thunder).
 ² Electric devices should not be used when the body is wet. Electric switches
 must not be turned on or off with wet hands.
 ² During a power failure, switches of electric appliances should not be turned on.
-²
 In case of a fire, the domestic power supply should be disconnected using the
 overload circuit breaker.
 ² All maintenance work and installing power extensions should be done by a
@@ -1939,8 +1543,6 @@ power is equal to one Watt second (W s) or one Joule (J).
 1 kW h = 3 600 000 J = 3.6 × 106 J
 This shows that 1 kW h has a large numerical value in Joules.
 For free distribution
-46
-47
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -1949,8 +1551,6 @@ used are known, the amount of electricity consumed by these devices can be easil
 calculated.
 Number of kW h =
 number of Watts
-1000
-×
 number of hours
 Example 1
 If four bulbs, each having a power of 100 W are used for 3 hours and 5 bulbs, each
@@ -1960,8 +1560,6 @@ Energy consumed by 4 bulbs of
 100 W power
 Energy consumed by 5 bulbs of 60 W
 power
-}
-}
 = 100 × 4 × 3 W h
 = 60 × 5 × 4 W h
 Total energy consumed by all bulbs in a month
@@ -1969,18 +1567,14 @@ Total energy consumed by all bulbs in a month
 Total energy consumed during a month
 = (1200 + 1200) ×30 W h
 Total electricity consumed during a month
-kW h
 = 2400 × 30
-1000
 = 72 kWh
 Therefore, a total of 72 kW h of electricity is consumed during a month.
 Summary
-²
 The power of an electric appliance is the amount of electric energy consumed
 by it in a unit time.
 ² When a current I passes through an electric device due to a potential
 difference V, its power P is given by P = VI
-²
 Electric energy E consumed by an electric device over a time period t is
 given by E = VIt
 ² Domestic electricity meter measures electric energy in kilowatt hours (kW h).
@@ -1988,8 +1582,6 @@ given by E = VIt
 device that has a power of one kW.
 1 kW h = 3 600 000 J
 For free distribution
-46
-47
 For free distribution
 Physics
 Exercise 10.1
@@ -2028,8 +1620,6 @@ in one day.
 (b) If electricity is charged according to the above rates given in the question
 6 (c), what should be the monthly electricity bill.
 For free distribution
-48
-49
 For free distribution
 Physics
 Power and Energy of Electric Appliances
@@ -2046,12 +1636,9 @@ Hot plate
 Immersion heater
 Microwave oven
 Induction cooker
-Live
 Neutral
-Fuse
 Technical terms
 - laIu;dj
-- Á¾
 - ld¾hlaIu;dj - vÓß
 - ;dmk M,l
 - öÁ¨£z umk
@@ -2075,7 +1662,6 @@ Distribution box
 Miniature circuit breaker (MCB) - isÕs;s mßm: ì¢kh
 - ]Ö _ØÖøh¨£õß
 Plug socket
-Plug
 - flfjksh
 - fmakqj
 - Søu
@@ -2087,8 +1673,6 @@ Isolator
 & ¤µuõÚ BÎ²®
 ¤µuõÚ E¸Q²®
 For free distribution
-48
-49
 For free distribution
 Physics
 Electronics
@@ -2120,8 +1704,6 @@ electronic configuration having eight electrons in the outermost shell.
 However, these bonds are rather weak and can be broken from the thermal energy
 available even at room temperature, releasing electrons.
 For free distribution
-50
-51
 For free distribution
 Physics
 Electronics
@@ -2135,41 +1717,8 @@ positions with an electron deficiency are known as holes. Due to the positively
 charged protons in the nucleus, a hole gives rise to a positive charge that has not
 been neutralized (In a neutral atom, the number of protons in the nucleus is equal
 to the number of and electrons). Therefore a hole is equivalent to a positive charge.
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-free
 electrons
 holes
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
 Figure 11.2 - A silicon lattice at 0 K
 Figure 11.3 - A silicon lattice at temperature above 0 K
 In semiconductors, not only electrons contribute to the conduction of electricity.
@@ -2192,8 +1741,6 @@ number of carrier electrons present in a semiconductor is equal to the number
 of holes.
 ² Therefore the semiconductor lattice is electrically neutral.
 For free distribution
-50
-51
 For free distribution
 Physics
 Electronics
@@ -2217,22 +1764,6 @@ shell. A phosphorous atom makes the number of electrons in its outermost shell
 eight by acquiring four electrons from four nearby silicon atoms around it. In the
 process, one of the five electrons is left behind without taking part in forming a
 bond. This electron has the opportunity to move about freely in the lattice.
-si
-si
-si
-si
-si
-si
-P
-si
-si
-si
-si
-si
-si
-si
-si
-si
 Free electron
 generated by doping
 Figure 11.4 - A Si lattice doped by phosphorous
@@ -2241,8 +1772,6 @@ electron left behind increases the conductivity of the lattice. Since negatively
 charged electrons are introduced to the lattice as charge carriers, the semiconductor
 is known as a negative type or n-type semiconductor. Semiconductors whose
 For free distribution
-52
-53
 For free distribution
 Physics
 Electronics
@@ -2258,22 +1787,6 @@ as boron (B), the boron atom forms bonds with nearby silicon atoms. However,
 since there are only three electrons in the outermost shell of the boron atom, there
 is a deficiency of one electron in order to form four bonds. Figure 11.5 shows how
 the atoms and bonds are configured in this case.
-si
-si
-si
-si
-si
-si
-B
-si
-si
-si
-si
-si
-si
-si
-si
-si
 Hole generated by
 doping
 Figure 11.5 - A Si lattice doped by boron
@@ -2293,10 +1806,8 @@ with a group III element to form a p-type semiconductor and the other side with 
 group V element to form an n-type semiconductor, a p-n junction can be formed at
 the centre of the semiconductor. Such a junction shows an electrical behaviour that
 is different from normal conductors.
-53
 For free distribution
 For free distribution
-52
 Physics
 Holes
 p - type
@@ -2305,15 +1816,10 @@ Free electrons
 Electronics
 Physics
 Electronics
-(a)
 Diffusion
 Potential barrier
 p - region
--
-+
 n - region
-(b)
-}
 Depletion region
 Figure 11.6 – p – n junction
 As shown in Figure 11.6(a) as soon as the p–n junction is formed, the free electrons
@@ -2330,8 +1836,6 @@ potential barrier is represented in the above figure as a hypothetical battery.
 The magnitude of the potential barrier in a p-n junction formed by Si is about 0.7 V
 while that formed by Ge is about 0.3 V.
 For free distribution
-54
-55
 For free distribution
 Physics
 Electronics
@@ -2345,12 +1849,6 @@ demonstrate this.
 Activity 11.1
 Apparatus required : IN 4001 diode, A 2.5 V torch bulb, Two 1.5 V dry cell
 batteries, A switch, A circuit board, Connecting wires
-+
--
-3 V
--
-+
-3 V
 Forward bias
 Figure 11.7(a)
 Reverse bias
@@ -2374,27 +1872,21 @@ barrier across the junction. (For Si diodes this value should be greater than
 Let us consider what happens when a battery is connected to the junction with its
 negative terminal connected to the p-type semiconductor and its positive terminal
 connected to the n-type semiconductor.
-55
 For free distribution
 For free distribution
-54
 Physics
 Electronics
 Physics
 Electronics
 0.7 V Potential barrier
 p-type
--
-+
 n-type
 p-type
 n-type
 Holes
 electrons
-}
 Depletion region
 (a) Before biasing
-}
 Broadened Depletion region
 (b) After biasing
 Figure 11.8 – Reverse biased p-n junction
@@ -2406,33 +1898,16 @@ source. Since there is no charge flow, connecting the external potential in this
 manner is known as reverse bias. Figure 11.8(a) and (b) shows how the depletion
 layer behaves when it is reverse biased.
 ● Forward biased p-n junction
-p
--
 0.7 V Potential barrier
-+
-n
-p
-- +
 depletion layer narrows down
-n
-+
 (a) Before biased
 very small current flow
 (b) VB1 < 0'7 V
-VB1
-+
-p
 no depletion layer
-- +
-n
-+
-+
 a considerably large current flows VB2
 (c) After biased VB2 > 0'7 V
 Figure 11.9 – Forward biasing of a p-n junction
 For free distribution
-56
-57
 For free distribution
 Physics
 Electronics
@@ -2457,21 +1932,9 @@ shown in Figure 11.10(b). Terminal A is known as the anode and terminal K is kno
 as the cathode. Electricity is conducted through the junction only when the anode A is
 connected to the positive terminal of an external voltage supply and the direction of
 current through the junction is shown with an arrow head in Figure 11.10(c).
-p
-n
-(a)
-(b)
 Figure 11.10 – Junction diode
-+
-A
 anode
-I
-(c)
--
-K
 cathode
-A
-K
 white/ silver colored ring
 Figure 11.11 - General outward appearance
 of a junction diode
@@ -2488,8 +1951,6 @@ external appearance of a diode can vary widely.
 We know that an alternating current is a current that alternates or changes its
 direction of flow in a circuit. A direct current is a current that flows only in one
 For free distribution
-56
-57
 For free distribution
 Physics
 Electronics
@@ -2503,16 +1964,8 @@ direction can be used for converting an alternating current to a direct current.
 task of converting an alternating current into a direct current that flows only in one
 direction is known as “rectification”.
 Voltage or current
-+
-0
--
 (a) Alternating current
 Voltage or current
-time
-+
-0
--
-time
 (b) Direct current
 Figure 11.12 – Graphical representation of alternating and direct currents
 11.4.1 Half Wave Rectification
@@ -2520,18 +1973,9 @@ Figure 11.13 shows a circuit used for half wave rectification. The main power
 supply is used to obtain the alternating current.
 Step-down transformer
 230 V AC, 50 Hz
-X
-D
 3 V AC
 50 Hz
-Y
-L
 Current through R
-R
-I
-0
-M
-time
 Figure 11.13 – Half wave rectification
 First the voltage is lowered to a desired value using the step-down transformer. The
 lowered alternating potential difference is obtained from the X, Y terminals of the
@@ -2544,13 +1988,10 @@ connected in activity 11.1).
 Since the output always consists only of half a cycle of the current, this is known
 as half wave rectification.
 For free distribution
-58
-59
 For free distribution
 Physics
 Electronics
 For free distribution
-58
 Physics
 Exercise 11.1
 Electronics
@@ -2563,9 +2004,6 @@ Apparatus required : A bicycle dynamo or an alternating current generator
 available in the laboratory, Four 1N 4001 diodes, A centre
 zero galvanometer, A 100 Ω rheostat, Lead solder and a
 soldering iron, Connecting wires
-X
-Y
-~
 ² Solder the four diodes in the form
 of a bridge so that the anodes and
 cathodes are correctly connected.
@@ -2578,7 +2016,6 @@ power source to the terminals X
 and Y and rotate the generator
 slowly.
 100 Ω
-G
 Figure 11.14
 ² Observe the deflection of the galvanometer. If the deflection is too large adjust
 the rheostat to lower it.
@@ -2594,40 +2031,15 @@ is turned on when the current is flowing in one direction only. When point X is
 positive relative to point Y, diodes D2 and D4 are reverse biased while diodes D1 and
 D3 are forward biased. Then the current flowing through D1 passes through the bulb
 and reaches the negative terminal of the battery after passing through diode D3.
-59
 For free distribution
 Physics
 Electronics
 Physics
 Electronics
-X
-+
--
 4.5 V
-Y
-X
-Y
 4.5 V
--
-+
-D4
-D3
-D4
-D3
-D1
-D2
-D1
-D2
-(a)
 2.5 V
-B
 2.5 V
-B
-P
-Q
-P
-Q
-(b)
 Figure 11.15 - bridge circuit
 Now if the circuit is reconnected with the negative terminal of the battery connected
 to point X and the positive terminal connected to point Y as shown in Figure 11.15 (b),
@@ -2645,31 +2057,14 @@ If a 3V battery is used instead of the 4.5 V battery, the remaining voltage of
 Now if an alternating voltage is connected to the circuit in place of the battery, the
 current flows through the bulb in the same direction (from P to Q).
 For free distribution
-60
-61
 For free distribution
 Physics
 Electronics
 For free distribution
-60
 Physics
 voltage
-+
-+
-+
--
--
-X
-t
-Y
 Electronics
 voltage
-+
-+
-+-
-t
-P
-Q
 Figure 11.16 – Full wave rectification using a bridge circuit
 Figure 11.16 shows the direction of current flow through the diodes in the two
 half cycles, positive and negative of the input. Since both cycles of the alternating
@@ -2687,20 +2082,10 @@ Time variations of the voltage outputs from a battery, the half wave rectified o
 and the full wave rectified output from an alternating current are shown in Figure
 11.17. For the operation of most electronic devices, a constant voltage similar to
 that obtained from a battery or a constant direct current is more suitable.
-V
-0
-V
-V
-0
-time
-0
-time
-time
 From a battery
 From half wave rectification
 From full wave rectification
 Figure 11.17 – Difference between voltage outputs from a battery and rectification
-61
 For free distribution
 Physics
 Electronics
@@ -2714,23 +2099,9 @@ output without the capacitor is shown in (b). The figure (c) shows the output wi
 the capacitor.
 230 V AC,
 50 Hz
-D
-L
-R
-+
-C
-M
 (a) Half wave rectification circuit
 current/voltage
-+
 current/voltage
-+
-0
--
-t
-0
--
-t
 (b) Output before smoothing
 (c) Output after smoothing
 Figure 11.18 – Smoothing of a half wave rectified
@@ -2745,30 +2116,17 @@ shown in Figure 11.18(c).
 The output from full wave rectification too can be smoothed in the same manner.
 Figure 11.19 shows the circuit diagram and the time variation of the output voltage
 for such a rectification.
-+
-C
-R
 230 V AC
 (a) Circuit diagram of full wave rectification
 For free distribution
-62
-63
 For free distribution
 Physics
 Electronics
 Physics
 Electronics
 current/voltage
-+
-0
-t
 current/voltage
-+
-0
-t
--
 (b) Before smoothing (without capacitor)
--
 (c) After smoothingq (with capacitor)
 Figure 11.19 – Smoothing of a full wave rectification output
 Here the current is even smoother than in a half wave rectification. Capacitors with
@@ -2781,20 +2139,10 @@ appliance by supplying power from the positive and negative terminals incorrectl
 connected.
 current flows
 no current
-+
-(a)
-D
-+
--
 Electric
 device
-+
 Electric
 device
-D
-+
--
-(b)
 Figure 11.20 - Protecting a device from damage due to incorrectly connected terminals
 Figure 11.20(a) shows the circuit with a diode as a circuit protector and the battery
 connected correctly. Figure 11.20(b) shows the circuit with the battery connected
@@ -2802,8 +2150,6 @@ incorrectly. Since the diode is reverse biased in this case there is no current 
 through the device. Therefore no damage is caused to the device and it operates
 only if it is correctly connected to the battery.
 For free distribution
-62
-63
 For free distribution
 Physics
 Electronics
@@ -2826,17 +2172,10 @@ terminal near the cut is its cathode. There are also LED’s that emit red, yell
 green, blue colors as well as infrared (IR) and ultraviolet (UV) rays in the market.
 Figure 11.21
 Part which acts as the lens
-edge
-cut
-K A
-(c)
-cut
 cathode (K)
 ^shorter terminal&
-(a)
 anode (A)
 (longer terminal)
-(b)
 Figure 11.22 – (a) The symbol (b) Outward appearance of a light emitting diode
 (c) Base diagram cathode (-) is situated at the side with the cut
 In the early stages light emitting diodes were mostly used as indicators. At present,
@@ -2846,8 +2185,6 @@ for lighting up homes, streets and in the construction of torches. The very low
 power consumption, and the long life times of about 50,000 hours are the reasons
 for the wide usage of light emitting diodes.
 For free distribution
-64
-65
 For free distribution
 Physics
 Electronics
@@ -2858,22 +2195,16 @@ For extra knowledge
 required for some of them are given below. Current flowing through these is
 10 – 20 mA.
 Colour
-Red
 Orange
 yellow
 Green
-Blue
 Semiconductor material Minimum bias voltage
 Ga As
 Ga As P
 Al In Ga P
-Ga P
-Ga N
 1.8 V
-2 V
 1.8 V
 2.2 V
-5 V
 ● Only one colour is given by a LED. The cover is coloured to make it possible
 to identify its colour when it is not lighted.
 ● When the current passing through a light emitting diode is increased its
@@ -2892,8 +2223,6 @@ instead of batteries to generate electricity. Their cost at that time was very h
 Since they can now be produced at a low cost with the development of technology,
 solar panels are used to light up homes at present.
 For free distribution
-64
-65
 For free distribution
 Physics
 Electronics
@@ -2916,18 +2245,8 @@ constructed using two p-n junctions. Three semiconductor regions of type p and n
 are connected together to form a transistor. There are only two ways in which the
 three semiconductor regions can be connected in order to form two p-n junctions.
 Figure 11.24 shows these two ways. They are known as npn and pnp transistors
-p
-n
-p
-n
-p
-n
-(a)
-(b)
 Figure 11.24 – (a) structure of pnp transistor (b) structure of npn transistor
 For free distribution
-66
-67
 For free distribution
 Physics
 Electronics
@@ -2943,42 +2262,19 @@ In figures, the three first letters of the three words E, C and B are used to in
 respective terminals. Structure of a transistor direction of carries and the direction
 of current are shown in the figure 11.25(a). The standard symbols used to represent
 transistors are given in the figure 11.25(b)
-C
 collector
-C
 collector
-B
-Base
-p
-n
-p
 Direction of
 the current
-flow
 Carriers
 (Holes)
-B
-Base
-n
-p
-n
 Direction of
-the
 current
-flow
 Carriers
 ^electrons &
-E
 Emitter
-B
-C
-E
-E
 Emitter
 (a) Layout of semiconductors
-B
-C
-E
 pnp transistor
 npn transistor
 (b) Standard symbols
@@ -2987,8 +2283,6 @@ Figure 11.25 - Layout of semiconductors and symbols of transistors
 ♦ The arrow head indicates the direction of current flow from the emitter to
 the collector of the transistor.
 For free distribution
-66
-67
 For free distribution
 Physics
 Electronics
@@ -2996,14 +2290,12 @@ Physics
 Electronics
 For extra knowledge
 ² Carriers always flow from the emitter to the collector.
-²
 Since the carriers of a p-type semiconductor are holes (corresponding to a +
 charge) the current flow in a pnp transistor is from the emitter to the collector
 (arrow head towards the interior).
 Since the carriers of an n-type semiconductor are electrons, the current flow
 in an npn transistor is from the collector to the emitter (arrow head towards
 the exterior).
-²
 When using a transistor in a circuit, appropriate voltages must be provided to the
 terminals. This is known as biasing a transistor. The emitter – base junction
 should be forward biased while the base collector junction should be reverse biased
@@ -3017,7 +2309,6 @@ terminal while the C should be connected to the negative (–) terminal. B shoul
 be supplied a potential difference in the same direction as C but with a smaller
 magnitude. Then, the base (B) - collector (C) junction becomes reverse biased.
 For extra knowledge
-●
 In all the circuits we discuss in the ordinary level syllabus, we use only npn
 transistors.
 There are a large number of various types of transistors in the market and they are
@@ -3025,8 +2316,6 @@ constructed with various different outward appearances. In order to identify the
 transistors they are coded with numbers.
 Example – 2SC828 (C828), 2SD400 (D400), 2SC1061 (C1061), 2SD313 (D313)
 For free distribution
-68
-69
 For free distribution
 Physics
 Electronics
@@ -3036,36 +2325,14 @@ For extra knowledge
 There is no common or standard method of identifing the terminals of a transistor
 by viewing it externally. Some transistors used in the experiments of the ordinary
 level syllabus are shown below.
-C
-2 S
 8 2 8
-C
-B
-E
-E
-C
-B
 2SC828
-B
-C
-E
-B
 2SD313
 2SC1061
-2 S
-D
 4 0 0
 2SD400
-C
-E
-B
 (All these are silicon npn
 transistors).
-E
-C
-C
-B
-E
 As given in data books, when we turn the terminals towards ourselves and view the
 transistor, the terminals can be identified as shown above (two dimensional figure).
 11.5.1 Amplifying Process of a Transistor
@@ -3074,8 +2341,6 @@ Basically a transistor is used as a current amplifier. When a small (DC) current
 supplied as the input of a current amplifying transistor circuit, a large current can
 be obtained as the output of the amplifier.
 For free distribution
-68
-69
 For free distribution
 Physics
 Activity 11.3
@@ -3094,28 +2359,8 @@ to the circuit. Terminals of the volume
 controller (variable resistance) and the
 transistor are indicated in the circuit.
 1 2 3
-C
-E
-B
-VR
 Figure 11.27
-D400
-L2
-L1
-B
-C
-E
-2
-1
-VR
-3
-+
-3 V
-S1
 Figure 11.26
-S2
-+
-3 V
 Switch S1, the 3 V battery, the volume controller VR, and the bulb L1 are in the
 input circuit while the second 6 V battery, switch S2, and the bulb L2 are in the
 output circuit. The batteries should be correctly connected while the switches
@@ -3127,29 +2372,9 @@ observe the brightness of the bulbs and fill in the table.
 Bulb L1
 Bulb L2
 Lighting up Brightness Lighting up Brightness
-
-
-−
-less
-
-
-−
-−
-S1
-off
-on
-off
-on
-S2
-off
-off
-on
-on
 (In order to clarify how to record your observations in the table, the first and second
 columns have been filled with the expected observations). You may assume that the
 For free distribution
-70
-71
 For free distribution
 Physics
 Electronics
@@ -3187,21 +2412,11 @@ heard.
 frequency (AF) signal generator to the
 points A and B.
 ² Now you will hear an amplified output
-A
-B
 22 kΩ
-B
 0.1 μF
-LS
-C
-E
-+
-3 V
 of the sound generated by the audio frequency generator.
 Figure 11.28
 For free distribution
-70
-71
 For free distribution
 ² 0.1 μF capacitor has been connected to give only the alternating signal to the
 base. Base needs a forward biasing voltage of 0.7 V. This is supplied through
@@ -3218,23 +2433,10 @@ A circuit that can produce a “musical” audio frequency wave using an integra
 circuit is shown below. This circuit can be constructed on the circuit board to
 produce a signal for the audio frequency amplifier above.
 220 Ω
-+
-3 V
 M 6 6
-U
-1
-X
-2
-UM66
-3
-S
-Y
 1 - signal
 2 - positive supply
 3 - negative supply
-3
-2
-1
 The signal can be given to the amplifier by connecting the X, Y terminals to the
 points A and B of the amplifier circuit.
 11.5.2 Switching action of a transistor
@@ -3243,13 +2445,10 @@ that operates according to a certain sensation.
 In electronics, when digital circuits are constructed, the transistor is often used as
 a switch.
 For free distribution
-72
-73
 For free distribution
 Physics
 Electronics
 For free distribution
-72
 Physics
 Activity 11.5
 Electronics
@@ -3269,21 +2468,9 @@ switch S in the off position.
 and emitter of the transistor. (Its
 positive probe must be connected to
 the base.)
-2
 10 kΩ
-C
-E
-B
-+
-V
-1
 10 kΩ
-VR
-3
 Figure 11.29
-S
-+
-3 V
 ² Now open switch S. Observe the voltmeter reading and the lighting up and
 brightness of the bulb.
 ² Turn the volume controller gradually to the left so as to increase the resistance
@@ -3301,7 +2488,6 @@ the collector current begins to flow.
 ² Therefore, when the voltage difference between B-E terminals is less than
 0.7 V, the transistor acts as an open switch (off) and the voltage difference
 between the B-E terminals exceeds 0.7 V, it acts as a closed switch (on).
-73
 For free distribution
 Physics
 Electronics
@@ -3320,28 +2506,15 @@ connecting wires
 (from light) with your finger tip and
 adjust the resistance of the VR until
 the bulb lights up.
-2
-1
 10 kΩ
-VR
-3
 ² Remove your finger tip and allow light
-B
 to fall on the LDR.
-LDR
-+
-3 V
-C
-E
 D 400
-or
 D 313
 Then the light will go out (Adjust the VR until the bulb lights up upon reducing
 the amount of incident light).
 Figure 11.30
 For free distribution
-74
-75
 For free distribution
 Physics
 Electronics
@@ -3351,24 +2524,15 @@ For extra knowledge
 ● In the activity 11.6, the VR acts as a variable resistor and the LDR as a potential
 divider. (In the activity 11.5, 10 kΩ resistor and 10 kΩ variable resistor).
 ● The total potential drop across the two resistors is 3 V.
-+3 V
-VB
-I
-R1
-R2
-I
 from Ohm’s law
 V = IR
 3 = I (R1 + R2)
 ∴ I =
-3
 R1 + R2
 If the potential at B is VB, the potential difference across R2 is VB.
 V = 0
 VB = R2 I
 VB = R2
-×
-3
 R1 + R2
 ● By keeping R1 constant and varying R2, any potential from 0 to 3 V can be
 given to that point.
@@ -3381,18 +2545,13 @@ given to that point.
 = 3 × R2
 - 0.7 R2
 = 2.3 R2
-∴ R2
-=
 7000 = 3043 Ω
-2.3
 Therefore when R2 is 3043 Ω, the potential at B becomes 0.7 V.
 ● When the resistance of the LDR increases upto 3043 Ω by decreasing the
 light incident on it, the bulb dimly lights up and when the light is further
 decreased, the potential increases upto 0.7 V and the current Ic increases to a
 maximum (Switch opens).
 For free distribution
-74
-75
 For free distribution
 Physics
 Summary
@@ -3400,7 +2559,6 @@ Electronics
 Physics
 Electronics
 ● The charge carriers that conduct electricity in metallic conductors are the
-●
 negatively charged electrons.
 In semiconductors, both electrons and holes (corresponding to a positive
 charge) act as carriers that conduct electricity.
@@ -3435,8 +2593,6 @@ head).
 ● A transistor can be used as a simple current amplifier, signal (ac) amplifier
 and a switch.
 For free distribution
-76
-77
 For free distribution
 Physics
 Electronics
@@ -3468,24 +2624,11 @@ the direction of
 current drawing arrows
 near the LEDs.
 (iii) What will happen if the
-6 V
--
-+
-X
-Y
-D6
-D4
-D1
-D5
 Figure 11.31
-D2
-D3
 battery is connected to X and Y in the opposite direction?
 (iv) What would happen if a 3 V battery is used to supply current instead of a 6 V
 battery? Give reasons for the above.
 For free distribution
-76
-77
 For free distribution
 Physics
 Electronics
@@ -3519,7 +2662,6 @@ Light Emitting Diode
 Transistor
 Collector
 Emitter
-Base
 - g%dkaisiagrh & vµõß]ØÓº
 - ix.%dylh & ÷\P›¨£õß
 - úfudaplh & PõÂ
@@ -3533,15 +2675,12 @@ Reverse bias
 - fmr keUqrej & •ß•P÷PõhÀ
 - miq keUqrej & ¤ß•P ÷PõhÀ
 For free distribution
-78
-PB
 For free distribution
 Chemistry
 Electrochemistry
 Electrochemistry
 Chemistry
 Chemistry
-12
 12.1 Electrochemical cells
 In our everyday life, we frequently use equipment powered by domestic electricity
 as well as appliances operated by electrochemical cells or batteries. Toy cars,
@@ -3556,13 +2695,11 @@ Figure 12.1.1 - Equipment powered by electrochemical cells
 The electrochemical cells or batteries used in the examples given above are small
 in size. A battery used to start a car is large in size. Such a battery is a collection of
 several electrochemical cells.
-PB
 Figure 12.1.2 - Different types of cells and batteries
 In your former grades you have learnt about electrochemical cells. In those cells,
 the chemical energy stored in the chemicals they contain is converted to electrical
 energy. In this section, we study further the reactions occurring in electrochemical
 cells and the action of those cells.
-79
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -3579,7 +2716,6 @@ figure 12.1.3 Record your observations.
 zinc metal
 strip
 dilute sulphuric
-acid
 Figure 12.1.3
 Here, it can be observed that, gas bubbles are liberated near the zinc strip and the
 zinc strip dissolves gradually. Let us find the reasons for those observations.
@@ -3588,20 +2724,14 @@ metal. Electrons get accumulated on the zinc strip. This process can be shown as
 follows using chemical symbols.
 Zn (s)
 Zn2+(aq) + 2e
-1
 Sulphuric acid dissociates into hydrogen ions (H+) and sulphate ions (SO 2-)
 water. This can be illustrated as follows.
-4
-in
 H2SO4 (aq)
 2H+(aq) + SO4 2- (aq)
 The H+ ions in the solution are attracted towards the zinc strip to capture the
 electrons on it. Hydrogen ions, after receiving the electrons become hydrogen gas
 (H2). Using chemical symbols, this can be written as follows.
 2H+(aq) + 2e
-2
-H2
-(g)
 The reactions written as 1 and 2 above, depicting the conversion of one
 chemical species into another, either by removing or accepting electrons, are called
 'half reactions'. By adding two half reactions appropriately, the balanced ionic
@@ -3613,8 +2743,6 @@ H2(g) — 2
 1 + 2 Zn(s) + 2H+ (aq) + 2e
 Zn2+(aq) + 2e + H2 (g)
 For Free Distribution
-80
-81
 Chemistry
 Electrochemistry
 Chemistry
@@ -3628,10 +2756,7 @@ also added to the medium in addition to H+ ions. But sulphate ions do not underg
 any change during the reaction. So, we add SO2-
 4 to both sides.
 Zn(s) + 2H +(aq) + SO4
-2-
-(aq)
 Zn2+(aq) + SO4
-2-
 (aq) + H2 (g)
 H2SO4
 ZnSO4
@@ -3643,7 +2768,6 @@ and H+ ions during the above process occurs through an external conductor, we ca
 produce an electric current.
 Let us do the following activity to see whether this can be done.
 Activity 12.1.2
-A
 Materials required (-- A beaker, zinc and copper strips, dilute sulphuric acid,
 connecting wire, Ammeter.
 Method (-- ● Connect the
@@ -3653,11 +2777,9 @@ connecting wires as shown
 in the Figure 12.1.4. Then
 immerse the two metal strips
 the beaker containing
-in
 dilute sulphuric acid. Record
 your observations.
 dilute sulphuric
-acid
 copper strip
 zinc strip
 Figure 12.1.4
@@ -3666,8 +2788,6 @@ dissolved and gas bubbles are evolved at the copper strip.
 Let us explore the reasons for these observations.
 Here too, zinc atoms become zinc ions (Zn2+) leaving electrons on the metal.
 Therefore, the zinc strip dissolves.
-80
-81
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -3680,11 +2800,9 @@ electrons from it. Therefore, hydrogen gas bubbles are liberated at the copper s
 Reaction at the zinc strip
 Zn (s)
 Zn 2+ (aq)+ 2e
-1
 Reaction at the copper strip
 2H+(aq)+ 2e
 H2 (g)
-2
 In the above reaction it was confirmed that an electron current flows from zinc to
 copper in the external wire. A current of electrons means an electric current. In this,
 a chemical reaction has generated an electric current. A set up of this kind used to
@@ -3698,7 +2816,6 @@ Zn2+(aq)+ H2 (g)
 Let us further consider the reaction occurring at the zinc electrode in the above cell.
 Zn (s)
 Zn2+(aq)+ 2e
-1
 Loss of electrons from a given species (atoms, molecules or ions) is referred to as
 oxidation. Therefore, what is happening at the zinc strip is oxidation. If oxidation
 occurs at a certain electrode, that electrode is defined as the anode. Accordingly,
@@ -3709,14 +2826,11 @@ to the copper plate. Therefore, zinc electrode is the negative terminal of the c
 Next let us consider the reaction occurring at the copper strip.
 2H+(aq) + 2e
 H2(g)
-2
 The hydrogen ions (H+) gaining electrons turn into hydrogen gas molecules (H2).
 Gaining electrons by a given species (atoms, molecules, ions) is described as a
 reduction. Since gaining of electrons or a reduction occurs at the copper electrode,
 reaction 2 is the reduction half reaction.
 For Free Distribution
-82
-83
 Chemistry
 Electrochemistry
 Chemistry
@@ -3742,40 +2856,31 @@ placed lower in the activity series acts as the cathode.
 ² Oxidation occurs at the anode and reduction occurs at the cathode.
 ² Anode becomes the negative terminal of the cell while cathode becomes the
 positive terminal of the cell.
-Note
 In a cell, electrons flow
 from the negative terminal
 to the positive terminal.
 But, according
-the
 conventions in physics,
 the conventional current
 is marked as flowing from
 the positive terminal to
 the negative terminal.
-to
 anode
-(-)
 flow of electrons
 conventional
 current (I)
 Figure 12.1.5
 cathode
-(+)
 copper strip
 zinc strip
-82
-83
 For Free Distribution
 Electrochemistry
 Next, let us consider a cell constructed using iron and copper electrodes.
 Chemistry
 Chemistry
 anode
-(-)
 iron strip
 cathode
-(+)
 copper strip
 dilute sulphuric acid
 Figure 12.1.6
@@ -3783,7 +2888,6 @@ In the activity series, iron lies above copper. Therefore, what is subjected to
 oxidation and acts as the anode is the more reactive metal, iron.
 Fe (s)
 Fe2+(aq)+ 2e
-4
 Since iron atoms dissolve into the solution leaving electrons on the iron strip, it is
 negatively charged relative to copper. Thus, iron electrode is the negative terminal
 of the cell.
@@ -3791,7 +2895,6 @@ In this cell also, the following reduction half reaction occurs at the less reac
 copper metal. Therefore, copper electrode acts as the cathode of this cell.
 2H+ (aq) + 2e
 H2 (g)
-5
 Electrons flow to the copper electrode across the external wire. Therefore, copper
 electrode is the positive terminal of the cell.
 The overall ionic reaction of the cell can be obtained by adding the two half reactions
@@ -3801,17 +2904,13 @@ Fe2+(aq) + H2 (g)
 When a current is drawn from this cell it can be observed that the iron electrode
 dissolves and gas bubbles evolve at the copper electrode.
 For Free Distribution
-84
-85
 Chemistry
 Electrochemistry
 Chemistry
 Consider the following cell constructed using zinc and iron electrodes.
 anode
-(-)
 zinc strip
 cathode
-(+)
 iron strip
 dilute sulphuric acid
 Figure 12.1.7
@@ -3820,7 +2919,6 @@ more reactive metal, undergoes oxidation and acts as the anode.
 Reaction at the zinc electrode/anode
 Zn (s)
 Zn2+(aq) + 2e
-6
 Here too, as the zinc atoms dissolve into the solution leaving electrons on the zinc
 electrode, zinc becomes negatively charged relative to iron. For this reason, zinc
 electrode becomes the negative terminal of the cell.
@@ -3828,7 +2926,6 @@ Reaction at the iron electrode/cathode
 Because reduction occurs at iron, it acts as the cathode.
 2H+(aq) + 2e
 H2 (g)
-7
 Electrons flow towards the iron electrode along the connecting wire. Hence iron
 electrode is the positive terminal of the cell.
 The overall ionic reaction of the cell can be obtained by adding the reactions 6
@@ -3837,8 +2934,6 @@ Zn (s) + 2H+(aq)
 Zn2+(aq) + H2 (g)
 When this cell operates, we will be able to see that the zinc electrode dissolves and
 gas bubbles evolve at the iron electrode.
-84
-85
 For Free Distribution
 Electrochemistry
 12.2 Electrolysis
@@ -3864,9 +2959,6 @@ Carbon electrodes, two torch cells (1.5v), connecting wires, a ammeter, beakers,
 coconut oil, kerosene, distilled water, acidified water, salt solution, ethanol
 Method :-
 carbon electrode
-+
--
-A
 ammeter
 carbon electrode
 liquid/solution used
@@ -3878,29 +2970,22 @@ A deflection in the ammeter could be observed only when acidified water and the
 salt solution are used in the above set up. That means, those solutions conduct
 electricity.
 For Free Distribution
-86
-87
 Chemistry
 Electrochemistry
 Chemistry
 ² The liquids/solutions conducting electricity are referred to as electrolytes.
 Some examples for electrolytes are given below.
 Molten (fused) liquids of ionic compounds
-»
 Aqueous solutions of ionic compounds
 e.g. aqueous sodium chloride, aqueous copper sulphate
-»
 e.g. fused sodium chloride
-»
 e.g. aqueous hydrochloric acid, aqueous sulphuric acid
-»
 Solutions of bases
 e.g. aqueous sodium hydroxide
 ² The liquids/solutions that are not conducting electricity are non-electrolytes.
 Solutions of acids
 Some examples for non-electrolytes are:
 Pure water (distilled water)
-»
 » Organic liquids
 e.g. petrol, kerosene, paraffin, hexane
 e.g. petrol, kerosene, paraffin, hexane
@@ -3919,13 +3004,9 @@ hydroiodic acid (HI), hydrochloric acid (HCl) and sulphuric acid
 these conduct electricity.
 water
 H+(aq) + Cl- (aq)
-HCl
 H2SO4
 water
 2H+ (aq) + SO4 2-
-(aq)
-86
-87
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -3935,10 +3016,6 @@ following figure. A set up such as this is called an electrolytic cell. An elect
 cell comprises of a source of electricity, an electrolyte, two electrodes and connecting
 wires.
 source of electricity
-+
--
-A
-B
 carbon or platinum
 electrode
 connecting wire
@@ -3969,8 +3046,6 @@ If there are Cu2+ and H+ ions in the solution electrons are gained by
 the Cu2+ ions formed by copper which is placed below hydrogen in the
 activity series.
 For Free Distribution
-88
-89
 Chemistry
 Electrochemistry
 Chemistry
@@ -3994,12 +3069,6 @@ Ag+ (aq) + e takes place at the positive electrode.
 Based on the above conventions, let us predict the reactions taking place during the
 following electrolysis reactions.
 ² Electrolysis of fused sodium chloride using carbon electrodes
-+
--
-e
-(+)
-(-)
-e
 carbon
 carbon
 fused sodium chloride
@@ -4012,9 +3081,6 @@ by the negative electrode. At this electrode Na+ ions receive electrons and beco
 sodium atoms (Na).
 Na+ (l) + e
 Na (l)
-1
-88
-89
 For Free Distribution
 Electrochemistry
 Chemistry
@@ -4026,7 +3092,6 @@ Chloride ions (Cl-), the only negative ions present in the liquid, migrate towar
 positive electrode. At this electrode, Cl- ions get converted to chlorine molecules
 (Cl2) by removing electrons.
 2Cl- (l)
-2
 Cl2 (g) + 2e
 Since chloride ions are oxidized by losing electrons, this is the anodic reaction.
 Hence, positive electrode is the anode.
@@ -4035,7 +3100,6 @@ and 2 appropriately.
 1 × 2,
 2Na+ (l) + 2e
 2Na (l)
-3
 2 + 3
 2e + 2Na+ (l) + 2Cl- (l)
 2Na (l) + Cl2 (g) + 2e
@@ -4048,8 +3112,6 @@ detail. Later you will study this method in more detail.
 Now let us engage in the following activities to study the changes taking place
 during the electrolysis of aqueous solutions.
 For Free Distribution
-90
-91
 Chemistry
 Electrochemistry
 ² Electrolysis of aqueous sodium chloride
@@ -4060,26 +3122,14 @@ wires, a 9 V battery
 Method :- ● Connect the two carbon rods to the terminals of the battery using
 wires. Then immerse those two electrodes in the aqueous sodium
 chloride solution and observe. Record the observations.
-(+)
-(-)
 carbon
 carbon
 aqueous sodium chloride solution
 Figure 12.2.4
 Liberation of gas bubbles can be observed at the electrodes. In order to explain these
 observations, let us understand the reactions occurring in the above experiment.
-+
--
 anode (carbon)
-(+)
-Cl2
-(-)
-H2
 cathode (carbon)
-Na+
-H+
-Cl-
-OH-
 Figure 12.2.5
 aqueous sodium chloride solution
 The solution mainly contains Na+ and Cl- ions. In addition to these, there is a small
@@ -4089,8 +3139,6 @@ F o r y o u r m e m o r y fi l e
 Water is a molecule with covalent bonds. But even in pure water it has been
 found that a very small amount of water molecules dissociate into H+ and OH-
 ions. In pure water, H+ and OH- concentrations at 25 0C are 1.0 x 10-7 mol dm-3.
-90
-91
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -4101,7 +3149,6 @@ As hydrogen is below sodium in the activity series, it is the H+ ions that are r
 here.
 2H+ (aq) + 2e
 H2 (g)
-1
 As this is a reduction occurring with the gain of electrons, the negative electrode is
 the cathode.
 Therefore reaction 1 is the cathodic reaction. Hence gas bubbles of hydrogen
@@ -4111,7 +3158,6 @@ The positive terminal attract Cl- and OH- ions in the solution. Of them, Cl- ion
 a greater tendency to oxidize.
 2Cl- (aq)
 Cl2 (g) + 2e
-2
 As this is an oxidation (because it involves loss of electrons) reaction 2 is the
 anodic reaction.
 Hence chlorine gas bubbles (Cl2) evolve at the positive electrode.
@@ -4125,8 +3171,6 @@ ions H+ and Cl- are removed by the conversion into H2 and Cl2 molecules. Hence
 Na+ and OH- ions are left in the solution. Because of this you may understand that
 this reaction can be used to produce sodium hydroxide (NaOH).
 For Free Distribution
-92
-93
 Chemistry
 Electrochemistry
 ² Electrolysis of an aqueous copper sulphate solution
@@ -4137,12 +3181,8 @@ connecting wires, a 9V battery
 Method :- ● Connect the electrodes to the battery as follows. Then, dip the two
 electrodes in the copper sulphate solution and observe. Record
 your observations.
-+
--
 anode (carbon)
 cathode (carbon)
-(+)
-(-)
 aqueous copper sulphate solution
 Figure 12.2.6
 In this activity, it can be observed that gas bubbles evolve at the positive terminal
@@ -4150,28 +3190,14 @@ In this activity, it can be observed that gas bubbles evolve at the positive ter
 colour of the solution gradually diminishes.
 In order to understand these observations, let us consider the reactions involved
 in here.
-+
--
 anode (carbon)
 cathode (carbon)
-(+)
-(-)
-Cu2+
-H+
-SO
-2-
-4
-OH-
 aqueous copper sulphate solution
 Figure 12.2.7
 The solution mainly contains Cu2+ and SO
 ions formed by the ionization of copper
-4
 sulphate. In addition to these, a very small amount of H+ and OH- ions formed by the
 slight ionization of water molecules are also present.
-2-
-92
-93
 For Free Distribution
 Electrochemistry
 ² Reaction at the negative electrode
@@ -4182,27 +3208,21 @@ Both Cu2+ and H+ ions migrate towards the negative electrode. As copper lies bel
 hydrogen in the activity series, Cu2+ ions have a greater tendency to get reduced.
 Cu2+ (aq) + 2e
 Cu (s)
-1
 Hence, copper is deposited on the cathode. As this is a reduction, reaction 1 is the
 cathodic reaction. Thus, negative electrode is the cathode. As Cu2+ ions responsible
 for the blue colour of the solution are removed from the solution, the intensity of
 the blue colour of the solution decreases.
 ² Reaction at the positive electrode
 (anodic reaction)
-2-
-4
 and OH- ions in the solution are attracted towards the positive electrode. Of
-SO
 these, OH- ions have a greater tendency to be oxidized.
 4 OH- (aq)
 O2 (g) + 2H2O (l) + 4 e
-2
 Therefore, oxygen gas bubbles evolve at the anode.
 Reaction 2 is an oxidation, so it is the anodic reaction. Hence, positive electrode
 is the anode.
 F o r y o u r m e m o r y fi l e
 ² Since the amount of H+ ions in water is negligible, sometimes the reaction
-2OH-
 2H2O (l) + 2e
 is considered the more fitting cathodic reaction than
 2H+ (aq) + 2e
@@ -4213,8 +3233,6 @@ more appropriately used in place of 4OH- (aq)
 O2 (g) + 4H+ (aq) + 4e is
 O2 (g) + 2H2O (l) + 4e
 For Free Distribution
-94
-95
 Chemistry
 Electrochemistry
 ² Electrolysis of acidulated water
@@ -4239,24 +3257,15 @@ plastic cup
 carbon rod
 carbon rod
 anode
-(+)
 cathode
-(-)
-+
-9 V
 Electric source (battery)
 Figure 12.2.8
--
 Here, we will be able to see gases collecting in the test tubes. Also, we can observe
 that the volume of gas liberated by the cathode is greater than that liberated by the
 anode. Let us investigate into the reactions taking place in this set up.
 Acidulated water contains H+ and SO
 sulphuric acid and H+ and OH- given by the dissociation of water.
 ions provided by the ionization of dilute
-4
-2-
-94
-95
 For Free Distribution
 Electrochemistry
 ² Reaction at the negative electrode
@@ -4268,29 +3277,24 @@ charged H+ ions in the solution migrate towards the negative electrode and get
 reduced receiving electrons.
 2 H+ (aq) + 2e
 H2 (g)
-1
 As this is a reduction, this is the cathodic reaction.
 Hence hydrogen is liberated at the cathode.
 ² Reaction at the positive electrode
 (anodic reaction)
 The positive terminal attracts SO
 ions tend to undergo oxidation preferentially.
-2-
 4 and OH- ions in the solution. Of these, the OH-
 4OH- (aq)
 O2 (g) + 2H2O (g) + 4e
-2
 Because this is an oxidation, reaction 2 is the anodic reaction. Thus positive
 electrode is the anode.
 Oxygen gas bubbles are liberated at the anode.
 Electrolysis of water, on the whole can be represented by the following equation.
 2H2O (l)
 2H2 (g) + O2
-(g)
 Industrial applications of electrolysis
 Electrolysis process is frequently used in the manufacturing of various industrial
 products. Some examples are given below.
-(1)
 Extraction of metals
 Example :-
 (i) Extracting sodium metal by electrolysing fused sodium
@@ -4301,29 +3305,23 @@ Example :- When copper is produced from the copper ores, the copper
 obtained first is impure. It is purified by an electrolytic
 process.
 For Free Distribution
-96
-97
 Chemistry
 Electrochemistry
 Chemistry
-(3)
 Electroplating (coating an object with a metal)
 Example :-
 (i) Applying gold on silver jewellery
 (ii) Applying nickel or chromium on steel
 (4) Industrial production of sodium hydroxide (Diaphragm cell method)
-²
 Industrial production of sodium metal
 We have already studied the electrode reactions occurring when fused sodium
 chloride is electrolyzed using carbon electrodes. The following reaction occurs at
 the cathode, in this process.
 Na+ (l) + e
 Na (l)
-1
 The reaction occurring at the anode is as follows.
 2Cl- (l)
 Cl2 (g) + 2e
-2
 The overall reaction is:
 1 × 2 + 2 ;
 2Na+ (l) + 2Cl- (l)
@@ -4334,15 +3332,10 @@ Downs cell.
 raw materilas
 chlorine gas
 liquid sodium
-(-)
 graphite anode
-(-)
 circular steel cathode
 circular perforated steel diaphragm
-(+)
 Figure 12.2.9 Downs cell
-96
-97
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -4365,7 +3358,6 @@ Uses of sodium
 Uses of chlorine
 ² Chlorine is bubbled through water to destroy bacteria in potable water.
 ² Used to bleach (decolourise) paper, pulp, and cloth
-²
 Production of hydrochloric acid by reacting with hydrogen
 ² Used to produce plastics such as PVC
 ² Electroplating
@@ -4379,20 +3371,15 @@ electroplating.
 Generally the coating is a less reactive metal such as tin, copper, silver or chromium.
 The metal that is plated needs to have a certain special property which is absent
 For Free Distribution
-98
-99
 Chemistry
 Electrochemistry
 Chemistry
 for the surface that is plated. Resistance for rusting, attractive colour, chemical
 inertness and lustrous nature are some of such properties.
 When electroplating objects, it is important to know the following.
-²
 The object to be plated should be used as the cathode.
 ² A solution of a salt of the metal that is used for plating should be used as the
 electrolyte.
-²
-²
 The anode should be a plate/ rod made of the metal that is plated.
 In order to have a plating of high quality, the concentration of the electrolyte
 should be low. Then, the rate of the reaction decreases, so the plating is effected
@@ -4409,22 +3396,17 @@ solution of copper sulphate, a 9 V battery
 Method :- ● Connect the iron spoon and the copper plate to the cell by connecting
 wires and immerse them at once in the copper sulphate solution.
 ● Record the observations.
-+ -
 copper plate
 (anode)
 iron spoon (cathode)
 copper sulphate solution
 Figure 12.2.10
-98
-99
 For Free Distribution
 Electrochemistry
 ² Anodic (positive electrode) reaction
 Chemistry
 Chemistry
-2-
 4 and OH- ions in the solution migrate towards the anode. Of them OH- ions
-SO
 preferentially tend to undergo oxidation. Therefore, it can be anticipated that the
 reaction 4 OH- (aq)
 2H2O (l) + O2 (g) + 4e occurs at the anode. However,
@@ -4437,7 +3419,6 @@ That means, the anode dissolves gradually.
 The solution contains Cu2+ ions and a little amount of H+ ions produced by the
 dissociation of water. Of these, Cu2+ ion which is less in reactivity shows a greater
 tendency to be reduced. Therefore, the cathodic reaction is the following.
-+ 2e
 Cu2+ (aq)
 As a result, the cathode (iron spoon) gets coated with copper.
 Cu (s)
@@ -4459,8 +3440,6 @@ What kind of a process occurs when iron rusts ?
 Why do the equipment made up of iron rust more easily outdoors rather than when
 they are indoors? Do the following activity to investigate into this
 For Free Distribution
-100
-101
 Chemistry
 Electrochemistry
 Chemistry
@@ -4485,8 +3464,6 @@ tubes
 iron nail
 coconut oil layer
 boiled water
-A
-B
 Figure 12.3.1
 The nails in the above two tubes are in contact with water. But, as the water in the
 tube B is boiled, air dissolved in it has been removed. Because of the coconut
@@ -4496,8 +3473,6 @@ other factors are common to the two settings.
 It can be observed that the nail in tube A has rusted but the nail in tube B has not
 rusted. This confirms that air is essential for rusting.
 Next, let us investigate which components in air are essential for rusting.
-100
-101
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -4506,7 +3481,6 @@ Chemistry
 Activity 12.3.2
 Materials required :- Two boiling tubes, iron wool, a basin of water
 Method :-
-²
 In one of the boiling tubes, trap a lump of iron wool and keep it inverted in
 the basin of water as shown in the figure.
 ² Keep the other empty tube also inverted in the basin of water.
@@ -4522,8 +3496,6 @@ of air has been used for rusting. By composition, 1/5th of the volume of air is
 oxygen. Thus it can be concluded that it is the oxygen gas in air that is required for
 rusting. The gas required for rusting is oxygen.
 For Free Distribution
-102
-103
 Chemistry
 Electrochemistry
 ² Examining whether water is essential for rusting
@@ -4537,12 +3509,9 @@ figure.
 ² Fix one of the stoppers with nails to an empty boiling tube and the other to a
 boiling tube with anhydrous calcium chloride or silica gel
 ² Observe after a few days. Record your observations.
-iron
 nails
 boiling
 tubes
-A
-B
 Figure 12.3.3
 anhydrous calcium chloride
 anhydrous calcium chloride can absorb water vapour in air.
@@ -4557,8 +3526,6 @@ Iron atoms form positive ions by losing electrons. This means that they get
 oxidised. It can be represented by an equation as follows.
 Fe (s)
 Fe2+ (aq) + 2e
-102
-103
 For Free Distribution
 Electrochemistry
 Chemistry
@@ -4574,16 +3541,12 @@ Fe2+ (aq) + 2e
 4OH- (aq)
 Fe (s)
 2H2O (l) + O2 (g) + 4e
-1
-2
 The number of electrons lost by reactions 1 should be balanced by the number of
 electrons gained in reaction 2 .
 1 x 2 ; 2Fe (s)
 2Fe2+ (aq) + 4e
-3
 2 + 3 ; 2H2O (l) + O2 (g) + 2Fe (s)
 2Fe2+ (aq) 4OH- (aq)
-{
 2 Fe(OH)2
 Therefore, it is clear that what occurs in rusting also is an electrochemical pro-
 cess similar to what you studied in the sub-unit 2.6. It can be stated that reaction
@@ -4600,8 +3563,6 @@ Perhaps you would have observed that if a knife used to cut a lime was left un-
 washed for about a day, the part of the blade smeared with lime juice becomes
 rusty. Let us do the following activity to find out how acidity affects rusting.
 For Free Distribution
-104
-105
 Chemistry
 Electrochemistry
 ² Examining how acids affect rusting
@@ -4620,23 +3581,16 @@ Water mixed with
 lime juice
 Water mixed with
 dilute hydrochloric
-acid
-(A)
-(B)
 Figure 12.3.4
-(C)
 It can be observed that the nails in the tubes B and C have rusted more than the nail
 in tube A.
 From this, it can be inferred that acidity is a factor that accelerates rusting.
 Have you heard that the items made from iron used in houses in coastal areas rust
 faster compared to the iron objects used in other areas? In order to investigate into
 this, let us do the following activity.
-104
-105
 For Free Distribution
 Chemistry
 Electrochemistry
-²
 Investigating the effect of salt (sodium chloride) on rusting
 Chemistry
 Activity 12.3.5
@@ -4651,8 +3605,6 @@ Ordinary
 cold water
 Dilute sodium chloride
 solution
-A
-B
 Figure 12.3.5
 The nail in tube B rusts more than that in tube A. This indicates that
 sodium chloride has accelerated the rusting of iron. Sodium chloride is a salt.
@@ -4661,8 +3613,6 @@ Therefore, the iron objects used in those areas rust relatively faster.
 We learnt that acids accelerate rusting. Next, let us do the following activity to
 explore how bases affect rusting.
 For Free Distribution
-106
-107
 Chemistry
 Electrochemistry
 ² Examining how bases affect rusting
@@ -4675,8 +3625,6 @@ Method :-
 volumes of ordinary cold water to one tube and sodium hydroxide solution
 to the other tube.
 ² Allow to stand for about a day and observe.
-A
-B
 Ordinary
 cold water
 dilute sodium hydroxide
@@ -4697,8 +3645,6 @@ For this, following measures can be adopted.
 This prevents iron from coming into contact with oxygen and water (moisture)
 2) Coating iron with tin
 This too prevents impinging of oxygen and water (moisture) on iron.
-106
-107
 For Free Distribution
 Chemistry
 Electrochemistry
@@ -4715,14 +3661,7 @@ Method:-
 ² To approximately 250 cm3 of water add a small amount a few of so-
 dium chloride, phenolphthalein and potassium ferricyanide. Boil the
 solution and add about one tea spoonful of agar jelly to it and stir well.
-1
-agar
 medium
-2
-3
-4
-5
-Fe
 Fe/Mg
 Fe/Zn
 Fe/Cu
@@ -4734,7 +3673,6 @@ four nails. In each of the other four petri dishes, as shown in the figure.
 Then add the hot gel medium to all the five dishes so that the nail in each is
 fully covered. Allow to cool and observe after about one hour. Record the
 observations.
-³
 In the presence of OH- ions, phenolphthalein indicator turns pink.
 ³ Fe2+ ions indicate a blue colour with potassium ferricyanide.
 In the petri dishes 2 and 3 above pink colour is seen around the iron nails. That
@@ -4745,8 +3683,6 @@ reaction has occured at the iron nails.
 2H2O (l) + O2 (g) + 4e
 4OH- (aq)
 For Free Distribution
-108
-109
 Chemistry
 Electrochemistry
 Chemistry
@@ -4779,8 +3715,6 @@ Instances where cathode protection is used:
 sheets, GI pipes
 ² Welding blocks of magnesium and zinc to the hulls of the ships sailing in the
 sea (These blocks of magnesium and zinc should be replaced from time to time)
-108
-109
 For Free Distribution
 Electrochemistry
 Summary
@@ -4789,7 +3723,6 @@ Chemistry
 ² Electrochemical cells are used to convert chemical energy to electrical
 energy.
 ² A simple cell can be made by connecting two different metal rods by
-²
 conducting wires and immersing them in an acid solution.
 In a simple electrochemical cell, the more reactive metal acts as the anode
 and the less reactive metal acts as the cathode.
@@ -4801,7 +3734,6 @@ electrochemical cell.
 ² The conventional current is considered to flow from the positive terminal
 (cathode) to negative terminal (anode).
 ² Electrolysis causes chemical changes in matter by passing an electric current
-²
 through a solution or a liquid.
 In electrolysis, electricity is passed through the solution or a liquid by
 immersing two carbon or metal electrodes in it, to which an external electrical
@@ -4811,7 +3743,6 @@ To conduct electricity there should be mobile ions in the electrolyte.
 ² Since the positive terminal of the electrolytic cell acts as the anode, an
 oxidation half reaction occurs at the positive terminal.
 ² Manufacturing of useful substances from the products discharged at the
-²
 electrodes is an industrial application of electrolysis.
 Industrially, sodium metal is obtained by the electrolysis of fused sodium
 chloride. Hydrogen and chlorine gases obtained as by-products of this are
@@ -4826,8 +3757,6 @@ rusting.
 Fe (s)
 Fe2+ (aq) + 2e
 For Free Distribution
-110
-111
 Chemistry
 Electrochemistry
 Chemistry
@@ -4868,8 +3797,6 @@ Cu2+ (aq) + 2 e
 Fe (s)
 Fe2+ (aq) + 2 e
 H2 (g)
-110
-111
 For Free Distribution
 Electrochemistry
 Chemistry
@@ -4885,10 +3812,6 @@ Chemistry
 3. limewater
 4. grease
 5. In which of the following containers are the nails subjected to corrosion?
-A
-B
-C
-D
 Fe / Cu
 Fe / Zn
 Fe / Sn
@@ -4919,8 +3842,6 @@ electrodes
 3. solid sodium chloride
 4. aqueous sodium chloride
 For Free Distribution
-112
-113
 Chemistry
 Electrochemistry
 Chemistry
@@ -4954,8 +3875,6 @@ sulphuric acid
 iv. Name the electrode reactions corresponding to oxidation and reduction.
 v. Write the overall cell reaction.
 vi Write the changes that can be observed at the electrodes.
-112
-113
 For Free Distribution
 Electrochemistry
 Chemistry
@@ -5020,68 +3939,7 @@ f,day úLdokh
 u, ne`§u
 oaú f,day wdprKh
 lem lsÍfï wdrlaIK
-l%uh
 lef;daãh wdrlaIK l%uh
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 ªß£S¨¦
 ªß£Sö£õ¸Ò
 ªß£Põ¨ö£õ¸Ò
@@ -5113,14 +3971,11 @@ D¸÷»õPa \mh®
 v¯õP¨ £õxPõ¨¦ •øÓ
 P÷uõmk¨ £õxPõ¨¦ •øÓ
 For Free Distribution
-114
-PB
 Physics
 Electromagnetism and Electromagnetic Induction
 Electromagnetism and
 Electromagnetic Induction
 Physics
-13
 13.1 Magnetism
 Figure 13.1 shows the use of a large electromagnet to lift and remove scrap iron and
 steel. Since iron and steel pieces are attracted towards this strong electromagnet, it
@@ -5137,9 +3992,7 @@ and in various other scientific and technological instruments. Therefore, it is 
 to have a good knowledge about the behaviour, operation and applications of
 magnets.
 For free distribution
-PB
 Figure 13.2
-115
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5151,14 +4004,10 @@ paper
 match stick
 plastic
 button
-(a)
 drawing
-pins
-pins
 paper clips
 iron nails
 safety pins
-(b)
 Figure 13.3 (a) - Objects which are not attracted (b) - attracted by magnets
 Objects made of magnetic materials such as iron, steel, nickel are attracted by
 magnets. Objects made of materials such as plastic, wood, paper and rubber are not
@@ -5182,20 +4031,12 @@ piece of plastic, a piece of brass
 of its indicator by bringing close to it, a piece of glass,
 a piece of iron, a magnet, a piece of plastic and a piece
 of brass one at a time.
-N
 NW NE
-W
-E
-SW
-SE
-S
 You will observe that the indicator of the compass deflects
 Figure 13.4
 only when a magnet is brought close to it. From this we
 can conclude that the magnet gives rise to a magnetic field in its vicinity.
 For free distribution
-116
-117
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5209,10 +4050,6 @@ magnetic field can also vary from point to point. Therefore, a magnetic field is
 physical quantity with a magnitude and a direction.
 magnetic
 field
-N
-SS
-N
-S
 Figure 13.5 – Finding the direction of a magnetic field using a compass
 13.2 Magnetic Effect of a Current
 When an electric current flows through an electric
@@ -5225,8 +4062,6 @@ straight conductor carrying a current.
 Figure 13.6 - Hans
 Christine Oersted
 For free distribution
-116
-117
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5243,16 +4078,7 @@ hand sides.
 ● Stop the current flow by opening switch S and observe the
 compass needle. You will observe that the indicator returns
 to its original position.
-B
-A
-B
-A
-N
-S
 Figure 13.7
-S
-N
-S
 Figure 13.8
 ● Now place the compass horizontally above the wire AB and observe what
 happens when a current flows through AB. You will observe that the indicator
@@ -5261,16 +4087,10 @@ Now change the terminals of the battery and allow a current
 to flow in the opposite direction (BA). Place the compass
 below the wire AB. You will observe that the compass
 needle deflects towards the right hand side.
-●
-B
-S
-N
-S
 ● Now place the compass above the wire and allow the
 current to pass in the direction BA. You will be able to
 observe that the compass indicator deflects in the opposite
 direction.
-A
 Figure 13.9
 The indicator deflects only when it is subjected to the influence of a magnetic effect.
 That is, in the presence of a magnetic field. This activity would show you that a
@@ -5279,8 +4099,6 @@ It will be clear to you from the above activity that the direction of the magnet
 in the vicinity of a current carrying conductor depends on the direction of the current
 flow.
 For free distribution
-118
-119
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5300,8 +4118,6 @@ show the same behavior as corkscrews.
 of the resulting magnetic field is anti-clockwise.
 ^b& According to Figure 13.10 (b), when a current flows from B to A, the direction
 of the resulting magnetic field is clockwise.
-B
-B
 upward
 current
 direction of motion of
@@ -5317,16 +4133,9 @@ direction of the magnetic
 field.
 magnetic
 field
-A
-A
-(a)
-(b)
-(c)
 direction of magnetic flow
 Figure 13.10 – Magnetic field around a current carrying conductor
 For free distribution
-118
-119
 For free distribution
 • Right hand grip rule
 Right hand grip rule is another simple rule for finding the direction of the magnetic
@@ -5344,13 +4153,9 @@ Figure 13.11 – Finding the direction of magnetic field from the direction of c
 Figure 13.12 shows how the direction of the magnetic field due to a current carrying
 conductor is marked in a diagram.
 right hand
-.
 direction of the magnetic field is
 out of the page
 electric current
-A
-B
-×
 direction of the magnetic field is into the page
 Figure 13.12 – Indicating the magnetic fields perpendicular to the plane of the
 page directed into and directed out of the page in a diagram
@@ -5367,8 +4172,6 @@ You have learnt that a magnetic field is established in the vicinity of a conduc
 carries a current. Let us now engage in Activity 13.3 in order to find out whether a
 force acts on a current carrying conductor placed in a magnetic field.
 For free distribution
-120
-121
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5376,18 +4179,9 @@ Activity 13.3
 Apparatus required: A U-magnet, a piece of conductor, two brass or some
 other conducting rods, two dry cells
 U magnet
-B
-N
-S
-C
 two brass
-rods
 thick card board
 piece
-A
-E
-D
-S
 Figure 13.13 - modeling force acts on a current carrying conductor placed in a magnetic field
 ² Place the U-magnet on a table and place the two brass rods as shown in the figure
 by inserting them through two holes pierced in the thick card board. Connect the
@@ -5412,10 +4206,8 @@ In the activity above, the direction of the magnetic field and the direction of 
 current through the conductor have been arranged to be perpendicular to each other.
 You will be able to observe that the motion of the conductor takes place in a direction
 perpendicular to both of the above directions.
-121
 For free distribution
 For free distribution
-120
 Physics
 Electromagnetism and Electromagnetic Induction
 The magnitude of the resulting force depends on the following three factors.
@@ -5443,23 +4235,8 @@ Exercise 13.1
 ^1& Find and mark the direction of the force acting on the conductor using
 Fleming’s left hand rule in each of the figures given below for the magnetic
 fields and currents indicated.
-N
-S
-(i)
 (iii)
-S
-N
-N
-S
-S
-N
-×
-(ii)
-×
-(iv)
 For free distribution
-122
-123
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5480,12 +4257,6 @@ ring-magnet
 card board cone
 varying electric
 current
-N
-S
-N
-coil
-(b)
-(a)
 Figure 13.15 (a) – A loud speaker (b) A cross section of a loud speaker
 The coil is connected to the end of the cone with the smaller diameter in such a way
 as to allow the coil to freely move forward and backward in the region between the
@@ -5494,8 +4265,6 @@ exerted on the conductor by the magnet vibrates the coil forward and backward
 according the variation of the current and the cone too vibrates accordingly,
 generating sound waves.
 For free distribution
-122
-123
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5521,8 +4290,6 @@ of the wire and on the same side at each end.
 ² Next, pass the two ends through the needle holes and mount the coil on the
 needles horizontally as shown in figure 3.
 For free distribution
-124
-125
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5538,7 +4305,6 @@ figure 3
 dry cell
 magnet
 figure 4
-clay
 figure 5
 In this case too, the magnetic field exerts a force on the conductor when a current
 flows through it. Since the conductor in this case is a coil, two forces act on the
@@ -5552,8 +4318,6 @@ force
 figure 6
 figure 7
 For free distribution
-124
-125
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5594,8 +4358,6 @@ direction during half of a rotation cycle and to let the current to flow in the 
 direction in the next half cycle. A commutator is used to alternate the direction of
 current flow in this manner.
 For free distribution
-126
-127
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5627,30 +4389,14 @@ are connected to the battery S.
 armature
 split rings
 insulator
-axle
 brushes
 magnetic poles
 Figure 13.20 – Main parts of a dc motor
 For free distribution
-126
-127
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 direction of rotation
-C
-N
-B
-S
-A
-+
-P
--
-Q
-D
-Y
-X
-S
 Figure 13.21 – Modeling the operation of a DC motor
 ² When a current is made to flow through the motor, the current enters the split
 ring X through the brush P and flows through the wire loop ABCD, reaches the
@@ -5667,30 +4413,15 @@ rotated by 180o and their positions are inverted. This position is shown in Figu
 with split ring X. Then the current enters from brush P to split ring Y, flows in
 the direction DCBA and reaches split ring X and leaves from brush Q.
 For free distribution
-128
-129
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 direction of rotation
-N
-B
-C
-S
-D
-A
-X
-Q
-P
-Y
 Figure 13.22 – Modeling the operation of a DC motor
-²
 In this situation, current flows along the directions DC and BA in the coil.
 ² When Fleming’s left hand rule is applied it will be clear that the motion of AB
 is upwards while that of CD is downwards. The resulting couple rotates the
 armature further in the clockwise direction.
-²
-²
 If the direction of the current is changed by changing the battery terminals, the
 directions of the forces also change to the opposite directions and the direction
 of rotation of the armature will be in the anti-clockwise direction.
@@ -5701,41 +4432,19 @@ electric motor
 mechanical energy
 Figure 13.23 – Energy transformation in electric motor
 For free distribution
-128
-129
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 Exercise 13.2
 ^1& The figure below shows how a student used his left hand in order to apply
 Fleming’s left hand rule.
-C
 (i) For what purpose is Fleming’s left hand rule used?
 (ii) Directions of what physical quantities are
 represented by the fingers A, B and C in the above
 figure?
 (iii) Write down what happens to the wire in the
-A
-B
 following cases using Fleming’s left hand rule.
-(a)
-(c)
-S
-N
-(b)
-N
-S
-- +
-N
-(d)
-N
-- +
-S
-S
-+
 ^2& The figure below shows the cross section of a loud speaker.
--
--+
 (i) Label parts A, B and C of the
 figure.
 (ii) Write down a special characteristic
@@ -5743,43 +4452,17 @@ of the current entering from the
 terminal X.
 (iii) Explain the operation of the loud
 speaker.
-A
-X
 (iv) Write
-down
 energy
 transformation taking place in a
 loud speaker.
-the
-B
-N
-S
-N
-C
 (v) Write down the functions of each
 of the parts A, B and C.
 For free distribution
-130
-131
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 ^03& The figure below shows the main parts of a DC motor.
-C
-N
-B
-S
-l
-D
-V
-U
-P
-A
-K
-E
-X
-Q
-Y
 (i) Label parts P, Q of the above figure.
 (ii) What are the components labeled X and Y?
 (iii) Indicate the direction of current flow in terms of the letters given when the
@@ -5793,8 +4476,6 @@ motor above.
 ^c& X and Y
 (vi) Write down the changes that take place in the operation of the motor under
 each of the changes given below.
-(a)
-(b)
 Interchanging the battery terminals
 Increasing the strength of the magnet
 13.3 Electromagnetic Induction
@@ -5806,8 +4487,6 @@ exerted on the conductor causing it to move. Electromagnetic induction is the in
 of this. That is, if a conductor placed in a magnetic field is set in motion, then an
 electromotive force is created between the terminals of the conductor.
 For free distribution
-130
-131
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5839,14 +4518,11 @@ its two ends to a center zero galvanometer.
 observing whether there is a deflection in the galvanometer or not.
 ² Observe the relative magnitudes of the deflections in steps 8 and 9.
 For free distribution
-132
-133
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 Copper wire coil
 Bar magnet
-G
 Galvanometer
 Figure 13.26 – Demonstrating electromagnetic induction
 Whether there is
@@ -5887,10 +4563,8 @@ each other, the magnetic field lines linked to the coil either increase or decre
 Since a deflection is observed in the galvanometer only at such instances, one
 can conclude that there must be a variation in the magnetic field lines linked to
 the coil in order to induce an electromotive force.
-133
 For free distribution
 For free distribution
-132
 Physics
 Electromagnetism and Electromagnetic Induction
 ² A larger deflection is observed in the galvanometer when the magnet is moved
@@ -5925,61 +4599,24 @@ Direction
 of current
 Figure 13.27 – Illustrating Fleming’s right hand rule
 For free distribution
-134
-135
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 Exercise 13.3
 ^01& Find and mark the direction of induced current flow using Fleming’s right
 hand rule in each of the instances given below.
-B
-B
-N S
-N S
-S N
-S N
-A
 motion
-G
-(i)
-B
-A
 motion
-G
-(ii)
-B
-N S
-N S
-S N
-S N
-A
 motion
-G
 (iii)
 motion
-(v)
-N
-N
-S
-S
 motion
 (vii)
-A
 motion
-G
-S
-S
-(iv)
 motion
-(vi)
 motion
 (viii)
-N
-N
 For free distribution
-134
-135
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -5994,21 +4631,11 @@ ring P and the other terminal D is fixed to another identical copper ring Q. P a
 Q are known as brushing rings.
 permanent magnet
 Magnetic flux
-C
-B
 Force
 Current
-D
-Q
-Y
-A
-X
 Carbon brushes
-G
-Axis
 Brushing
 rings
-P
 Direction of
 rotation of
 conducting coil
@@ -6032,8 +4659,6 @@ a current flows through the coil in the direction ABCD. The current flow across
 the galvanometer in the external circuit is from Y to X. Then the galvanometer
 indicator deflects to the left.
 For free distribution
-136
-137
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6041,50 +4666,11 @@ Figure 13.29 shows how the induced voltage in the coil varies with time when the
 ABCD coil shown in Figure 13.28 is rotated anti-clockwise in the magnetic field.
 The upper part of the figure 13.29 shows how the coil (armature) rotates in the
 magnetic field.
-(a)
-C
-B
 Motion
-D
-A
-(b)
-(c)
-(d)
-C
-B
-D
-A
-B
-C
-A
-D
-B
-C
-A
-D
-(e)
-C
-D
-B
-A
 Magnetic
-flux
-Vm
 Induced
 electromotive
 force
-0o
--Vm
-90o
-180o
-270o
-360o
-Time
-O
-T/4
-T/2
-3T/4
-T
 Figure 13.29 – Production of an alternating current
 ² Since the arms AB and CD are moving parallel to the magnetic field when the
 rotating coil is in position (a), the conductors do not intersect the magnetic field
@@ -6106,10 +4692,8 @@ CD moves up intersecting the field lines. Using Fleming’s right hand rule one
 can find that the induced currents flow from D to C and B to A. Therefore, the
 induced current flows through the coil in the direction DCBA. This causes a
 deflection to the right hand side of the galvanometer in the external circuit.
-137
 For free distribution
 For free distribution
-136
 Physics
 Electromagnetism and Electromagnetic Induction
 Since the induced electromotive force becomes maximum in the horizontal positions
@@ -6137,19 +4721,13 @@ electromotive force in the coil. Since the coil moves in both directions, the di
 of the electromotive force alternates. This generates a small alternating current
 (flowing in both directions) in the microphone that varies corresponding to the
 variations of the sound reaching the diaphragm.
-S
-N
-S
 Magnet
 Diaphragm
-Coil
 Figure 13.30 – Cross section of a moving coil microphone
 ● Bicycle Dynamo
 Figure 13.31 shows the internal components of a bicycle dynamo. When its rough
 head is arranged to touch a tire of a bicycle, it rotates fast when the tire is rotating.
 For free distribution
-138
-139
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6158,8 +4736,6 @@ magnetic field linked to the coil wound around the soft iron changes now, an
 electromotive force is induced in the coil.
 Magnet
 Rough head
-N S
-Coil
 Soft iron
 Figure 13.31 – A bicycle dynamo
 As a result of winding the dynamo coil around a soft iron it is possible to link most of
@@ -6183,20 +4759,12 @@ galvanometer in series. (The resistor prevents a large current from passing thro
 the galvanometer). The constant deflection of the galvanometer will show that the
 current in the circuit is constant. When the current is plotted against time, a straight
 line can be obtained as shown in figure 13.32(b).
-139
 For free distribution
 For free distribution
-138
 Physics
 Electromagnetism and Electromagnetic Induction
--
-+
 100 Ω
-(a)
 Current / Voltage
-+
-Time
-(b)
 Direct current
 Figure 13.32 – A DC current circuit
 If we connect a resistor and a center zero galvanometer in series to the alternating
@@ -6208,15 +4776,8 @@ the current (or voltage) is plotted against time, a curve such as that shown in 
 Alternating
 current
 generator
-∼
--
-+
 100 Ω
-(a)
 Current/Voltage
-+
-Time
-(b)
 Alternating current
 Figure 13.33 – An alternating current circuit arrangement
 In the first case (Figure 13.39) the direction of current flow does not vary with
@@ -6225,8 +4786,6 @@ currents.
 In the second case (Figure 13.33) the direction of current flow varies with time and
 such currents whose direction varies with time are known as alternating currents.
 For free distribution
-140
-141
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6238,28 +4797,10 @@ Indicate which type of current is represented by each of them giving reasons
 for your answer.
 current
 current
-0
-0
-0
-time
-0
-time
-(a)
 current
-(b)
 current
-time
-0
-time
-(c)
 current
-(d)
 current
-time
-0
-time
-(e)
-(f)
 13.3.4 Transformers
 Transformers are useful because they allow
 you to change the voltage of a supply.
@@ -6267,10 +4808,8 @@ Transformers are used in power packs and
 in electric appliances such as computers
 and radios.
 Figure 13.34
-141
 For free distribution
 For free distribution
-140
 Physics
 Electromagnetism and Electromagnetic Induction
 Activity 13.6
@@ -6284,15 +4823,9 @@ distance of one centimeter from the first.
 Wire coils
 bundle of soft
 iron wires
-3 V
-S
-A
 Figure 13.35
-G
-B
 ² Connect a switch and two 1.5 V dry cells in series to one of the two coils
 above. Connect the other coil to a center zero galvanometer.
-3v
 ² Now observe the deflection of the galvanometer by turning the switch S on and
 off and fill the table given below by crossing off the incorrect words.
 Switch S
@@ -6318,8 +4851,6 @@ You will be able to draw the following conclusions from the above activity.
 ² A current is induced in the second circuit at the instant that a current starts to flow
 in the first circuit.
 For free distribution
-142
-143
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6361,8 +4892,6 @@ do not work with cons that direct currents.
 The figure below shows the symbol used to represent a transformer in circuit
 diagrams.
 For free distribution
-142
-143
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6373,9 +4902,7 @@ Figure 13.36
 Figure 13.37 shows a simple arrangement of a transformer. It has two insulated
 copper coils wrapped around a soft iron ring.
 Primary coil
-~
 Secondary
-coil
 Figure 13.37 – A Simple transformer
 Primary coil
 Number of turns NP
@@ -6398,32 +4925,20 @@ The relation between the voltages and the number of turns of a transformer can b
 expressed as follows.
 Number of turns in the primary
 Number of turns in the secondary
-=
 Voltage difference in the primary coil
 Voltage difference in the secondary coil
 For free distribution
-144
-145
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
-NP
-NS
-=
-VP
-VS
 According to this relationship, by varying the ratio between the number of turns NP
 in the primary and the number of turns NS in the secondary, an output voltage larger
 than or smaller than the input voltage can be obtained.
 ² Step-up Transformers and Step-down Transformers
 Primary
-coil
 Secondary
-coil
 Primary
-coil
 Secondary
-coil
 Figure 13.38
 Transformers that give an output voltage
 larger than the input voltage are called
@@ -6441,7 +4956,6 @@ up to high voltages such as 132 000 V (132 kV) or 220 000 V (220 kV) using
 step-up transformers before supplying to the national power grid.
 Step-down transformers are used in power substations that distribute power
 obtained from main power transmission stations to homes.
-²
 step-up transformer
 step-down transformer
 step-down transformer
@@ -6453,17 +4967,13 @@ Power
 transmission
 Power
 distribution
-Home
 220 kV 22 kV
 Figure 13.39
 22 kV
 220 V
-²
 In order to obtain high voltages used in microwave ovens and X ray tubes,
 step-up transformers are used.
 For free distribution
-144
-145
 For free distribution
 ² They are also used in power packs and in electric appliances such as computers
 and radios.
@@ -6485,7 +4995,6 @@ In this equation,
 Ip = current in the primary coil
 Is = current in the secondary coil
 Vp = Voltage in the primary coil
-Vs
 = Voltage in the secondary coil.
 Example
 A certain transformer has 500 turns in its primary coil and 5000 turns in its secondary
@@ -6494,55 +5003,16 @@ coil. A voltage difference of 12 V is supplied to the primary coil.
 (ii) If a 2 A current passes through the primary. calculate the current in the secondary
 coil.
 (iii) Which type of a transformer is this?
-(i)
 Np = 500, Ns = 5000, Vp = 12 V, Vs = ?
-(ii)
-Vs
-Vp
-=
-Ns
-Np
-Vs
-=
-Vp
-Ns
-Np
-=
-Vs
-12 V
 × 5000
-500
-Vs
 = 120 V
 Vp = 12 V, Vs = 120 V,
 Ip = 2 A, Is = ?
-From
-Vp
-Ip
-=
-Vs
-Is
-Is
-=
-Vp
-Ip
-Vs
-Is
-=
 12 V × 2
 120 V
-A
-A
-=
-2
-10
 = 0.2 A
-Is
-Is
 (iii) This is a step-up transformer.
 For free distribution
-146
-147
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6582,8 +5052,6 @@ in the direction of current flow through the conductor.
 ² Bicycle dynamo, moving coil microphone and the transformer are
 instruments whose operations are based on electromagnetic induction.
 For free distribution
-146
-147
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6595,10 +5063,6 @@ current dynamo produces an alternating current.
 to another value.
 ² Relations between the primary and secondary coils of a transformer is
 given by
-Vs =
-Vp
-Ns
-Np
 Exercise 13.5
 Vp Ip
 = Vs Is
@@ -6624,8 +5088,6 @@ of the transformer is 100%.
 (iii) Ratio between the primary voltage and the secondary voltage.
 (iv) Ratio between the primary current and the secondary current.
 For free distribution
-148
-149
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
@@ -6635,11 +5097,7 @@ electromagnetic induction.
 Card board tube
 Bar magnet
 Bar magnet
-Coil
-A
-G
 Figure 13.40
-B
 (i) Describe electromagnetic induction in a simple manner.
 (ii) When the north pole of the bar magnet was brought towards the coil
 rapidly, a deflection was observed to the right hand side in the center zero
@@ -6665,29 +5123,14 @@ time.
 on the speed at which the bicycle is being
 ridden. Explain how this happens.
 (vii) Write down the energy transformation that
-A
-B
-D
-C
-x
 Figure 13.41
-y
 takes place when a bicycle lamp is lit up using the bicycle dynamo.
 For free distribution
-148
-149
 For free distribution
 Physics
 Electromagnetism and Electromagnetic Induction
 ^6& The figure below shows a moving coil galvanometer. Name the components
 labeled as A, B, C and D and describe the function of each of them.
-A
-B
-C
-D
-S
-N
-S
 Figure 13.42
 Technical terms
 Magnetic field
@@ -6698,7 +5141,6 @@ Step - down transformer
 - wjlr mßKdulh & £i SøÓ {ø»©õØÔ
 Magnet
 Power
-Coil
 - pqïnlh & Põ¢u®
 - cjh & Á¾
 - oÕrh & _¸Ò
@@ -6713,8 +5155,6 @@ Induced current
 Electromotive force
 - úoHq;a.dul n,h & ªßÛ¯UPÂø\
 For free distribution
-150
-PB
 For free distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -6725,7 +5165,6 @@ Derivatives
 14.1 Hydrocarbons
 Figure 14.1 shows some items that we use in our day to day life.
 Chemistry
-14
 Plastic goods
 Food items
 Tyres
@@ -6746,8 +5185,6 @@ characteristics shown by those compounds, carbon chemistry (organic chemistry)
 is studied as a separate section under chemistry.
 The compounds contaning carbon are commonly referred to as organic compounds
 [But, the oxides of carbon, namely carbon dioxide (CO2) and carbon monoxide (CO)
-PB
-151
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -6765,8 +5202,6 @@ Assignment 14.1
 List several types of fuels that are used in day to day life. Investigate into the
 chemical composition (the elements they contain) of those fuels.
 Compare the list you prepared with the following table.
-Fuel
-Wax
 Petrol
 Methane
 L.P. gas
@@ -6775,19 +5210,11 @@ Diesel
 Firewood
 Table 14.1
 Elements present
-C, H
-C, H
-C, H
-C, H
-C, H
-C, H
 C, H O, N
 It is seen that every fuel in the above table contain carbon and hydrogen.
 Let us do the following activity to examine whether wax contains carbon and
 hydrogen.
 For Free Distribution
-152
-153
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -6819,42 +5246,23 @@ fuels produced by the distillation of crude oil. All compounds in those fuels ar
 hydrocarbons. Based on the structure, hydrocarbons are classified as alkanes,
 alkenes and alkynes.
 • Alkanes
-H
-―
 H ― C ― H
-―
-H
 Have you heard that bio gas produced using the waste disposed
 from poultry farms is used as a fuel? The main component of it
 which is important as a fuel is methane gas. This gas is also present
 in the marsh gas produced when organic matter decays in marshes.
-153
 For Free Distribution
-152
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
 Chemistry
-is
-the
 simplest hydrocarbon and has
-This
 structure is shown in the figure.
 During the mining of mineral oils, the gas ethane comes out from oil wells. Ethane
 is also a hydrocarbon. Its formula is C2H6. The structure corresponding to this
 formula is as follows.
 formula CH4.
-the
-Its
-H
-―
-H
-―
 H ― C ― C ― H
-―
-H
-―
-H
 Consider the methane and ethane molecules described above. Bonds between
 carbon atoms and hydrogen atoms (only) are present in the methane molecule. But
 in the ethane molecule there are bonds between carbon and carbon atoms. The
@@ -6883,8 +5291,6 @@ mainly contain alkanes propane (C3H8) and butane (C4H10).
 Table 14.3 presents the molecular formulae and structural formulae of the alkanes
 with carbon atoms 1 - 5.
 For Free Distribution
-154
-155
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -6892,9 +5298,6 @@ Chemistry
 Molecular formula
 Name of the alkane
 Table 14.2
-CH4
-C2H6
-C3H8
 C4H10
 C5H12
 Methane
@@ -6904,80 +5307,15 @@ Butane
 Pentane
 Molecular
 formula
-CH4
-C2H6
-C3H8
 C4H10
 C5H12
 Table 14.3
 Structural formula
-H
-―
 H ― C ― H
-―
-H
-H
-―
-H
-―
 H ― C ― C ― H
-―
-H
-―
-H
-H
-―
-H
-―
-H
-―
 H ― C ― C ― C ― H
-―
-H
-―
-H
-―
-H
-H
-―
-H
-―
-H
-―
-H
-―
 H ― C ― C ― C ― C ― H
-―
-H
-―
-H
-―
-H
-―
-H
-H
-―
-H
-―
-H
-―
-H
-―
 H ― C ― C ― C ― C ― C ― H
-―
-H
-―
-H
-H
-―
-―
-H
-―
-H
-―
-H
-154
-155
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -6993,60 +5331,13 @@ Molecular formula
 C4H10
 Table 14.4
 Structural formula
-H
-―
 H― ―H
-C
-H
-H
-―
-―
 H ― C ― C ― C ― H
-―
-H
-―
-H
-―
-H
 C5H12
-―
-H
-H
-―
 H― ―H
-C
-H
-H
-―
-―
-H
-―
 C ― C ― C ― C ― H
-―
-―
-H
-H
-―
-H
-―
-H
-H
-―
 H― ―H
-C
-H
-H
-―
-―
 H ― C ― C ― C ― H
-―
-H
-―H
-―
-H
-C―H
-―
-H
 • Alkenes
 In alkanes there are only single bonds between carbon - carbon atoms. Also,
 there are hydrocarbons having double bonds between carbon - carbon atoms. The
@@ -7054,20 +5345,10 @@ hydrocarbons of this type with one or more double bonds between carbon - carbon
 atoms are classified as alkenes. The molecular formula of the simplest alkene ethene
 is C2H4. Its structural formula is given below.
 For Free Distribution
-156
-157
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
 Chemistry
-H
-H
-H
-―
-C C
-―
-―
-H
 Double bond
 Due to the presence of double bonds between the carbon atoms, alkenes are more
 reactive than alkanes.
@@ -7076,35 +5357,11 @@ reactive than alkanes.
 The compound derived by the displacement of a hydrogen atom in ethene by a
 chlorine atom is called chloroethene. The formula of chloroethene is C2H3Cl and its
 structure is given below.
-H
-―
-C
-―
-H
-H
-―
-C
-―
-Cl
 • Tetrafluoroethene
 The compound derived by the displacement of the four hydrogen atoms in ethene
 by four fluorine (F) atoms is known as tetrafluoroethene. Its formula is C2F4 and the
 structure is as follows.
-F
-F
-C
-―
-F
-―
-C
-―
-F
-C2F4
-156
-157
 For Free Distribution
-―
-―
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -7112,26 +5369,7 @@ Chemistry
 Chloroethene
 C2H3Cl
 Tetrafluoroethene
-C2F4
 Table 14.4 - Derivatives of ethene
-H
-H
-C
-―
-H
-―
-C
-―
-Cl
-F
-F
-― ―
-C
-C
-―
-F
-―
-F
 Ethene and derivatives of ethene are used to produce the polymers that we use in
 our day to day life such as polythene, styrofoam and teflon
 14.3 Polymers
@@ -7139,7 +5377,6 @@ Pay your attention to the following pictures.
 Plastic goods
 Clothes
 Figure 14.3
-Toys
 Let us inquire into the chemical nature of the materials shown in the above pictures
 that we use frequently in our daily life.
 At molecular level, they all have a common special feature. That is, they all are made
@@ -7154,9 +5391,6 @@ forming polymers are known as monomers and the large molecules formed by the
 polymerization of monomers are referred to as polymers. Pay your attention to the
 chain formed by joining some paper clips together.
 For Free Distribution
-158
-159
-―
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -7171,79 +5405,21 @@ has a very high value.
 Now, let us investigate into some common polymers.
 ² Polythene (Polyethene)
 Consider the ethene molecule we learnt earlier.
-H
-H
 C = C
-H
-H
 Polythene is produced by the polymerization of ethene molecules. What happens
 here? Of the double bond, one bond breaks and thousands of ethene molecules are
 added together as shown below.
-H
-H
-H
-H
-H
-H
-H
-H
 C = C
 C = C
 C = C
 C = C
-H
-H
-H
-H
-H
-H
-H
-H
-H
-H
-H
-H
-C
-C
-C
-C
-H
-H
-H
-H
-H
-H
-C
-C
-H
-H
-H
-H
-C
-C
-H
-H
-158
-159
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
 Chemistry
 The above polymerization process may be summarized and indicated as follows.
-n
-H
-H
 C = C
-H
-H
-H
-H
-C
-C
-H
-H
-n
 This means that 'n' number of ethene molecules link with one another and create a
 polythene molecule with 'n' number of – CH2 – CH2 – repeating units.
 Assignment 14.3
@@ -7252,24 +5428,7 @@ ethane molecules you have made in assignment 14.2.
 Hence, it may be clear to you that polythene is a macromolecule formed by the
 linking of a large number of ethene molecules in a specific pattern.
 The polymer, monomer and the repeating unit of polythene are given below.
-H
-H
 C = C
-H
-H
-H
-H
-H
-H
-C
-C
-H
-H
-C
-C
-H
-H
-n
 Monomer Repeating unit Polymer
 Polymers -- Very large molecules formed from linking together, a large
 number of small molecules are named polymers.
@@ -7277,8 +5436,6 @@ Monomers -- Small molecules contributing to form polymers are called monomers.
 Repeating unit -- The basic structural units contained in a polymer are known as
 repeating units.
 For Free Distribution
-160
-161
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -7286,36 +5443,12 @@ Chemistry
 ² Polychloroethene (Polyvinyl chloride)
 Polymerization of chloroethene gives polychloroethene. This can be summarized
 as follows.
-n
-Cl
-H
 C = C
-H
-H
-Cl
-H
-C
-C
-H
-H
-n
 Try to identify the monomer, repeating unit and the polymer of polychloroethene.
 ² Polytetrafluoroethene (Teflon)
 Polytetrafluoroethene is formed by the polymerization of tetrafluroethene. This can
 be illustrated as follows.
-n
-F
-F
 C = C
-F
-F
-F
-F
-C
-C
-F
-F
-n
 Identify the monomer, repeating unit and the polymer of tetrafluoroethene.
 A summary of the polymers you studied is present in Table 14.6
 Polymer
@@ -7323,28 +5456,9 @@ Monomer
 Repeating unit
 Table 14.6
 Polythene
-H
-H
 C = C
-H
-H
-H
-H
-C
-C
-H
-H
 Representation
 of the polymer
-H
-H
-C
-C
-H
-H
-n
-160
-161
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -7352,43 +5466,9 @@ Hydrocarbons and Their Derivatives
 Chemistry
 Polychloroethene
 (PVC)
-Cl
-H
 C = C
 Polytetrafluoroethene
-F
 C = C
-F
-H
-H
-F
-F
-Cl
-H
-C
-C
-H
-H
-F
-F
-C
-C
-F
-F
-Cl
-H
-C
-C
-H
-H
-F
-F
-C
-C
-F
-F
-n
-n
 Given in Table 14.6 are the special properties and uses of the polymers which we
 discussed above.
 Table 14.7
@@ -7412,7 +5492,6 @@ impervious to water,
 light
 resistant
 electrical insulator
-Uses
 Making plastic bottles, toys,
 polythene tissues, polythene
 bags, garbage bins, hard
@@ -7433,8 +5512,6 @@ origin, polymers can be classified into two types as natural and artificial. Rub
 which is frequently used for technical purposes is also a natural polymer. Table 14.7
 lists some examples of natural and artificial polymers.
 For Free Distribution
-162
-163
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -7444,10 +5521,8 @@ Artificial polymers
 Table 14.8
 Rubber
 Protein
-DNA
 Starch
 Cellulose
-RNA
 Polythene
 Polychloroethene
 Teflon
@@ -7459,36 +5534,10 @@ Bakelite
 ² Rubber
 Rubber is a natural polymer formed by the polymerization of a monomer called
 isoprene. The structure of an isoprene molecule is given below.
-H
-CH3
-H
-H
 C = C
-C
-= C
-H
-H
 The process leading to the formation of the polymer can be illustrated as follows.
-H
-CH3
-H
-H
-H
-CH3
-H
-H
-n
 C = C
 C = C
-C
-C =
-C
-C
-H
-H
-H
-H
-n
 ² Classification of polymers based on structure
 All the polymers so far discussed are made of linear chains. However, all
 polymers are structurally not linear polymers. By joining polymer molecules
@@ -7497,8 +5546,6 @@ branched polymers are produced.
 The polymers in which the linear chains are cross-linked are known as cross-linked
 polymers. Therefore, the polymers can be classified as follows according to the
 structure.
-162
-163
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -7521,7 +5568,6 @@ Vulcanized rubber
 Figure 14.9
 Importance of polymers
 Vulcanized rubber is used to make tyres, tubes and battery cases.
-²
 When taking lunch away from home, natural materials such as a banana leaf or
 a "Kolapatha" was used for wrapping in the past. But today, what we use for this
 purpose is a type of polythene which is a synthetic polymer. Like this, at present,
@@ -7530,8 +5576,6 @@ ability to synthesize with required characteristics, ease of usage, ability to p
 in various shapes, ability to make colourful with any required colour and cheapness
 have made the items produced with polymers popular.
 For Free Distribution
-164
-165
 Hydrocarbons and Their Derivatives
 Chemistry
 Hydrocarbons and Their Derivatives
@@ -7550,7 +5594,6 @@ The clothes produced with artificial polymers such as nylon, terylene and polyes
 do not absorb sweat and cause discomfort to the body. This can be minimized by
 mixing natural polymers such as cotton and wool with artificial polymers.
 to find a solution
-for
 Summary
 • Organic compounds only made up of carbon and hydrogen are called
 hydrocarbons.
@@ -7573,8 +5616,6 @@ shape cannot be changed by heat.
 disadvantages in them.
 • If the management of plastic wastes is not carried out properly, many
 environmental problems may arise
-164
-165
 For Free Distribution
 Hydrocarbons and Their Derivatives
 Chemistry
@@ -7611,13 +5652,6 @@ Alkenes
 Polymers
 Monomer
 Repeating unit
--
--
--
--
--
--
--
 Technical terms
 ldnksl ixfhda.
 yhsâfrdldnk
@@ -7626,26 +5660,15 @@ we,alSk
 nyqwjhjl
 tAlwjhjlh
 mqkrdj¾;k tAllh
--
--
--
--
--
--
--
 ÷\uÚ ÷\ºøÁPÒ
 Iu÷µõPõ£ß
 AØ÷Pß
-AØRß
 £À£Sv¯®
 J¸£Sv¯®
 «skÁ¸® A»S
 For Free Distribution
-166
-PB
 Biosphere
 Biosphere
-15
 15.1 Organizational levels and interactions of biosphere
 15.1.1 Environmental equilibrium/Ecological balance
 The physical and the biological components in which interactions take place for the
@@ -7667,8 +5690,6 @@ Community
 Ecosystem
 Biosphere
 Observe the organizational levels of the biosphere in the diagram given below.
-PB
-167
 For free distribution
 Biosphere
 Biosphere
@@ -7678,7 +5699,6 @@ Population
 Individual
 Figure 15.1 - Organizational levels in biosphere
 Individual
-•
 A single organism belongs to a particular species and lives in the environment is
 referred to as an individual.
 E.g. - Coconut plant, Elephant
@@ -7703,8 +5723,6 @@ particular area is called an ecosystem.
 E.g. - A pond, A decaying log, A forest
 A beach with rocks and cliffs
 For free distribution
-168
-169
 Biosphere
 Flora
 Fauna
@@ -7712,10 +5730,7 @@ Figure 15.2 shows the interactions
 of the living organisms with the
 non living component in a pond eco
 system.
-Sun
-Air
 Water
-Soil
 Figure 15.2 - Interactions in a pond ecosystem
 • Biosphere
 The part of the earth and its atmosphere that is inhabited by living things is called
@@ -7733,7 +5748,6 @@ the population density.
 Immigration (Number of organisms add to the population from outside)
 ” Births (Number of new born organisms added to the population)
 ” Deaths (Number of organisms die in the population)
-”
 ” Emigration (Number of organisms leave the population)
 Number of organisms
 add from outside
@@ -7745,8 +5759,6 @@ die in the population
 Number of organisms
 leave the population
 Figure 15.3 - Factors affecting population density in biosphere
-168
-169
 For free distribution
 Biosphere
 Typical growth curve of population
@@ -7759,9 +5771,7 @@ organisms
 Carrying
 bis,Sfï Odß;dj
 capacity
-ld,h
 Figure 15.4 - Typical population growth curve
-Time
 Phase 1 - Slow growth phase (Lag phase)
 During this phase population growth increases as reproduction gets underway.
 Often starts slowly because intially there is a shortage of reproducing individuals
@@ -7785,20 +5795,14 @@ organisms in the population is called as the carrying capacity.
 Although the growth curve of a natural population is S shaped, it takes J shape for
 human population. That means the human population is still in exponential phase.
 For free distribution
-170
-171
 Number of
 organisms
 Ôùka ixLHdj
 Biosphere
 Figure 15.5 - Growth curve of human population
-Time
-ld,h
 It has taken 300,000 years for the human population to become, one billion. But it
 has taken only 130 years for it to become two billions and 15 years for it to become
 four billions. There are two reasons for this rapid growth.
-”
-”
 Increase of birth rate
 Decrease of death rate
 The development of technology, progress in medical field and high rate of food
@@ -7808,8 +5812,6 @@ Figure 15.6 - Growth curve of human population from 1 AD to year 2013
 Assignment 15.2
 According to the graph, predict the time that would take for the world human
 population to become twice as it was in 2013.
-170
-171
 For free distribution
 Biosphere
 15.2 Mechanisms involve in maintaining the equilibrium
@@ -7823,11 +5825,9 @@ Different trophic levels of many food chains are inter-connected in a web like
 structure in the biosphere. Due to this relationship an organism is free to depend
 on different types of food. This helps to avoid bioaccumulation of organisms. An
 example for a food web is given in figure 15.7
-Hawk
 Hornbill
 Python
 Rabbit
-Rat
 Figure 15.7 - An example for a food web
 Plants
 Assignment 15.3
@@ -7839,12 +5839,8 @@ chain. This can be shown in a linear diagram as follows.
 E.g. (-
 Grass
 Grass hopper
-Toad
 Cobra
-Hawk
 For free distribution
-172
-173
 Biosphere
 Quaternary
 consumer (Hawk)
@@ -7878,8 +5874,6 @@ are called autotrophs.
 According to the energy source used to produce their food, autotrophs can be
 divided into two groups, as photo-autotrophs and chemo-autrotrophs. Green plants
 are photo-autotrophs and some bacteria are chemo-autotrophs.
-172
-173
 For free distribution
 Biosphere
 Heterotrophs
@@ -7917,23 +5911,17 @@ the number of organisms in the upper trophic level. Therefore upright and invert
 number pyramids can be seen.
 An upright number pyramid is shown in Figure 15.10.
 For free distribution
-174
-175
 Biosphere
 Tertiary consumer
 (Hawk)
-3
 Secondary consumer
 (Coucal)
-30
 Primary consumer
 (Cricket)
-200
 Producers
 (Plants)
 An inverted number pyramid is shown in figure 15.11.
 Figure 15.10 - Upright number pyramid
-1000
 Secondary consumer
 (Insect parasite)
 Primary consumer
@@ -7958,8 +5946,6 @@ Primary consumers
 Producers
 (Plants)
 Figure 15.12 - A biomass pyramid
-174
-175
 For free distribution
 Biosphere
 Energy pyramid
@@ -7979,7 +5965,6 @@ Primary consumers
 (Insect)
 Producers
 (Plants)
-10 J
 100 J
 1000 J
 Figure 15.13 - An energy pyramid
@@ -7996,8 +5981,6 @@ Energy dissipation
 The loss of energy during transferring energy from one trophic level to the next, is
 called energy dissipation.
 For free distribution
-176
-177
 Biosphere
 Energy expended
 for respiration is 60%
@@ -8010,9 +5993,7 @@ body tissues is 10%
 Figure 15.14 - Energy dissipation of a cattle
 As a considerable amount of energy is lost during the flow of energy from one
 trophic level to the next, the shorter food chains are efficient than longer food chains.
-Hawk
 Snake
-Toad
 Grasshopper
 Leopard
 Elephant
@@ -8022,8 +6003,6 @@ food chain
 Plant
 Figure 15.16 - A short
 food chain
-176
-177
 For free distribution
 Biosphere
 15.2.2 Biogeochemical cycle
@@ -8049,66 +6028,25 @@ During combustion of fossil fuels carbon releases. Micro organisms play a major
 role in carbon cycle. They release carbon in dead matter rapidly to the atmosphere.
 Carbon cycle is represented in the diagram 15.17.
 t h e s i s
-n
-n
-y
-s
 Ph o t o
 Respir a ti o
 Carbondioxide
 (CO2)
 mbustion
-o
-C
-D
-is
-s
-R
-e
-s
-o
-l
-v
-i
-p
-n
-i
-r
-a
-t
-i
-o
-n
-g
-i
-n
-w
-a
-t
-e
-r
 Decaying of dead
 bodies
-F
-o
 ssiliz
-atio
-n
 Producing fuels
 Fossil fuels
 organic matter
 and humus
-n
 s iti o
-o
 D e c o m p
 Sedimentation
 Solution
 Carbonate rocks
 Figure 15.17 - Carbon cycle
 For free distribution
-178
-179
 • Nitrogen cycle
 The main source of nitrogen of earth is the atmosphere.
 Atmospheric
@@ -8117,7 +6055,6 @@ Biosphere
 Denitrification
 (bacteria)
 Ammonification
-}
 Atmospheric
 fixation
 Industrial
@@ -8130,12 +6067,6 @@ Biological
 fixation
 (bacteria)
 Chemical fertilizers
-+)
-(NH4
-NO -
-2
-NO-
-3
 }Nitrification
 Figure 15.18 - Nitrogen cycle
 The fixation of atmospheric nitrogen takes place in three main methods.
@@ -8144,11 +6075,8 @@ Free living bacteria in soil (Azotobacter) and symbiotic bacteria like Rhizobium
 live inside root nodules of leguminous plants that can convert atmospheric nitrogen
 into NH4
 ” Atmospheric fixation
-+
-.
 During lightning atmospheric nitrogen is converted to nitric oxide and nitrogen
 dioxide.
-”
 Industrial fixation
 Atmospheric nitrogen converts to nitrate during industrial production of chemical
 fertilizers.
@@ -8162,8 +6090,6 @@ The denitrifying bacteria like Pseudomonas and Thiobacillus convert nitrates bac
 to atmospheric nitrogen.
 Assignment 15.5
 Prepare a creative exhibit board to display the nitrogen or carbon cycle.
-178
-179
 For free distribution
 Biosphere
 15.3 Different environmental pollutants and their effects
@@ -8182,27 +6108,20 @@ those pollutants.
 Activity 15.1
 Materials required :- Different waste materials found in environment
 Method
-²
-²
 Make a list of pollutants found in the school premises after a field trip.
 Classify them according to the methods given below.
-:-
 Method I
 Method II
 Decomposing
 Matter
-Non
 Decomposing
 Matter
 Disposed
-Food
 Polythene
-and
 Plastic
 Metalic
 Substance
 Paper
-and
 Cardboard
 Glass and
 pocelain
@@ -8212,14 +6131,11 @@ y If you are asked to place different waste disposal bins in your school premise
 decide what type of bins to be placed mostly after analyzing the amount of
 different waste materials.
 For free distribution
-180
-181
 There are different types of waste materials involved in environmental pollution.
 We have to be aware of them to reduce their usage.
 Biosphere
 These different types of wastes are,
 ” Agro chemical waste
-”
 Industrial waste
 ” Greenhouse gases
 ” Heavy metals
@@ -8241,8 +6157,6 @@ harvesting. Avoid touching those agro chemicals.
 The gazette announcement issued on 23rd of December 2014 by the government
 has banned selling and usage of chemicals such as Glyphosate, Propanil, Carbaryl,
 Choloropyrifos and Carbofuran.
-180
-181
 For free distribution
 Figure 15.19 - Different types of chemical substances sold at market
 Biosphere
@@ -8291,8 +6205,6 @@ eruption of volcanos.
 in marshy lands and garbage.
 ² CFC is released when using refrigerators and air conditioned appliances.
 For free distribution
-182
-183
 Accumulation of heavy metals in the environment
 The metals with high density and higher relative molecular mass are called heavy
 metals. Discarded metal items, instruments and parts of vehicles that contain heavy
@@ -8304,18 +6216,8 @@ Mercury
 Arsenic
 Chromium
 Cadmium
-Lead
 Copper
 Manganese
-Zinc
-(Hg)
-(As)
-(Cr)
-(Cd)
-(Pb)
-(Cu)
-(Mn)
-(Zn)
 Figure 15.21 - Soil containing heavy metals
 Methods by which the heavy metals released into the environment
 ² Release of industrial wastes, wastes of zinc mines, electro plating and cadmium
@@ -8334,8 +6236,6 @@ effects caused by different types of heavy metals in them.
 Particulate matter
 There are two types of particulate matter accumulated in air. They are solid
 particulate matter and liquid particulate matter.
-182
-183
 For free distribution
 Liquid particles
 • Water droplets
@@ -8381,8 +6281,6 @@ Sulphuric acid is formed due to dissolution of sulphurtrioxide too. Nitrogendiox
 helps in increasing acidic nature of rain. It forms nitric acid with water. Water
 mixing with above acids to form rain is known as acid rain.
 For free distribution
-184
-185
 Adverse effects of acid rain
 Figure 15.23 - Acid rain
 Activity 15.2
@@ -8393,7 +6291,6 @@ increase of acidity in water.
 ² Affect the aborption of minerals by plants.
 ² Dissolving of limestones and other rocks.
 ² Destruction of metalic buildings, statues, and
-²
 other ruins.
 Some poisonous heavy metals dissolve in
 water and the concentration increases in
@@ -8416,9 +6313,6 @@ Electronic wastes due
 the modern
 technology are added to the environment at a
 higher rate.
-to
-184
-185
 For free distribution
 Figure 15.25 - Electronic waste
 Biosphere
@@ -8458,8 +6352,6 @@ Identify E-numbers of food items that is brought home. What are the substances
 denoted by those numbers? What is the purpose of adding such things? What are
 the adverse effects of them.
 For free distribution
-186
-187
 Activity 15.4
 y Do an investigation about the substances such as colourings and flavours
 which are used for the fast foods. Fill the table using those information
@@ -8528,8 +6420,6 @@ Diarrhoea
 Stomachache, Cancers
 Breathing difficulties
 Nausea, Vomitting
-186
-187
 For free distribution
 Biosphere
 Diseases caused by food additives
@@ -8564,8 +6454,6 @@ Figure 15.27 - Detergent swans
 The harmful effects of the excessive use of artificial detergents are detergent swans
 which can be seen on the surface of water systems.
 For free distribution
-188
-189
 Biosphere
 Medicines
 In the past, man had a sound knowledge of popular indigenous medicines and they
@@ -8609,9 +6497,7 @@ perfumes and deodorants, there are alcohol, esters and distilled substances. Whe
 these are used excessively, some diseases are caused in some people. Sometimes,
 headaches, vomiting and breathing difficulties can occur. In most of the lipsticks,
 there is led and the excessive usage can cause dryness and cracks on lips.
-189
 For free distribution
-188
 Biosphere
 Mercury is present in some cream. In some other creams, carbon compound that
 controls the formation of melanin colourant is present. This will destroy the natural
@@ -8646,8 +6532,6 @@ pollutants have certain specific features as follows.
 Twelve organic pollutants have been identified as dirty dozen which can pose
 effective threat to the earth.
 For free distribution
-190
-191
 E x t r a k n o w l e d g e
 Chemicals associated with
 factories
@@ -8658,21 +6542,16 @@ byproducts
 ” Hexacholoro benzene
 ” Polychlorinated biphenyls /
 ” Dioxin
-”
 Furan
-PCBs
 Biosphere
 Pesticide
 Chlordane
 ” Aldrin
-”
 ” DDT
 ” Deildrin
-”
 Endrin
 ” Heptachlor
 ” Mirex
-”
 Toxaphene
 Other than those, some other compounds belong to persistent organic pollutants.
 These POPs cause certain adverse effects as follows,
@@ -8693,8 +6572,6 @@ etc. High amount of energy received from sun is refracted away from the earth
 when the greenhouse gases exceed their permissible level. Hence, the temperature
 of the atmosphere increases. This is called global warming. Changes that occur due
 to global warming are shown in Figure 15.28
-190
-191
 For free distribution
 Biosphere
 Air Temperature Near Surface (Troposphere)
@@ -8730,8 +6607,6 @@ Ill effects of ozone layer depletion
 ² Reduce body immunity
 ² Affect photosynthesis and reduce crop yield
 For free distribution
-192
-193
 Photo chemical smog
 It is a yellow coloured mist that is formed due to reaction, resulted between sunlight
 and the chemicals in vehicle emission, which causes eye irritation and vision
@@ -8758,8 +6633,6 @@ along with food chains from one
 trophic level to the other is called
 biomagnification.
 160 mg /l
-192
-193
 For free distribution
 11 mg /l
 37 mg /l
@@ -8803,12 +6676,9 @@ sources and due to human activities. Especially destruction of ozone layer and
 accidents in nuclear power stations are the reasons for this situation.
 E.g. (¡- Fukushima power station in Japan, Churnobill power station in Russia
 For free distribution
-194
-195
 Biosphere
 Figure 15.32 - Accidents in nuclear power stations
 Indirect effects of environmental pollution
-•
 Loss of habitats of organisms
 The natural environment where a plant or an animal lives is known as a habitat.
 These habitats are lost due to environmental pollution. Wild elephants tempt to
@@ -8828,8 +6698,6 @@ Constructions and degradation of natural environment
 Metal statues, buildings, ruins and marble buildings are eroded by acid rains. Natural
 limestones also degrade due to acid rains. As temperature of the environment
 increases wall plasters and paintings of Taj Mahal is at a risk of deterioration.
-194
-195
 For free distribution
 Biosphere
 Health issues
@@ -8857,14 +6725,11 @@ problems created
 Industrialization
 Several factors on earth affect the life style of human. Industrialization, urbanization,
 commercial agriculture and irrigation systems are some of them.
-²
 The process by which a country transforms primarily from an agricultural society
 to a society that produces goods and services is called industrialization. The
 industrialization initiated from Western Europe in AD 1800 with the technological
 development and insufficiency of small scale production.
 For free distribution
-196
-197
 ² Urbanization
 Aggregation of people in areas with abundant resources with the growth of human
 population is called urbanization. People migrate to cities in search for employments
@@ -8877,7 +6742,6 @@ Large scale agriculture which exceeds the subsistance food production and
 commercial intentions are called as commercial agriculture. Here, use of modified
 varieties to obtain productive harvest, agrochemicals and machinary are taken into
 consideration.
-²
 Instead of depending on direct rain water, man constructed tanks, ponds, reservoirs,
 canals, dams and tunnels to obtain water for agricultural purposes. They are
 considered as irrigation systems.
@@ -8893,9 +6757,7 @@ non contagious diseases. According to data of World Health Organization
 comman contagious diseases are cancers, pulmonary diseases and diabetes
 Excessive consumption of tobacco and liquor, wrong food habits and lack of
 physical exercises are the causes for these diseases. Non contagious diseases have
-197
 For free distribution
-196
 Biosphere
 become a major problem in Sri Lanka today. Out of the deaths occured due to
 diseases, 60% had occured due to non contagious diseases. Out of them several
@@ -8910,13 +6772,6 @@ renal failure. It is often reversible with immediate treatment.
 2. Chronic renal failure
 Chronic renal disease causes gradual loss of kidney function which is not reversible.
 Other causes for renal failure are,
-”
-”
-”
-”
-”
-”
-”
 Diabetes
 High blood pressure
 Constant urine infections
@@ -8925,10 +6780,6 @@ Urinary tract Infections
 Intoxication (snake,wasp, hornet venum, agrochemicals)
 Allergies
 Symptoms of renal failure
-”
-”
-”
-”
 Urinary urgancy may
 occur frequently at night
 Little or no urine output
@@ -8937,22 +6788,16 @@ Swelling of
 ankle
 feet and
 ” Weakness, pale skin
-”
-”
 Urine contain protein
 Rashes on palm and soles
 For free distribution
-198
-199
 Figure 15.34 - Patches due to clinical kidney
 disease
 Speciality of the kidney disease
-”
 Though acute renal failure occurs due to uncontrolled diabetes or high
 blood pressure people might have chronic kidney disease without any prior
 disease.
 Biosphere
-”
 ” Most of the people who have the disease are engaged in agriculture.
 Tendency of people who spray the agrochemicals having the disease is
 high.
@@ -8963,7 +6808,6 @@ present.
 Delayed symptoms keep the patient ignorant about this disease. Sometimes
 when the patient realizes, he is affected by the disease and 40-60% of the
 kidney has lost its function.
-”
 ” Most of the people affected are identified to be drinking hard water
 Factors that have been identified to be contrtibuting to CKD
 Toxic elements emmited by blue green algae.
@@ -8973,15 +6817,7 @@ Drinking water with floride
 Dehydration
 Using drugs without any control
 Consumption of liquor
-”
-”
-”
-”
-”
-”
-”
 Measures that can be taken to avoid CKD
-”
 Refraining from using agrochemicals, and food for which agrochemicals
 are used
 ” Maintaining a wholesome life style to control and prevent diabetes and
@@ -8992,17 +6828,11 @@ An adult drinking 3.5-4.5 litres or 5-6 bottles of clean water a day
 Receiving medical treatment for skin allergies immediately
 Refrain from improper use of pain killers
 Refrain from liquor consumption and smoking
-”
-”
-”
-”
 Diabetes
 Increase of blood glucose level above the normal level is known as diabetes.
 Normally, insuline converts the excess glucose in the blood into glycogen and
 allows it to store in the liver. Failing of the secretion of insulin due to dysfunction
 or inborn absence of beta cells in the Islets of Langerhans which is located in the
-198
-199
 For free distribution
 Biosphere
 pancreas, secretion of insulin fail. When diabetes is not controlled kidney weakens
@@ -9037,8 +6867,6 @@ life style, frequent consumption of food containing excessive oil and acids, men
 stress caused because of living under a competitive condition are the causes of this
 disease.
 For free distribution
-200
-201
 Biosphere
 Cataracts
 Due to the change in the nature of proteins in the lens of the eye, the transparency
@@ -9068,8 +6896,6 @@ The biological pest control is the use of another plant, animal or a microorgani
 which do not harm the cultivation in order to destroy pests. Coconut catepillar
 Promecotheca cumingii was a major coconut pest which was successfully controlled,
 using a larval parasitoid Dimokia javanica.
-200
-201
 For free distribution
 Biosphere
 • Use of organic fertilizer
@@ -9100,8 +6926,6 @@ excessively used. Therefore, instead of seeds and agricultural chemicals purchas
 from multinational companies, it is the high time to use traditional agricultural
 methods such as local seeds and cultivation methods.
 For free distribution
-202
-203
 E x t r a k n o w l e d g e
 Some important information of traditional varieties of paddy
 Biosphere
@@ -9147,8 +6971,6 @@ prevent constipation
 properties
 ² Body warming
 ² Aids in spermatogenesis
-202
-203
 For free distribution
 Biosphere
 ² The technology of irrigation
@@ -9156,7 +6978,6 @@ Sri Lankan irrigation system is one of the unique water management systems in
 the world. Historical large tank can be identified as a great technical attempt with a
 very complex scientific knowledge.
 reservoir
-The
 constructed
 across a river, canal or a branch
 of it with the aim of collecting
@@ -9166,7 +6987,6 @@ Figure 15.38 - An ancient tank bund
 Out spill
 River
 Hea d w a l l
-Tank
 Tank bund
 Sluice
 Ralapanawa
@@ -9192,9 +7012,6 @@ had been constructed of several soil layers. It had been made of several thoroug
 beaten layers such as, a layer of clay, soil, gravel and clay (Kirimeti) layer, kept one
 on one.
 For free distribution
-204
-205
-\
 Figure 15.40 - A sluice gate
 Biosphere
 When water in large tanks is taken out a
@@ -9233,8 +7050,6 @@ Lanka, and prepare a report.
 Food comprises of a collection of nutrition, healthyness, culture, tradition,
 environment, creation, folk tales, literature, technology, etc. The traditional food
 patterns improved the quality of life of our people. But consumption of oily, starchy
-204
-205
 For free distribution
 Biosphere
 food, flavourings and bad food habits cause number of issues in public health. This
@@ -9243,7 +7058,6 @@ pressure and diabetes.
 Important facts about natural flavourings
 Improve the colour, taste, odour and appetite of food.
 ” The most reactive parts of a food
-”
 ” Contain bactericidal properties
 ” Minimize, harmful effects caused by food
 ” Has unique taste and quality, which cannot be obtained by artificial flavourings.
@@ -9257,7 +7071,6 @@ Stimulate digestion of food
 Relieve abdominal disorders
 Pepper ¡
 Indegeneous medical science
-²
 This field consists of Aurveda, Siddha, Unani and native medicinal fields, which
 has history of thousands of years. Ayurveda is one of the important medical fields,
 descended from India. It is a perfect science with two traditions.
@@ -9265,7 +7078,6 @@ descended from India. It is a perfect science with two traditions.
 2. Surgical science
 According to Ayurveda there are three types of reaction that take place in human
 body. Those three factors are known as Va, Pith and Kapha.
-'Va'
 'Pith'
 - Air
 - Bile
@@ -9280,8 +7092,6 @@ In Ayurvedic medicine, treatments are done to the cause or root to the disease.
 Body activity is not controlled artificially by giving medicine (drugs) externally.
 Therefore side effects are not resulted.
 For free distribution
-206
-207
 Biosphere
 Food is also a significant factor to cure diseases. It should be consumed to balance
 Va, Pith and kapha the three factors.
@@ -9313,11 +7123,8 @@ to consumer, is known as food mile.
 The food mile changes according to the quantity of food and the place it is produced.
 E.g. - Food mile of some of the foods that you take for your breakfast can be
 calculated as follows. Suppose you are in kurunegala.
-^1&
-Rice
 Potato curry
 Coconut
-Eggs
 Summation
 1 mile
 100 miles
@@ -9328,11 +7135,8 @@ Summation
 (Taken from Welimada area)
 (Taken from your coconut trees)
 (Taken from a poultry farm of your area)
-206
-207
 For free distribution
 Biosphere
-^2&
 String hoppers made
 up of rice floor
 Dhal curry
@@ -9348,7 +7152,6 @@ Summation
 (Taken from Misur area of India)
 (Taken from your home garden)
 (Taken from Jaffna)
-^3&
 Bread
 Fish curry
 Coconuts
@@ -9383,8 +7186,6 @@ E.g. Polythene
 Reduce - Unnecessary items should be avoided or minimized.
 E.g. - Avoid taking antibiotics and vitamins unnecessarily
 For free distribution
-208
-209
 Biosphere
 Replace - Use of eco friendly substances instead of incompatible materials with
 nature.
@@ -9406,7 +7207,6 @@ and dearth of energy resources also indicate this problem. Energy crisis occurs 
 result of the great demand for the supply of limited natural energy resources.
 Reasons for energy crisis
 ² Drastic growth of human population
-²
 Increase of the number of industries
 ² Over consumption of energy
 ² Wasting energy
@@ -9421,8 +7221,6 @@ List out the steps you follow to utilize energy with minimum wastage.
 • Monitoring of daily energy consumption
 It is necessary to be aware and compare the energy consumption by measuring it
 daily. Then wastage can be minimized.
-208
-209
 For free distribution
 Biosphere
 • Energy auditing
@@ -9431,7 +7229,6 @@ institutions, and make
 recommendations and advise based on the results of the respective energy audits
 and make the authorities aware related to energy consumption.
 to visit different
-is
 In this context making the public enthusiastic on reduction of energy consumption
 and improving energy efficiency are ensured.
 • Energy efficiency
@@ -9465,8 +7262,6 @@ be applied as an energy conservation measure. In boiler systems exhaust gases
 discharged through the chimney stack contain high temperature waste heat which
 can be extracted to heat boiler feed water and as an air pre-heater. With the utilization
 For free distribution
-210
-211
 Biosphere
 of eco-friendly natural energy sources it is possible to minimize the adverse effects
 on the environment.
@@ -9481,12 +7276,6 @@ Mines Bureau, State Timber Corporation, National Gem and Jewellery Authority
 implement law, rules and regulations related to environmental management.
 Assignment 15.13
 Prepare a booklet on renewable energy sources.
-”
-”
-”
-”
-”
-”
 Summary
 There is a natural balance among living organisms, physical component and the
 environmental conditions in the biosphere. This balanced relationship is known
@@ -9509,12 +7298,9 @@ present.
 ” Usage of indegenous knowledge and technology, indegenous medicines waste
 management and energy management are some of the effective ways for
 sustainable development.
-210
-211
 For free distribution
 Biosphere
 Exercise
-^01&
 (i) What is the organizational level which includes abiotic component in the
 biosphere
 i. Individual ii. Population iii. Community
@@ -9535,12 +7321,10 @@ iii. Chloro Fluoro Carbon
 ii. Methane
 iv. Oxides of nitrogen
 (v) The bacteria which involves in fixation of atmospheric nitrogen as ammonium
-is,
 i. Rhizobium
 iii. Nitrobacter
 ii. Nitrosomonas
 iv. Pseudomonas
-^02&
 ^1& There are many ecosystems found in the biosphere.
 1' Name two relationships present in an ecosystem.
 ---------------------------------------------------------------------
@@ -9555,10 +7339,7 @@ an agricultural land. Justify this statement.
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 For free distribution
-212
-213
 Biosphere
-^3&
 1' Name two applications in sustainable agriculture.
 --------------------------------------- -----------------------------
 2' State two fields where indigeneous knowledge and technology can be
@@ -9615,8 +7396,6 @@ Carbon food print
 Food mile
 - wdydr ie;mqu
 - EnÂß ø©À ö£Ö©õÚ®
-212
-213
 For free distribution
 Biosphere
 Introduction
@@ -9656,5 +7435,3 @@ education office - Wennapuwa and the senior lecturer Asoka de Silva of the Natio
 Institute of Education who is on leave for Ph.D.
 Board of Writers and Editors
 For free distribution
-214
-PB

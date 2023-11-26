@@ -1,40 +1,19 @@
 Index
-1
 Preparation of Computer Speciﬁ cations
-2
-3
-4
-5
-6
 Electronic Spreadsheets
 Programming
 Use of Microcontrollers
 Computer Networks
 ICT and Society
-1
-10
-26
-30
-39
-53
-ix
-x
-1
 Preparation of Computer
 Specifications
 Activity 1.1
 Select the most suitable expression from the list of expressions given, to fill
 the blanks.
 List of expressions
-1
-2
-3
 Server computer
 Desktop computer
 All-in-one computer
-4
-5
-6
 Laptop computer
 Mobile smart phone
 Tablet computer
@@ -50,24 +29,15 @@ Internet reading, storing information, refer electronic dictionaries are
 e). The ................................ cannot be taken from place to place, use least
 space and have several peripheral devices connected to the monitor.
 For free distribution
-1
 Activity 1.2
 Name the peripheral devices in the image below. Use the number for the
 expressions given in the list.
-1
-2
-3
 Monitor
 Printer
 Keyboard
-4
-5
-6
 Head phone
 Scanner
 Speaker
-7
-8
 Mouse
 Web camera
 Activity 1.3
@@ -79,8 +49,6 @@ CPU speed
 - (Core i5)
 - (2.2 GHz)
 Main memory
-4 GB
-2
 For free distribution
 Examine the processor of a few computers and complete the table given
 below.
@@ -96,14 +64,12 @@ Activity 1.5
 Examine the capacity of the Random Access Memory (RAM) in a few
 computers and compare them.
 For free distribution
-3
 Activity 1.6
 Study the specifications given in the following table. Answer the questions that
 follow.
 Intel® Core™ i7 3.70 GHz
 Central Processing Unit
 Random Access Memory 4 GB
-2 TB
 Hard disk capacity
 18.5"
 Computer screen
@@ -125,7 +91,6 @@ other computer in your school or in another place.
 Activity 1.7
 By considering the important points in buying a computer, fill in the blanks in
 the statements given below by selecting the relevant term from the given list.
-4
 For free distribution
 1. The speed of the processor is given in ................................
 2. It is better to select a monitor ................................ in size and consumes
@@ -149,22 +114,18 @@ Intel® Core™ i3 2.40 GHz AMD ® Core 2.0 GHz
 Main memory capacity
 Hard disk capacity
 Size and type of monitor 19.5" LED
-4 GB
-1 TB
 Operating system
 Period of warranty
 Price
 Windows 10
 1 Year
 Rs. 65000.00
-2 GB
 500 GB
 17 " CRT
 Ubuntu
 3 Years
 Rs. 58000.00
 For free distribution
-5
 1. Who is the manufacturer of the processor in the computer B?
 2. Which computer has a main memory with a higher capacity?
 3. Which computer has the larger screen?
@@ -181,7 +142,6 @@ Activity 1.10
 Refer Figure 1.19 in textbook to find answers to the following questions.
 a. List out technical specifications other than those mentioned.
 b. List out other non-technical specifications than the ones mentioned.
-6
 For free distribution
 Activity 1.11
 1. In order to prepare specifications for a computer you wish to purchase,
@@ -190,10 +150,7 @@ following table.
 Device
 Processor
 Hard disk
-HDD
-SSD
 Monitor
-Type
 Speed
 Price
 2.4 GHz
@@ -210,20 +167,15 @@ Price
 14000.00
 500 GB
 3000.00
-1 TB
 5000.00
 120 GB
 4000.00
 240 GB
 6000.00
-17''
-19''
-21''
 15000.00
 17000.00
 20000.00
 For free distribution
-7
 Memory
 Video
 Graphic
@@ -235,20 +187,13 @@ Sound card
 Onboard
 Separate
 512 MB
-1 GB
-4 GB
-VGA
-DIV
 2000.00
 3000.00
 6000.00
 No extra cost
 No extra cost
-HDMI
 No extra cost
-VGA
 DIV with
-VGA
 HDMI with
 VGA and DVI
 1000.00
@@ -256,7 +201,6 @@ VGA and DVI
 2000.00
 No extra cost
 800.00
-Item
 Specifications
 Price
 Processor
@@ -267,7 +211,6 @@ Video Graphic Adapter
 Sound card
 Warranty
 Total
-8
 For free distribution
 2. Fill in the table below with the lowest values.
 Peripheral unit
@@ -285,16 +228,12 @@ Warranty
 Total
 3. Compare the given technical specifications for 2 computers A and B with
 the requirements. Select the better computer for purchase.
-Item
 Processor
 Required
 specification
 Quad Core 1.6
-GHz
 Main memory capacity 4 GB
-2 TB
 Hard disk capacity
-19”
 Size of monitor
 separate
 Audio/video adapter
@@ -306,19 +245,10 @@ Computer system
 Guarantee
 Computer - A Computer - B
 Dual Core 2.8
-GHz
-2 GB
-1 TB
-21”
 onboard
 separate
-DOS
 2 Years
 Quad Core 1.8
-GHz
-4 GB
-2 TB
-19”
 separate
 onboard
 Windows 10
@@ -327,8 +257,6 @@ Windows 10
 components for the computer you have selected above. Hence calculate
 the total price of the computer.
 For free distribution
-9
-2
 Electronic Spreadsheets
 Open the spreadsheet software installed in your computer. Get to know a
 few tools on the Graphical User Interface.
@@ -338,7 +266,6 @@ Tools
 Alignment and Positioning
 Tools
 Sheets
-10
 For free distribution
 Activity 2.1
 Let us work on spreadsheet
@@ -358,14 +285,6 @@ The details about the money collected during the weekend, money collected
 by each student, the balance after deducting Rs. 50 /= at the printing cost are
 entered to a worksheet. The worksheet is shown in the following page.
 For free distribution
-11
-A
-B
-C
-D
-E
-F
-G
 1 No Name Saturday Sunday Total Prin(cid:415) ng Balance
 Rs 250.00 Rs 340.00 Rs 590.00 Rs 50.00 Rs 540.00
 Rs 450.00 Rs 423.00 Rs 873.00 Rs 50.00 Rs 823.00
@@ -383,45 +302,19 @@ Rs 230.00 Rs 324.00 Rs 554.00 Rs 50.00 Rs 504.00
 Rs 160.00 Rs 245.00 Rs 405.00 Rs 50.00 Rs 355.00
 Kanthi Rs 150.00 Rs 320.00 Rs 470.00 Rs 50.00 Rs 420.00
 Sugath
-1
 Neela
-2
 Prabath
-3
 4 Mahesh
 Shereen
-5
 Kaveesha
-6
 Lankesh
-7
 Jagath
-8
 Suresh
-9
-10
 Sagarika
 11 Menaka
 12 Gayan
-13
 Pabath
 14 Hemash
-15
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
 Let us create the spreadsheet shown above:
 Step 1 -
 On Sheet 1, type the titles as No, Name, Saturday and Sunday
@@ -436,16 +329,12 @@ Let us save the ﬁ le
 ² Type a suitable ﬁ le name as ''Collection''.
 ² Click "Save" button.
 At the end of each action, save the document.
-12
 For free distribution
 Activity 2.3
 Find total collection during the weekend from each child
 In spreadsheets, formulas are used in calculations.
 ''='' Symbol is used before any formula.
 In a formula, cell name (instead of cell contents) is used.
-²
-²
-²
 ² Symbols such as +, -, *, / on keyboard are used in calculations
 between cells.
 ² The result is displayed by clicking the 'Enter' key after each
@@ -467,7 +356,6 @@ Move the mouse pointer to the right hand side corner at the
 bottom of the square. A small cross known as 'Fill handle' will
 be displayed now.
 For free distribution
-13
 Fill handle
 Step 3 -
 Click the mouse on the ‘File Handle’. Keeping the mouse
@@ -495,7 +383,6 @@ In cell F1, type “Printing”. In cell G1, type
 “Balance”. In column F, the cell after “Printing”
 type 50. Use “Fill Handle” and cover the rest of
 the list.
-14
 For free distribution
 Step 2 -
 Click mouse on cell G2. Type the formula given below and
@@ -510,29 +397,23 @@ Let us format the worksheet
 Some formatting have been done to the above document. They are as follows;
 1. There is a border around the cells.
 ² Select cell range to add border by clicking the mouse (A1:A16).
-²
 In menu, under 'Home' ribbon, click on Boarders
 all borders.
 and select
 2. The cells are coloured to make them clearer.
 ² Use the mouse to select the cell range to add colours.
-²
 In Menu, under 'Home', Click on 'Fill color'
 colours.
 to select suitable
 3. Boldface headings.
 ² Select the headings. In Menu, under 'Home', Click on
-.
 For free distribution
-15
 4. Date and Information in the cells are aligned.
 ² To align, select cell range for alignment using the mouse.
-²
 In Menu, under 'Home', Click on the tools for
 alignment.
 5. Use the number format to show the data as currency unit.
 ² Select the cell range for number formatting using the mouse.
-²
 In Menu, under 'Home', click on the tool
 and select 'Currency'.
 ² At the end of each action, save the document.
@@ -547,135 +428,25 @@ calculations. Do the necessary formatting.
 ² File → New → Blank Workbook → Create
 A B C D E F G H I J K
 Item No
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-Item
 Pencils
-Pens
 Erases
 Books
-Bags
 Colours
 Bo(cid:425) les
 Boxes
 Toﬀ ees
 Baloon
 Stock
-80
-45
-45
-34
-67
-87
-67
-54
-78
-90
-Sold
-23
-43
-23
-43
-23
-54
-23
-64
-43
-56
 Balance Replacement 1 Total
-100
-157
-152
-150
-322
-300
-191
-200
-94
-50
-333
-300
-294
-250
-190
-200
-335
-300
-434
-400
-57
-2
-22
--9
-44
-33
-44
--10
-35
-34
 Packeted No of Packs Packets per week Grand total
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-15.7
-15.2
-32.2
-19.1
-9.4
-33.3
-29.4
-19
-33.5
-43.4
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
 109.9
 106.4
 225.4
 133.7
-65.8
 233.1
 205.8
-133
 234.5
 303.8
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-16
 For free distribution
 Formula for calculations
 Ã Balance = Stock - Sold
@@ -699,29 +470,9 @@ Inserting row/column and merge and center
 'Merge and Center'.
 This tool enables merge two or more cells and center align the entered data.
 For free distribution
-17
 Activity 2.6
 Let us create a mark sheet
-A
 B C D E F G H I J
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-1
-2
-3
-4
-5
-6
-7
 Kasun
 Seetha
 Kanthi
@@ -729,106 +480,17 @@ Gayani
 Deepal
 Naseem
 Thanuka
-8
-9
-10
 Bimalka
 Thiwanga
 Pradeepa
-12
-13
 14 Maximum Marks
 15 Minimum Marks
 16 No of Present Students
 17 No of Students in class
-18
-58.4
-292
 230 76.667
 224 74.667
-393
-318
-192
-292
-78.6
-79.5
-64
-58.4
 146 48.667
-262
-203
-65.5
 50.75
-56
-ab
-ab
-89
-78
-67
-56
-ab
-54
-56
-89
-54
-7
-10
-45
-45
-ab
-76
-77
-ab
-45
-67
-65
-45
-77
-45
-8
-10
-24
-ab
-78
-76
-67
-ab
-24
-23
-78
-24
-78
-23
-8
-10
-78
-98
-59
-76
-96
-56
-78
-56
-65
-78
-98
-56
-10
-10
-89
-87
-87
-76
-ab
-69
-89
-ab
-ab
-ab
-89
-69
-6
-10
 Tools for formatting;
 1. Boldface letters and numbers
 2. Alignment
@@ -844,17 +506,7 @@ increasing.
 To increase the space drag mouse as shown, among column and rows. If it is a
 column, drag the clicked mouse to right. If it is a row, drag the clicked mouse
 down.
-18
 For free distribution
-A
-B
-C
-1
-A
-1
-2
-3
-4
 Step 2 -
 Step 3 -
 Step 4 -
@@ -881,7 +533,6 @@ To count the cells with numbers only
 To count cells with data in a cell range, use
 = counta(ﬁ rst cell:last cell).
 For free distribution
-19
 Let us use the relevant functions in the worksheet created above.
 Open “Mark Sheet 1” that you created and saved earlier.
 ² File → Open → First term marks - 1 → Open
@@ -895,17 +546,14 @@ Use the following functions, complete the Mark sheet 1.
 Saving presaved ﬁ le in a diﬀ erent name
 ² Select 'File' → 'Save as'
 ² Select a saving location from 'Save in'.
-²
 In front of ﬁ le name, type a suitable name ''First term mark - 2''
 ² Click 'Save' button.
-20
 For free distribution
 Activity 2.8
 Sorting
 Sorting data according to total marks obtained
 Sorting data in the alphabetical order (A…..Z) / (Z ….A)
 For free distribution
-21
 Data can be sorted according to our requirements. First, the cell range needs
 selecting. Select all cells in range leaving out only the cells with the titles.
 Next, click 'Sort Filter'
@@ -915,7 +563,6 @@ Activity 2.9
 Step 1 - Open the document “Collection” created in Activity 2.2.
 Using the information in this document, select the required cell range to
 create graphs.
-22
 For free distribution
 Graph 1
 Weekend collection of each child is shown in a column graph.
@@ -931,7 +578,6 @@ Graphs are always created on the worksheet in which the relevant information
 is available. Therefore, the graphs have to be taken to “Chart Sheets”. Follow
 the steps given below for that;.
 For free distribution
-23
 Step 1 -
 Click on graph created in the worksheet.
 Step 2 -
@@ -947,7 +593,6 @@ Select 'Change colours' to add colours to the graph.
 Graph 2
 The graph bellow shows the collection of each child as a percentage in a Pie
 chart.
-24
 For free distribution
 Let us create a pie chart
 The cell range for pie chart is the cell range of names (B2:B16) and the total
@@ -972,12 +617,9 @@ Note well : Before crating graphs using information in
 First term marks 2 enter marks for absent students as
 well.
 For free distribution
-25
 Programming
 l%uf,aL ixj¾Okh
 l%uf,aL ixj¾Okh
-3
-3
 Activity 3.1
 By referring to the flowchart, indicate whether the given statements are 'true'
 or 'false'.
@@ -985,14 +627,11 @@ a) Condition 1 in the flowchart is
 executed first. (True/ False)
 Start
 Instruction 1
-b)
 Instruction 1 does not execute
 under any condition.
 (True/ False)
 Condition 1
-No
 Instruction 2
-Yes
 c) Condition 1 is executed after
 Instruction 1. (True/ False)
 Condition 2
@@ -1001,94 +640,53 @@ d) Execution of
 Instruction 3
 depends only on condition 2.
 (True/ False)
-Yes
 Instruction 4
-End
 e) For Instruction 4 to be executed, both condition 1 and condition 2 must be
 true. (True/ False)
 f) Whatever the outcomes of the conditions may be, Instruction 1 and one
 another instruction will be executed. (True/ False)
 As mentioned in the Information and Communication Technology, Grade 7
 Reading book, download the scratch software from http://www.scratch.mit.du
-26
 For free distribution
 Activity 3.2
 Consider that, a school has four houses namely Metta, Karuna, Muditha and
 Upeksha. A flowchart to assign students to their houses is given below. Houses
 are assigned based on the remainder after dividing the admission number by
-4.
 Remainder House
 Metta
 Karuna
 Muditha
 Upeksha
-0
-1
-2
-3
 Begin
 Get Admission No
 Remainder = Admission No MOD 4
-the
 remainder
 Here,
-is
 obtained by dividing the
 Admission No. by 4.
 e.g. - Admission No. = 342
-4
-85
-342
-32
-22
-20
-2
 342 MOD 4 = 2
 Student
 Muditha House.
 is assigned
-to
 Remainder = 0?
-Yes
 Show ''Metta''
-Yes
-Yes
-No
 Remainder = 1?
-No
 Remainder = 2?
-No
 Show ''Upeksha''
 Show ''Karuna''
 Show ''Muditha''
-Yes
 Any more
 students?
-No
-End
 For free distribution
-27
 Answer the following questions.
 1. A number that cannot exists as a remainder
-1) 0
-2) 2
-3) 3
-4) 4
 2. A suitable remainder for a student assigned to Upeksha House is:
-1) 3
-2) 2
-3) 1
-4) 0
 3. How many conditions are there in this flowchart?
-1) 1
-2) 2
-3) 3
-4) 4
 The Scratch program to divide all students in the school into houses is shown
 below. Connect with arrows the instructions relevant for blank spaces.
 Activity 3.3
 Develop a Scratch program to divide the students in your school into houses.
-28
 For free distribution
 Activity 3.4
 1. Develop a program with an array to enter 5 subjects learnt in Grade 9.
@@ -1104,9 +702,7 @@ b) Number of items in the array
 c) The ﬁ rst item in the array
 d) Entering items into the array.
 For free distribution
-29
 Use of Microcontrollers
-4
 Activity 4.1
 Make a list of equipment in everyday use that can collect data from sensors
 and controlled by a microcontroller.
@@ -1121,14 +717,11 @@ code the following items using block.
 When a new project is obtained, the following two blocks are displayed.
 Get ‘show string’ from 'Basic' and connect it to ‘on start’ and change it to Sri
 Lanka.
-30
 For free distribution
 Get ‘pause’ from 'Basic'. Connect it to ‘show string’ and change it to 2000.
 Get ‘show number’ from 'Basic'. Connect it to 'pause' and change it to 1.
 Get ‘show icon’ from 'Basic'. Connect it to ‘forever’ and change to the symbol
-'√ '
 For free distribution
-31
 Download the codes to the computer arranged above, install them in the
 micro:bit module and observe the objects.
 Experiment 2 - Connect to the micro:bit module and use the micro:bit Block
@@ -1140,7 +733,6 @@ Get ‘Temperature’ from the Input menu into ‘show number’.
 Get ‘on button A pressed’ from the Input menu and change at as B. Get ‘show
 number’ into it. Next, get ‘compass heading’ from the Input menu and include
 it in ‘show number’.
-32
 For free distribution
 Get ‘on button A pressed’ from the Input Menu and change it to A+B. Include
 'clear screen' into it by getting from Basic Menu.
@@ -1153,7 +745,6 @@ The Arduino board must be connected to the computer as shown. Enter
 the programs constructed using the Arduino programming language into the
 microcontroller chip of the Arduino board.
 For free distribution
-33
 Arduino Programming Language is an Open Source software and the user is
 allowed to modify the program decoding to his/her requirements.
 The cable connecting the Arduino Board to the computer has USB at
@@ -1164,7 +755,6 @@ Arduino Yuno Board
 The software known as Arduino is used for the purpose. It can be
 downloaded from the website www.arduino.cc when it is installed in the
 computer it can be seen as given below.
-34
 For free distribution
 The Arduino Yuno board can be connected to the computer using a USB
 cable and the codes constracted using the Arduino software can be uploaded
@@ -1177,11 +767,8 @@ LED bulb is connected to the GND and the 13th pin.
 USB port connecting to
 computer
 Step 2 - Connect the PIR sensor as shown in the image below;
-GND
 VCC (+5V)
-OUT
 For free distribution
-35
 In PIR is a sensor,
 ² GND pin connected to the GND port in power section.
 ² OUT pin is connected to the 9th pin of the Digital Section.
@@ -1190,17 +777,12 @@ Contract the cording given below in the Arduino software, upload and observe.
 void setup(){
 pinMode(8,INPUT);
 pinMode(13,OUTPUT);
-}
 void loop(){
 Int val=digitalRead(8);
 If(val= =1){
 digitalWrite(13,HIGH);
-}
 else{
 digitalWrite(13, LOW);
-}
-}
-36
 For free distribution
 Activity 4.6
 Connect the Arduino Board with the ultrasound wave sensor as shown below;
@@ -1214,13 +796,11 @@ section.
 Connect the Board to the computer. Do the coding shown. Upload the code to
 the Board and study the procedure.
 For free distribution
-37
 void setup(){
 Serial.begin(9600);
 pinMode(13,OUTPUT);
 pinMode(2,OUTPUT);
 pinMode(4,INPUT);
-}
 void loop(){
 long duration, distance;
 digitalWrite(2,HIGH);
@@ -1230,20 +810,13 @@ duration=pulseIn(4,HIGH);
 distance=(duration/2)/29;
 delay(10);
 if((distance<=10))
-{
-}
 digitalWrite(13,HIGH);
 else if(distance>10)
 digitalWrite(13,LOW);
-{
-}
-}
 Distance = (duration/2 )/29
 The distance between the obstacle and the sensor is shown in centimeters.
-38
 For free distribution
 Computer Networks
-5
 Activity 5.1
 Identifying the main components in the school’s network
 1. With the assistance from your teacher, inspect the computers in the
@@ -1252,7 +825,6 @@ and how they are connected.
 2. Complete the table below with information collected about the computers
 and the devices in the computer laboratory.
 Available or
-not
 Have Haven't
 Numbers
 Wired or
@@ -1271,7 +843,6 @@ Multimedia
 projectors
 Other
 For free distribution
-39
 Activity 5.2
 Given below is a block diagram of a computer network showing how the
 computer and the devices are connected.
@@ -1283,17 +854,9 @@ Router
 Printer
 Internet
 Server
-Code
 C1, C2, C3…
-S
-R
-P
-I
-SVR
-'
 Identify the hardware to match the code given. Indicate the correct code of the
 hardware in the diagram above.
-40
 For free distribution
 Activity 5.3
 Select the most suitable word from those in the box to ﬁ ll the blanks in the
@@ -1309,26 +872,21 @@ as a ................................
 ................................
 4. A beneﬁ t
 in computer networking
-is
 the facility
 to use
-the
 ................................
 5. There are two types of media to connect computers. They are:
 ................................ and ................................ connections.
 6. Wireless computers use the ................................ technology.
-7.
 ................................ enables communication among users in a network.
 8. The ................................ enables connect printers, ﬁ les and software for
 sharing purposes.
 9. Modern day computers also have built-in facilities for .............................
 10. ................................ are used to connect computers for networking.
 For free distribution
-41
 Activity 5.4
 Select from B, the most suitable expression to match each expression in A.
 Write the number of the matching expression in the blank alongside B.
-A
 1. RJ45
 2. Main objective of
 computer networking
@@ -1351,7 +909,6 @@ networking computers
 10. An interconnected
 group of people, items
 or a systems
-B
 switch
 twisted pair cable
 Ability to store
@@ -1383,7 +940,6 @@ computer devices
 ''''''''''''''''
 ''''''''''''''''
 ''''''''''''''''
-42
 For free distribution
 Activity 5.5
 Sharing ﬁ le folder
@@ -1402,36 +958,18 @@ Operating system used for this activity is Windows 10.
 ² Now, let us set the “Students Files” for sharing in the network.
 ² Follow the given procedure to change settings in the operating system.
 Step 1 - Open ‘Control Panel’. Click “Network Sharing Centre”.
-1
 For free distribution
-43
 Step 2 - Click ‘Change advanced sharing settings’.
-2
 Step 3 - Select options from those given to share ﬁ les and printer.
-3
-4
-5
 Step 4 - Select C Drive in your computer. Follow the given procedure to
 select “Students Files” in it.
-44
 For free distribution
-7
-6
-8
 Step 5 - Right click on ‘Students Files’ in C drive and click ‘Properties’.
-9
 Step 6 - Click the button ‘Share’ in ‘sharing’.
 For free distribution
-45
-10
-11
 Step 7 - From the list select ‘everyone’. Click ‘Share’.
-12
 Step 8 - Click ’Done’ in the dialogue box that appears.
-13
-46
 For free distribution
-14
 ² You have completed the process to share ﬁ les in ‘Students Files’.
 Everyone in the network is now able to share all ﬁ les in the ﬁ le folder
 “Students Files’’.
@@ -1449,20 +987,12 @@ Note well : Login has to be with an Administrator
 Account. You teacher will help you with the process.
 ² Set the printer for common use among users in the network.
 Step 1 - Go to Control Panel, select ‘Devices and Printers’ and click on it.
-1
 For free distribution
-47
 Step 2 - Select the printer connected to the network among the devices
 shown. In the menu you get, click ‘Printer Properties’.
-2
-3
 Step 3 - Click ‘Sharing’ in dialogue box you get.
-4
-48
 For free distribution
 Step 4 - Select ‘Share this printer’ in dialogue box. Press 'OK' button.
-5
-6
 This completes the process to access the printer in the network. Everyone in
 the network can now share the printer for printing.
 Activity 5.7
@@ -1476,19 +1006,13 @@ network, using the CLI in Windows 10.
 ² Let us send the message, ‘‘Hello! How are you?” to a Friend logged in as
 student 1. Follow the process given below;
 For free distribution
-49
 Step 1 - First, get the Command Line Interface on your computer. Follow
 the procedure given below to get Command Line Interface. Click
 ‘Start’ button. On ''Windows Systems'', right click it in the menu
 you get. Click ‘Run’.
-1
-2
 Step 2 - In the dialogue box received, type “cmd” in front of “Open”. Click
 'OK' button.
-3
-4
 You will receive the Command Line Interface.
-50
 For free distribution
 Type ‘msg’ command on Command line Interface. Type user name to collect
 the message. Type the message and press 'Enter'. The message will be sent
@@ -1504,16 +1028,13 @@ how are you?’
 ² The command, user name and message require spaces in between.
 Step 3 - On the Command Line, type ‘msg student 1 Hello, how are you?’
 and press 'Enter'.
-5
 For free distribution
-51
 Your message appears on Student 1’s computer screen as follows:
 Activity 5.8
 Sending a message to all users in the network system
 Let us learn how to send the message, ‘Hello, how are you?’ to all users in the
 network system.
 ² The same msg command is used in this case.
-²
 In the previous activity you used the user name of receiver student 1 after
 msg command.
 ² However in here, instead of one user, * mark for 'all' is used.
@@ -1524,10 +1045,8 @@ send diﬀ erent messages.
 Note: The activities were all with Windows 10 system. If you are
 using Windows 7 or those before it, type ‘net send’ command
 instead of ‘msg’ command.
-52
 For free distribution
 ICT and Society
-6
 Activity 6.1
 ² Work in groups.
 Ã Make lists to show the use of computers and Information
@@ -1538,12 +1057,10 @@ instances they are used and label accordingly.
 Machine Use
 Blood pressure testing machine
 ECG - Electrocardiogram machine
-CAT
 Internal examination of brain using
 Electro Magnetic Rays EEG
 Blood sugar teasing machine
 For free distribution
-53
 Look around. Find other equipment using Information Communication
 Technologies. Make lists. Compare lists with others.
 Activity 6.2
@@ -1555,21 +1072,13 @@ information using the Internet services.
 Organization
 Address
 Telephone No.
-1
-2
-3
-4
-5
 Activity 6.4
 List out e-waste that can be reused.
-54
 For free distribution
 Activity 6.5
 Write True/ False in front of each statement.
 1 All e-waste cannot be reused.
 2 E-waste pollutes our environment.
-3
-4
 We are not responsible for the damage caused to the
 environment from e-waste.
 To keep surroundings clean, e-waste can be taken dumped
@@ -1581,20 +1090,12 @@ Information
 to ﬁ nd available opportunities
 Communication Technology related careers. Complete the following Table
 using the collected information.
-for
 Career
 Organizations
 providing career
 Required
 qualiﬁ cations
-Role
-1
-2
-3
-4
-5
 For free distribution
-55
 Activity 6.7
 Find suitable expressions from “Computer related careers” lesson in the
 textbook to complete the blanks in the text below.
@@ -1607,7 +1108,5 @@ attractive advertisements. The businessman also wished to take the
 business online. For this ................................ assisted him. Since it
 was required to manage all the places in the building from the oﬃ ce
 ................................ networked the business premises.
-56
 For free distribution
 For free distribution
-57
