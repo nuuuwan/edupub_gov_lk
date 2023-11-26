@@ -1,4 +1,5 @@
 import os
+import re
 
 from pdfminer.high_level import extract_text
 from utils import File, Log
@@ -8,7 +9,20 @@ LINE = '-' * 80
 log = Log('pdf_to_txt')
 
 
-def build_txts():
+def clean_line(line):
+    line = re.sub(r'\s+', ' ', line)
+    line = line.strip()
+    return line
+
+
+def clean_text(content):
+    lines = content.split('\n')
+    lines = [clean_line(line) for line in lines]
+    lines = [line for line in lines if len(line) > 0]
+    return '\n'.join(lines)
+
+
+def build_txts(force_build=False):
     for file_only in os.listdir(os.path.join('data', 'pdf')):
         if not file_only.endswith('.pdf'):
             continue
@@ -16,13 +30,14 @@ def build_txts():
         pdf_path = os.path.join('data', 'pdf', file_only)
         txt_path = os.path.join('data', 'txt', file_only + '.txt')
 
-        if os.path.exists(txt_path):
+        if os.path.exists(txt_path) and not force_build:
             log.warn(f'{txt_path} Exists')
         else:
             content = extract_text(pdf_path)
-            n_content = len(content) / 1_000_000
-            File(txt_path).write(content)
-            log.info(f'Wrote {txt_path} ({n_content:.1f} MB)')
+            cleaned_content = clean_text(content)
+            n_content = len(cleaned_content) / 1_000_000
+            File(txt_path).write(cleaned_content)
+            log.info(f'Wrote {txt_path} ({n_content:,} MB)')
 
 
 def build_all_txt():
@@ -39,11 +54,11 @@ def build_all_txt():
     n_all_content = len(all_content) / 1_000_000
     all_text_path = os.path.join('data', 'txt', 'all.txt')
     File(all_text_path).write(all_content)
-    log.info(f'Wrote {all_text_path} ({n_all_content:.1f} MB)')
+    log.info(f'Wrote {all_text_path} ({n_all_content:,} MB)')
 
 
 def main():
-    build_txts()
+    build_txts(force_build=True)
     build_all_txt()
 
 

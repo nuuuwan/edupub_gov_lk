@@ -14,7 +14,7 @@ class WWW:
         html = response.text
         n_html = len(html) / 1_000_000
         soup = BeautifulSoup(html, "html.parser")
-        log.debug(f"GET {self.url} {params} ({n_html=}MB) complete.")
+        log.debug(f"GET {self.url} {params} ({n_html:,}MB) complete.")
 
         return soup
 
@@ -23,7 +23,7 @@ class WWW:
         html = response.text
         n_html = len(html) / 1_000_000
         soup = BeautifulSoup(html, "html.parser")
-        log.debug(f"POST {self.url} {data} ({n_html=}MB) complete.")
+        log.debug(f"POST {self.url} {data} ({n_html:,}MB) complete.")
         return soup
 
     def download_binary(self, local_path):
@@ -33,7 +33,7 @@ class WWW:
         n_content = len(content) / 1_000_000
         with open(local_path, 'wb') as fout:
             fout.write(content)
-        log.debug(f"Downloaded {self.url} to {local_path} ({n_content=}MB).")
+        log.debug(f"Downloaded {self.url} to {local_path} ({n_content:,}MB).")
 
     def exists(self):
         response = requests.head(self.url)
