@@ -72,10 +72,11 @@ class RemoteTextBook:
                 try:
                     WWW(chapter_url).download_binary(pdf_path)
                     n_downloads += 1
+                    log.info(f'Downloaded {chapter_url} to {pdf_path}')
                 except BaseException:
-                    log.error(f'Failed to download: {pdf_path}')
+                    log.error(f'Failed to download {chapter_url}')
             else:
-                log.warn(f'Already exists: {pdf_path}')
+                log.warn(f'{pdf_path} Exists')
 
         return n_downloads
 
