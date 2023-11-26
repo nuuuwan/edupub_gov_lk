@@ -106,8 +106,6 @@ class RemoteTextBook:
                 rtb_list.extend(
                     RemoteTextBook.list_from_lang_and_grade(lang, grade)
                 )
-                break
-            break
         return rtb_list
 
 
