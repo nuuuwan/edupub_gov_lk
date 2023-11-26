@@ -53,7 +53,7 @@ class RemoteTextBook:
             if not WWW(url_local_path).exists():
                 WWW(chapter_url).download_binary(local_path)
             else:
-                log.info(f'Already exists: {url_local_path}')
+                log.warn(f'Already exists: {url_local_path}')
 
     @staticmethod
     def list_from_lang_and_grade(
