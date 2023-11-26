@@ -1,4 +1,4 @@
-name: download
+name: pipeline
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '*/30 * * * *'
 
 jobs:
-  download:
+  pipeline:
 
     runs-on: ubuntu-latest
 
@@ -33,8 +33,8 @@ jobs:
     - name: Run python workflow
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/download.py
-        echo "workflows/download.py $(date)" >> workflows.txt
+        python workflows/pipeline.py
+        echo "workflows/pipeline.py $(date)" >> workflows.txt
         
 
     - name: Push to github repo
@@ -44,5 +44,5 @@ jobs:
         
         git pull origin main
         git add .
-        git commit -m "download $(date)"
+        git commit -m "pipeline $(date)"
         git push origin main

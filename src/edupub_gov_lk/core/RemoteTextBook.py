@@ -10,9 +10,6 @@ from edupub_gov_lk.core.Lang import Lang
 from utils_future import WWW
 
 URL_BASE = "http://www.edupub.gov.lk"
-URL_REMOTE_DATA_BASE = (
-    'https://raw.githubusercontent.com/nuuuwan/edupub_gov_lk/main/data'
-)
 log = Log('RemoteTextBook')
 
 
@@ -50,24 +47,13 @@ class RemoteTextBook:
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
             pdf_path = os.path.join('data', file_only)
-            remote_pdf_url = URL_REMOTE_DATA_BASE + '/' + file_only
-            if not WWW(remote_pdf_url).exists():
+
+            if not os.path.exists(pdf_path):
                 WWW(chapter_url).download_binary(pdf_path)
                 did_update = True
             else:
-                log.warn(f'Already exists: {remote_pdf_url}')
+                log.warn(f'Already exists: {pdf_path}')
 
-            text_path = os.path.join('data-txt', file_only + '.txt')
-            remote_text_url = (
-                URL_REMOTE_DATA_BASE + '-txt/' + file_only + '.txt'
-            )
-            if not WWW(remote_text_url).exists():
-                content = extract_text(pdf_path)
-                File(text_path).write(content)
-                log.debug(f'Wrote: {text_path}')
-                did_update = True
-            else:
-                log.warn(f'Already exists: {remote_text_url}')
         return did_update
 
     @staticmethod
