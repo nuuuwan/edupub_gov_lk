@@ -66,7 +66,7 @@ class RemoteTextBook:
         n_downloads = 0
         for i_chapter, chapter_url in enumerate(self.chapter_url_list):
             file_only = f'{self.short_name}-{i_chapter}.pdf'
-            pdf_path = os.path.join('data', file_only)
+            pdf_path = os.path.join('data', 'pdf', file_only)
 
             if not os.path.exists(pdf_path):
                 try:
