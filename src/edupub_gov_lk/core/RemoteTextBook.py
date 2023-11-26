@@ -69,6 +69,7 @@ class RemoteTextBook:
             else:
                 log.warn(f'Already exists: {remote_text_url}')
         return did_update
+
     @staticmethod
     def list_from_lang_and_grade(
         lang: Lang, grade: Grade
