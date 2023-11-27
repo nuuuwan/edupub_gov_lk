@@ -244,6 +244,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1570",
+    "title_raw": " English Literary Appreciation  -   New Syllabus ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/en ap g-10/English Literary texts.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1576",
     "title_raw": " English Workbook  -   New Syllabus",
