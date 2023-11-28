@@ -91,6 +91,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1334",
+    "title_raw": " Science Part I  -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/science G-11 P-I E/science G-11 P-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1335",
     "title_raw": " Science  Part  II  -   New Syllabus  ",
@@ -132,15 +141,6 @@
     "title_raw": " Civic Education  -  New Syllabus  ",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/9/civic G-9 E/civic G-9 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "1344",
-    "title_raw": " Civic Education -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/civic G-10 E/civic G-10 E.pdf"
     ]
   },
   {
@@ -231,6 +231,15 @@
     "title_raw": " English work book  -   New syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/en wb g-11/english WBg-11.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1570",
+    "title_raw": " English Literary Appreciation  -   New Syllabus ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/en ap g-10/English Literary texts.pdf"
     ]
   },
   {
