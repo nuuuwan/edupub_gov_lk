@@ -145,6 +145,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1344",
+    "title_raw": " Civic Education -   New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/civic G-10 E/civic G-10 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1345",
     "title_raw": " Geography   -     New Syllabus",
@@ -312,15 +321,6 @@
     "title_raw": " History",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/history 11 E/history G-11 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "1770",
-    "title_raw": " Catholicism",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/Catholicism 10 E/katholika G-10 E.pdf"
     ]
   },
   {
