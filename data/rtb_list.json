@@ -74,10 +74,10 @@
   {
     "lang_id": 1,
     "grade_id": 9,
-    "book_id": "1333",
-    "title_raw": " Mathematics  Part  III  - New Syllabus  ",
+    "book_id": "1331",
+    "title_raw": " Information and Communication Technology - Work book  -   New Syllabus",
     "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-III E/maths G-9 P-III E.pdf"
+      "http://www.edupub.gov.lk/Administrator/English/9/ict G-9 E WB/ICT G-9 E WB.pdf"
     ]
   },
   {
@@ -267,6 +267,15 @@
     "title_raw": " Mathematics Part I -  New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-I E/maths g-11 p-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1583",
+    "title_raw": " Mathematics Part II -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-II E/maths g-11 p-II E.pdf"
     ]
   },
   {
