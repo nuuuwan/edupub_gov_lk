@@ -226,6 +226,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1560",
+    "title_raw": " English Pupils Book  -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/en pb g-9/english pb G-9.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1561",
     "title_raw": " English work book  -   New syllabus",
