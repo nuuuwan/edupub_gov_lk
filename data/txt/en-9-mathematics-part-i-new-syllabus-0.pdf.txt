@@ -3302,10 +3302,10 @@ Observe that the above theorem is the converse of the theorem learnt earlier.
 Example 2
 In the above figure, the straight lines AB and CD are parallel (this is denoted by
 AB//CD). Moreover, BDC
-= 25o.
 = 75o and BAD
 (i) Giving reasons, determine the magnitude of ABE.
 (ii) Giving reasons, determine the magnitude of ADB.
+= 25o.
 (i) BDC
 ... ABE
 = 75o (data)
