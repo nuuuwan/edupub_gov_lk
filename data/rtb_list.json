@@ -28,15 +28,6 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "1253",
-    "title_raw": " Science Part II  -    New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/science G-10 P-II E/science G-10 P-II E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1258",
     "title_raw": " Information and Communication Technology - Reading Book  -   New Syllabus",
@@ -276,15 +267,6 @@
     "title_raw": " Mathematics Part I -  New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-I E/maths g-11 p-I E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 11,
-    "book_id": "1583",
-    "title_raw": " Mathematics Part II -  New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-II E/maths g-11 p-II E.pdf"
     ]
   },
   {
