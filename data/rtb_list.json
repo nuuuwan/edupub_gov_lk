@@ -37,6 +37,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1258",
+    "title_raw": " Information and Communication Technology - Reading Book  -   New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/ict G-9 RB E/ICT reading G-9 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1282",
     "title_raw": " Geography  -   New Syllabus",
@@ -321,15 +330,6 @@
     "title_raw": " Catholicism",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/Catholicism 10 E/katholika G-10 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 11,
-    "book_id": "1771",
-    "title_raw": " Catholicism",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/11/Catholicism 11 E/katholika G-11 E.pdf"
     ]
   },
   {
