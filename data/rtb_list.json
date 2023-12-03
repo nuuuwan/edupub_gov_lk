@@ -154,6 +154,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1345",
+    "title_raw": " Geography   -     New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/geo G-9 E/geo G-9 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1346",
     "title_raw": " Geography  -   New Syllabus",
