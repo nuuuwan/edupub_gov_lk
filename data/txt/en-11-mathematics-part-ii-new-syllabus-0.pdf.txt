@@ -3085,8 +3085,8 @@ Class intervals
 ^Number of books
 issued&
 35 - 39 40 - 44 45 - 49 50 - 54
-25 - 29
 30 - 34
+25 - 29
 Frequency
 (Number of days)
 3. The frequency distribution prepared from the data obtained by measuring the
