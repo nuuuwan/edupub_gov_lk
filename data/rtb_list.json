@@ -190,6 +190,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1370",
+    "title_raw": " Mathematics  Part  I  - New Syllabus  ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-I E/maths G-9 P- IE.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1380",
     "title_raw": " Health & Physical Education \u2013  new Syllabus    ",
@@ -303,6 +312,15 @@
     "title_raw": " History",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/history 10 E/histoy G-10 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1768",
+    "title_raw": " History",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/history 11 E/history G-11 E.pdf"
     ]
   },
   {
