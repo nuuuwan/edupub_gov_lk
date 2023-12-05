@@ -28,11 +28,38 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1253",
+    "title_raw": " Science Part II  -    New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/science G-10 P-II E/science G-10 P-II E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1258",
+    "title_raw": " Information and Communication Technology - Reading Book  -   New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/ict G-9 RB E/ICT reading G-9 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1282",
     "title_raw": " Geography  -   New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/geo G-11 E/geography G-11 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1328",
+    "title_raw": " Information Communication Technology  -    New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/ict G-10 E/ICT G-10 E.pdf"
     ]
   },
   {
@@ -69,15 +96,6 @@
     "title_raw": " Science Part I  -  New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/science G-11 P-I E/science G-11 P-I E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1335",
-    "title_raw": " Science  Part  II  -   New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/science G-9 P-II E/Science Part II English G-9.pdf"
     ]
   },
   {
