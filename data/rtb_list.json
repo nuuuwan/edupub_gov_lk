@@ -199,6 +199,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1380",
+    "title_raw": " Health & Physical Education \u2013  new Syllabus    ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/health G-11 E/Health & physical G-11- Inner_V3.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1412",
     "title_raw": " Mathematics  Part  II  - New Syllabus  ",
@@ -258,6 +267,15 @@
     "title_raw": " Mathematics Part 1  -    New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/maths g-10 p-I s/maths g-10 p-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1580",
+    "title_raw": " Mathematics Part I -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-I E/maths g-11 p-I E.pdf"
     ]
   },
   {
@@ -330,21 +348,6 @@
     "title_raw": " Catholicism",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/9/Catholicism G-9 E/catholicism G-9.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "642",
-    "title_raw": " Entrepreneurship Education  -    New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 01 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 02 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 03 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 04 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 05 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 06 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 07 - E.pdf"
     ]
   },
   {
