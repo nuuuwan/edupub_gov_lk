@@ -163,6 +163,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "1346",
+    "title_raw": " Geography  -   New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/geo G-10 E/geo G-10 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1356",
     "title_raw": " Entrepreneurial Studies -   New Syllabus",
@@ -186,15 +195,6 @@
     "title_raw": " Mathematics  Part  I  - New Syllabus  ",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-I E/maths G-9 P- IE.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 11,
-    "book_id": "1380",
-    "title_raw": " Health & Physical Education \u2013  new Syllabus    ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/11/health G-11 E/Health & physical G-11- Inner_V3.pdf"
     ]
   },
   {
@@ -258,15 +258,6 @@
     "title_raw": " Mathematics Part 1  -    New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/maths g-10 p-I s/maths g-10 p-I E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 11,
-    "book_id": "1580",
-    "title_raw": " Mathematics Part I -  New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-I E/maths g-11 p-I E.pdf"
     ]
   },
   {
