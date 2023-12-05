@@ -100,6 +100,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 9,
+    "book_id": "1335",
+    "title_raw": " Science  Part  II  -   New Syllabus  ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/science G-9 P-II E/Science Part II English G-9.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1336",
     "title_raw": " Science Part I  -    New Syllabus",
@@ -330,15 +339,6 @@
     "title_raw": " Catholicism",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/Catholicism 11 E/katholika G-11 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1774",
-    "title_raw": " Catholicism",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/Catholicism G-9 E/catholicism G-9.pdf"
     ]
   },
   {
