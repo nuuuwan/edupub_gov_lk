@@ -209,6 +209,15 @@
   {
     "lang_id": 1,
     "grade_id": 9,
+    "book_id": "1412",
+    "title_raw": " Mathematics  Part  II  - New Syllabus  ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-II S/maths G9 P-II E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 9,
     "book_id": "1414",
     "title_raw": " Science  Part  I  -   New Syllabus  ",
     "chapter_url_list": [
@@ -394,6 +403,15 @@
       "http://www.edupub.gov.lk/Administrator/English/10/Health & physical Education G 10 - E/chap 8 new.pdf",
       "http://www.edupub.gov.lk/Administrator/English/10/Health & physical Education G 10 - E/chp 9.pdf",
       "http://www.edupub.gov.lk/Administrator/English/10/Health & physical Education G 10 - E/chap - 10 new.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 10,
+    "book_id": "667",
+    "title_raw": " English Work Book -   New Syllbus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/10/English Work Book G 10 E/english WB G-10.pdf"
     ]
   },
   {
