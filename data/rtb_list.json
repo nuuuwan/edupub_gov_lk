@@ -127,6 +127,15 @@
   },
   {
     "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1341",
+    "title_raw": " Information and Communication Technology  -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/ICT G-11 E/ICT G-11 E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
     "grade_id": 9,
     "book_id": "1343",
     "title_raw": " Civic Education  -  New Syllabus  ",
