@@ -10,15 +10,6 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "1085",
-    "title_raw": " Mathematics Part II -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/maths G-10 P-II E/maths P-II G-10 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1230",
     "title_raw": " English Pupils Book  -    New syllsbus",
@@ -253,20 +244,20 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1576",
-    "title_raw": " English Workbook  -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/en wb g-9/en wb g-9.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1578",
     "title_raw": " Mathematics Part 1  -    New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/maths g-10 p-I s/maths g-10 p-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1580",
+    "title_raw": " Mathematics Part I -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/maths g-11 p-I E/maths g-11 p-I E.pdf"
     ]
   },
   {
@@ -339,21 +330,6 @@
     "title_raw": " Catholicism",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/9/Catholicism G-9 E/catholicism G-9.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "642",
-    "title_raw": " Entrepreneurship Education  -    New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 01 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 02 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 03 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 04 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 05 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 06 - E.pdf",
-      "http://www.edupub.gov.lk/Administrator/English/10/Entrepreneurial Studies G-10 E/Chapter 07 - E.pdf"
     ]
   },
   {
