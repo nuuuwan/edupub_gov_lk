@@ -83,6 +83,24 @@
   {
     "lang_id": 1,
     "grade_id": 9,
+    "book_id": "1333",
+    "title_raw": " Mathematics  Part  III  - New Syllabus  ",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-III E/maths G-9 P-III E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 11,
+    "book_id": "1334",
+    "title_raw": " Science Part I  -  New Syllabus",
+    "chapter_url_list": [
+      "http://www.edupub.gov.lk/Administrator/English/11/science G-11 P-I E/science G-11 P-I E.pdf"
+    ]
+  },
+  {
+    "lang_id": 1,
+    "grade_id": 9,
     "book_id": "1335",
     "title_raw": " Science  Part  II  -   New Syllabus  ",
     "chapter_url_list": [
