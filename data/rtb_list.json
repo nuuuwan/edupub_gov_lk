@@ -37,15 +37,6 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1258",
-    "title_raw": " Information and Communication Technology - Reading Book  -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/ict G-9 RB E/ICT reading G-9 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1282",
     "title_raw": " Geography  -   New Syllabus",
@@ -73,38 +64,11 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1331",
-    "title_raw": " Information and Communication Technology - Work book  -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/ict G-9 E WB/ICT G-9 E WB.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1333",
-    "title_raw": " Mathematics  Part  III  - New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-III E/maths G-9 P-III E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1334",
     "title_raw": " Science Part I  -  New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/science G-11 P-I E/science G-11 P-I E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1335",
-    "title_raw": " Science  Part  II  -   New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/science G-9 P-II E/Science Part II English G-9.pdf"
     ]
   },
   {
@@ -136,29 +100,11 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1343",
-    "title_raw": " Civic Education  -  New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/civic G-9 E/civic G-9 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1344",
     "title_raw": " Civic Education -   New Syllabus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/civic G-10 E/civic G-10 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1345",
-    "title_raw": " Geography   -     New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/geo G-9 E/geo G-9 E.pdf"
     ]
   },
   {
@@ -190,47 +136,11 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1370",
-    "title_raw": " Mathematics  Part  I  - New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-I E/maths G-9 P- IE.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 11,
     "book_id": "1380",
     "title_raw": " Health & Physical Education \u2013  new Syllabus    ",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/health G-11 E/Health & physical G-11- Inner_V3.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1412",
-    "title_raw": " Mathematics  Part  II  - New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/maths G-9 P-II S/maths G9 P-II E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1414",
-    "title_raw": " Science  Part  I  -   New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/science G-9 P-I E/science G-9 P-I E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1560",
-    "title_raw": " English Pupils Book  -  New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/en pb g-9/english pb G-9.pdf"
     ]
   },
   {
@@ -249,15 +159,6 @@
     "title_raw": " English Literary Appreciation  -   New Syllabus ",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/en ap g-10/English Literary texts.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1576",
-    "title_raw": " English Workbook  -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/en wb g-9/en wb g-9.pdf"
     ]
   },
   {
@@ -298,15 +199,6 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1766",
-    "title_raw": " History",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/history g9 E/history G-9 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1767",
     "title_raw": " History",
@@ -339,15 +231,6 @@
     "title_raw": " Catholicism",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/11/Catholicism 11 E/katholika G-11 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1774",
-    "title_raw": " Catholicism",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/Catholicism G-9 E/catholicism G-9.pdf"
     ]
   },
   {
@@ -412,15 +295,6 @@
     "title_raw": " English Work Book -   New Syllbus",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/10/English Work Book G 10 E/english WB G-10.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "972",
-    "title_raw": " Health and Physical Education  - New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/health G9 E/health G9 E.pdf"
     ]
   }
 ]
