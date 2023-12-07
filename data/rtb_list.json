@@ -100,15 +100,6 @@
   },
   {
     "lang_id": 1,
-    "grade_id": 9,
-    "book_id": "1335",
-    "title_raw": " Science  Part  II  -   New Syllabus  ",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/9/science G-9 P-II E/Science Part II English G-9.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
     "grade_id": 10,
     "book_id": "1336",
     "title_raw": " Science Part I  -    New Syllabus",
@@ -141,15 +132,6 @@
     "title_raw": " Civic Education  -  New Syllabus  ",
     "chapter_url_list": [
       "http://www.edupub.gov.lk/Administrator/English/9/civic G-9 E/civic G-9 E.pdf"
-    ]
-  },
-  {
-    "lang_id": 1,
-    "grade_id": 10,
-    "book_id": "1344",
-    "title_raw": " Civic Education -   New Syllabus",
-    "chapter_url_list": [
-      "http://www.edupub.gov.lk/Administrator/English/10/civic G-10 E/civic G-10 E.pdf"
     ]
   },
   {
